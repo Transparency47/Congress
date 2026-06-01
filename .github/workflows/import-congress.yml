@@ -1,0 +1,133 @@
+name: Import Congress
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Scrape mode: incremental or backfill."
+        required: false
+        default: "incremental"
+        type: choice
+        options:
+          - incremental
+          - backfill
+      congress:
+        description: "Congress number. Blank uses current Congress from the API."
+        required: false
+        default: "119"
+        type: string
+      bill_types:
+        description: "all, house, senate, or comma list such as hr,s,hres."
+        required: false
+        default: "all"
+        type: string
+      workers:
+        description: "Concurrent bill fetch workers."
+        required: false
+        default: "10"
+        type: string
+      max_pages:
+        description: "Optional page limit for testing or controlled runs."
+        required: false
+        type: string
+      max_items:
+        description: "Optional item limit for testing or controlled runs."
+        required: false
+        type: string
+      force:
+        description: "Re-fetch and overwrite known bills."
+        required: false
+        default: false
+        type: boolean
+  schedule:
+    - cron: "7,37 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: import-congress
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    env:
+      CONGRESS_API_KEYS: ${{ secrets.CONGRESS_API_KEYS }}
+      CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install -r Scraper/requirements.txt
+
+      - name: Import Congress data
+        shell: bash
+        env:
+          MODE: ${{ inputs.mode || 'incremental' }}
+          CONGRESS_NUMBER: ${{ inputs.congress || '119' }}
+          BILL_TYPES: ${{ inputs.bill_types || 'all' }}
+          WORKERS: ${{ inputs.workers || '10' }}
+          MAX_PAGES: ${{ inputs.max_pages }}
+          MAX_ITEMS: ${{ inputs.max_items }}
+          FORCE: ${{ inputs.force || false }}
+        run: |
+          set -euo pipefail
+          if [[ -z "${CONGRESS_API_KEYS:-}" && -z "${CONGRESS_API_KEY:-}" ]]; then
+            echo "Set CONGRESS_API_KEYS or CONGRESS_API_KEY in repository secrets." >&2
+            exit 1
+          fi
+
+          args=("--${MODE}" "--bill-types" "${BILL_TYPES}" "--workers" "${WORKERS}")
+          if [[ -n "${CONGRESS_NUMBER}" ]]; then
+            args+=("--congress" "${CONGRESS_NUMBER}")
+          fi
+          if [[ -n "${MAX_PAGES}" ]]; then
+            args+=("--max-pages" "${MAX_PAGES}")
+          fi
+          if [[ -n "${MAX_ITEMS}" ]]; then
+            args+=("--max-items" "${MAX_ITEMS}")
+          fi
+          if [[ "${FORCE}" == "true" ]]; then
+            args+=("--force")
+          fi
+
+          python Scraper/congress_scraper.py "${args[@]}"
+
+      - name: Generate listing
+        run: python Scraper/generate_listing.py
+
+      - name: Verify generated output
+        run: |
+          set -euo pipefail
+          test -f listing.json
+          if grep -R -nE '/Users/|Local source|sourcePath|govinfoBulkSourcePath' House Senate "Federal Register" README.md listing.json Scraper 2>/dev/null; then
+            echo "Generated output contains a forbidden local path." >&2
+            exit 1
+          fi
+          if grep -R -nE 'Unable to fetch full text|403 Client Error' House Senate 2>/dev/null; then
+            echo "Generated bill output contains a full-text fetch placeholder." >&2
+            exit 1
+          fi
+
+      - name: Commit generated changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+
+          git add House Senate "Federal Register" Scraper/state.json listing.json
+          git commit -m "Import Congress data"
+          git push

@@ -29,6 +29,7 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 SCRAPER_DIR = Path(__file__).resolve().parent
 STATE_PATH = SCRAPER_DIR / "state.json"
 LOCK_PATH = SCRAPER_DIR / ".congress_scraper.lock"
+LISTING_GENERATOR_PATH = SCRAPER_DIR / "generate_listing.py"
 REQUEST_TIMEOUT = 45
 REQUEST_DELAY_SECONDS = 0.12
 RETRY_ATTEMPTS = 6
@@ -93,6 +94,14 @@ def save_state(state: dict[str, Any]) -> None:
         json.dump(state, handle, indent=2, sort_keys=True)
         handle.write("\n")
     tmp_path.replace(STATE_PATH)
+
+
+def refresh_listing() -> None:
+    if not LISTING_GENERATOR_PATH.exists():
+        return
+    import subprocess
+
+    subprocess.run([sys.executable, str(LISTING_GENERATOR_PATH)], check=True)
 
 
 class ApiKeyRing:
@@ -896,7 +905,10 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
 def main(argv: list[str]) -> int:
     args = parse_args(argv)
     with lock_or_exit():
-        return run(args)
+        result = run(args)
+        if result == 0:
+            refresh_listing()
+        return result
 
 
 if __name__ == "__main__":

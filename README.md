@@ -55,6 +55,12 @@ python3 Scraper/congress_scraper.py --backfill --max-items 10
 
 The cron example in `Scraper/crontab.example` runs the incremental scraper every 15 minutes. Cron is not installed by this repository automatically.
 
+## Automated Import
+
+The GitHub workflow at `.github/workflows/import-congress.yml` runs the scraper automatically. It runs twice an hour in incremental mode and can also be started manually with `incremental` or `backfill` mode, a Congress number, bill type filters, worker count, optional limits, and optional `force`.
+
+The workflow requires `CONGRESS_API_KEYS` or `CONGRESS_API_KEY` in repository secrets. It installs `Scraper/requirements.txt`, runs `Scraper/congress_scraper.py`, regenerates `listing.json`, checks for local path leaks and full-text fetch placeholders, and commits generated changes back to `main`.
+
 ## Repository Status
 
 This archive is intended to be append-only and read-only for consumers. New or updated legislation should be added by the scraper while preserving the original Congress.gov URLs and metadata.
