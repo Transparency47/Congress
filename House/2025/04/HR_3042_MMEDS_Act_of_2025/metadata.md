@@ -1,0 +1,377 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/3042?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/hr/3042
+- Title: MMEDS Act of 2025
+- Congress: 119
+- Bill type: HR
+- Bill number: 3042
+- Origin chamber: House
+- Introduced date: 2025-04-28
+- Update date: 2025-06-25T08:05:59Z
+- Update date including text: 2025-06-25T08:05:59Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2025-04-28: Introduced in House
+- 2025-04-28 - IntroReferral: Introduced in House
+- 2025-04-28 - IntroReferral: Introduced in House
+- 2025-04-28 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-04-28 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-04-28: Introduced in House
+
+## Actions
+
+- 2025-04-28 - IntroReferral: Introduced in House
+- 2025-04-28 - IntroReferral: Introduced in House
+- 2025-04-28 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-04-28 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-04-28",
+    "latestAction": {
+      "actionDate": "2025-04-28",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/hr/3042",
+    "number": "3042",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000317",
+        "district": "11",
+        "firstName": "Nicole",
+        "fullName": "Rep. Malliotakis, Nicole [R-NY-11]",
+        "lastName": "Malliotakis",
+        "party": "R",
+        "state": "NY"
+      }
+    ],
+    "title": "MMEDS Act of 2025",
+    "type": "HR",
+    "updateDate": "2025-06-25T08:05:59Z",
+    "updateDateIncludingText": "2025-06-25T08:05:59Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-04-28",
+      "committees": {
+        "item": {
+          "name": "Energy and Commerce Committee",
+          "systemCode": "hsif00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-04-28",
+      "committees": {
+        "item": {
+          "name": "Ways and Means Committee",
+          "systemCode": "hswm00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-04-28",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-04-28",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-04-28T16:03:30Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-04-28T16:03:25Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "T000486",
+      "district": "15",
+      "firstName": "Ritchie",
+      "fullName": "Rep. Torres, Ritchie [D-NY-15]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Torres",
+      "party": "D",
+      "sponsorshipDate": "2025-04-28",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "S000168",
+      "district": "27",
+      "firstName": "Maria",
+      "fullName": "Rep. Salazar, Maria Elvira [R-FL-27]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Salazar",
+      "middleName": "Elvira",
+      "party": "R",
+      "sponsorshipDate": "2025-04-28",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "S001200",
+      "district": "9",
+      "firstName": "Darren",
+      "fullName": "Rep. Soto, Darren [D-FL-9]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Soto",
+      "party": "D",
+      "sponsorshipDate": "2025-04-28",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "H001100",
+      "district": "3",
+      "firstName": "Jeff",
+      "fullName": "Rep. Hurd, Jeff [R-CO-3]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Hurd",
+      "party": "R",
+      "sponsorshipDate": "2025-04-28",
+      "state": "CO"
+    },
+    {
+      "bioguideId": "G000593",
+      "district": "28",
+      "firstName": "Carlos",
+      "fullName": "Rep. Gimenez, Carlos A. [R-FL-28]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Gimenez",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-05",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "Q000023",
+      "district": "5",
+      "firstName": "Mike",
+      "fullName": "Rep. Quigley, Mike [D-IL-5]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Quigley",
+      "party": "D",
+      "sponsorshipDate": "2025-05-08",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "H001103",
+      "district": "0",
+      "firstName": "Pablo",
+      "fullName": "Rescom. Hern\u00e1ndez, Pablo Jose [D-PR-At Large]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Hern\u00e1ndez",
+      "middleName": "Jose",
+      "party": "D",
+      "sponsorshipDate": "2025-05-08",
+      "state": "PR"
+    },
+    {
+      "bioguideId": "B001260",
+      "district": "16",
+      "firstName": "Vern",
+      "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Buchanan",
+      "party": "R",
+      "sponsorshipDate": "2025-05-15",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": "24",
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2025-06-03",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "G000589",
+      "district": "5",
+      "firstName": "Lance",
+      "fullName": "Rep. Gooden, Lance [R-TX-5]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Gooden",
+      "party": "R",
+      "sponsorshipDate": "2025-06-24",
+      "state": "TX"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3042ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 3042\nIN THE HOUSE OF REPRESENTATIVES\nApril 28, 2025 Ms. Malliotakis (for herself, Mr. Torres of New York , Ms. Salazar , Mr. Soto , and Mr. Hurd of Colorado ) introduced the following bill; which was referred to the Committee on Ways and Means , and in addition to the Committee on Energy and Commerce , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned\nA BILL\nTo rescue domestic medical manufacturing activity by providing incentives in economically distressed areas of the United States and its possessions.\n#### 1. Short title\nThis Act may be cited as the Medical Manufacturing, Economic Development, and Sustainability Act of 2025 or the MMEDS Act of 2025 .\n#### 2. Economically distressed zones\n##### (a) In general\nChapter 1 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subchapter:\nAA Medical Manufacturing in Economically Distressed Zones Subchapter AA\u2014Medical Manufacturing in Economically Distressed Zones Sec. 1400AA\u20131. Medical manufacturing in economically distressed zone credit. Sec. 1400AA\u20132. Credit for economically distressed zone products and services acquired by domestic medical manufacturers. Sec. 1400AA\u20133. Special rules to secure the national supply chain and for the production of population health products. Sec. 1400AA\u20134. Designation of economically distressed zones. 1400AA\u20131. Medical manufacturing in economically distressed zone credit (a) Allowance of credit There shall be allowed as a credit against the tax imposed by subtitle A for the taxable year an amount equal 40 percent of the sum of\u2014 (1) the aggregate amount of the taxpayer\u2019s medical manufacturing economically distressed zone wages for such taxable year, (2) the allocable employee fringe benefit expenses of the taxpayer for such taxable year, and (3) the depreciation and amortization allowances of the taxpayer for the taxable year with respect to qualified medical manufacturing facility property. (b) Denial of double benefit Any wages or other expenses taken into account in determining the credit under this section may not be taken into account in determining the credit under sections 41, and any other provision determined by the Secretary to be substantially similar. (c) Definitions and special rules For purposes of this section\u2014 (1) Economically distressed zone wages (A) In general The term economically distressed zone wages means amounts paid or incurred for wages of an employee by the taxpayer for the taxable year which are\u2014 (i) in connection with the active conduct of a trade or business of the taxpayer, and (ii) paid or incurred for an employee the principal place of employment of whom is in a qualified medical manufacturing facility of such taxpayer. (B) Limitation on amount of wages taken into account (i) In general The amount of wages which may be taken into account under subparagraph (A) with respect to any employee for any taxable year shall not exceed the contribution and benefit base determined under section 230 of the Social Security Act for the calendar year in which such taxable year begins. (ii) Treatment of part-time employees, etc If\u2014 (I) any employee is not employed by the taxpayer on a substantially full-time basis at all times during the taxable year, or (II) the principal place of employment of any employee is not within an economically distressed zone at all times during the taxable year, the limitation applicable under clause (i) with respect to such employee shall be the appropriate portion (as determined by the Secretary) of the limitation which would otherwise be in effect under clause (i). (C) Treatment of certain employees The term economically distressed zone wages shall not include any wages paid to employees who are assigned by the employer to perform services for another person, unless the principal trade or business of the employer is to make employees available for temporary periods to other persons in return for compensation. (D) Wages For purposes of this paragraph, the term wages shall not include any amounts which are allocable employee fringe benefit expenses. (2) Allocable employee fringe benefit expenses (A) In general The term allocable employee fringe benefit expenses means the aggregate amount allowable as a deduction under this chapter to the taxpayer for the taxable year for the following amounts which are allocable to employment in a qualified medical manufacturing facility and which are not included as economically distressed zone wages pursuant to this subsection: (i) Employer contributions under a stock bonus, pension, profit-sharing, or annuity plan. (ii) Employer-provided coverage under any accident or health plan for employees. (iii) The cost of life or disability insurance provided to employees. (B) Allocation For purposes of subparagraph (A), an amount shall be treated as allocable to a qualified medical manufacturing facility only if such amount is with respect to employment of an individual for services provided, and the principal place of employment of whom is, in such facility. (3) Qualified medical manufacturing facility The term qualified medical manufacturing facility means any facility that\u2014 (A) researches and develops or produces medical products or essential components of medical products, and (B) is located within an economically distressed zone. (4) Qualified medical manufacturing facility property The term qualified medical manufacturing facility property means any property used in (or consisting of) a qualified medical manufacturing facility if such property is directly connected to the research, development, or production of a medical product. (5) Medical product; essential component (A) Medical product The term medical product means\u2014 (i) a drug that\u2014 (I) is a prescription drug subject to regulation under section 505 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 355 ) or section 351 of the Public Health Service Act ( 42 U.S.C. 262 ), (II) is subject to regulation under section 802 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 382 ), or (III) is described in section 201(jj) of such Act ( 21 U.S.C. 321(jj) ), or (ii) a device, as defined in section 201(h) of such Act ( 21 U.S.C. 321(h) ). (B) Essential component The term essential component means, with respect to a medical product\u2014 (i) an active pharmaceutical ingredient, or (ii) a protein, antibody, enzyme, hormone, or other organic material that is an active ingredient in a biological product. (6) Aggregation rules (A) In general For purposes of this section, members of an affiliated group shall be treated as a single taxpayer. (B) Affiliated group The term affiliated group means an affiliated group (as defined in section 1504(a), determined without regard to section 1504(b)(3)) one or more members of which are engaged in the active conduct of a trade or business within an economically distressed zone. 1400AA\u20132. Credit for economically distressed zone products and services acquired by domestic medical manufacturers (a) Allowance of credit In the case of an eligible medical manufacturer, there shall be allowed as a credit against the tax imposed by subtitle A for the taxable year an amount equal to the applicable percentage of the aggregate amounts paid or incurred by the taxpayer during such taxable year for qualified economically distressed zone products or services. (b) Applicable percentage For purposes of this section, the term applicable percentage means\u2014 (1) 30 percent in the case of amounts paid or incurred to persons not described in paragraph (2), and (2) 5 percent in the case of amounts paid or incurred to a related person. (c) Eligible medical manufacturer For purposes of this section, the term eligible medical manufacturer means any person in the trade or business of producing medical products in the United States. (d) Qualified product or service For purposes of this section, the term qualified product or service means\u2014 (1) any product which is produced in an economically distressed zone and which is integrated into a medical product produced by the taxpayer, and (2) any service which is provided in an economically distressed zone and which is necessary to the production of a medical product by the taxpayer (including packaging). (e) Related persons For purposes of this section, persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed under section 52(b). (f) Other terms Terms used in this section which are also used in section 1400AA\u20131 shall have the same meaning as when used in such section. 1400AA\u20133. Special rules to secure the national supply chain and for the production of population health products (a) In general In the case of a qualified repatriated medical manufacturing facility or a qualified population health product manufacturing facility\u2014 (1) section 1400AA\u20131(a) shall be applied by substituting 60 percent for 40 percent , and (2) section 1400AA\u20132(a) shall be applied\u2014 (A) by substituting 50 percent for 30 percent , and (B) by substituting 60 percent for 40 percent . (b) Election To expense in lieu of tax credit for depreciation In the case of a taxpayer which elects (at such time and in such manner as the Secretary may provide) the application of this subsection with respect to any qualified repatriated medical manufacturing facility or qualified population health product manufacturing facility\u2014 (1) section 1400AA\u20131(a)(3) shall not apply with respect to any qualified medical manufacturing facility property with respect to such facility, and (2) for purposes of section 168(k)\u2014 (A) such property shall be treated as qualified property, and (B) the applicable percentage with respect to such property shall be 100 percent. (c) Qualified repatriated medical manufacturing facility For purposes of this section, the term qualified repatriated medical manufacturing facility means any qualified medical manufacturing facility (as defined in section 1400AA\u20131) the production of which was moved to an economically distressed zone from a foreign country that the United States Trade Representative has determined could pose a risk to the national supply chain because of political or social factors. (d) Qualified population health product manufacturing facility For purposes of this section, the term qualified population health product manufacturing facility means any qualified medical manufacturing facility (as defined in section 1400AA\u20131) that produces a population health product (as defined in section 319L(a)(11) of the Public Health Service Act) which the Secretary of Health and Human Services has identified for support through a strategic initiative under section 319L(c)(4)(F)(ii) of the Public Health Service Act. 1400AA\u20134. Designation of economically distressed zones (a) In general For purposes of this subchapter, the term economically distressed zone means any population census tract within the United States which\u2014 (1) has a poverty rate of not less than 30 percent for each of the 5 most recent calendar years for which information is available, or (2) satisfies each of the following requirements: (A) has pervasive poverty, unemployment, low labor force participation, and general distress measured as a prolonged period of economic decline measured by real gross national product, (B) has a poverty rate of not less than 25 percent for each of the 5 most recent calendar years for which information is available, and (C) has been designated as such by the Secretary and the Secretary of Commerce pursuant to an application under subsection (b). (b) Application for designation (1) In general An application for designation as an economically distressed zone may be filed by a State or local government in which the population census tract to which the application applies is located. (2) Requirements Such application shall include a strategic plan for accomplishing the purposes of this subchapter, which\u2014 (A) describes the coordinated economic, human, community, and physical development plan and related activities proposed for the nominated area, (B) describes the process by which the affected community is a full partner in the process of developing and implementing the plan and the extent to which local institutions and organizations have contributed to the planning process, (C) identifies the amount of State, local, and private resources that will be available in the nominated area and the private/public partnerships to be used, which may include participation by, and cooperation with, universities, medical centers, and other private and public entities, (D) identifies the funding requested under any Federal program in support of the proposed economic, human, community, and physical development and related activities, (E) identifies baselines, methods, and benchmarks for measuring the success of carrying out the strategic plan, including the extent to which poor persons and families will be empowered to become economically self-sufficient, and (F) does not include any action to assist any establishment in relocating from one area outside the nominated area to the nominated area, except that assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary is permitted if\u2014 (i) the establishment of the new branch, affiliate, or subsidiary will not result in a decrease in employment in the area of original location or in any other area where the existing business entity conducts business operations, (ii) there is no reason to believe that the new branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where the existing business entity conducts business operation, and (iii) includes such other information as may be required by the Secretary and the Secretary of Commerce. (c) Period for which designations are in effect Designation as an economically distressed zone may be made at any time during the 10-year period beginning on the date of the enactment of this section, and shall remain in effect with respect to such zone during the 15-year period beginning on the date of such designation. Economically distressed zones described in subsection (a)(1) shall take effect on the date of the enactment of this Act and shall remain in effect during the 15-year period beginning on such date. (d) Territories and possessions The term United States includes the 50 States, the District of Columbia, and the territories and possessions of the United States. (e) Regulations The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including\u2014 (1) not later than 30 days after the date of the enactment of this section, a list of the population census tracts described in subsection (a)(1), and (2) not later than 60 days after the date of the enactment of this section, regulations or other guidance regarding the designation of population census tracts described in subsection (a)(2). .\n##### (b) Effective date\nThe amendments made by this section shall apply to taxable years beginning after December 31, 2024.\n#### 3. Authority to support development of population health products\n##### (a) Definitions\n**(1) Qualified countermeasure**\nSubparagraph (A) of section 319F\u20131(a)(2) of the Public Health Service Act (42 U.S.C. 247d\u20136a(a)(2)) is amended to read as follows:\n(A) Qualified countermeasure The term qualified countermeasure means a drug (as that term is defined by section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 321(g)(1) )), biological product (as that term is defined by section 351(i) of this Act ( 42 U.S.C. 262(i) )), or device (as that term is defined by section 201(h) of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 321(h) )), that the Secretary determines to be a priority consistent with sections 302(2) and 304(a) of the Homeland Security Act of 2002\u2014 (i) to diagnose, mitigate, prevent, or treat harm from any biological agent (including organisms that cause an infectious disease), toxin, chemical, radiological, or nuclear agent that may cause a public health emergency affecting national security; or (ii) to diagnose, mitigate, prevent, or treat harm from an underlying non-communicable disease which, combined with pandemic influenza or an emerging infectious disease, may result in adverse health consequences or serious threat to one or more vulnerable American populations (as defined in section 319L(a)) in an epidemic or pandemic. .\n**(2) Other definitions**\nSubsection (a) of section 319L of the Public Health Service Act ( 42 U.S.C. 247d\u20137e ) is amended by adding at the end the following new paragraphs:\n(11) Population health product The term population health product means a widely available drug to diagnose, mitigate, prevent, or treat harm from an underlying non-communicable disease which, combined with pandemic influenza or an emerging infectious disease, may result in adverse health consequences or a serious threat to one or more vulnerable American populations in an epidemic or pandemic. (12) Vulnerable American populations The term vulnerable American populations means children, pregnant women, older adults, minority populations, and other at-risk individuals with relevant characteristics that warrant consideration during the process of researching and developing such countermeasures and products. .\n##### (b) Strategic initiatives\nClause (ii) of section 319L(c)(4)(F) of the Public Health Service Act (42 U.S.C. 247d\u20137e(c)(4)(F)) is amended to read as follows:\n(ii) threats that consistently exist or continually circulate and have a significant potential to become a pandemic, such as pandemic influenza and emerging infectious diseases in combination with underlying non-communicable diseases, which may include the advanced research and development, manufacturing, and appropriate stockpiling of qualified pandemic or epidemic products, and products, technologies, or processes to support the advanced research and development of such countermeasures (including multiuse platform technologies for diagnostics, vaccines, and therapeutics; virus seeds; clinical trial lots; novel virus strains; and antigen and adjuvant material); and .\n##### (c) At-Risk individuals\nParagraph (6) of section 319L(c) of the Public Health Service Act (42 U.S.C. 247d\u20137e(c)) is amended to read as follows:\n(6) At-risk individuals In carrying out the functions under this section, the Secretary may give a priority to advanced research and development of\u2014 (A) qualified countermeasures and qualified pandemic or epidemic products likely to be safe and effective with respect to vulnerable American populations; and (B) population health products likely to protect vulnerable American populations with underlying non-communicable diseases from disproportionate harm in epidemics and pandemics. .\n##### (d) Other authorities\nSection 319L(c) of the Public Health Service Act (42 U.S.C. 247d\u20137e(c)) is amended by adding at the end the following:\n(8) Timely delivery of population health products to at-risk individuals The Secretary shall collaborate with the Administrator of the Centers for Medicare & Medicaid Services, the Secretary of Defense, the Secretary of Veterans Affairs, the Commissioner of Food and Drugs, and the heads of other Federal agencies involved with approval and distribution of health products to assure that such Federal agencies distribute approved population health products as promptly and effectively as possible, and as continuously as possible, to protect vulnerable American populations from harm in epidemics and pandemics. (9) Report on need for incentivizing development of population health products Not later than 90 days after the date of enactment of the Medical Manufacturing, Economic Development, and Sustainability Act of 2025 , the Secretary shall examine and report to the Congress on\u2014 (A) the extent to which the health of aging Americans, African Americans, Hispanics, Native Americans, veterans, or other vulnerable American populations has been disproportionately harmed by the COVID\u201319 pandemic and prior epidemics and pandemics; (B) the population health products currently available and whether there is a need for additional innovation and development to produce population health products to reduce the exposure of vulnerable American populations to risk of disproportionate harm in epidemics and pandemics; and (C) whether the Secretary recommends providing the same incentives for the development and marketing of population health products as is given with respect to covered infectious disease products under the Federal Food, Drug, and Cosmetic Act, including under section 505E of such Act. .",
+      "versionDate": "2025-04-28",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Taxation",
+        "updateDate": "2025-05-28T19:36:04Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-04-28",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3042ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "MMEDS Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-05-09T03:38:19Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "MMEDS Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-05-09T03:38:18Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Medical Manufacturing, Economic Development, and Sustainability Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-05-09T03:38:18Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To rescue domestic medical manufacturing activity by providing incentives in economically distressed areas of the United States and its possessions.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-05-09T03:33:25Z"
+    }
+  ]
+}
+```

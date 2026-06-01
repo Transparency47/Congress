@@ -1,0 +1,54 @@
+# HR 3524: Protect Patriot Spouses Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-05-20
+- Latest action: 2025-05-20 - Introduced in House
+- Policy area: Immigration
+- Sponsor: Rep. Soto, Darren [D-FL-9]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/3524
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-05-20
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3524ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-05-20
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3524ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3524
+IN THE HOUSE OF REPRESENTATIVES
+May 20, 2025 Mr. Soto (for himself, Mr. Carbajal , and Ms. Salazar ) introduced the following bill; which was referred to the Committee on the Judiciary
+A BILL
+To render certain military spouses eligible for adjustment of status, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Protect Patriot Spouses Act .
+#### 2. Adjustment of status for certain military spouses
+Section 245 of the Immigration and Nationality Act ( 8 U.S.C. 1255 ) is amended by adding at the end the following:
+(o) (1) In applying this section to an alien described in paragraph (2)— (A) such alien shall be deemed, for purposes of subsection (a), to have been inspected and admitted into the United States; and (B) in determining the alien’s admissibility as an immigrant— (i) paragraphs (6)(A), (7)(A), and (9)(B) of section 212(a) shall not apply; and (ii) the Secretary of Homeland Security, in the discretion of the Secretary, may waive the application of paragraphs (6)(C), (9)(A), and (9)(C) of section 212(a) if the alien establishes to the satisfaction of the Secretary that the alien does not pose a threat to the public and has not committed any criminal offenses in violation of Federal or State law unrelated to the alien’s status. (2) An alien is described in this paragraph if the alien— (A) is or was the spouse of a United States citizen who— (i) is or was serving on active duty in the United States Armed Forces or in a reserve component of the United States Armed Forces; and (ii) if discharged or released from service in the Armed Forces, was discharged or released under honorable conditions; and (B) is the beneficiary of a petition for classification under section 204(a)(1)(A) as an immediate relative (as defined in section 201(b)) by reason of the marriage to such citizen. .
+#### 3. Treatment of certain grounds for inadmissibility for certain military spouses
+Section 212 of the Immigration and Nationality Act ( 8 U.S.C. 1182 ) is amended by inserting after subsection (b) the following:
+(c) (1) In determining the admissibility as an immigrant of an alien described in paragraph (2)— (A) subsection (a)(9)(B) shall not apply; and (B) the Secretary of Homeland Security, in the discretion of the Secretary, may waive the application of paragraphs (6)(C), (9)(A), and (9)(C) of subsection (a) if the alien establishes to the satisfaction of the Secretary that the alien does not pose a threat to the public and has not committed any criminal offenses in violation of Federal or State law unrelated to the alien’s status. (2) An alien is described in this paragraph if the alien— (A) is or was the spouse of a United States citizen who— (i) is or was serving on active duty in the United States Armed Forces or in a reserve component of the United States Armed Forces; and (ii) if discharged or released from service in the Armed Forces, was discharged or released under honorable conditions; and (B) is the beneficiary of a petition for classification under section 204(a)(1)(A) as an immediate relative (as defined in section 201(b)) by reason of the marriage to such citizen. .
+#### 4. Eligibility of removed or voluntarily departed aliens
+##### (a) In general
+The Secretary of Homeland Security and the Secretary of State shall take such steps as may be necessary to ensure that eligible aliens who were removed or permitted to depart voluntarily from the United States before the date of the enactment of this Act may apply from abroad for an immigrant visa pursuant to the amendment made by section 3.
+##### (b) Nonimmigrant admission pending adjudication
+The Secretary of Homeland Security and the Secretary of State shall establish a program under which an eligible alien with a pending application made under subsection (a) may be authorized to enter the United States as a nonimmigrant to reunite with their United States citizen spouse during the period in which such application, and an associated application for adjustment of status, remain pending. In determining whether an alien is eligible to be admitted to the United States as a nonimmigrant under this subsection, the Secretary of Homeland Security and the Secretary of State shall require the alien to establish to the satisfaction of each Secretary that the alien does not pose a threat to the public or to national security. In determining the admissibility as a nonimmigrant of an alien described in this subsection, the Secretary of Homeland Security, in the discretion of the Secretary, may waive the application of paragraphs (6)(C) and (9) of section 212(a) of the Immigration and Nationality Act ( 8 U.S.C. 1182(a) ).
+
+
+## Timeline
+
+- 2025-05-20: Introduced in House
+- 2025-05-20 - IntroReferral: Introduced in House
+- 2025-05-20 - IntroReferral: Introduced in House
+- 2025-05-20 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2025-05-20: Introduced in House

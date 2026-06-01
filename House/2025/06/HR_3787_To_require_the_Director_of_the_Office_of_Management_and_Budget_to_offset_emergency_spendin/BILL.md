@@ -1,0 +1,96 @@
+# HR 3787: Emergency Spending Accountability Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-06-05
+- Latest action: 2025-06-05 - Introduced in House
+- Policy area: Economics and Public Finance
+- Sponsor: Rep. Stutzman, Marlin A. [R-IN-3]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hr/3787
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-06-05
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3787ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-06-05
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3787ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3787
+IN THE HOUSE OF REPRESENTATIVES
+June 5, 2025 Mr. Stutzman (for himself, Mr. Gosar , Mr. Perry , Mr. Gooden , Mr. Shreve , Mr. Grothman , Mr. Self , and Mr. Norman ) introduced the following bill; which was referred to the Committee on the Budget , and in addition to the Committee on Rules , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To require the Director of the Office of Management and Budget to offset emergency spending, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Emergency Spending Accountability Act .
+#### 2. Sequestration to offset emergency spending
+##### (a) Sequestration
+**(1) In general**
+With respect to any direct spending or discretionary spending that is appropriated or otherwise made available during a fiscal year that is emergency spending, the Director of the Office of Management and Budget shall, on October 1 of the subsequent fiscal year and each of the 4 following fiscal years, issue a sequestration order that reduces total budgetary resources such that outlay savings equal one-fifth of the total amount of such emergency spending.
+**(2) Notification**
+The Director shall submit written notice to Congress on the date of any sequestration order under paragraph (1). Such notice shall include a list of any account affected by such order.
+**(3) Discretionary and direct spending application**
+If emergency spending made available during a fiscal year is discretionary spending, any sequestration under subsection (a) with respect to such emergency spending may only be made with respect to discretionary accounts. If emergency spending made available during a fiscal year is direct spending, any sequestration required under subsection (a) with respect to such emergency spending may only be made to direct spending accounts.
+##### (b) Application
+With respect to any sequestration under subsection (a)—
+**(1)**
+except as provided in subsection (c), and notwithstanding any other provision of law, no account is exempted from reduction;
+**(2)**
+such reduction shall be at a uniform rate across all programs and activities that are subject to sequestration; and
+**(3)**
+the total amount of the sequestration shall be reduced by the amount of any offsetting reduction in discretionary spending or direct spending (as the case may be) in the measure enacted into law that provided the applicable emergency spending.
+##### (c) Exempt programs
+The following programs and accounts shall be exempt from sequestration under this section:
+**(1)**
+Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act ( 42 U.S.C. 401 et seq. ), and benefits payable under sections 3 and 4 of the Railroad Retirement Act of 1937 ( 45 U.S.C. 231 et seq. ).
+**(2)**
+Any account within budget function 050 (National Defense).
+**(3)**
+All programs administered by the Department of Veterans Affairs.
+**(4)**
+The Medicare program under title XVIII of the Social Security Act.
+##### (d) Requirement for measures containing emergency spending
+**(1) Reported measures**
+With respect to any bill or joint resolution favorably reported by any standing committee of Congress that includes emergency spending, the report accompanying such measure shall include a detailed justification of why each instance of such spending is necessary.
+**(2) Other measures**
+Any measure considered by the House of Representatives not described in paragraph (1) that includes emergency spending shall include such a detailed explanation, to be published in the Congressional Record prior to consideration.
+**(3) Requirements**
+Any justification under paragraph (1) or (2) shall include reasons why such spending meets the definitions of the terms emergency and unanticipated (as those terms are defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985).
+##### (e) Definitions
+In this Act—
+**(1)**
+the terms budget authority and outlays have the meaning given those terms in section 3 of the Congressional Budget and Impoundment Control Act of 1974;
+**(2)**
+the terms budgetary resources , discretionary spending , direct spending , and sequestration have the meaning given those terms in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985; and
+**(3)**
+the term emergency spending means any budget authority—
+**(A)**
+that is designated—
+**(i)**
+under section 251(b)(2)(A), (D), or (F) of the Balanced Budget and Emergency Deficit Control Act of 1985;
+**(ii)**
+under section 4(g) of the Statutory-Pay-As-You-Go Act of 2010; or
+**(iii)**
+under a concurrent resolution on the budget as being for an emergency; and
+**(B)**
+that is otherwise exempted from counting against any Federal spending limitation, including the discretionary spending limits in section 251(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 or the PAYGO scorecards.
+
+
+## Timeline
+
+- 2025-06-05: Introduced in House
+- 2025-06-05 - IntroReferral: Introduced in House
+- 2025-06-05 - IntroReferral: Introduced in House
+- 2025-06-05 - IntroReferral: Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-06-05 - IntroReferral: Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-06-12 - IntroReferral: Sponsor introductory remarks on measure. (CR H2661)
+- Latest action: 2025-06-05: Introduced in House

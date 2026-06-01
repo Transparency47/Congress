@@ -1,0 +1,64 @@
+# HR 3848: CLOUD Aircraft Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-06-09
+- Latest action: 2025-06-09 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Mills, Cory [R-FL-7]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hr/3848
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-06-09
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3848ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-06-09
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3848ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3848
+IN THE HOUSE OF REPRESENTATIVES
+June 9, 2025 Mr. Mills (for himself, Mr. McCormick , Mr. Vindman , Mr. Lucas , and Mrs. Kiggans of Virginia ) introduced the following bill; which was referred to the Committee on Armed Services
+A BILL
+To direct the Secretary of Defense to conduct a study on the feasibility of, and cost associated with, equipping all fixed wing and rotary wing aircraft of the Department of Defense that operate in highly trafficked domestic airspaces with air-to-air and air-to-ground collision detection systems, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Collision-Limiting Operational Upgrade for DOD Aircraft Act or the CLOUD Aircraft Act .
+#### 2. Department of Defense study on feasibility of equipping all military fixed wing and rotary wing aircraft with air-to-air and air-to-ground collision detection systems
+##### (a) Feasibility study required
+The Secretary of Defense, in coordination with the Administrator of the Federal Aviation Administration, shall conduct a study on the feasibility of, and cost associated with, equipping all fixed wing and rotary wing aircraft of the Department of Defense that operate in highly trafficked domestic airspaces with air-to-air collision detection systems.
+##### (b) Report
+Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a report on the results of the feasibility study required under subsection (a). Such report shall include the recommendations of the Secretary with respect to such results and a timeline for carrying out any such recommendations.
+##### (c) Definitions
+In this section:
+**(1)**
+The term air-to-air collision detection system —
+**(A)**
+means an airborne system designed to detect and warn pilots of potential mid-air collisions with other aircraft equipped with transponders, allowing them to take evasive maneuvers to avoid a crash; and
+**(B)**
+is compatible with the system used by commercial aircraft that is commonly referred to as a traffic alert and collision avoidance system of a TCAS .
+**(2)**
+The term air-to-ground collision detection system means a system that uses radar, digital terrain maps, and other sensors to warn pilots of potential collisions, and if a collision is likely, to notify the pilot through a series of alarms or to automatically take control of the aircraft to avoid the collision.
+**(3)**
+The term appropriate committees of Congress means the Committee on Armed Services and the Committee on Transportation and Infrastructure of the House of Representatives.
+**(4)**
+The term commercial service airport has the meaning given the term in section 47102 of title 49, United States Code.
+**(5)**
+The term operate in highly trafficked domestic airspaces means, with respect to aircraft of the Department of Defense, that such aircraft are stationed on or near, and operate regular flight patterns within the surrounding class B, C, or D airspace of a commercial service airport.
+
+
+## Timeline
+
+- 2025-06-09: Introduced in House
+- 2025-06-09 - IntroReferral: Introduced in House
+- 2025-06-09 - IntroReferral: Introduced in House
+- 2025-06-09 - IntroReferral: Referred to the House Committee on Armed Services.
+- Latest action: 2025-06-09: Introduced in House

@@ -1,0 +1,412 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/6646?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/6646
+- Title: Empowering App-Based Workers Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 6646
+- Origin chamber: House
+- Introduced date: 2025-12-11
+- Update date: 2026-05-30T08:06:06Z
+- Update date including text: 2026-05-30T08:06:06Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-12-11: Introduced in House
+- 2025-12-11 - IntroReferral: Introduced in House
+- 2025-12-11 - IntroReferral: Introduced in House
+- 2025-12-11 - IntroReferral: Referred to the House Committee on Education and Workforce.
+- Latest action: 2025-12-11: Introduced in House
+
+## Actions
+
+- 2025-12-11 - IntroReferral: Introduced in House
+- 2025-12-11 - IntroReferral: Introduced in House
+- 2025-12-11 - IntroReferral: Referred to the House Committee on Education and Workforce.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-12-11",
+    "latestAction": {
+      "actionDate": "2025-12-11",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6646",
+    "number": "6646",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "J000298",
+        "district": "7",
+        "firstName": "Pramila",
+        "fullName": "Rep. Jayapal, Pramila [D-WA-7]",
+        "lastName": "Jayapal",
+        "party": "D",
+        "state": "WA"
+      }
+    ],
+    "title": "Empowering App-Based Workers Act",
+    "type": "HR",
+    "updateDate": "2026-05-30T08:06:06Z",
+    "updateDateIncludingText": "2026-05-30T08:06:06Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-12-11",
+      "committees": {
+        "item": {
+          "name": "Education and Workforce Committee",
+          "systemCode": "hsed00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-12-11",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-12-11",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-12-11T16:01:05Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "N000188",
+      "district": "1",
+      "firstName": "Donald",
+      "fullName": "Rep. Norcross, Donald [D-NJ-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Norcross",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "NJ"
+    },
+    {
+      "bioguideId": "O000173",
+      "district": "5",
+      "firstName": "Ilhan",
+      "fullName": "Rep. Omar, Ilhan [D-MN-5]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Omar",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "MN"
+    },
+    {
+      "bioguideId": "L000602",
+      "district": "12",
+      "firstName": "Summer",
+      "fullName": "Rep. Lee, Summer L. [D-PA-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Lee",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "M001229",
+      "district": "10",
+      "firstName": "LaMonica",
+      "fullName": "Rep. McIver, LaMonica [D-NJ-10]",
+      "isOriginalCosponsor": "True",
+      "lastName": "McIver",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "NJ"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": "0",
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "DC"
+    },
+    {
+      "bioguideId": "P000607",
+      "district": "2",
+      "firstName": "Mark",
+      "fullName": "Rep. Pocan, Mark [D-WI-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Pocan",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "WI"
+    },
+    {
+      "bioguideId": "T000472",
+      "district": "39",
+      "firstName": "Mark",
+      "fullName": "Rep. Takano, Mark [D-CA-39]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Takano",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "T000481",
+      "district": "12",
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2025-12-11",
+      "state": "MI"
+    },
+    {
+      "bioguideId": "G000601",
+      "district": "12",
+      "firstName": "Craig",
+      "fullName": "Rep. Goldman, Craig A. [R-TX-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Goldman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-11",
+      "sponsorshipWithdrawnDate": "2026-01-08",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "C001080",
+      "district": "28",
+      "firstName": "Judy",
+      "fullName": "Rep. Chu, Judy [D-CA-28]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Chu",
+      "party": "D",
+      "sponsorshipDate": "2025-12-23",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "G000599",
+      "district": "10",
+      "firstName": "Daniel",
+      "fullName": "Rep. Goldman, Daniel S. [D-NY-10]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Goldman",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-01-09",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "B001278",
+      "district": "1",
+      "firstName": "Suzanne",
+      "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Bonamici",
+      "party": "D",
+      "sponsorshipDate": "2026-02-23",
+      "state": "OR"
+    },
+    {
+      "bioguideId": "A000370",
+      "district": "12",
+      "firstName": "Alma",
+      "fullName": "Rep. Adams, Alma S. [D-NC-12]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Adams",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-23",
+      "state": "NC"
+    },
+    {
+      "bioguideId": "G000606",
+      "district": "7",
+      "firstName": "Adelita",
+      "fullName": "Rep. Grijalva, Adelita S. [D-AZ-7]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Grijalva",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-29",
+      "state": "AZ"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6646ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 6646\nIN THE HOUSE OF REPRESENTATIVES\nDecember 11, 2025 Ms. Jayapal (for herself, Mr. Norcross , Ms. Omar , Mr. Goldman of Texas , Ms. Lee of Pennsylvania , Mrs. McIver , Ms. Norton , Mr. Pocan , Mr. Takano , and Ms. Tlaib ) introduced the following bill; which was referred to the Committee on Education and Workforce\nA BILL\nTo promote transparency and accountability in covered digital labor platform work, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Empowering App-Based Workers Act .\n#### 2. Findings\nCongress finds the following:\n**(1)**\nMillions of workers in the United States report to work by logging on to digital labor platforms: software applications (commonly known as apps ) that allocate and manage work.\n**(2)**\nBusinesses are using digital labor platforms in a wide and growing range of industries and occupations in the United States. While the most well-known businesses using digital labor platforms provide ride-hail and last-mile delivery services, businesses in a variety of sectors, including large- and low-paid sectors like retail, hospitality, warehousing, and food services, increasingly manage labor via digital labor platforms.\n**(3)**\nPlatformed, or app-based, workers of all ages and every race, ethnicity, gender, and immigration status can be found in every State. According to the Bureau of Labor Statistics, app-based workers are disproportionately people of color, comprising approximately 42 percent of the app-based workforce, compared to 29 percent of the overall workforce. A 2021 Pew Research poll of United States workers found that women (17 percent) were more likely than men (15 percent) to report that they had ever done app-based work. The growing workforces of businesses that use digital labor platforms to manage delivery workers are majority women. Platform work is growing in industries like retail, hospitality, warehousing, and food services, in which people of color are overrepresented.\n**(4)**\nGovernment and academic research has found that app-based workers often receive poverty wages and few to no benefits and are subject to wage theft and wage and employment discrimination. A 2024 University of California at Berkeley study of app-based ride-hail drivers in 5 metropolitan areas found that a majority of drivers earn net pay that is significantly less than the applicable minimum wage. Job quality issues may be related to the frequent misclassification of app-based workers as independent contractors who lack employment-based rights and protections. Indeed, both courts and regulatory agencies have found businesses that use digital labor platforms to have misclassified employees as independent contractors, stolen wages, and withheld benefits.\n**(5)**\nResearch also shows that some businesses that use digital labor platforms may be engaging in discriminatory pricing practices, charging variable rates for the same services based on particular characteristics of a consumer, and setting personalized wages for the same work based on characteristics of a worker.\n**(6)**\nBusinesses use digital labor platforms to determine access by an app-based worker to work assignments, the pay for the assignments, and the prices charged to customers. Such platforms often use electronic monitoring tools and automated decision-making systems or algorithms, fed by a variety of inputs, including data derived from workers and consumers.\n**(7)**\nThe use of electronic monitoring tools and automated decision-making systems is not exclusive to businesses that use digital labor platforms. Other kinds of businesses do use them but the heavy reliance by such businesses on these systems to interface with workers and consumers is unique.\n**(8)**\nBut while the electronic monitoring tools and automated decision-making systems of businesses that use digital labor platforms dictate the experience of workers and consumers on digital labor platforms, their presence, purpose, and mechanics are, too often, wholly opaque to workers, consumers, voters, and policymakers. This opacity creates profound information asymmetries between these groups and the corporations that own or operate digital labor platforms.\n**(9)**\nThe lack of information about the electronic monitoring tools and automated decision-making systems used by businesses that use digital labor platforms prevents workers, consumers, and policymakers from understanding whether and to what extent these systems are generating harms and facilitating the violation of existing laws and regulations.\n**(10)**\nUnaccountable pay algorithms can enable various forms of wage theft, such as minimum wage violations, tip-stealing, routine undercounting of worktime, and illegal fees and deductions, as well as discrimination based on protected class. Forms of employer control obscured by algorithmic management can enable independent contractor misclassification and create insurmountable roadblocks to app-based workers\u2019 ability to access minimum wage and overtime pay for all time worked, paid sick leave, unemployment insurance benefits, workers\u2019 compensation, protections from discrimination, and more.\n**(11)**\nReliance on electronic monitoring tools and automated decision-making systems that hide control and enable misclassification of employees as independent contractors also has profound implications for social welfare programs and competing businesses. Businesses that misclassify employees as independent contractors neglect to pay their share of employer contributions for programs such as unemployment insurance and social security. In total, a misclassifying business can save up to 30 percent of its payroll costs by mislabeling a worker as an independent contractor, which disadvantages responsible employers.\n**(12)**\nThe lack of transparency around pricing algorithms allows businesses that use digital labor platforms to raise prices on consumers under the guise of increasing labor and regulatory costs. Businesses that use digital labor platforms may use opaque pricing algorithms to determine the amount they charge to customers for a service, as well as the share of that fee that those businesses keep for themselves compared to the share that goes to the app-based workers who provide the service. The variable and opaque share of the consumer charge that certain digital labor platform providers keep, versus the share they pay an app-based workers (the take rate ) is concerning.\n**(13)**\nThe issue of fluctuating, opaque, and predatory take rates is especially pronounced in the ride-hail industry, a pioneer in the use of digital labor platforms. Initially, ride-hail companies paid app-based workers 90 percent of the consumer charge, decreasing it to 80 percent as they attracted more workers. Early take rates of 10 to 20 percent were styled as service fees that drivers paid to access work through the digital labor platform. Like commissions, if the ride-hail companies increased their prices, workers likewise received a raise.\n**(14)**\nRide-hail companies later abandoned their commission-based service fee, and now set consumer prices independently of app-based worker pay. Both prices and pay are largely influenced by unaccountable hidden algorithms and automated decision systems. They are also influenced by individualized consumer and worker characteristics that offend notions of equal pay for equal work and fair dealing.\n**(15)**\nApp-based workers now report ride-hail companies taking as much as 60 percent of the fare. A PowerSwitch Action analysis of Uber fares in New York City and Chicago between 2019 and 2023 found that driver pay declined even as fares charged to consumers increased because Uber\u2019s take rate also increased.\n**(16)**\nRising, unpredictable take rates and lower pay have made ride-hail work an increasingly losing proposition. Workers who provide what has become a growing and crucial transportation service are entitled to transparent, consistent, and fair pay for their work. A 25 percent cap on take rates in the ride-hail industry will limit the most exploitative algorithmic practices and help ensure the health and well-being of more than a million U.S. workers. Since expenses and the cost of living vary from market to market, the take rate cap in this Act establishes a floor, not a ceiling, and does not preempt any state or local efforts to establish take rate standards that exceed that set forth herein.\n**(17)**\nAlthough the ride-hail industry has been an early adopter of digital labor platform technologies, the public needs to understand how all businesses that use digital labor platforms utilize electronic monitoring tools and automated decision-making systems so they may understand how this unaccountable technology affects their lives. Without transparency requirements around their use of electronic monitoring tools and automated decision-making systems, businesses that use digital labor platforms can exploit information asymmetries to make false and unverifiable claims about the potential impacts of proposed and existing public policies.\n**(18)**\nPolicymakers outside the United States have taken steps to ensure that platforms operate with more transparency and accountability. Multinational corporations like Amazon, Uber, and DoorDash will soon be subject to various transparency and reporting requirements in the European Union as countries come into compliance with the European Union Platform Work Directive. The United States must not be a global laggard when it comes to platform regulation; workers, consumers, and the public will suffer for it.\n**(19)**\nTo ensure that app-based work is not an engine of poverty and racial inequality that places downward pressure on job quality across the economy, workers, consumers, policymakers, and regulators must not be left in the dark about the surveillance and labor management technologies that businesses that use digital labor platforms are using.\n**(20)**\nAll workers, businesses, and consumers in the United States, stand to benefit from the establishment of clear rules requiring transparency and accountability around the use of electronic monitoring and automated decision-making systems by businesses that use digital labor platforms to manage work.\n#### 3. Definitions\nIn this Act:\n**(1) Adverse action**\nThe term adverse action means an action taken by a covered digital labor platform provider with respect to an app-based worker that a reasonable person would find negatively impacts the app-based worker\u2019s access to or terms, conditions, or privileges of work, including fewer (by volume or frequency) or less favorable work assignments or offers, less or unfavorable hours or shifts, reduced access to bonuses, incentives, or other benefits, temporary, permanent, or indefinite suspension, deactivation or termination, restriction of access to the platform, failure to promote, failure to pay, and reductions in pay.\n**(2) Aggregated app-based worker data**\nThe term aggregated app-based worker data means data with respect to multiple app-based workers that is combined or collected together in a summary or other form that prevents the identification of any specific app-based worker.\n**(3) App-based worker**\nThe term app-based worker , with respect to a covered digital labor platform provider, means an individual who performs work or provides services for remuneration on or through the covered digital labor platform of the covered digital labor platform provider, regardless of whether the individual is compensated by the covered digital labor platform provider or another person.\n**(4) Applicant**\nThe term applicant , with respect to a covered digital labor platform, means an individual who has signed up for, applied for, activated, or created an account in order to provide services on or through the covered digital labor platform of a covered digital labor platform provider as an app-based worker but has not yet been approved for or offered work through the covered digital labor platform.\n**(5) Attribute**\nThe term attribute includes, as applicable, the tenure, demographics, reviews, acceptance rate, part-time status, average weekly hours, and location of an app-based worker.\n**(6) Authorized agent**\nThe term authorized agent means a person (other than a covered digital labor platform provider or a vendor or affiliated person of the provider) that an app-based worker has authorized to receive disclosures from a covered digital labor platform in accordance with section 7, including a labor organization.\n**(7) Automated decision system**\n**(A) In general**\nThe term automated decision system means any tool, software, system, process, function, program, method, model, or formula using, or designed with, computation to issue an automated decision system output that is used to augment, assist, or replace human judgment, decision making, or policy implementation.\n**(B) Exclusions**\nNotwithstanding subparagraph (A), the term automated decision system does not include any spam email filter, firewall, antivirus software, calculator, database, dataset, or other compilation of data.\n**(8) Automated decision system output**\nThe term automated decision system output means any information, data, assumption, prediction, scoring, classification, recommendation, decision, or conclusion generated by an automated decision system.\n**(9) Commerce; person**\nThe terms commerce and person have the meanings given the terms in section 3 of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 203 ).\n**(10) Covered digital labor platform**\n**(A) In general**\nThe term covered digital labor platform means a platform provided, offered, or used by a covered digital labor platform provider that\u2014\n**(i)**\nis provided, at least in part, through electronic means such as an online-enabled application, internet site, or mobile application;\n**(ii)**\nprovides services performed by an app-based worker at the request of a consumer;\n**(iii)**\ninvolves the facilitation of work to be performed by an individual in exchange for payment, regardless of whether such work is performed online or in a certain geographic location; and\n**(iv)**\ninvolves the use of an automated decision-making system or electronic monitoring tool.\n**(B) Exclusions**\n**(i) In general**\nNotwithstanding subparagraph (A), the term covered digital labor platform does not include\u2014\n**(I)**\nany platform that\u2014\n**(aa)**\nonly provides the means by which service providers can reach an end-user, customer, or recipient, without involvement of the platform in the terms or conditions of the work; or\n**(bb)**\nonly organizes the activities of volunteers; or\n**(II)**\nany platform that has the primary purpose of exploiting or sharing real property assets for short-term accommodations or that allows an individual who is not a professional to resell goods.\n**(ii) Burden of proof**\nA person providing, offering, or using a platform that the person believes is a platform described in subclause (I) or (II) shall have the burden of proof to establish that the platform is a platform described in such a subclause for purposes of any enforcement activity taken under section 9.\n**(11) Covered digital labor platform provider**\nThe term covered digital labor platform provider \u2014\n**(A)**\nmeans a person engaged in commerce or an industry affecting commerce that employs an app-based worker to perform work or provide services for remuneration on or through the covered digital labor platform of the person, or that otherwise engages, arranges, or facilitates the performance of such work or provision of such services, regardless of whether the app-based worker is compensated by such person or another person; and\n**(B)**\nincludes any successor in interest of such person and any person who acts directly or indirectly in the interest of the covered digital labor platform provider in relation to an app-based worker.\n**(12) Data**\nThe term data , used with respect to an app-based worker, means any information that identifies, relates to, describes, or could reasonably be linked, directly or indirectly, with a particular app-based worker, regardless of how the information is collected, inferred, or obtained, including the following:\n**(A)**\nPersonal identity information and characteristics, such as the app-based worker\u2019s name, address or other contact information, demographic information, government-issued identification number, citizenship and familial status, criminal background, employment history, financial history, health status or history, and information regarding immutable characteristics.\n**(B)**\nAny data related to the work activities of an app-based worker.\n**(C)**\nOnline information with respect to the app-based worker, including any internet protocol address used by, social media activity of, or other digital sources or unique identifiers associated with the app-based worker.\n**(D)**\nIndividual behavior or preferences, including observable or measurable actions, habits, preferences, interests, or vulnerabilities, including the individual\u2019s political, personal, or professional affiliations, web browsing history, purchase history, financial circumstances, or consumer behaviors.\n**(E)**\nBiometric information, including imagery of the iris, retina, fingerprint, face, hand, palm, vein patterns, and voice recordings, from which an identifier template, such as a faceprint, a minutiae template, or a voiceprint, can be extracted, and keystroke patterns or rhythms, gait patterns or rhythms, and sleep, health, or exercise data that contain identifying information.\n**(F)**\nInferences drawn from any of the data described in this paragraph, including internally generated inferences, or worker profiles generated by inferences, by or for the covered digital labor platform provider.\n**(13) Electronic monitoring tool**\nThe term electronic monitoring tool means any system, application, or instrument that facilitates the collection of data concerning the activities, communications, actions, biometrics, attributes, or behaviors of an app-based worker by any means other than direct observation by another individual, including through the use of a computer, telephone, wire, radio, camera, electromagnetic, photoelectronic, or photo-optical system.\n**(14) Employ**\nThe term employ has the meaning given such term in section 3 of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 203 ).\n**(15) Labor organization**\nThe term labor organization means\u2014\n**(A)**\na labor organization, as such term is defined in section 2 of the National Labor Relations Act ( 29 U.S.C. 152 ); or\n**(B)**\nthe collective bargaining representative of a craft or class of employees for purposes of the Railway Labor Act ( 45 U.S.C. 151 et seq. ).\n**(16) Individualized**\nThe term individualized means data described in subparagraph (A), (C), (D), (E), or (F) of paragraph (12) that is\u2014\n**(A)**\nspecific to a specific app-based worker or group, band, class, or tier of app-based workers; or\n**(B)**\ninferred about a specific app-based worker or group, band, class, or tier of app-based workers based on other such data.\n**(17) On-demand**\nThe term on-demand means a service available to a waiting, time-sensitive consumer after the consumer makes a request or places an order for such service via a covered digital labor platform.\n**(18) Predispute arbitration agreement**\nThe term predispute arbitration agreement means any agreement to arbitrate a dispute that has not yet arisen at the time of the making of the agreement.\n**(19) Predispute joint-action waiver**\nThe term predispute joint-action waiver means an agreement, including as part of a predispute arbitration agreement, that would prohibit, or waive the right of, one of the parties to the agreement to participate in a joint, class, or collective action in a judicial, arbitral, administrative, or other forum, concerning a dispute that has not yet arisen at the time of the making of the agreement.\n**(20) Secretary**\nThe term Secretary means the Secretary of Labor.\n**(21) Take rate**\nThe term take rate , with respect to a covered digital labor platform provider that offers a consumer any on-demand transportation services, means the percentage of the total amount such a covered digital labor platform provider charges to a consumer for such a service provided on or through the covered digital labor platform, exclusive of any tip, that is not paid to an app-based worker as remuneration with respect to that service.\n**(22) Time on task**\nThe term time on task , with respect to an app-based worker performing on-demand services, means an amount of time that begins when an app-based worker is assigned or accepts a work assignment on a covered digital labor platform for the performance of a service and ends when\u2014\n**(A)**\nthe work assignment is completed; or\n**(B)**\nthe work assignment is cancelled.\n**(23) Time worked**\nThe term time worked \u2014\n**(A)**\nwith respect to an app-based worker providing on-demand services, includes all time that an app-based worker is logged into a covered digital labor platform and available to perform services on or through the covered digital labor platform; and\n**(B)**\nwith respect to an app-based worker who works shifts or blocks of time that are in any way scheduled in advance of performing the work, includes all time from when the app-based worker reports to work through the completion of assigned tasks or shift work, as further defined and delimited in regulations by the Secretary.\n**(24) Vendor**\nThe term vendor means any entity or other third party engaged by a covered digital labor platform provider (or by any contractor of the covered digital labor platform provider) to provide software, technology, or any related service that is used to collect, store, analyze, or interpret app-based worker data.\n**(25) Work assignment**\nThe term work assignment means an assignment or offer on a covered digital labor platform to provide services for a consumer that is assigned to or accepted by an app-based worker for the performance of services with respect to that assignment or offer.\n**(26) Work-related decision**\nThe term work-related decision means any decision made by a covered digital labor platform provider with respect to\u2014\n**(A)**\nhiring, engaging, or promoting an app-based worker;\n**(B)**\ntaking an adverse action against an app-based worker; or\n**(C)**\nthe terms, privileges, or conditions of the work of an app-based worker, including a decision that affects or could affect the pay, the benefits, other compensation, the schedule of work, the hours of work, an evaluation, a performance rating, the job content, an assignment of work, the access to work, the productivity requirements, or the workplace health and safety of the app-based worker.\n#### 4. Transparency\n##### (a) Disclosures to workers\n**(1) Notice of electronic monitoring and automated decision systems**\n**(A) In general**\nA covered digital labor platform provider that uses or intends to use an electronic monitoring tool or automated decision system shall, in accordance with subparagraph (B), provide to each app-based worker and applicant of the covered digital labor platform provider who is, or will be, subject to the electronic monitoring tool or automated decision system a notice that provides\u2014\n**(i)**\na description of how any electronic monitoring tool or automated decision system will be used by the covered digital labor platform provider;\n**(ii)**\na description of the data intended to be or actually collected by the electronic monitoring tool or used in an automated decision system;\n**(iii)**\nin the case of the use of an electronic monitoring tool\u2014\n**(I)**\na description of any activity, location, communication, task, or job role that will be electronically monitored by the electronic monitoring tool;\n**(II)**\nwhether, how, and what data collected using the electronic monitoring tool will be used as an input in an automated decision system;\n**(III)**\nwhether, how, and what data collected using an electronic monitoring tool will be used (whether used with or without an automated decision system) to make, or assist in making, decisions regarding the compensation of an app-based worker or applicant and offers or assignments of work for the app-based worker or applicant; and\n**(IV)**\na description of where any data collected by the electronic monitoring tool will be stored, the length of time the data will be retained, who may access the data, and how the data may be accessed by a person who is authorized to access the data;\n**(iv)**\nin the case of the use of an automated decision system\u2014\n**(I)**\na description of the methods, processes, inputs, attributes, and data that the covered digital labor platform provider uses or intends to use, through the automated decision system, to determine or assist in determining the compensation of the app-based worker or applicant, including pay rates, assignments, bonuses, or other benefits; and\n**(II)**\na description of the categories of data and the main parameters of that data for the automated decision system and the relative importance and weights of the main parameters in the automated decision system for purposes of creating inferences or making work-related decisions regarding the app-based worker or applicant, including how data regarding the app-based worker or applicant (including regarding attributes of the worker or applicant) will influence automated decision system outputs or the outcome of any work-related decision and whether (and, if so, how) the automated decision system outputs will be individualized for the app-based worker or applicant;\n**(v)**\nthe methods, processes, inputs, attributes, or data by which the covered digital labor platform provider determines the amount charged to a consumer for any good or service provided through the covered digital labor platform and the relative weights of such methods, processes, inputs, attributes, or data in such determination;\n**(vi)**\nthe methods, processes, inputs, attributes, or data by which the covered digital labor platform provider determines how, whether, and when to provide the app-based worker with a work assignment and what work assignment the covered digital labor platform provider will offer or provide to the app-based worker; and\n**(vii)**\nthe specific grounds, conditions, and reasons for which a covered digital labor platform provider may take any adverse action with respect to the app-based worker.\n**(B) Timing**\nA notice under subparagraph (A) shall be provided\u2014\n**(i)**\nwith respect to any applicant, at a time that is after the applicant has signed up for, applied for, activated, or created an account and before the applicant performs any work or provides any service for remuneration for the covered digital labor platform provider or on or through a covered digital labor platform;\n**(ii)**\nwith respect to an app-based worker\u2014\n**(I)**\nfor any electronic monitoring tool or automated decision system that is in effect on the day before the date of enactment of this Act, not later than the later of\u2014\n**(aa)**\n30 days after the date on which a final rule to carry out this section takes effect; or\n**(bb)**\n180 days after the date of enactment of this Act; or\n**(II)**\nfor any other electronic monitoring tool or automated decision system, as soon as practicable, but not less than 96 hours before the electronic monitoring tool or automated decision system takes effect with respect to that app-base worker;\n**(iii)**\nannually to each app-based worker who performed work on or through the covered digital labor platform of the covered digital labor platform provider during the year preceding the date the notice is provided;\n**(iv)**\nin the app-based worker\u2019s primary language; and\n**(v)**\nto an app-based worker or applicant not later than 5 business days after any request by the app-based worker or applicant.\n**(2) Comprehensive and detailed use notice**\n**(A) In general**\nA covered digital labor platform provider that uses an electronic monitoring tool or automated decision system to make or assist in making a work-related decision with respect to an app-based worker that substantially impacts the compensation or work assignments of the app-based worker or the access of the app-based worker to the covered digital labor platform shall, as described in subparagraph (B), provide to the app-based worker a notice that includes\u2014\n**(i)**\na description of the data and attributes used in the work-related decision with respect to the app-based worker;\n**(ii)**\nin the case of the use of an automated decision system, a description of the inputs for the automated decision system and the weight of each for purposes of the work-related decision, the automated decision system outputs with respect to that work-related decision, and the method by which the worker can obtain the range of possible outputs, including aggregate output statistics; and\n**(iii)**\nthe metadata used for the work-related decision, including for each variable of the metadata the name, attribute, value, what the variable captures, and examples of the values it captures.\n**(B) Timing**\nA notice under subparagraph (A) shall be provided to an app-based worker\u2014\n**(i)**\nnot later than 5 business days after the initial request by the app-based worker for the notice; and\n**(ii)**\nif the app-based worker requests subsequent notices on an ongoing basis, not more than 48 hours after the covered digital labor platform provider uses an electronic monitoring tool or automated decision system with respect to the app-based worker as provided in subparagraph (A).\n**(3) Additional disclosures**\nBefore the first time that an app-based worker performs any work or provides any service for remuneration on or through a covered digital labor platform or, in the case of an app-based worker who has already performed such work or provided such services on or before the date of enactment of this Act, not later than 365 days after the date of enactment of this Act, the covered digital labor platform provider shall notify the app-based worker of\u2014\n**(A)**\nall required disclosures and the obligations of the covered digital labor platform under this Act; and\n**(B)**\nall other applicable minimum pay and benefits standards that apply to the app-based worker.\n**(4) Itemized receipts**\n**(A) In general**\nAt the end of each work assignment of an app-based worker, the covered digital labor platform provider shall disclose to the app-based worker each component of the pay of the app-based worker, including, to the extent applicable and as further defined and delimited through regulations promulgated by the Secretary\u2014\n**(i)**\nthe total amount paid by the consumer to the covered digital labor platform provider for the work assignment performed by the app-based worker exclusive of any tip provided to the app-based worker as described in clause (ii);\n**(ii)**\nthe amount of any tip paid by the consumer through the covered digital labor platform provider as gratuity for the work of the app-based worker;\n**(iii)**\nthe amount paid to the app-based worker by the covered digital labor platform provider excluding the tip described in clause (ii) and any reimbursement by the provider of costs incurred by the app-based worker;\n**(iv)**\nthe take rate for the work assignment;\n**(v)**\nthe total distance traveled by the app-based worker for the work assignment in miles;\n**(vi)**\nwhether the work assignment contributed to or was related to a bonus or other incentive for the app-based worker;\n**(vii)**\ntotal time worked by the app-based worker for the work assignment; and\n**(viii)**\ninformation on whether that work assignment was offered to any other app-based worker, and if so, the amount of compensation offered to the other app-based worker.\n**(B) Update of disclosure**\nA covered digital labor platform provider that provides a disclosure under subparagraph (A) may update the disclosure for a period of not more than 48 hours after the disclosure is provided to the app-based worker.\n**(5) Weekly pay statements**\nNot less often than once a week, each covered digital labor platform provider shall disclose to each app-based worker of the covered digital labor platform provider each component of pay of the app-based worker for the week (referred to in this paragraph as the covered week ), including, to the extent applicable and as further defined and delimited through regulations promulgated by the Secretary\u2014\n**(A)**\nthe total amount paid to the app-based worker by the covered digital labor platform provider during the covered week excluding the amount of any tips paid to the app-based worker and any reimbursement by the provider of costs incurred by the app-based worker;\n**(B)**\nthe total amount paid to the covered digital labor platform provider for all work assignments by the app-based worker during the covered week by all consumers, excluding any tips paid to the app-based worker;\n**(C)**\nthe weekly average take rate for all consumer payments for all work assignments of the app-based worker;\n**(D)**\nthe total amount of tips paid by consumers to the app-based worker for work assignments in the covered week;\n**(E)**\nthe total amount of compensation paid by the covered digital labor platform provider to the app-based worker for work assignments in the covered week, including any amount provided as a tip;\n**(F)**\nthe number of work assignments completed by the app-based worker in the covered week;\n**(G)**\nthe total amount of time on task by the app-based worker in the covered week;\n**(H)**\nthe total time worked by the app-based worker in the covered week;\n**(I)**\nthe hourly wage of the app-based worker, expressed as the ratio of the amount described in subparagraph (A) to the amount of time described in subparagraph (H);\n**(J)**\nthe total miles traveled for time worked and time on task by the app-based worker in the covered week; and\n**(K)**\nfor each work assignment offered by the covered digital labor platform provider to the app-based worker that was not completed by the app-based worker in the covered week, the amount of compensation offered.\n**(6) Format**\nEach notice, disclosure, or notification under this subsection shall be provided in the form and manner described in regulation by the Secretary, including that the notice, disclosure, or notification is provided\u2014\n**(A)**\nin an electronic document that is machine readable;\n**(B)**\nin an easily accessible form, including on the account of an app-based worker or applicant (regardless of whether the covered digital labor platform provider has deactivated, suspended, or terminated the app-based worker) or posted on the covered digital labor platform, and available to download;\n**(C)**\nin a manner that enables the app-based worker or applicant to read, review, save, and reasonably access the notice, disclosure, or notification for not less than 48 months after the date on which the notice, disclosure, or notification was provided;\n**(D)**\nin a manner that ensures the information in the notice, disclosure, or notification is clearly and effectively communicated, including in the language the app-based worker identifies as their primary language; and\n**(E)**\nas applicable, through a posting on the covered digital labor platform in English and any other language that more than 20 percent of app-based workers of the relevant covered digital labor platform provider identify as their primary language.\n##### (b) Disclosures to consumers\nAt the end of each work assignment of an app-based worker, the covered digital labor platform provider shall disclose, through electronic correspondence, to the consumer with respect to the work assignment, to the extent applicable and as further defined and delimited through regulations promulgated by the Secretary\u2014\n**(1)**\nthe total amount paid by the consumer for the work assignment, excluding any tip;\n**(2)**\nthe amount added as a tip from the consumer and any reimbursement by the provider of costs incurred by the app-based worker;\n**(3)**\nthe amounts paid to the app-based worker by the covered digital labor platform provider, excluding the amount described in paragraph (2); and\n**(4)**\nthe take rate for the work-assignment.\n##### (c) Additional disclosures\n**(1) Reporting to the agency**\nOn a quarterly basis and in accordance with any rule prescribed by the Secretary, each covered digital labor platform provider shall electronically disclose to the Secretary\u2014\n**(A)**\ncopies of the notices required under subsection (a)(1);\n**(B)**\naggregated app-based worker data regarding the information required to be provided to all app-based workers of the covered digital platform provider through the disclosures under subsection (a)(5) during the relevant quarter;\n**(C)**\nthe aggregated app-based worker data described under subparagraph (B), disaggregated by State and by certain metropolitan statistical areas (as identified by the Office of Management and Budget) selected, through regulations by the Secretary, based on geographic distribution across the regions of the United States, including in the Northeast, South, Midwest, and West;\n**(D)**\nthe demographic data of app-based workers who completed a work assignment during the relevant quarter, based on self-reporting by app-based workers, as described in section 5(b);\n**(E)**\nhourly wage data for app-based workers disaggregated by worker demographic; and\n**(F)**\nany fees charged by the covered digital labor platform provider to an app-based worker in order to perform work, receive compensation for work, or provide services on or through the covered digital labor platform.\n**(2) Publication**\n**(A) Publication by covered digital labor platform provider**\nEach covered digital labor platform provider shall publish the data disclosed under paragraph (1), in an anonymized manner, on a public internet website of the covered digital labor platform provider in a machine readable and searchable format.\n**(B) Publication by secretary**\nNot later than February 15 of each year, the Secretary shall make the data disclosed under paragraph (1) for the preceding calendar year, available to the public, which shall include posting the information, in an anonymized manner, on a public internet website of the Secretary in a searchable and downloadable format.\n**(C) Regulations**\nThe Secretary shall issue regulations detailing and defining requirements with respect to the publications under subparagraphs (A) and (B) to ensure the accessibility and usability of the information in the publications and protect the anonymity of each app-based worker.\n#### 5. Accountability\n##### (a) Take rate cap\n**(1) In general**\nA covered digital labor platform provider that offers a consumer on-demand transportation services may not charge in excess of a 25 percent take rate for such service.\n**(2) Take rate offset limitation**\nA covered digital labor platform provider described in paragraph (1) may not impose a fee on an app-based worker unless the ratio of the amount that is paid by a consumer (exclusive of any tip) with respect to a work assignment and is not provided to an app-based worker as remuneration to the amount that is the total amount paid by the consumer (exclusive of any tip) with respect to such work assignment plus the amount of such fee (or a pro rata amount of such fee if the fee is paid in a lump sum) is not more than 25 percent.\n##### (b) Request for voluntary disclosures\nNotwithstanding subsection (d), a covered digital labor platform provider shall provide every app-based worker of the covered digital labor platform provider an opportunity to disclose, subject to regulations promulgated by the Secretary in consultation with the Equal Employment Opportunity Commission, demographic data in a manner that protects the privacy of the app-based worker.\n##### (c) Individualized algorithmic wage setting\n**(1) Equal pay for equal work**\nA covered digital labor platform provider may not offer an amount of compensation for a work assignment to an app-based worker that is different than the amount of compensation that was offered to another app-based worker for any substantially similar or comparable tasks unless the covered digital labor platform provider can clearly demonstrate that the difference in offered compensation is\u2014\n**(A)**\nbased on cost differentials between the specific workers for performing the tasks involved in the work assignment; or\n**(B)**\notherwise required by a collective bargaining agreement that applies to the app-based worker or the other app-based worker.\n**(2) Surveillance wage setting**\nA covered digital labor platform provider may not use individualized data with respect to an app-based worker as an input in an automated decision system for purposes of informing compensation decisions for work assignments for the app-based worker or use any automated decision system output for such purposes if the output relied on or included such individualized data, unless the covered digital labor platform provider can clearly demonstrate that\u2014\n**(A)**\n**(i)**\nany difference between the amount of compensation offered for the work assignment and the amount of compensation that was offered to another app-based worker for any substantially similar or comparable tasks is, in accordance with paragraph (1)(A), based on cost differentials between the specific workers for performing the tasks involved in the work assignment; and\n**(ii)**\nsuch data is directly related to the tasks involved in the work assignment; or\n**(B)**\nany difference between the amount of compensation offered for the work assignment and the amount of compensation that was offered to another app-based worker for any substantially similar or comparable tasks is, in accordance with paragraph (1)(B), otherwise required by a collective bargaining agreement that applies to the app-based worker or the other app-based worker.\n**(3) Exception**\nThis subsection shall not apply with respect to an app-based worker of a covered digital labor platform provider if the covered digital labor platform provider plays no role in setting or determining\u2014\n**(A)**\nthe pay rate of the app-based worker; and\n**(B)**\nthe amount charged to a consumer for services provided by the app-based worker.\n##### (d) Data processing limitations\nA covered digital labor platform provider may not\u2014\n**(1)**\nuse electronic monitoring, an automated decision system, or worker data to infer immigration status, political opinion, religious or philosophical beliefs, disability status, health status or history, emotional or psychological state, sexual or gender orientation, or union sympathy or likelihood of organizing or otherwise asserting rights; or\n**(2)**\ncollect an app-based worker\u2019s data other than during time worked for the covered digital platform provider.\n##### (e) Limiting deceptive patterns\nA covered digital labor platform provider may not use any platform interface that contains unfair, covert, or deceptive information regarding compensation, including on the eligibility for bonuses, or that obscures or delays an app-based worker\u2019s access to such information regarding compensation in a manner that inhibits the worker\u2019s ability to make an informed decision about whether or how to perform work or provide services for remuneration on or through the covered digital labor platform of the covered digital labor platform provider.\n#### 6. Data preservation\n##### (a) In general\nA covered digital labor platform provider and each vendor of the covered digital labor platform provider\u2014\n**(1)**\nshall retain for 4 years contemporaneous records of any data regarding an app-based worker that is collected using an electronic monitoring tool or used as an automated decision system input;\n**(2)**\nmay not sell, transfer, or disclose app-based worker data collected via an electronic monitoring tool or used as an automated decision system input to any other entity unless the sale, transfer, or disclosure is\u2014\n**(A)**\npursuant to a request from an authorized agent of an app-based worker of the covered digital labor platform provider regarding the data of the app-based worker; or\n**(B)**\nis otherwise required under State or Federal law and the covered digital labor platform provides notice to the app-based worker; and\n**(3)**\nshall collect, process, store, and retain all data regarding an app-based worker in a manner that protects the privacy of the app-based worker (including protection from unauthorized access, destruction, use, modification, or disclosure) and in accordance with any regulation promulgated by the Secretary.\n##### (b) Disclosure\nExcept as otherwise provided under section 4(a)(2)(B) with respect to a comprehensive and detailed use notice, a covered digital labor platform provider or vendor of the covered digital labor platform provider shall provide any data retained in accordance with this subsection with respect to an app-based worker or an individual who was an app-based worker to the app-based worker, individual, or authorized agent of the app-based worker not more than 5 business days after the covered digital labor platform provider or vendor receives the request from the app-based worker, individual, or authorized agent.\n#### 7. Authorized agent authority\n##### (a) In general\nPursuant to regulations issued by the Secretary, an app-based worker may, in writing, authorize a person to be the authorized agent of the app-based worker for purposes of receiving any required disclosure or notice from a covered digital labor platform provider under paragraphs (1), (2), (4), and (5) of section 4(a) or section 6(b) as if the authorized agent was the app-based worker.\n##### (b) Treatment of an authorized agent\n**(1) In general**\nWith respect to an app-based worker who authorizes an authorized agent under subsection (a), the covered digital labor platform provider of the app-based worker shall provide an additional copy of each notice or disclosure described in such subsection to the authorized agent at the time such notice or disclosure is due to the app-based worker and upon request by the authorized agent.\n**(2) Information requests**\nA covered digital labor platform provider shall\u2014\n**(A)**\nprovide a designated email address, which is prominently displayed on its website, to which an authorized agent can submit a request for a notice or disclosure described in subsection (a); and\n**(B)**\nprovide the notice or disclosure\u2014\n**(i)**\nnot later than 10 business days after an initial request is submitted; and\n**(ii)**\nthereafter, if applicable, at the same time any such disclosure or notice would otherwise be due to the app-based worker.\n##### (c) Privacy requirements for an authorized agent\nAn authorized agent authorized under subsection (a) may not use any personal information regarding an app-based worker, or any other information collected from or about the app-based worker, for any purposes other than the purposes specified in the written authorization of the app-based worker.\n##### (d) Notification of subpoena\n**(1) In general**\nAn authorized agent authorized under subsection (a) may not disclose any information received from a covered digital labor platform with respect to an app-based worker to any government entity unless required to do so by a subpoena or other court order compelling production of such information.\n**(2) Disclosure**\nAn authorized agent that is required to produce information to a government entity as described in paragraph (1) shall notify the app-based worker who authorized the agent to receive such information.\n#### 8. Whistleblower protections\n##### (a) In general\nA covered digital labor platform provider may not discriminate or retaliate (including through intimidation, threats, coercion, deactivation, diminishment of compensation or access to the covered digital labor platform or work assignments, or harassment) against any app-based worker\u2014\n**(1)**\nfor exercising, or attempting to exercise, any right provided under this Act; or\n**(2)**\nbecause the app-based worker (or another individual acting at the request of the app-based worker or an authorized agent of the app-based worker) has\u2014\n**(A)**\nfiled a written or oral complaint to the covered digital labor platform provider, or a Federal, State, or local government entity of a violation of section 4, 5, or 6;\n**(B)**\ninstituted, caused to be instituted, or otherwise participated in any inquiry or proceeding under or related to this Act;\n**(C)**\ngiven, or is about to give, any information in connection with any inquiry or proceeding relating to any right provided under this Act; or\n**(D)**\ntestified, or is about to testify, in any inquiry or proceeding relating to any right provided under this Act.\n##### (b) Rebuttable presumption\nIf a covered digital labor platform provider takes an adverse action against an app-based worker within 90 days of the app-based worker engaging, or attempting to engage in, activities protected by subsection (a), there shall be a rebuttable presumption that the adverse action is in violation of such subsection.\n#### 9. Enforcement\n##### (a) Enforcement by the Secretary\nTo ensure compliance with the provisions of this Act, or any regulation or order issued under this Act, the Secretary, may take the following actions:\n**(1) Investigate**\nThe Secretary may\u2014\n**(A)**\nreview and analyze disclosures submitted under section 4(c)(1) by a covered digital labor platform provider and issue public reports regarding compensation and hours by industry;\n**(B)**\ncollect any additional data regarding the compensation, hours, and other conditions and practices in any industry for which covered digital labor platform providers are subject to this Act;\n**(C)**\ninspect any place or record (and make such transcriptions thereof), question any app-based worker, and investigate any facts, conditions, practices, or matters as the Secretary may deem necessary or appropriate to determine whether a covered digital labor platform provider has violated any provision of this Act, or which may aid in the enforcement of the provisions of this Act; and\n**(D)**\nmake requests for information, as authorized under paragraph (2), on a joint basis with another Federal agency, a State attorney general, or a State agency.\n**(2) Reporting**\nThe Secretary may require, by general or special orders and in addition to the disclosures required in section 4(c)(1), a covered digital labor platform provider to file with the Secretary, in such form as the Secretary may prescribe, annual or special reports or answers in writing to specific questions, furnishing to the Secretary such information or records as the Secretary may require as to the organization, business, conduct, practices, management, and relation to other corporations, partnerships, and individuals, of the covered digital labor platform provider.\n**(3) Enforcement**\nThe Secretary shall receive, investigate, and attempt to resolve, any complaints from app-based workers of violations of sections 4, 5, 6, and 8 in the same manner that the Secretary receives, investigates, and attempts to resolve complaints of violations of sections 6 and 7 of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 206 , 207).\n**(4) Public education**\nThe Secretary shall engage in public education, including on its website and its outreach to stakeholders, to inform app-based workers of the rights pursuant to this Act.\n**(5) Litigation**\nThe Solicitor of Labor may appear for and represent the Secretary in any litigation brought under this subsection.\n**(6) Referral for criminal proceedings**\nIf the Secretary, in the course of the performance of any action or duty under this Act, obtains evidence that any covered digital labor platform provider has engaged in conduct that may constitute a violation of Federal criminal law, the Secretary shall refer the matter to the Attorney General for prosecution under any applicable law. Nothing in this paragraph shall affect any other authority of the Secretary to disclose information.\n##### (b) Private right of action\n**(1) In general**\n**(A) Affected app-based worker**\nNotwithstanding any action by the Secretary under subsection (a)(3) or subsection (c), an app-based worker may commence a civil action against a covered digital labor platform provider or, as applicable, a vendor of the covered digital labor platform provider for an alleged violation of paragraph (1), (2), (3), (4) or (5) of section 4(a) or section 5, 6, or 8 in any Federal court of competent jurisdiction.\n**(B) Consumer**\nNotwithstanding any action by the Secretary under subsection (a)(3) or subsection (c), a consumer may commence a civil action against any covered digital labor platform provider for an alleged violation of section 4(b) in any Federal court of competent jurisdiction.\n**(C) Authorized agent**\nNotwithstanding any action by the Secretary under subsection (a)(3) or subsection (c), an authorized agent of an app-based worker may commence a civil action against a covered digital labor platform provider for an alleged violation of paragraph (1), (2), (3), (4) or (5) of section 4(a) or section 5, 6, or 8 in any Federal court of competent jurisdiction as if the authorized agent were the app-based worker.\n**(D) Labor organization**\nNotwithstanding any action by the Secretary under subsection (a)(3) or subsection (c), a labor organization or a worker center that is adversely affected by an alleged violation of paragraph (1), (2), (3), (4) or (5) of section 4(a) or section 5, 6, or 8 or that represents an app-based worker who is adversely affected by such an alleged violation may commence a civil action against the covered digital labor platform provider or, as applicable, a vendor of the covered digital labor provider that violates such section in any Federal court of competent jurisdiction.\n**(2) Relief**\n**(A) In general**\nIn a civil action brought under paragraph (1) in which the plaintiff prevails, the court shall award\u2014\n**(i)**\nstatutory damages in accordance with the applicable provisions of subparagraph (B);\n**(ii)**\nany actual damages sustained plus an equal amount as liquidated damages;\n**(iii)**\nreasonable attorney\u2019s fees and litigation costs;\n**(iv)**\nappropriate equitable relief; and\n**(v)**\nappropriate injunctive relief.\n**(B) Statutory damages**\nSubject to subparagraph (D), statutory damages under this subparagraph shall be the following:\n**(i) Failure to make proper disclosures**\n**(I) Timeliness of notices**\nFor any violation of paragraph (1), (2), or (3) of section 4(a)\u2014\n**(aa)**\nan amount that is not less than $20,000 per failure to provide a notice required under such paragraph; or\n**(bb)**\nan amount that is not less than $5,000 per failure to provide a notice required under such paragraph in, as determined through regulation by the Secretary, a timely manner.\n**(II) Format of notices**\nFor any violation of section 4(a)(6), an amount that is not less than $1,000 per violation.\n**(III) Receipts, pay statements, and individualized algorithmic wage setting**\nFor any violation of paragraph (4) or (5) of section 4(a) or section 5(c), an amount that is not less than $5,000 per violation.\n**(IV) Consumer notice**\nFor any violation of section 4(b), an amount that is not less than $2,000 per violation.\n**(V) Quarterly reporting and publication**\nFor any violation of paragraph (1) or paragraph (2)(A) section 4(c), an amount that is not less than $20,000 per violation.\n**(ii) Violations of take rate caps**\nFor any violation of paragraph (1) or (2) of section 5(a) with respect to an app-based worker, an amount that is the greater of\u2014\n**(I)**\nan amount that is 4 times the difference between the maximum permissible take rate under such section and the amount actually paid to the app-based worker; or\n**(II)**\n$20,000 per violation.\n**(iii) Data preservation violations**\nFor any violation of section 6, an amount that is not less than $20,000 per violation.\n**(iv) Whistleblower violations**\nFor any violation of section 8, an amount that is not less than $25,000 per violation.\n**(C) Temporary whistleblower relief**\nIn addition to relief for a prevailing party under subparagraph (A), a court may award punitive damages and temporary injunctive relief while a case is pending, including reinstatement. All relief is available to a prevailing whistleblower plaintiff regardless of whether the plaintiff is authorized to work in the United States.\n**(D) Adjustment of statutory damages**\nThe Secretary, not later than September 1 of each calendar year, shall adjust the dollar amounts referred to in subparagraph (B) by the percent increase, if any, in the consumer price index for all urban consumers (United States city average), or a successor index, as determined by the Bureau of Labor Statistics, or a successor agency, for the most recent 12-month period for which data is available.\n**(E) Joint and several liability**\nIn a civil action brought under this subsection against a covered digital labor platform provider and a vendor of the covered digital labor platform provider for a violation of section 6 in which the plaintiff prevails, the covered digital labor platform provider and the vendor shall be jointly and severally liable for the violation.\n##### (c) Civil monetary penalties\n**(1) In general**\nSubject to paragraph (2), the Secretary may impose a penalty on any covered digital labor platform provider that violates any provision of this Act in an amount that is\u2014\n**(A)**\nnot less than $25,000 for any violation;\n**(B)**\nnot less than $50,000 for any violation that occurs not more than 2 years after another such violation; or\n**(C)**\nnot less than $100,000 for any willful violation.\n**(2) Amount determination**\nIn determining the amount of any penalty under this subsection, the Secretary may consider the appropriateness of such penalty to the size of the business charged, the gravity of the violation, and whether the amount is sufficient to deter future violations.\n**(3) Use of amounts**\n**(A) Establishment of fund**\nThere is established in the Treasury of the United States a fund to be known as the Covered Digital Labor Platform Investigation Fund (referred to in this paragraph as the Fund ).\n**(B) Deposit**\nAny amount collected as a penalty under this subsection shall be deposited into the Fund.\n**(C) Use of funds**\nAmounts in the Fund shall be available to the Secretary, without fiscal year limitation and without further appropriation for purposes of reimbursement of any costs of investigating violations of this Act, determining whether any such violations occurred, and collecting penalties under this section.\n#### 10. Rule of construction\nFor purposes of this Act, the use of an electronic monitoring tool or automated decision system by a covered digital labor platform provider includes the use of such an electronic monitoring tool or automated decision system by a vendor or other third party acting on behalf of the covered digital labor platform provider.\n#### 11. Regulations\nNot later than 180 days after the date of enactment of this Act, the Secretary shall issue regulations that\u2014\n**(1)**\ndefine and delimit any undefined term used in this Act, including by providing, as determined necessary by the Secretary, examples of the application of the term to different app-based occupations;\n**(2)**\nfurther clarify, define, or delimit any term that is defined in this Act (including the terms substantially impacts, aggregated app-based worker data, data, take rate, time on task, and time worked), including by providing, as determined necessary by the Secretary, examples of the application of the term to different app-based occupations; and\n**(3)**\nprovide for industry- or occupation-specific rules, as determined necessary by the Secretary.\n#### 12. Limitation of judicial review of regulations\n##### (a) In general\nCongress delegates to the Secretary the authority, in issuing any regulation under or with respect to this Act, to interpret the provisions of this Act. A court engaged in judicial review of those provisions, including judicial review under section 706 of title 5, United States Code, shall only determine whether the agency\u2019s interpretation is based on a reasonable or permissible construction of this Act.\n##### (b) Standards for judicial review related to regulations\nFor any action brought for declaratory or injunctive relief to challenge, whether facially or as-applied, the constitutionality or lawfulness of any rule or regulation promulgated under this Act\u2014\n**(1)**\nsuch an action may be brought not more than 3 years after the date that the rule or regulation was promulgated; and\n**(2)**\nsuch an action shall be filed in the United States District Court for the District of Columbia.\n#### 13. Relation to other laws\n##### (a) In general\n**(1) Preservation of State powers**\nThis Act shall not be construed as preempting, altering, limiting, or affecting the power or authority of a State to enact, adopt, or enforce any State law that provides the same or greater protections to app-based workers or consumers as the requirements under this Act.\n**(2) No safe harbor**\nThis Act shall not be construed to permit noncompliance with any Federal, State, or local law that establishes requirements regarding minimum wages or maximum work hours or nondiscrimination in the workplace.\n**(3) Arbitration agreements**\nNotwithstanding chapter 1 of title 9, United States Code (commonly known as the Federal Arbitration Act ), or any other provision of law, a predispute arbitration agreement or predispute joint-action waiver between an app-based worker and a covered digital labor platform provider shall not be valid or enforceable.\n**(4) Non-disclosure agreements**\nAny confidentiality agreement or other contract provision that prohibits the disclosure of information by a party to the contract between an app-based worker and a covered digital labor platform provider shall not be valid or enforceable.\n**(5) No waiver**\nThe rights and remedies in this Act may not be waived by any agreement, policy, form, or condition of work.\n##### (b) Fair Labor Standards Act\n**(1) In general**\nThis Act shall not be construed as exempting a covered digital labor platform provider from applicable requirements under the Fair Labor Standards Act of 1938 ( 29 U.S.C. 201 et seq. ) or regulations issued pursuant to such Act.\n**(2) Recordkeeping**\nThis Act shall not be construed to alter, limit, or affect the power to investigate and gather data regarding the wages, hours, and other conditions and employment practices under the Fair Labor Standards Act of 1938 ( 29 U.S.C. 201 et seq. ), to excuse noncompliance with any recordkeeping requirements under such Act, or to limit authorized collaboration with State or local agencies or the power to issue homework regulations as established under such Act.\n#### 14. Flexibility\nThis Act shall not be construed to require, or to provide justification for, a covered digital labor platform provider altering or amending any policy, procedure, or system in a manner that has the effect of decreasing, limiting, or impeding the scheduling flexibility or access to work of an app-based worker.\n#### 15. Severability\nIf any provision of this Act, or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of the provisions of this Act and the application of such provisions to any other person or circumstance shall not be affected.",
+      "versionDate": "2025-12-11",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-07-28",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "2488",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "Empowering App-Based Workers Act",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Labor and Employment",
+        "updateDate": "2026-01-22T14:56:35Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-12-11",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6646ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Empowering App-Based Workers Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-01-21T05:23:16Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Empowering App-Based Workers Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-01-21T05:23:15Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To promote transparency and accountability in covered digital labor platform work, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-01-21T05:18:23Z"
+    }
+  ]
+}
+```

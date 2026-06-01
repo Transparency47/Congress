@@ -1,0 +1,46 @@
+# HR 3197: Fortifying U.S. Markets From Chinese Military Aggression Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-05-05
+- Latest action: 2025-05-05 - Introduced in House
+- Policy area: International Affairs
+- Sponsor: Rep. Nunn, Zachary [R-IA-3]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/3197
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-05-05
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3197ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-05-05
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3197ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3197
+IN THE HOUSE OF REPRESENTATIVES
+May 5, 2025 Mr. Nunn of Iowa (for himself, Mr. Torres of New York , and Mrs. Kim ) introduced the following bill; which was referred to the Committee on Financial Services
+A BILL
+To amend the Financial Stability Act of 2010 to establish an Advisory Committee on Economic Fallout From Chinese Military Aggression Towards Taiwan, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Fortifying U.S. Markets From Chinese Military Aggression Act .
+#### 2. Advisory Committee on Economic Fallout From Chinese Military Aggression Towards Taiwan
+Section 111 of the Financial Stability Act of 2010 ( 12 U.S.C. 5321 ) is amended by adding at the end the following:
+(k) Advisory Committee (1) Establishment There is established the Financial Stability Oversight Council Advisory Committee on Economic Fallout From Chinese Military Aggression Towards Taiwan (the Advisory Committee ) to— (A) study and report on the market implications and vulnerabilities related to Chinese military aggression towards Taiwan; and (B) open lines of communication between policy makers, government agencies, and capital market constituents to prepare for a potential response to, and to mitigate economic strain and market volatility related to, Chinese aggression in Taiwan. (2) Members (A) In general The Advisory Committee shall consist of— (i) a designee of the Commission; (ii) a designee of the Commodity Futures Trading Commission; and (iii) 10 members to be appointed by the Council from among persons who are— (I) capital markets participants, including market makers, asset managers, exchanges, and institutional investors; or (II) experts on geopolitical risk related to China. (B) Chair The Chair of the Advisory Committee shall be a market maker appointed under subparagraph (A)(iii). (3) Meetings The Advisory Committee shall meet in person at least 2 times per year, with additional meetings at the call of the Chair. (4) Annual study and report on the recommendations of the Advisory Committee The Advisory Committee shall, annually— (A) carry out a study on the market implications and vulnerabilities related to Chinese military aggression towards Taiwan; (B) develop recommendations and supporting analysis based on the results of the study; and (C) hold a public meeting to present the recommendations and analysis to the Council, but with any portions of such recommendations and analysis that implicate national security concerns presented in a closed session. (5) Permanent status The termination provision under section 1013 of title 5, United States Code, shall not apply to the Advisory Committee. (l) Annual report The Council shall issue an annual public report, after analyzing the recommendations and analysis of the Advisory Committee provided under subsection (k)(4), detailing the following: (1) Market vulnerabilities related to Chinese aggression in Taiwan, including— (A) the safety and soundness of the United States banking and financial systems; (B) market impact and potential losses faced by United States and global markets; (C) the capacity of United States markets to deal with extreme volatility that could result from aggression, i.e. trading halts, circuit breakers, and other tools for managing liquidity; (D) the impact on Chinese and Taiwanese listings in the United States; (E) the likelihood, and potential impact of, China reducing, or eliminating, its holding in United States Treasuries; and (F) the estimated total costs to the United States economy from Chinese military aggression towards Taiwan. (2) Recommendations and action items for regulators to make United States capital markets more resilient against market shocks, volatility, and dislocation described under paragraph (1), including with respect to— (A) the United States Government’s coordination and response; (B) ideas for government action to limit the market impacts of a blockade or invasion of Taiwan; (C) potential retaliatory actions by China and the potential response of the United States; (D) collaboration and testing of trade halt rules and circuit breakers across markets; and (E) avenues for further regulator engagement with capital markets participants on the topic. .
+
+
+## Timeline
+
+- 2025-05-05: Introduced in House
+- 2025-05-05 - IntroReferral: Introduced in House
+- 2025-05-05 - IntroReferral: Introduced in House
+- 2025-05-05 - IntroReferral: Referred to the House Committee on Financial Services.
+- Latest action: 2025-05-05: Introduced in House

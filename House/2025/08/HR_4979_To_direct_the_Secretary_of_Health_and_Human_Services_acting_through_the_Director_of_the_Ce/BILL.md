@@ -1,0 +1,99 @@
+# HR 4979: Tick Identification Pilot Program Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-08-15
+- Latest action: 2025-08-15 - Introduced in House
+- Policy area: Health
+- Sponsor: Rep. Gottheimer, Josh [D-NJ-5]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/4979
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-08-15
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4979ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-08-15
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4979ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 4979
+IN THE HOUSE OF REPRESENTATIVES
+August 15, 2025 Mr. Gottheimer (for himself and Mr. Kean ) introduced the following bill; which was referred to the Committee on Energy and Commerce
+A BILL
+To direct the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, to award grants to States to implement a tick identification pilot program.
+#### 1. Short title
+This Act may be cited as the Tick Identification Pilot Program Act of 2025 .
+#### 2. Tick identification pilot program
+##### (a) Establishment
+The Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention, may award grants to States to implement a tick identification program.
+##### (b) Priority
+In awarding grants under this section, the Secretary shall give priority to States that—
+**(1)**
+have more reported cases of Lyme disease and other tick-borne diseases; and
+**(2)**
+submit an effective plan for implementation and maintenance of a tick identification program.
+##### (c) Program requirements
+Any program funded under this section shall—
+**(1)**
+allow individuals to submit electronically photo images of ticks encountered;
+**(2)**
+require images of ticks to be submitted with the likely geographic location where the ticks were encountered, the date on which the ticks were encountered, and the likely physical location where the ticks were found (for example, on a pet, on a human, or loose);
+**(3)**
+after review by a qualified professional, respond to the individual directly within 72 hours of the image being received with—
+**(A)**
+if possible, identification of the species and life stage of the tick;
+**(B)**
+if possible, an estimate of the risk that the tick carried a tick-borne disease;
+**(C)**
+a recommendation of the best practices for the individual who encountered the tick, including with respect to seeking medical evaluation and submitting the tick for testing; and
+**(D)**
+additional education on best methods to avoid ticks and prevent contagion of tick-borne illnesses; and
+**(4)**
+maintain a database of reported tick incidents, including—
+**(A)**
+the date, geographic location, and environment of the encounter;
+**(B)**
+any identifying information about the tick that was determined; and
+**(C)**
+best practices that were disseminated to each reporting individual.
+##### (d) Application
+To seek a grant under this section, a State shall submit an application at such time, in such form, and containing such information as the Secretary may prescribe.
+##### (e) Data collection; report
+**(1) Data collection**
+The Secretary shall collect, with respect to each State program funded under this section and each fiscal year, the following data:
+**(A)**
+The number of tick incidents reported.
+**(B)**
+For each incident reported—
+**(i)**
+the date, geographic location, and environment of the encounter;
+**(ii)**
+any identifying information about the tick that was determined; and
+**(iii)**
+best practices that were disseminated to each reporting individual.
+**(2) Report**
+Not later than 90 days after the first day of each of fiscal years 2026 through 2029, the Secretary shall prepare and submit to the Congress a report on the data collected under paragraph (1).
+##### (f) Definitions
+In this section:
+**(1) Qualified professional**
+The term qualified professional means a biologist with a background in vector biology.
+**(2) Secretary**
+The term Secretary means the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control and Prevention.
+
+
+## Timeline
+
+- 2025-08-15: Introduced in House
+- 2025-08-15 - IntroReferral: Introduced in House
+- 2025-08-15 - IntroReferral: Introduced in House
+- 2025-08-15 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2025-08-15: Introduced in House

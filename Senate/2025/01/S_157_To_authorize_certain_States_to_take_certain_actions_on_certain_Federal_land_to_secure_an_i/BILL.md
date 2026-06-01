@@ -1,0 +1,105 @@
+# S 157: CONTAINER Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-01-21
+- Latest action: 2025-01-21 - Introduced in Senate
+- Policy area: Public Lands and Natural Resources
+- Sponsor: Sen. Blackburn, Marsha [R-TN]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/157
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Creating Obstructions Necessary to Address Illegal and Nefarious Entry Rapidly Act or CONTAINER Act**
+
+This bill requires the Department of the Interior and the Forest Service to allow border states to place temporary, movable structures on federal lands adjacent to the U.S.-Canada and U.S.-Mexico borders without a special use authorization.
+
+Border states may place these structures on such lands for the purpose of securing the northern or southern border for a period of not more than one year. Interior and the Forest Service must approve extension requests in 90-day increments if U.S. Customs and Border Protection determines that operational control of the border area has not been achieved.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-01-21
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s157is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-01-21
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s157is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 157
+IN THE SENATE OF THE UNITED STATES
+January 21, 2025 Mrs. Blackburn (for herself, Mr. Cassidy , Mr. Cramer , and Mr. Cruz ) introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources
+A BILL
+To authorize certain States to take certain actions on certain Federal land to secure an international border of the United States, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Creating Obstructions Necessary To Address Illegal and Nefarious Entry Rapidly Act or the CONTAINER Act .
+#### 2. Placement of movable, temporary structures on certain Federal land to secure an international border of the United States
+##### (a) Definitions
+In this section:
+**(1) Border state**
+The term Border State means a State that is adjacent to the northern border or southern border.
+**(2) Federal land**
+The term Federal land means land under the jurisdiction and management of a Federal land management agency that is adjacent to the northern border or southern border.
+**(3) Federal land management agency**
+The term Federal land management agency means—
+**(A)**
+the Bureau of Indian Affairs;
+**(B)**
+the Bureau of Land Management;
+**(C)**
+the Bureau of Reclamation;
+**(D)**
+the Forest Service;
+**(E)**
+the United States Fish and Wildlife Service; and
+**(F)**
+the National Park Service.
+**(4) Northern border**
+The term northern border means the international border between the United States and Canada.
+**(5) Operational control**
+The term operational control has the meaning given such term in section 2(b) of the Secure Fence Act of 2006 ( 8 U.S.C. 1701 note; Public Law 109–367 ).
+**(6) Secretary concerned**
+The term Secretary concerned means—
+**(A)**
+the Secretary of the Interior, with respect to Federal land under the jurisdiction and management of the Secretary of the Interior, acting through, as applicable—
+**(i)**
+the Director of the Bureau of Indian Affairs;
+**(ii)**
+the Director of the Bureau of Land Management;
+**(iii)**
+the Commissioner of Reclamation;
+**(iv)**
+the Director of the United States Fish and Wildlife Service; and
+**(v)**
+the Director of the National Park Service; and
+**(B)**
+the Secretary of Agriculture, with respect to National Forest System land, acting through the Chief of the Forest Service.
+**(7) Southern border**
+The term southern border means the international border between the United States and Mexico.
+##### (b) Special use authorization
+Subject to subsection (c), the Secretary concerned shall not require a Border State to obtain a special use authorization for the temporary placement on Federal land within the Border State of a movable, temporary structure for the purpose of securing the northern border or southern border, if the Border State submits to the Secretary concerned notice of the proposed placement not later than 45 days before the date of the proposed placement.
+##### (c) Temporary placement
+**(1) In general**
+A movable, temporary structure described in subsection (b) may be placed by a Border State on Federal land in accordance with that subsection for a period of not more than 1 year, subject to paragraph (2).
+**(2) Extension**
+**(A) In general**
+The period described in paragraph (1) may be extended in 90-day increments, on approval by the Secretary concerned.
+**(B) Consultation required**
+The Secretary concerned shall consult with the Commissioner of U.S. Customs and Border Protection for purposes of determining whether to approve an extension under subparagraph (A).
+**(C) Approval**
+The Secretary concerned shall approve a request for an extension under this paragraph if the Commissioner of U.S. Customs and Border Protection determines that operational control has not been achieved as of the date of the consultation required under subparagraph (B).
+
+
+## Timeline
+
+- 2025-01-21: Introduced in Senate
+- 2025-01-21 - IntroReferral: Introduced in Senate
+- 2025-01-21 - IntroReferral: Read twice and referred to the Committee on Energy and Natural Resources.
+- Latest action: 2025-01-21: Introduced in Senate

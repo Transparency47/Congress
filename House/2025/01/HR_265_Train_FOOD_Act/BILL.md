@@ -1,0 +1,64 @@
+# HR 265: Train FOOD Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-01-09
+- Latest action: 2025-01-09 - Introduced in House
+- Policy area: Transportation and Public Works
+- Sponsor: Rep. Cohen, Steve [D-TN-9]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hr/265
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Train Furtherance of Outstanding Onboard Dining Act or the Train FOOD Act**
+
+This bill directs Amtrak to establish an advisory committee to provide internal review for Amtrak's implementation of the Amtrak Food and Beverage Working Group (FBWG) recommendations to improve onboard food and beverage service.
+
+The Amtrak advisory committee must submit an annual report to Congress on the status of Amtrak's implementation of each of the FBWG recommendations. The advisory committee's annual reports must be publicly available on an Amtrak website.
+
+In addition, the Government Accountability Office must submit a report to Congress describing Amtrak's progress in implementing each FBWG report recommendation.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-01-09
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr265ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-01-09
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr265ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 265
+IN THE HOUSE OF REPRESENTATIVES
+January 9, 2025 Mr. Cohen introduced the following bill; which was referred to the Committee on Transportation and Infrastructure
+A BILL
+To amend title 49, United States Code, to require Amtrak to submit to Congress an annual report with respect to the implementation of certain recommendations of the Amtrak Food and Beverage Working Group for improving the food and beverage service of Amtrak, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Train Furtherance of Outstanding Onboard Dining Act or the Train FOOD Act .
+#### 2. Oversight of implementation by Amtrak of recommendations of Amtrak Food and Beverage Working Group
+##### (a) Annual Amtrak report
+Section 24321 of title 49, United States Code, is amended—
+**(1)**
+by redesignating subsection (d) as subsection (f); and
+**(2)**
+by inserting after subsection (c) the following new subsections:
+(d) Implementation advisory committee (1) Establishment Not later than 1 year after the date of enactment of the Train Furtherance of Outstanding Onboard Dining Act , Amtrak shall establish an advisory committee to provide internal review with respect to the implementation by Amtrak of the recommendations contained in the report under subsection (b). (2) Membership The advisory committee shall consist of individuals representing— (A) Amtrak; (B) the labor organizations representing Amtrak employees who prepare or provide on-board food and beverage service; (C) nonprofit organizations representing Amtrak passengers; and (D) States that are providing funding for State-supported routes. (3) Termination The advisory committee shall terminate on the date on which Amtrak submits the final report required under subsection (e)(1). (e) Annual implementation status report (1) Annual report Not later than 1 year after the date of enactment of the Train Furtherance of Outstanding Onboard Dining Act and annually thereafter until such time as all recommendations contained in the report under subsection (b) are implemented by Amtrak or determined by Amtrak to be impractical or impossible to implement, Amtrak shall— (A) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the implementation of each such recommendation; and (B) make the report available on a publicly accessible website of Amtrak. (2) Report contents Each report under paragraph (1) shall include— (A) a description of the progress made by Amtrak in implementing each recommendation contained in the report under subsection (b); (B) identification of each such recommendation for which implementation is complete; (C) identification of each such recommendation that Amtrak determines to be impractical or impossible to implement; (D) for each recommendation identified under subparagraph (C)— (i) the justification for the determination that the recommendation is impractical or impossible to implement; and (ii) if the justification is all, or in part, attributable to insufficient funding, an estimated cost of implementing the recommendation; (E) a description of how, if at all, food and beverage service of Amtrak has changed— (i) if in the initial report, since the date of enactment of the Train Furtherance of Outstanding Onboard Dining Act ; and (ii) if in a subsequent report, since the date on which the previous report was finalized; and (F) comments submitted by the advisory committee to Amtrak regarding the information included under subparagraphs (A) through (E). .
+##### (b) GAO report
+Not later than 2 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the progress made by Amtrak in implementing each recommendation contained in the report under section 24321(b) of title 49, United States Code.
+
+
+## Timeline
+
+- 2025-01-09: Introduced in House
+- 2025-01-09 - IntroReferral: Introduced in House
+- 2025-01-09 - IntroReferral: Introduced in House
+- 2025-01-09 - IntroReferral: Referred to the House Committee on Transportation and Infrastructure.
+- 2025-01-10 - Committee: Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- Latest action: 2025-01-09: Introduced in House

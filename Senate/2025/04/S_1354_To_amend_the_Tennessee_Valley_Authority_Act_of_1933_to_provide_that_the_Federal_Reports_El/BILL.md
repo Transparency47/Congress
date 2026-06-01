@@ -1,0 +1,98 @@
+# S 1354: Tennessee Valley Authority Salary Transparency Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-04-08
+- Latest action: 2025-04-08 - Introduced in Senate
+- Policy area: Government Operations and Politics
+- Sponsor: Sen. Blackburn, Marsha [R-TN]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/s/1354
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-04-08
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1354is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-04-08
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1354is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1354
+IN THE SENATE OF THE UNITED STATES
+April 8, 2025 Mrs. Blackburn (for herself and Mr. Hagerty ) introduced the following bill; which was read twice and referred to the Committee on Environment and Public Works
+A BILL
+To amend the Tennessee Valley Authority Act of 1933 to provide that the Federal Reports Elimination and Sunset Act of 1995 does not apply to certain reports required to be submitted by the Tennessee Valley Authority, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Tennessee Valley Authority Salary Transparency Act .
+#### 2. Salary disclosure; exception to report elimination
+##### (a) In general
+Section 9 of the Tennessee Valley Authority Act of 1933 ( 16 U.S.C. 831h ) is amended—
+**(1)**
+by striking the section designation and all that follows through (a) The Board in subsection (a) and inserting the following:
+9. Financial reporting (a) Report on compensation (1) In general Except as provided in paragraph (2), the Board ;
+**(2)**
+in subsection (a)—
+**(A)**
+in paragraph (1) (as so designated), by striking a financial statement in the first sentence and all that follows through the period at the end of the second sentence and inserting a report describing the total number of employees of the Corporation at the management level or above (including all executives and Board members), including the name, salary, and duties of each such employee, that are receiving compensation equal to, or greater than, the maximum rate of basic pay for grade GS–15 of the General Schedule. ; and
+**(B)**
+by adding at the end the following:
+(2) Exemption Any information relating to salaries of employees of the Corporation contained in, or filed with, a report under paragraph (1) shall be exempt from— (A) disclosure under section 552(b)(3) of title 5, United States Code; and (B) the requirements of the Access to Congressionally Mandated Reports Act (44 U.S.C. prec. 4101 note; Public Law 117–263 ). ;
+**(3)**
+in subsection (b), by striking (b) All and inserting the following:
+(b) Bids All ;
+**(4)**
+in subsection (c)—
+**(A)**
+in the first sentence—
+**(i)**
+by striking he shall and inserting the Comptroller General shall ; and
+**(ii)**
+by striking of his selection and inserting selected by the Comptroller General ;
+**(B)**
+in the second sentence, by striking connection he and his representatives and inserting an audit, the Comptroller General (and any representative of the Comptroller General) ;
+**(C)**
+in the third sentence—
+**(i)**
+by striking He shall and inserting The Comptroller General shall ; and
+**(ii)**
+in the proviso—
+**(I)**
+by striking General Accounting Office and inserting Government Accountability Office ; and
+**(II)**
+by striking his report and inserting the report ;
+**(D)**
+in the fourth sentence, by striking General Accounting Office and inserting Government Accountability Office ; and
+**(E)**
+in the fifth sentence—
+**(i)**
+by striking section 236, Revised Statutes, as amended by section 305 of the Budget and Accounting Act, 1921 (42 Stat. 24) and inserting sections 3526(a) and 3702(a) of title 31, United States Code ; and
+**(ii)**
+in the proviso—
+**(I)**
+by striking the Tennessee Valley Authority Act of 1933, as amended and inserting this Act ;
+**(II)**
+by striking it may deem and inserting the Corporation determines to be ;
+**(III)**
+by striking General Accounting Office and inserting Government Accountability Office ; and
+**(IV)**
+by striking said Act and inserting this Act ; and
+**(5)**
+in subsection (d), by striking the Tennessee Valley Authority Act of 1933, as amended and inserting this Act .
+##### (b) Conforming amendment
+Section 14 of the Tennessee Valley Authority Act of 1933 ( 16 U.S.C. 831m ) is amended, in the last sentence, by striking and in addition to the statement of the cost of power and all that follows through for the sale of power .
+
+
+## Timeline
+
+- 2025-04-08: Introduced in Senate
+- 2025-04-08 - IntroReferral: Introduced in Senate
+- 2025-04-08 - IntroReferral: Read twice and referred to the Committee on Environment and Public Works.
+- Latest action: 2025-04-08: Introduced in Senate

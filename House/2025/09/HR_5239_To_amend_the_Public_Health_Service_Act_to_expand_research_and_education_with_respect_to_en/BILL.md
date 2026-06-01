@@ -1,0 +1,70 @@
+# HR 5239: Endometrial Cancer Research and Education Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-09-09
+- Latest action: 2025-09-09 - Introduced in House
+- Policy area: Health
+- Sponsor: Rep. Scott, David [D-GA-13]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/5239
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-09-09
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5239ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-09-09
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5239ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 5239
+IN THE HOUSE OF REPRESENTATIVES
+September 9, 2025 Mr. David Scott of Georgia (for himself, Ms. Clarke of New York , Ms. Brown , Mr. Johnson of Louisiana , Ms. Moore of Wisconsin , Ms. Norton , Ms. Sewell , and Mr. Tonko ) introduced the following bill; which was referred to the Committee on Energy and Commerce
+A BILL
+To amend the Public Health Service Act to expand research and education with respect to endometrial cancer, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Endometrial Cancer Research and Education Act of 2025 .
+#### 2. Findings
+Congress finds the following:
+**(1)**
+Endometrial cancer is cancer of the lining of the uterus (or endometrium) and is the most common form of uterine cancer.
+**(2)**
+Endometrial cancer is the fourth most common cancer diagnosed in women, after breast, lung, and colon cancer.
+**(3)**
+Endometrial cancer mainly affects postmenopausal women, with most women diagnosed between age 55 and 64.
+**(4)**
+Women with polycystic ovary syndrome (PCOS) and uterine leiomyoma have an increased risk of developing endometrial cancer.
+**(5)**
+Unlike most other types of cancer, the incidence of endometrial cancer, particularly aggressive subtypes of such cancer, has been increasing in the United States among all women, particularly among African-American and Asian women, with a 2.5 annual percent change for both groups.
+**(6)**
+In comparison to non-Hispanic White women, African-American women have significantly higher incidence rates of aggressive endometrial cancers.
+**(7)**
+Such incidence rates for Hispanic and Asian women are equal to or lower than such incidence rates for non-Hispanic White women.
+**(8)**
+Although non-Hispanic White women are more likely to be diagnosed with endometrial cancer in comparison to African-American women, the rate of mortality is higher for African-American women.
+**(9)**
+Currently, the cause of such disparity is unknown. Researchers are proposing investigative studies that link this disparity to the relationship between delays in care, aggressive late-stage diagnosis, and the time between diagnosis and beginning treatment protocol for their cancer type. These factors are often exacerbated by socioeconomic conditions that affect access to innovative treatment, treatment completion, patient-reported outcomes, and overall quality of life.
+#### 3. Expanding research and education with respect to endometrial cancer
+##### (a) National Institutes of Health
+Part B of title IV of the Public Health Service Act ( 42 U.S.C. 284 et seq. ) is amended by adding at the end the following:
+409K. Endometrial cancer (a) In general The Director of NIH shall— (1) expand, intensify, and coordinate programs to conduct and support research with respect to endometrial cancer; (2) communicate to medical professionals and researchers, including through the endometrial cancer public education program established under section 399V–8, the disparity in the diagnosis of endometrial cancer between African-American women and non-Hispanic White women and any new research relating to endometrial cancer; and (3) ensure that African-American women are represented in clinical trials conducted or supported by the National Institutes of Health with respect to endometrial cancer in appropriate proportion to incidence rates of such cancer for African-American women. (b) Coordination with other institutes The Director of NIH shall coordinate activities carried out by the Director pursuant to subsection (a) with similar activities carried out by— (1) the Director of the Eunice Kennedy Shriver National Institute of Child Health and Human Development; (2) the Director of the National Institute on Minority Health and Health Disparities; and (3) the Director of the Office of Research on Women’s Health. (c) Authorization of appropriations For purposes of carrying out this section, there is authorized to be appropriated $1,000,000 for each of fiscal years 2026 through 2028. .
+##### (b) Centers for Disease Control and Prevention
+Part P of title III of the Public Health Service Act ( 42 U.S.C. 280g et seq. ) is amended by adding at the end the following:
+399V–8. Endometrial Cancer Public Education Program (a) In general The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall develop and disseminate to the public informational materials on endometrial cancer, including the incidence rate of such cancer, the risk factors for developing such cancer, the increased risk for ethnic minority women to develop such cancer, and the range of available treatments for such cancer. Any informational material developed pursuant to the previous sentence may be transmitted to a nonprofit organization; institution of higher education; Federal, State, or local agency; or media entity for purposes of disseminating such material to the public. (b) Inclusion The informational materials under subsection (a) shall include materials targeted toward African-American women. (c) Consultation In developing and disseminating informational materials under subsection (a), the Director of the Centers for Disease Control and Prevention shall consult with the Administrator of the Health Resources and Services Administration. (d) Authorization of appropriations For purposes of carrying out this section, there is authorized to be appropriated such sums as may be necessary for each of fiscal years 2026 through 2028. .
+
+
+## Timeline
+
+- 2025-09-09: Introduced in House
+- 2025-09-09 - IntroReferral: Introduced in House
+- 2025-09-09 - IntroReferral: Introduced in House
+- 2025-09-09 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2025-09-09: Introduced in House

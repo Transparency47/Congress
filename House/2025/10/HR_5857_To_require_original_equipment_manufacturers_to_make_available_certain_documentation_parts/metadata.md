@@ -1,0 +1,281 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/5857?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/5857
+- Title: FARM Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 5857
+- Origin chamber: House
+- Introduced date: 2025-10-28
+- Update date: 2025-12-08T16:38:46Z
+- Update date including text: 2025-12-08T16:38:46Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-10-28: Introduced in House
+- 2025-10-28 - IntroReferral: Introduced in House
+- 2025-10-28 - IntroReferral: Introduced in House
+- 2025-10-28 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2025-10-28: Introduced in House
+
+## Actions
+
+- 2025-10-28 - IntroReferral: Introduced in House
+- 2025-10-28 - IntroReferral: Introduced in House
+- 2025-10-28 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-10-28",
+    "latestAction": {
+      "actionDate": "2025-10-28",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5857",
+    "number": "5857",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Agriculture and Food"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000600",
+        "district": "3",
+        "firstName": "Marie",
+        "fullName": "Rep. Perez, Marie Gluesenkamp [D-WA-3]",
+        "lastName": "Perez",
+        "party": "D",
+        "state": "WA"
+      }
+    ],
+    "title": "FARM Act",
+    "type": "HR",
+    "updateDate": "2025-12-08T16:38:46Z",
+    "updateDateIncludingText": "2025-12-08T16:38:46Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-10-28",
+      "committees": {
+        "item": {
+          "name": "Energy and Commerce Committee",
+          "systemCode": "hsif00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-10-28",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-10-28",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-10-28T17:04:15Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "N000191",
+      "district": "2",
+      "firstName": "Joe",
+      "fullName": "Rep. Neguse, Joe [D-CO-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Neguse",
+      "party": "D",
+      "sponsorshipDate": "2025-10-28",
+      "state": "CO"
+    },
+    {
+      "bioguideId": "P000597",
+      "district": "1",
+      "firstName": "Chellie",
+      "fullName": "Rep. Pingree, Chellie [D-ME-1]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Pingree",
+      "party": "D",
+      "sponsorshipDate": "2025-10-31",
+      "state": "ME"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5857ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 5857\nIN THE HOUSE OF REPRESENTATIVES\nOctober 28, 2025 Ms. Perez (for herself and Mr. Neguse ) introduced the following bill; which was referred to the Committee on Energy and Commerce\nA BILL\nTo require original equipment manufacturers to make available certain documentation, parts, software, and tools with respect to farm equipment, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Freedom for Agricultural Repair and Maintenance Act or the FARM Act .\n#### 2. Definitions\nIn this Act:\n**(1) Authorized repair provider**\nThe term authorized repair provider \u2014\n**(A)**\nmeans, with respect to farm equipment of an original equipment manufacturer, a person that has an arrangement with an OEM under which the OEM grants such person a license to use a trade name, service mark, or other proprietary identifier for the purposes of offering diagnosis, maintenance, or repair services for the farm equipment on behalf of such person or the OEM; and\n**(B)**\nincludes, with respect to farm equipment, an OEM who offers diagnosis, maintenance, or repair services for the farm equipment that the OEM manufactures or offers for sale.\n**(2) Commonly available**\nThe term commonly available means any item that is commercially available for purchase from more than a single seller and is not solely made available by an OEM for use on such OEM's products.\n**(3) Documentation**\nThe term documentation means any manual, diagram, reporting output, service code description, schematic, library of diagnosed issues, software bill of material, or other guidance or information used in effecting the services of diagnosis, maintenance, or repair of farm equipment.\n**(4) Farm equipment**\nThe term farm equipment means equipment that is designed primarily for use in a farm operation, including any combine, tractor, sprayer, pivot, implement, or attachment, including attachments and repair parts thereof used in the planting, cultivating, irrigating, harvesting, or ranching of agricultural products, excluding self-propelled machines designed primarily for the transportation of persons or property on a street or highway.\n**(5) Farm equipment data**\nThe term farm equipment data means transmitted or compiled information arising from the operation of farm equipment or any part of farm equipment.\n**(6) Fair and reasonable terms**\nThe term fair and reasonable terms means a part, tool, software, or documentation that is made available either directly from an OEM or through an authorized repair provider and, with respect to a part, tool, software, or documentation, the following:\n**(A) Parts**\nFor parts, the following:\n**(i) Costs**\nCosts that are fair to both parties, considering the agreed-upon conditions, promised quality, and timeliness of delivery.\n**(ii) Terms**\nTerms that\u2014\n**(I)**\ndo not impose on an owner or an independent repair provider any substantial obligation to use or any restriction on the use of the part to diagnose, maintain, upgrade, reprogram, or repair farm equipment sold, leased, or otherwise supplied by the manufacturer, including a condition that the owner or independent repair provider become an authorized repair provider of the manufacturer, or a requirement that a part be registered, paired with, or approved by the manufacturer or an authorized repair provider before such part is operational; and\n**(II)**\nprohibit a manufacturer from imposing any additional cost or burden that is not reasonably necessary or is designed to be an impediment on the owner or independent repair provider.\n**(B) Tools**\nFor tools, the following:\n**(i) Costs for equipment owners**\nNo charge for the tool, except for a case in which a tool is requested in physical form, a charge may be included for the reasonable actual costs of preparing and sending the tool.\n**(ii) Costs for independent repair providers**\nCosts that are equivalent to the lowest actual cost for which the manufacturer offers the tool to an authorized repair provider, including any discount, rebate, or other financial incentive offered to an authorized repair provider.\n**(iii) Terms**\nTerms that\u2014\n**(I)**\nare equivalent to the most favorable terms under which a manufacturer offers the tools to an authorized repair provider, including the methods and timeliness of delivery of the tools;\n**(II)**\ndo not impose on an owner or an independent repair provider any substantial obligation to use or any restriction on the use of the tool to diagnose, maintain, upgrade, reprogram, or repair farm equipment sold, leased, or otherwise supplied by the manufacturer, including a condition that the owner or independent repair provider become an authorized repair provider of the manufacturer, that the owner or independent repair provider have internet access to use the tool, or a requirement that a tool be registered, paired with, or approved by the manufacturer or an authorized repair provider before such part or tool is operational; and\n**(III)**\nprohibit a manufacturer from imposing any additional cost or burden that is not reasonably necessary or is designed to be an impediment on the owner or independent repair provider.\n**(C) Documentation**\nFor documentation, the following:\n**(i) Costs**\nNo charge for the documentation, except for a case in which documentation is requested in physical printed form, a charge may be included for the reasonable actual costs of preparing and sending the copy.\n**(ii) Terms**\nTerms that are equivalent to the most favorable terms under which a manufacturer offers the documentation to an authorized repair provider, including the methods and timeliness of delivery of the part, tool, software, or documentation.\n**(7) Firmware**\nThe term firmware means a software program or set of instructions programmed on farm equipment, or on a part for such equipment, to allow the equipment or part to communicate within a networked product or system or with other computer hardware, including any relevant patch or fix made by the OEM of such equipment or part.\n**(8) Independent repair provider**\nThe term independent repair provider means, with respect to farm equipment, a person who\u2014\n**(A)**\nis not an authorized repair provider of the farm equipment; and\n**(B)**\nprovides diagnosis, maintenance, or repair services for the farm equipment.\n**(9) Maintenance**\nThe term maintenance has the meaning given such term in section 117(d) of title 17, United States Code.\n**(10) Original equipment manufacturer; OEM**\nThe term original equipment manufacturer or OEM means any person that manufactures farm equipment and sells, leases, or otherwise supplies such farm equipment to any other person.\n**(11) Owner**\nThe term owner means any person that owns or leases farm equipment other than the OEM of such farm equipment.\n**(12) Part**\nThe term part means any component or subcomponent of farm equipment that is sold, supplied, or otherwise made available by an OEM for purposes of maintaining, repairing, or diagnosing such farm equipment.\n**(13) Repair**\nThe term repair has the meaning given such term in section 117(d) of title 17, United States Code.\n**(14) Software bill of material**\nThe term software bill of material means a formal record containing the details and supply chain relationships of various components used in building software.\n**(15) Tool**\nThe term tool means any software program (including any software update), hardware implement, or other apparatus used for repair-related diagnostic testing, maintenance, or repair of farm equipment, including software or any other mechanism that provisions the farm equipment, programs the farm equipment, pairs a new part, calibrates functionality, or performs any other function required to bring the equipment back to fully functional condition.\n**(16) Trade secret**\nThe term trade secret has the meaning given such term in section 1839 of title 18, United States Code.\n#### 3. Requirements for OEMs\n##### (a) In general\nAn original equipment manufacturer shall make available, on fair and reasonable terms\u2014\n**(1)**\nto any owner or independent repair provider, any documentation, part, software, firmware, or tool intended for use in order to diagnose, maintain, upgrade, reprogram, or repair farm equipment; and\n**(2)**\nto the owner or with the authorization of the owner to an independent repair provider, any farm equipment data generated by the farm equipment of the owner.\n##### (b) Disabling security functions\nAn OEM shall make available to any owner or independent repair provider, on fair and reasonable terms, any documentation, part, software, or tool required to disable or enable a technological protection measure or other security-related function of farm equipment.\n##### (c) Interaction with copyright laws\n**(1) In general**\nNotwithstanding section 1201(a) of title 17, United States Code, a person may circumvent a technological measure that effectively controls access to a work protected under such title in connection with an activity protected under this Act if the purpose of such circumvention is\u2014\n**(A)**\nto diagnose, maintain, upgrade, reprogram, or repair farm equipment;\n**(B)**\nto the extent not provided for in section 1201(f) of title 17, United States Code, to enable interoperability with any computer program contained in and that controls the functioning of farm equipment or any product used to diagnose, maintain, upgrade, reprogram, or repair farm equipment;\n**(C)**\nto the extent not provided for in subsections (g) and (j) of section 1201 of title 17, United States Code, to conduct security research relating to farm equipment; or\n**(D)**\nto enable non-infringing modifications of any computer program contained in and that controls the functioning of farm equipment or any device used to diagnose, maintain, upgrade, reprogram, or repair farm equipment.\n**(2) Access to circumvention technologies**\nNotwithstanding subsection (a) or (b) of section 1201 of title 17, United States Code, a person may, for the purposes described in paragraph (1), manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, device, component, or part thereof that is primarily designed or produced for the purpose of or use in circumventing\u2014\n**(A)**\na technological measure that effectively controls access to a work protected under such title; or\n**(B)**\nany protection afforded by a technological measure that effectively protects a right of a copyright owner under such title in a work or a portion thereof.\n##### (d) Ensuring common availability\n**(1) In general**\nAn OEM that stops offering any documentation, part, software, or tool to any authorized repair provider, independent repair provider, or equipment owner shall be subject to civil penalties under section 4(c).\n**(2) Replacement**\nAn OEM shall ensure that any part required by the OEM's farm equipment can be replaced without causing damage to the equipment using\u2014\n**(A)**\na commonly available tool; or\n**(B)**\na tool that is not commonly available that is made available to owners or independent repair providers by the OEM on fair and reasonable terms.\n#### 4. Enforcement\n##### (a) Unfair or deceptive acts or practices\nA violation of section 3 or a regulation promulgated under this Act shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act ( 15 U.S.C. 57a(a)(1)(B) ).\n##### (b) Powers of the Commission\n**(1) In general**\nThe Commission shall enforce this Act and any regulations promulgated under this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ( 15 U.S.C. 41 et seq. ) were incorporated into and made a part of this Act.\n**(2) Privileges and immunities**\nSubject to subsection (c), any person who violates section 3 or a regulation promulgated under this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act ( 15 U.S.C. 41 et seq. ).\n**(3) Authority preserved**\nNothing in this Act shall be construed to limit the authority of the Commission under any other provision of law.\n##### (c) Additional penalties and authority\nIn addition to the authority and penalties provided in the Federal Trade Commission Act ( 15 U.S.C. 41 et seq. ), an OEM who violates section 3(d)(1) shall be subject to a civil penalty\u2014\n**(1)**\nfor the first violation, in an amount of $1,000 for each day such OEM was in violation;\n**(2)**\nfor the second violation, in an amount of $2,000 for each day such OEM was in violation; and\n**(3)**\nfor the third and subsequent violations, in an amount of $5,000 for each day such OEM was in violation.\n#### 5. Rulemaking\n##### (a) In general\nThe Commission shall promulgate rules as may be necessary to carry out this Act in accordance with section 553 of title 5, United States Code.\n##### (b) Clean Air Act\nThe Commission shall promulgate rules that are consistent with the Clean Air Act ( 42 U.S.C. 7401 et seq. ) and any related regulation, including paragraphs (1) and (6) of section 1068.101(b) of title 40, Code of Federal Regulations (or a successor regulation).\n#### 6. Limitations\nNothing in this Act may be construed\u2014\n**(1)**\nto require an OEM to divulge trade secrets to an owner or an independent service provider, except as necessary to provide access to repair material or process on fair and reasonable terms, consistent with this Act;\n**(2)**\nto alter the terms of an agreement between an OEM and an authorized repair provider, except with respect to any provision of such an agreement that would limit the obligations of an OEM under this Act;\n**(3)**\nto require an authorized repair provider to make any documentation, part, or tool for farm equipment made by an OEM with which the authorized repair provider does not have an arrangement described in section 2(1);\n**(4)**\nto require an OEM to provide any part or equipment solely used in the development of their products; or\n**(5)**\nto allow\u2014\n**(A)**\nany modification that permanently deactivates a safety notification system when farm equipment is being repaired;\n**(B)**\naccess to any function of a tool that enables the owner or independent repair provider to change the settings of farm equipment so as to bring the equipment permanently out of compliance with any applicable safety or emissions laws;\n**(C)**\nany violation of emissions laws or copyright laws; or\n**(D)**\nany other illegal modification activities.",
+      "versionDate": "2025-10-28",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-10-28",
+        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+      },
+      "number": "3068",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "FARM Act",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Agriculture and Food",
+        "updateDate": "2025-11-25T16:37:01Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-10-28",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5857ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "FARM Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-10-29T08:53:18Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "FARM Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-10-29T08:53:17Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Freedom for Agricultural Repair and Maintenance Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-10-29T08:53:17Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To require original equipment manufacturers to make available certain documentation, parts, software, and tools with respect to farm equipment, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-10-29T08:48:51Z"
+    }
+  ]
+}
+```

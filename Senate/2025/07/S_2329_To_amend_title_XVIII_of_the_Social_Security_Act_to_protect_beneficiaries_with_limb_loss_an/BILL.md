@@ -1,0 +1,60 @@
+# S 2329: Medicare Orthotics and Prosthetics Patient-Centered Care Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-07-17
+- Latest action: 2025-07-17 - Introduced in Senate
+- Policy area: Health
+- Sponsor: Sen. Warner, Mark R. [D-VA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/2329
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-07-17
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2329is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-07-17
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2329is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 2329
+IN THE SENATE OF THE UNITED STATES
+July 17, 2025 Mr. Warner (for himself and Mr. Daines ) introduced the following bill; which was read twice and referred to the Committee on Finance
+A BILL
+To amend title XVIII of the Social Security Act to protect beneficiaries with limb loss and other orthopedic conditions by providing access to appropriate, safe, effective, patient-centered orthotic and prosthetic care, to reduce fraud, waste, and abuse with respect to orthotics and prosthetics, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Medicare Orthotics and Prosthetics Patient-Centered Care Act .
+#### 2. Increasing protections for Medicare beneficiaries receiving orthotic and prosthetic care
+##### (a) Prohibition on payment for items delivered by drop shipment
+Section 1834(h)(1) of the Social Security Act ( 42 U.S.C. 1395m(h)(1) ) is amended by adding at the end the following new subparagraph:
+(I) Prohibition on payment for certain items furnished using a drop shipment (i) In general No payment may be made under this subsection for an item described in clause (ii) furnished to an individual via a drop shipment on or after the first day of the first year beginning after the date of the enactment of this subparagraph. (ii) Items described The items described in this clause are orthotics and prosthetics, not including supplies for such orthotics and prosthetics, that are identified by HCPCS codes for which payment is not made under section 1847. (iii) Drop shipment defined In this subparagraph, the term drop shipment means, with respect to an item described in clause (ii), the direct shipment of such item to an individual who has not received training or education from a qualified practitioner (as defined in subparagraph (F)(iii)) on the fitting and adjustment, care, and use of such item. .
+##### (b) Additional practitioners exempt from competitive acquisition
+Section 1847(a)(7)(A)(i) of the Social Security Act ( 42 U.S.C. 1395w–3(a)(7)(A)(i) ) is amended—
+**(1)**
+by inserting , physical therapist, occupational therapist, orthotist, prosthetist, after by a physician ; and
+**(2)**
+by striking the physician’s each place it appears and inserting such physician’s in each such place.
+##### (c) Ensuring beneficiary access to replacement custom-Fitted orthotics and custom-Fabricated orthotic devices
+Section 1834(h)(1)(G) of the Social Security Act ( 42 U.S.C. 1395m(h)(1)(G) ) is amended—
+**(1)**
+in the heading, by inserting , custom-fitted orthotics, custom-fabricated orthotics , after Replacement of prosthetic devices ; and
+**(2)**
+in clause (i), by inserting replacement of custom-fitted orthotics, replacement of items of custom-fabricated orthotics described in subparagraph (F)(ii), after which are artificial limbs, .
+##### (d) Regulations
+Not later than 1 year after the date of the enactment of this Act, the Secretary of Health and Human Services shall promulgate final regulations to implement the amendments made by this section.
+
+
+## Timeline
+
+- 2025-07-17: Introduced in Senate
+- 2025-07-17 - IntroReferral: Introduced in Senate
+- 2025-07-17 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2025-07-17: Introduced in Senate

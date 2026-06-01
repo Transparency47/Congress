@@ -1,0 +1,126 @@
+# S 389: Setting Consumer Standards for Lithium-Ion Batteries Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-02-04
+- Latest action: 2025-02-04 - Introduced in Senate
+- Policy area: Commerce
+- Sponsor: Sen. Gillibrand, Kirsten E. [D-NY]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/389
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Setting Consumer Standards for Lithium-Ion Batteries Act**
+
+This bill requires the Consumer Product Safety Commission to issue a final consumer product safety rule for rechargeable lithium-ion batteries used in micromobility devices, such as electric bikes and electric scooters.
+
+Specifically, the rule must require manufacturers and distributors of such products to comply with the applicable safety standards jointly established by the American National Standards Institute, the Standards Council of Canada, and UL Solutions Inc.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-02-04
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s389is.xml
+
+### Reported in Senate
+- Date: 2025-07-29
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s389rs.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-02-04
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s389is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 389
+IN THE SENATE OF THE UNITED STATES
+February 4, 2025 Mrs. Gillibrand (for herself, Mrs. Blackburn , Mrs. Fischer , and Mr. Schumer ) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+A BILL
+To establish consumer standards for lithium-ion batteries.
+#### 1. Short title
+This Act may be cited as the Setting Consumer Standards for Lithium-Ion Batteries Act .
+#### 2. Consumer product safety standard for certain batteries
+##### (a) Consumer product safety standard required
+Not later than 180 days after the date of the enactment of this Act, the Consumer Product Safety Commission (referred to in this section as the Commission ) shall promulgate, under section 553 of title 5, United States Code, the provisions of ANSI/CAN/UL 2271–Standard for Batteries for Use in Light Electric Vehicle Applications, ANSI/CAN/UL 2849–Standard for Safety for Electrical Systems for eBikes, and ANSI/CA/UL 2272–Standard for Electrical Systems for Personal E-Mobility Devices, as in effect on the date of enactment of this Act, as final consumer product safety standards.
+##### (b) Consumer Product Safety Commission determination of scope
+In adopting the standards under subsection (a), the Commission shall limit the application of such standards to consumer products as defined in section 3(a)(5) of the Consumer Product Safety Act ( 15 U.S.C. 2052(a)(5) ).
+##### (c) Revision of voluntary standards
+**(1) Notice to Commission**
+If the provisions of ANSI/CAN/UL 2271–Standard for Batteries for Use in Light Electric Vehicle Applications, ANSI/CAN/UL 2849–Standard for Safety for Electrical Systems for eBikes, or ANSI/CAN/UL 2272–Standard for Electrical Systems for Personal E-Mobility Devices, are revised following the enactment of this Act, the organization that revised the requirements of such standard shall notify the Commission after the final approval of the revision.
+**(2) Treatment of revision**
+The revised voluntary standard shall be considered to be a consumer product safety standard issued by the Commission under section 9 of the Consumer Product Safety Act ( 15 U.S.C. 2058 ), effective 180 days after the date on which the organization notifies the Commission (or such later date specified by the Commission in the Federal Register) unless, within 90 days after receiving that notice, the Commission notifies the organization that it has determined that the proposed revision, in whole or in part, does not improve the safety of the consumer product covered by the standard and that the Commission is retaining the existing consumer product safety standard.
+##### (d) Treatment of standard
+A standard promulgated under this section, including a revision of such standard adopted by the Commission, shall be treated as a consumer product safety rule promulgated under section 9 of the Consumer Product Safety Act ( 15 U.S.C. 2058 ).
+##### (e) Report to Congress
+**(1) In general**
+Not later than 5 years after the date of enactment of this Act, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report regarding fires, explosions, and other hazards relating to lithium-ion batteries used in micromobility products during the period beginning on the date of enactment of this Act and ending on the report date.
+**(2) Content**
+The report required by paragraph (1) shall describe, at a minimum—
+**(A)**
+the source of the information that was provided to the Commission regarding the fire, explosion, or other hazard;
+**(B)**
+the make and model of the lithium-ion battery and micromobility product that resulted in a fire, explosion, or other hazard, if known;
+**(C)**
+whether a lithium-ion battery involved in a fire, explosion, or other hazard complied with the standard required by this section, if known; and
+**(D)**
+if known, the manufacturer and country of manufacture of a lithium-ion battery that resulted in a fire, explosion, or other hazard.
+
+### Reported in Senate
+- Date: 2025-07-29
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s389rs.xml
+
+II
+Calendar No. 133
+119th CONGRESS
+1st Session
+S. 389
+[Report No. 119–50]
+IN THE SENATE OF THE UNITED STATES
+February 4, 2025 Mrs. Gillibrand (for herself, Mrs. Blackburn , Mrs. Fischer , and Mr. Schumer ) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+July 29, 2025 Reported by Mr. Cruz , with an amendment Insert the part printed in italic
+A BILL
+To establish consumer standards for lithium-ion batteries.
+#### 1. Short title
+This Act may be cited as the Setting Consumer Standards for Lithium-Ion Batteries Act .
+#### 2. Consumer product safety standard for certain batteries
+##### (a) Consumer product safety standard required
+Not later than 180 days after the date of the enactment of this Act, the Consumer Product Safety Commission (referred to in this section as the Commission ) shall promulgate, under section 553 of title 5, United States Code, the provisions of ANSI/CAN/UL 2271–Standard for Batteries for Use in Light Electric Vehicle Applications, ANSI/CAN/UL 2849–Standard for Safety for Electrical Systems for eBikes, and ANSI/CA N /UL 2272–Standard for Electrical Systems for Personal E-Mobility Devices, as in effect on the date of enactment of this Act, as final consumer product safety standards.
+##### (b) Consumer Product Safety Commission determination of scope
+In adopting the standards under subsection (a), the Commission shall limit the application of such standards to consumer products as defined in section 3(a)(5) of the Consumer Product Safety Act ( 15 U.S.C. 2052(a)(5) ).
+##### (c) Revision of voluntary standards
+**(1) Notice to Commission**
+If the provisions of ANSI/CAN/UL 2271–Standard for Batteries for Use in Light Electric Vehicle Applications, ANSI/CAN/UL 2849–Standard for Safety for Electrical Systems for eBikes, or ANSI/CAN/UL 2272–Standard for Electrical Systems for Personal E-Mobility Devices, are revised following the enactment of this Act, the organization that revised the requirements of such standard shall notify the Commission after the final approval of the revision.
+**(2) Treatment of revision**
+The revised voluntary standard shall be considered to be a consumer product safety standard issued by the Commission under section 9 of the Consumer Product Safety Act ( 15 U.S.C. 2058 ), effective 180 days after the date on which the organization notifies the Commission (or such later date specified by the Commission in the Federal Register) unless, within 90 days after receiving that notice, the Commission notifies the organization that it has determined that the proposed revision, in whole or in part, does not improve the safety of the consumer product covered by the standard and that the Commission is retaining the existing consumer product safety standard.
+##### (d) Treatment of standard
+A standard promulgated under this section, including a revision of such standard adopted by the Commission, shall be treated as a consumer product safety rule promulgated under section 9 of the Consumer Product Safety Act ( 15 U.S.C. 2058 ).
+##### (e) Report to Congress
+**(1) In general**
+Not later than 5 years after the date of enactment of this Act, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report regarding fires, explosions, and other hazards relating to lithium-ion batteries used in micromobility products during the period beginning on the date of enactment of this Act and ending on the report date.
+**(2) Content**
+The report required by paragraph (1) shall describe, at a minimum—
+**(A)**
+the source of the information that was provided to the Commission regarding the fire, explosion, or other hazard;
+**(B)**
+the make and model of the lithium-ion battery and micromobility product that resulted in a fire, explosion, or other hazard, if known;
+**(C)**
+whether a lithium-ion battery involved in a fire, explosion, or other hazard complied with the standard required by this section, if known; and
+**(D)**
+if known, the manufacturer and country of manufacture of a lithium-ion battery that resulted in a fire, explosion, or other hazard.
+
+
+## Timeline
+
+- 2025-02-04: Introduced in Senate
+- 2025-02-04 - IntroReferral: Introduced in Senate
+- 2025-02-04 - IntroReferral: Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-03-12 - Committee: Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2025-07-29 - Committee: Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-50.
+- 2025-07-29 - Committee: Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-50.
+- 2025-07-29 - Calendars: Placed on Senate Legislative Calendar under General Orders. Calendar No. 133.
+- Latest action: 2025-02-04: Introduced in Senate

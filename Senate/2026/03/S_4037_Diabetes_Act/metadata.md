@@ -1,0 +1,231 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/s/4037?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-bill/4037
+- Title: Diabetes Act
+- Congress: 119
+- Bill type: S
+- Bill number: 4037
+- Origin chamber: Senate
+- Introduced date: 2026-03-10
+- Update date: 2026-03-30T19:41:14Z
+- Update date including text: 2026-03-30T19:41:14Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2026-03-10: Introduced in Senate
+- 2026-03-10 - IntroReferral: Introduced in Senate
+- 2026-03-10 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2026-03-10: Introduced in Senate
+
+## Actions
+
+- 2026-03-10 - IntroReferral: Introduced in Senate
+- 2026-03-10 - IntroReferral: Read twice and referred to the Committee on Finance.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-03-10",
+    "latestAction": {
+      "actionDate": "2026-03-10",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/4037",
+    "number": "4037",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001181",
+        "district": "",
+        "firstName": "Jeanne",
+        "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+        "lastName": "Shaheen",
+        "party": "D",
+        "state": "NH"
+      }
+    ],
+    "title": "Diabetes Act",
+    "type": "S",
+    "updateDate": "2026-03-30T19:41:14Z",
+    "updateDateIncludingText": "2026-03-30T19:41:14Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2026-03-10",
+      "committees": {
+        "item": {
+          "name": "Finance Committee",
+          "systemCode": "ssfi00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Finance.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2026-03-10",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-03-10T18:32:24Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "C001035",
+      "firstName": "Susan",
+      "fullName": "Sen. Collins, Susan M. [R-ME]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Collins",
+      "middleName": "M.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-10",
+      "state": "ME"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4037is.xml",
+      "text": "II\n119th CONGRESS\n2d Session\nS. 4037\nIN THE SENATE OF THE UNITED STATES\nMarch 10, 2026 Mrs. Shaheen (for herself and Ms. Collins ) introduced the following bill; which was read twice and referred to the Committee on Finance\nA BILL\nTo ensure continued access to diabetes technology upon Medicare enrollment, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Diabetes Interventions Addressing Barriers to Enrollment, Technology, and Education Services (DIABETES) Act or the Diabetes Act .\n#### 2. Findings; Sense of Congress\n##### (a) Findings\nCongress finds the following:\n**(1)**\nAccording to the Centers for Disease Control and Prevention, in 2021, an estimated 38,400,000 Americans, or 11.6 percent of the entire United States population, have diabetes.\n**(2)**\nThe total number of individuals with diabetes is projected to increase to an estimated 54,900,000 individuals by 2030.\n**(3)**\nDiabetes disproportionately impacts the Medicare population, as the Centers for Medicare & Medicaid Services found in 2022, and 26 percent of Medicare beneficiaries have diabetes.\n**(4)**\nBoth type 1 and 2 diabetes can significantly harm long-term health and is associated with numerous comorbidities such as cancer, heart disease, chronic kidney disease, blindness, and amputations.\n**(5)**\nThe direct and indirect cost of diabetes is significant as the American Diabetes Association found that the total annual cost of diabetes in 2022 was $412,900,000,000, $306,600,000,000 of which is attributable to direct medical costs.\n**(6)**\nThe American Diabetes Association and the American Association of Clinical Endocrinology have set forth clinical guidelines that include the use of continuous glucose monitors, insulin pumps, automated insulin delivery systems, and diabetes self-management training for individuals with diabetes.\n**(7)**\nAn automated insulin delivery system consists of a continuous glucose monitor, an insulin pump, and an algorithm or software.\n**(8)**\nThe algorithm or software is a critical component of an automated insulin delivery system as it continuously learns the user\u2019s behavior and physiological responses and automatically administers the appropriate amount of insulin.\n**(9)**\nMedicare currently fails to separately reimburse for the essential algorithms and software that drive automated insulin delivery (AID) systems, which may stifle future innovation and maintenance, and impede beneficiary access.\n**(10)**\nMedicare has an existing pathway to separately reimburse for the algorithm or software in an automated insulin delivery system, the Medicare durable medical equipment benefit.\n**(11)**\nIncluding continuous glucose monitors, durable insulin pumps, and related supplies into the competitive bidding program further limits innovation and access to diabetes technologies.\n**(12)**\nThe Centers for Medicare & Medicaid Services\u2019 final rule entitled Medicare and Medicaid Programs; Calendar Year 2026 Home Health Prospective Payment System (HH PPS) Rate Update; Requirements for the HH Quality Reporting Program and the HH Value-Based Purchasing Expanded Model; Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) Competitive Bidding Program Updates; DMEPOS Accreditation Requirements; Provider Enrollment; and Other Medicare and Medicaid Policies (90 Fed. Reg. 55342 (December 2, 2025)), which reclassifies continuous glucose monitors and durable insulin pumps as items requiring frequent and substantial servicing when they are phased into the competitive bidding program, will have numerous unintended consequences that may prevent Medicare beneficiaries from accessing the continuous glucose monitor or durable insulin pump they need to survive.\n##### (b) Sense of Congress regarding automated insulin delivery systems\nIt is the sense of Congress that the Secretary of Health and Human Services should commit to take administrative action to\u2014\n**(1)**\nrecognize that the algorithm or software in an automated insulin delivery system is a reasonable and necessary item for the diagnosis or treatment of illness or injury or to improve the functioning of a malformed body member consistent with Medicare coverage requirements under section 1862(a)(1)(A) of the Social Security Act;\n**(2)**\nensure the algorithm or software in an automated insulin delivery system is treated as a separately payable supply to durable medical equipment; and\n**(3)**\nwhen applicable, recognize the algorithm or software in an automated insulin delivery system as medical supplies associated with the injection of insulin consistent with section 1860D\u20132(e)(1) of the Social Security Act.\n#### 3. Continued access to diabetes related technologies\n##### (a) In general\nSection 1861(ww) of the Social Security Act ( 42 U.S.C. 1395x(ww) ) is amended\u2014\n**(1)**\nin paragraph (1)\u2014\n**(A)**\nby striking and after upon the agreement with the individual, ; and\n**(B)**\nby inserting and ensuring care continuity for individuals using diabetes technology covered under part B as described in paragraph (5), after (as defined in paragraph (4)), ; and\n**(2)**\nby adding at the end the following new paragraph:\n(5) (A) Subject to subparagraphs (B) and (C) of this paragraph, during the first 12 months of an individual\u2019s enrollment for benefits under part B, a provider (as defined in subparagraph (E)) may certify to the Secretary that an individual is using 1 or multiple diabetes technologies covered under part B (as defined in subparagraph (D)). (B) During the initial preventive physical examination or other covered service as determined appropriate by the Secretary during the period described in subparagraph (A), the provider may make a determination of the individual\u2019s use of diabetes technology covered under part B. In the case where the provider makes such determination, the provider shall submit a certification to the Secretary as required under subparagraph (C). (C) Not later than January 1, 2027, the Secretary shall\u2014 (i) issue a finalized certification form, developed pursuant to public notice and opportunity for comment, for use under this paragraph; (ii) issue guidance and instructions to medicare administrative contractors (as defined in section 1874A(a)(3)), that require the relevant medicare administrative contractors to only assess whether the certification form is included in the individual\u2019s medical records when making a determination of whether coverage of the diabetes technology covered under part B is reasonable and necessary as described in section 1862(a)(1)(A); (iii) develop a process through notice and comment rulemaking for considering whether an individual\u2019s diabetes technology that is not covered under part B at the time of the certification described in subparagraph (A) should be a covered benefit under existing statutory authority; and (iv) issue appropriate guidance to relevant audit and oversight entities to ensure those entities do not inappropriately cause disruptions in access to diabetes technology covered under part B. (D) For purposes of this paragraph, the term diabetes technology covered under part B means, with respect to an individual, any device, related supplies, and software or algorithm that, at the time the certification described in subparagraph (C) is made with respect to the individual, is covered under part B for an individual that has diabetes under the applicable ICD\u201310 code list, as determined by the Secretary. (E) For purposes of this paragraph, the term provider means a physician (as defined in section 1861(r)), nurse practitioner, clinical nurse specialist, physician assistant, (as those terms are defined in section 1861(aa)(5)), or certified nurse-midwife (as defined in section 1861(gg)(2)), or other provider of services or supplier as determined appropriate by the Secretary. .\n##### (b) Effective date\nThe amendments made by this section shall apply to items and services furnished on or after January 1, 2027.\n#### 4. Improving access to diabetes outpatient self-management training services\n##### (a) In general\nSection 1861(qq) of the Social Security Act ( 42 U.S.C. 1395x(qq) ) is amended\u2014\n**(1)**\nin paragraph (1)\u2014\n**(A)**\nby striking the Secretary determines appropriate and inserting specified in paragraph (3) ; and\n**(B)**\nby striking the physician who is managing the individual's diabetic condition and inserting a physician or qualified nonphysician practitioner ;\n**(2)**\nin paragraph (2)(B), by striking paragraph and inserting subparagraph ; and\n**(3)**\nby adding at the end the following new paragraph:\n(3) For purposes of paragraph (1) and subject to subparagraph (B), the times specified in this paragraph are the following: (A) An initial 10 hours of individual or group educational and training services to remain available until used. (B) An additional 2 hours of individual or group educational and training services each year, beginning with the year in which the initial 10 hours described in subparagraph (A) are completed. (4) The Secretary shall not limit the quantity or duration of educational and training services furnished by a certified provider to an individual with diabetes if such services are deemed medically necessary by a physician or qualified non-physician practitioner. .\n##### (b) Medical nutrition therapy services\nSection 1861(s)(2)(V) of the Social Security Act ( 42 U.S.C. 1395x(s)(2)(V) ) is amended\u2014\n**(1)**\nby striking clause (i);\n**(2)**\nby redesignating clauses (ii) and (iii) as clauses (i) and (ii), respectively; and\n**(3)**\nin clause (ii), as so redesignated, by striking after consideration of and inserting consistent with .\n##### (c) Cost-Sharing\nSection 1833 of the Social Security Act ( 42 U.S.C. 1395l ) is amended\u2014\n**(1)**\nin subsection (a)(1)\u2014\n**(A)**\nby striking and (HH) and inserting (HH) ; and\n**(B)**\nby inserting the following before the semicolon at the end: and (II) with respect to diabetes outpatient self-management training services (as defined in section 1861(qq)), the amount paid shall be 100 percent of the lesser of the actual charge for the services or the amount determined under the fee schedule that applies to such services under this part; ; and\n**(2)**\nin subsection (b), in the first sentence\u2014\n**(A)**\nby striking , and (13) and inserting (13) ; and\n**(B)**\nby striking 1861(n).. and inserting 1861(n), and (14) such deductible shall not apply with respect to diabetes outpatient self-management training services (as defined in section 1861(qq)) .\n##### (d) Application\nThe amendments made by this section shall apply with respect to items and services furnished on or after January 1, 2027.\n#### 5. CMI testing of providing virtual diabetes outpatient self-management training services\nSection 1115A of the Social Security Act ( 42 U.S.C. 1315a ) is amended\u2014\n**(1)**\nin subsection (b)(2)(A), by adding at the end the following new sentence: The models selected under this subparagraph shall include the testing of the model described in subsection (h). ; and\n**(2)**\nby adding at the end the following new subsection:\n(h) Testing of providing virtual diabetes outpatient self-Management training services (1) Establishment Not later than January 1, 2027, the Secretary shall implement a model to test the impact of providing coverage under title XVIII for virtual diabetes outpatient self-management training services furnished to applicable beneficiaries with respect to improved health outcomes for such applicable beneficiaries and reduced expenditures under such title XVIII. (2) Model design (A) In general The Secretary shall design the model under this subsection in such a manner to allow for the evaluation of demographic characteristics of applicable beneficiaries participating in such model and the extent to which such model accomplishes the following purposes: (i) Improvement in health outcomes with respect to the diabetic conditions, including by reducing A1c levels. (ii) Reduced hospitalizations due to diabetic-related complications. (iii) Increased utilization of diabetes outpatient self-management training services as evidenced by, for example, Medicare beneficiary participation and utilization of covered hours during the first year and subsequent years or use of diabetes outpatient self-management training services in rural and underserved communities. (iv) Improved medication adherence. (v) Reduced expenditures under this title attributable to the model. (B) Consultation In designing the model under this subsection, the Secretary shall, not later than 3 months after the date of the enactment of this subsection, consult with stakeholders in the field of diabetes care and education, clinicians in the primary care community, experts in digital health, and beneficiary groups. (3) Definitions In this subsection: (A) Applicable beneficiary The term applicable beneficiary means an individual with diabetes as described in section 1861(qq). (B) Qualified web-based program The term qualified web-based program means a web-based program\u2014 (i) designed to furnish educational and training services to an individual with diabetes to ensure therapy compliance with respect to the individual\u2019s diabetic condition or to provide the individual with necessary skills and knowledge (including skills related to the self-administration of injectable drugs) to participate in the individual\u2019s management of such condition; and (ii) that meets the quality standards described in section 1861(qq)(2)(B). (C) Virtual diabetes outpatient self-management training services The term virtual diabetes outpatient self-management training services means any diabetes outpatient self-management training services (as defined in section 1861(qq)) furnished by a qualified web-based program for synchronous or asynchronous diabetes outpatient self-management training services. .\n#### 6. Providing insulin pump training and education\n##### (a) In general\nNot later than January 1, 2027, the Secretary of Health and Human Services (in this section referred to as the Secretary ) shall establish new Healthcare Common Procedure Coding System codes under the fee schedule established under section 1848(b) of the Social Security Act ( 42 U.S.C. 1395w\u20134(b) ) that describe hook-up, calibration, and patient training with respect to an insulin pump similar to Current Procedural Terminology codes 95249 and 95250 (and any succeeding codes). The Secretary shall ensure the newly established codes sufficiently describe patient education and training as well as insulin pump placement services for technologies covered under section 1834 of the Social Security Act ( 42 U.S.C. 1395m ) and part D of title XVIII of the Social Security Act ( 42 U.S.C. 1395w\u2013101 et seq. ).\n##### (b) Education and outreach\nThe Secretary shall use existing communications and mechanisms to provide education and outreach to stakeholders with respect to the ability of health professionals to bill the newly established codes described in subsection (a).\n#### 7. National coverage determination on insulin pumps\nNot later than 180 days after the date of enactment of this Act, the Secretary of Health and Human Services shall issue a proposed national coverage determination (as defined in section 1869(f)(1)(B) of the Social Security Act ( 42 U.S.C. 1395ff(f)(1)(B) )) for infusion pumps, continuous subcutaneous insulin infusion (CSII), number 280.14 pursuant to section 1862(l) of the Social Security Act ( 42 U.S.C. 1395y(l) ).\n#### 8. Report on enrollee access to diabetes-related services and technologies in Federal health care programs\n##### (a) In general\nNot later than 1 year after the date of enactment of this Act, the Comptroller General of the United States, in collaboration with the Secretary of Health and Human Services, shall submit to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives, a report that assesses the barriers individuals face in accessing diabetes technologies and diabetes self-management education and support services across Federal health care programs. The report shall specifically review barriers, which include prior authorization practices, the use of preferred formularies, coverage intensity limitations, and other utilization management techniques, to accessing diabetes technologies and diabetes self-management education and support services faced by individuals enrolled in a Federal health care program, and whether any Federal law, regulation, or policy adversely affects access to those covered services or limits the ability of individuals with diabetes to receive services that align with standards of care.\n##### (b) Definitions\nIn this section:\n**(1) Diabetes technologies**\nThe term diabetes technologies means items described in section 1861(ww)(5)(D) of the Social Security Act, as added by section 3, and any device, related supplies, and software or algorithm that monitors or manages an individual\u2019s diabetes that is medically necessary for the individual\u2019s diagnosis of diabetes, regardless of whether the device, related supplies, and software or algorithm is covered under part B of title XVIII of the Social Security Act. Such term includes glucose monitors, insulin delivery technologies, related supplies, and software or algorithms.\n**(2) Diabetes self-management education and support services**\nThe term diabetes self-management education and support services means services described in section 1861(qq) of the Social Security Act ( 42 U.S.C. 1395x(qq) ).\n**(3) Federal health care program**\nThe term Federal health care program means any plan or program that provides health benefits, whether through insurance or otherwise, that is directly funded in whole or in part, by the United States Government, including a Federal health care program (as defined in section 1128B(f) of the Social Security Act (42 U.S.C. 1320a\u20137b(f))) and a health benefits plan under chapter 89 of title 5, United States Code.\n#### 9. Ensuring access to diabetes-related technologies\nSection 1847(a)(2) of the Social Security Act (42 1395w\u20133(a)(2)) is amended by adding at the end the following new subparagraph:\n(E) Certain diabetic-related items Continuous glucose monitors and insulin pumps that are covered as durable medical equipment under section 1861(n) furnished on or after January 1, 2031. .",
+      "versionDate": "2026-03-10",
+      "versionType": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Health",
+        "updateDate": "2026-03-30T19:41:13Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-03-10",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4037is.xml"
+        }
+      ],
+      "type": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A bill to ensure continued access to diabetes technology upon Medicare enrollment, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-03-24T05:18:34Z"
+    },
+    {
+      "title": "Diabetes Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-03-24T05:08:20Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "Diabetes Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-03-24T05:08:19Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "Diabetes Interventions Addressing Barriers to Enrollment, Technology, and Education Services (DIABETES) Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-03-24T05:08:19Z"
+    }
+  ]
+}
+```

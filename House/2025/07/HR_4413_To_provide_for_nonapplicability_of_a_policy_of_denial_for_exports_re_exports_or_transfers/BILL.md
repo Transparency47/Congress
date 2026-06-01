@@ -1,0 +1,85 @@
+# HR 4413: End the Cyprus Embargo Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-07-15
+- Latest action: 2025-07-15 - Introduced in House
+- Policy area: International Affairs
+- Sponsor: Rep. Pappas, Chris [D-NH-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/4413
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-07-15
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4413ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-07-15
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4413ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 4413
+IN THE HOUSE OF REPRESENTATIVES
+July 15, 2025 Mr. Pappas (for himself, Mr. Bilirakis , Ms. Titus , Ms. Malliotakis , and Mr. Kean ) introduced the following bill; which was referred to the Committee on Foreign Affairs
+A BILL
+To provide for nonapplicability of a policy of denial for exports, re-exports, or transfers of defense articles and defense services destined for or originating in the Republic of Cyprus.
+#### 1. Short title
+This Act may be cited as the End the Cyprus Embargo Act .
+#### 2. Sense of Congress
+It is the sense of Congress that—
+**(1)**
+allowing for the export, re-export, or transfer of arms subject to the United States Munitions List to the Republic of Cyprus would advance United States security interests in Europe by helping to reduce the dependence of the Government of the Republic of Cyprus on other countries, including countries that pose challenges to United States interests around the world, for defense-related materiel;
+**(2)**
+the Republic of Cyprus has successfully complied with the conditions set forth in the Eastern Mediterranean Security and Energy Partnership Act of 2019 (title X of division J of Public Law 116–94 ) for the purposes of modifying the prohibitions of the sale or other provisions of any defense article or defense service to the Government of the Republic of Cyprus and modifying the policy of denial for exports, re-exports, or transfers of defense articles on the United States Munitions List to the Republic of Cyprus; and
+**(3)**
+it is in the interest of the United States—
+**(A)**
+to continue to support United Nations-facilitated efforts toward a comprehensive solution to the division of Cyprus;
+**(B)**
+to enhance the strategic partnership and security relationship between the United States and Republic of Cyprus as provided for in the Eastern Mediterranean Security and Energy Partnership Act of 2019;
+**(C)**
+to enhance the cooperation between the United States Armed Forces and the National Guard of the Republic of Cyprus and to enhance existing programs such as the joint training between the National Guards of the Republic of Cyprus and the State of New Jersey under the auspices of the Department of Defense’s State Partnership Program; and
+**(D)**
+for the Republic of Cyprus to join NATO’s Partnership for Peace program.
+#### 3. Nonapplicability of a policy of denial for exports, re-exports, or transfers of defense articles and defense services destined for or originating in the Republic of Cyprus
+##### (a) In general
+Subject to subsection (d) and except as provided in subsection (b), beginning on the date of the enactment of this Act, the Secretary of State shall not apply a policy of denial for exports, re-exports, or transfers of defense articles and defense services destined for or originating in the Republic of Cyprus if—
+**(1)**
+the request is made by or on behalf of the Government of the Republic of Cyprus; and
+**(2)**
+the end-user of such defense articles or defense services is the Government of the Republic of Cyprus.
+##### (b) Exception
+The exclusion provided for in subsection (a) shall not apply with respect to the application of a policy of denial based upon credible human rights concerns.
+##### (c) Waiver
+The President may waive the exclusion provided for in subsection (a) for a period of one fiscal year if the President determines that it is essential to the national security interests of the United States to do so.
+##### (d) Termination
+**(1) In general**
+The President may terminate the exclusion provided for in subsection (a) for the 5-year period beginning on the date that is 5 years after the date of the enactment of this Act, and may renew such termination for subsequent 5-year periods, if, prior to each such 5-year period, the President submits to the appropriate congressional committees a certification that the Government of the Republic of Cyprus is no longer—
+**(A)**
+cooperating with the United States Government in efforts to implement reforms on anti-money laundering regulations and financial regulatory oversight; and
+**(B)**
+denying Russian military vessels access to ports for refueling and servicing.
+**(2) Appropriate congressional committees defined**
+In this subsection, the term appropriate congressional committees means—
+**(A)**
+the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
+**(B)**
+the Committee on Foreign Relations and the Committee on Armed Services of the Senate.
+
+
+## Timeline
+
+- 2025-07-15: Introduced in House
+- 2025-07-15 - IntroReferral: Introduced in House
+- 2025-07-15 - IntroReferral: Introduced in House
+- 2025-07-15 - IntroReferral: Referred to the House Committee on Foreign Affairs.
+- 2025-12-03 - Committee: Committee Consideration and Mark-up Session Held
+- 2025-12-03 - Committee: Ordered to be Reported by the Yeas and Nays: 47 - 2.
+- Latest action: 2025-07-15: Introduced in House

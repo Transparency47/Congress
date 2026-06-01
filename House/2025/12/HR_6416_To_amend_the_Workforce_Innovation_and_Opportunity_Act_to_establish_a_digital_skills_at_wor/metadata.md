@@ -1,0 +1,287 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/6416?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/6416
+- Title: Digital Skills for Today’s Workforce Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 6416
+- Origin chamber: House
+- Introduced date: 2025-12-03
+- Update date: 2026-02-05T09:06:13Z
+- Update date including text: 2026-02-05T09:06:13Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-12-03: Introduced in House
+- 2025-12-03 - IntroReferral: Introduced in House
+- 2025-12-03 - IntroReferral: Introduced in House
+- 2025-12-03 - IntroReferral: Referred to the House Committee on Education and Workforce.
+- Latest action: 2025-12-03: Introduced in House
+
+## Actions
+
+- 2025-12-03 - IntroReferral: Introduced in House
+- 2025-12-03 - IntroReferral: Introduced in House
+- 2025-12-03 - IntroReferral: Referred to the House Committee on Education and Workforce.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-12-03",
+    "latestAction": {
+      "actionDate": "2025-12-03",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6416",
+    "number": "6416",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000138",
+        "district": "7",
+        "firstName": "Eugene",
+        "fullName": "Rep. Vindman, Eugene Simon [D-VA-7]",
+        "lastName": "Vindman",
+        "party": "D",
+        "state": "VA"
+      }
+    ],
+    "title": "Digital Skills for Today\u2019s Workforce Act",
+    "type": "HR",
+    "updateDate": "2026-02-05T09:06:13Z",
+    "updateDateIncludingText": "2026-02-05T09:06:13Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-12-03",
+      "committees": {
+        "item": {
+          "name": "Education and Workforce Committee",
+          "systemCode": "hsed00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-12-03",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-12-03",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-12-03T15:01:25Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "V000129",
+      "district": "22",
+      "firstName": "David",
+      "fullName": "Rep. Valadao, David G. [R-CA-22]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Valadao",
+      "middleName": "G.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-03",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "F000466",
+      "district": "1",
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-07",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "D000530",
+      "district": "17",
+      "firstName": "Christopher",
+      "fullName": "Rep. Deluzio, Christopher R. [D-PA-17]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Deluzio",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2026-02-04",
+      "state": "PA"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6416ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 6416\nIN THE HOUSE OF REPRESENTATIVES\nDecember 3, 2025 Mr. Vindman (for himself and Mr. Valadao ) introduced the following bill; which was referred to the Committee on Education and Workforce\nA BILL\nTo amend the Workforce Innovation and Opportunity Act to establish a digital skills at work grant program.\n#### 1. Short title\nThis Act may be cited as the Digital Skills for Today\u2019s Workforce Act .\n#### 2. Purpose\nIt is the purpose of this Act to amend the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3101 et seq. ) to further promote digital equity by\u2014\n**(1)**\nbuilding digital skills for current and incoming workers in in-demand industries in order to advance access to good jobs and fill in-demand occupations of the 21st century by establishing capacity within postsecondary education, adult education, and workforce development systems to deliver digital skills training and to design such training; and\n**(2)**\nfostering digitally resilient individuals and education and workforce development systems.\n#### 3. Workforce Innovation and Opportunity Act amendments\n##### (a) In general\nSubtitle D of title I of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3221 et seq. ) is amended\u2014\n**(1)**\nby redesignating section 172 as section 173; and\n**(2)**\nby inserting after section 171 the following:\n172. Digital skills at work grant program (a) Definitions In this section: (1) Accelerated learning program models The term accelerated learning program models means evidence-informed strategies that support adult learners and workers in obtaining in-demand skills and credentials in an accelerated fashion, including integrated education and training, bridge programs, and work-based learning programs. (2) Digital equity The term digital equity means the condition in which individuals and communities have the information technology capacity that is needed for full participation in the society and economy of the United States. (3) Digital and information literacy skills The term digital and information literacy skills means the skills associated with\u2014 (A) using technology to enable users to find, evaluate, organize, create, and communicate information and complete tasks through existing and emerging technologies; (B) recognizing the extent and essence of an information need, assessing the security and reliability of information, and effectively using information; and (C) developing digital citizenship and the responsible use of technology. (4) Digitally resilient The term digitally resilient means\u2014 (A) with respect to an individual, an individual with the awareness, skills, agility, and confidence to be an empowered user of new technologies and to be able to adapt to changing digital skill demands by improving the capacity to problem-solve, improve and update skills, navigate digital transformations, and be active participants in society and the economy; and (B) with respect to a system, an education or workforce development system that\u2014 (i) has established processes and policies to adapt to evolving technological demands, buffer workers and businesses from the disruptive effects of rapid technological shifts, and foster the ability of an individual to create, critique, and use new technological tools; and (ii) offers multiple pathways to economic success and does not endorse any single type of technology or digital skill as the mechanism for economic mobility. (5) Digital workplace skills The term digital workplace skills \u2014 (A) means the broad array of foundational and more specialized skills (including basic, advanced, and applied skills) that enable an individual to be an effective user or creator of technology while on the job; and (B) includes industry-specific skills and skills that are transferable across industries. (6) Eligible entity The term eligible entity means an entity that is\u2014 (A) described in any of subparagraphs (A) through (H) of section 60304(b)(2) of the Digital Equity Act of 2021 ( 47 U.S.C. 1723(b)(2) ); or (B) an industry or sector partnership. (7) Individual with indicators of low digital and information literacy skills The term individual with indicators of low digital and information literacy skills means, with respect to a State, an individual who resides in such State and has\u2014 (A) an educational attainment of not more than a high school diploma or equivalent; (B) earnings in the bottom 2 quintiles of earnings in such State; or (C) limited English language proficiency. (8) Secretary The term Secretary means the Secretary of Labor. (9) State The term State means a State or outlying area. (10) Working age resident The term working age resident means, with respect to a State, an individual who resides in such State and is not younger than 16 years of age and not older than 64 years of age. (b) Digital skills at work grants (1) In general The Secretary shall, in consultation with the Secretary of Education and the Secretary of Commerce, award a grant in an amount described in paragraph (2) to each State that submits a complete application under paragraph (3) to expand digital workplace skills for individuals seeking jobs and individuals with barriers to employment. (2) Grant amount A grant to a State under paragraph (1) shall be in an amount that is the sum of\u2014 (A) an amount that bears the same ratio to 50 percent of the total amount of grants made available to all States under paragraph (1) as the population of such State bears to the total population of all States; (B) an amount that bears the same ratio to 25 percent of the total amount of grants made available to all States under paragraph (1) as the population of working age residents in the State bears to the total population of working age residents of all States; and (C) an amount that bears the same ratio to 25 percent of the total amount of grants made available to all States under paragraph (1) as the population of individuals with indicators of low digital and information literacy skills in the State bears to the total population of individuals with indicators of low digital and information literacy skills of all States. (3) Application To be eligible to receive a grant under paragraph (1), a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including\u2014 (A) a description of\u2014 (i) how the State will use any grant amounts awarded to expand digital workplace skills for individuals seeking jobs and individuals with barriers to employment in an efficient and expeditious manner; (ii) the period in which the State will expend the grant funds awarded under the grant; and (iii) the budget for the activities that the grant funds will support; (B) a demonstration, to the satisfaction of the Secretary, that the State is capable of carrying out the State activities under this subsection in a competent manner and in compliance with all applicable Federal, State, and local laws; (C) a description of the steps the State will take to ensure that the State is supporting or building digitally resilient systems and individuals; (D) a disclosure of the source and amount of other Federal, State, or outside funding sources from which the State receives, or has applied for, funding for activities or projects to which the application relates and, if applicable, how all the funding streams align in terms of goals; and (E) an assurance that the State shall follow such additional procedures as the Secretary may require to ensure that grant funds are used and accounted for in an appropriate manner. (4) No complete State application (A) In general In any case in which a State does not apply, or submit a complete application for, a grant under this subsection, the Secretary shall\u2014 (i) solicit and accept applications from eligible entities with demonstrated capacity to administer a Federal grant program on a statewide basis; and (ii) use an amount of grant funds equal to the State's share of the grant funds under paragraph (2) to benefit the State by\u2014 (I) awarding a grant to an eligible entity described in clause (i) to enable the eligible entity to carry out the program under this subsection for the State; or (II) if there are no suitable applications submitted under clause (i) or the Secretary determines appropriate, using a portion, or all, of such funds to award grants to eligible entities for the same purposes, and subject to the same terms and conditions, as subgrants awarded under paragraph (5). (B) Special rules For purposes of applying this subsection\u2014 (i) with respect to a grant awarded under subparagraph (A)(ii)(I), any reference to a State shall be deemed to refer to the eligible entity receiving such grant; and (ii) with respect to a grant awarded under subparagraph (A)(ii)(II), the eligible entity shall submit the report required under paragraph (5)(D) to the Secretary, and the Secretary shall make all such reports publicly available. (5) Uses of grant funds (A) Subgrants authorized A State that receives a grant under paragraph (1) shall use the grant funds to award subgrants to eligible entities for the purpose of expanding digital workplace skills for individuals to gain digital skills needed for their current employment or in order to advance in their careers, with a priority on assisting individuals with barriers to employment. (B) Applications An eligible entity desiring a subgrant under this paragraph shall submit an application to the State at such time, in such manner, and containing such information as the State shall require. (C) Award basis (i) Priority In awarding subgrants under subparagraph (A), the State shall give a priority to eligible entities that will focus activities under the subgrant on individuals with barriers to employment. (ii) Geographic distribution In awarding subgrants under subparagraph (A), the State shall ensure funds are distributed in a geographically diverse manner. (D) Reports Not later than 1 year after receiving a subgrant under this paragraph, each eligible entity receiving such subgrant shall submit a report to the State regarding the activities supported under such subgrant. (6) Performance accountability (A) State reports Not later than 2 years after receiving the reports submitted to the State under paragraph (5)(D) but not earlier than 18 months after the grant is awarded to the State under paragraph (1), the State shall submit a report to the Secretary\u2014 (i) describing the activities funded using grant funds under this subsection; and (ii) including the information provided in the local reports submitted to the State under paragraph (5)(D). (B) Public availability The Secretary shall make each State report submitted under subparagraph (A) publicly available. (c) Competitive grants (1) Program authorized The Secretary shall, on a competitive basis, award grants to eligible entities to enable the eligible entities to foster digital equity and digitally resilient systems and individuals (including workers and employers) in order to prepare the individuals for adapting to the current and future competitive labor market and economy by creating opportunities for individuals to gain digital skills needed for their current employment or in order to advance in their careers. (2) Application To be eligible to receive a grant under paragraph (1), an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including\u2014 (A) a description of\u2014 (i) the activities that will be supported using grant funds awarded under such paragraph, including any services such as business engagement, classroom instruction, apprenticeships, work-based learning, and supportive services; (ii) how the eligible entity receiving the grant will work to engage small and medium-sized employers; (iii) the digital workplace skills learning strategies to be supported using such grant funds; (iv) the digital workplace skills curriculum, and other related materials, to be developed and supported using such grant funds, including\u2014 (I) the general content of such curriculum; (II) the mechanism to deliver such curriculum; (III) information on how the curriculum connects to an in-demand occupation or industry; and (IV) how this curriculum will be shared with States and other eligible entities via submission to a Federal clearinghouse or other repository; (v) the professional development opportunities relating to digital workplace skills for instructors supported by such grant funds, including with regard to new hiring of instructors with industry experience and increasing the skills of instructors with expertise in serving adult learners and administering programs using accelerated learning program models; (vi) any programs using accelerated learning program models to be supported by such grant funds, and how such programing will align with existing accelerated learning programs, as of the date of application, in the area served by the grant; (vii) any in-demand industry sector or occupation that will be served using such grant funds, including how any such industry sector or occupation was identified; (viii) how the eligible entity will protect the privacy and security of any data collected with regard to an individual involved in any activity supported using such grant funds; (ix) any population that will receive services from any activity supported using such grant funds, including populations of individuals with barriers to employment and populations historically underrepresented in any industry to be served under the grant; (x) any recognized postsecondary credential that an individual can obtain through participation in an activity supported using such grant; (xi) any measurable gains in a skill that such an individual can achieve through such participation; (xii) any steps the eligible entity will take to align activities supported using such grant funds with, as applicable, the State Digital Equity Plan of the State developed under section 60304(c)(1) of the Digital Equity Act of 2021 ( 47 U.S.C. 1723(c)(1) ) and the action plan of the State submitted to the Broadband Equity, Access, and Deployment Program under section 60102(e)(1)(D) of the Infrastructure Investment and Jobs Act ( 47 U.S.C. 1702(e)(1)(D) ); and (xiii) how the eligible entity will leverage additional resources, including funding provided under title II and non-Federal resources, for activities supported using such grant funds; and (B) an assurance that the eligible entity will protect the privacy and security of individuals involved in any program or activity supported using such grant funds by\u2014 (i) prohibiting any program supported using such grant funds from withholding any earned learning information or earned credentialing information from such an individual for reasons such as the individual failing to pay such program; and (ii) prohibiting any program or vendor supported using such grant funds from gathering or disseminating personally identifiable information, as defined by the Secretary, of program participants, except as needed for program evaluation and reporting purposes. (3) Performance accountability (A) Local reports By one year after the date on which an eligible entity received a grant under this subsection, the eligible entity shall submit to the Secretary a report containing\u2014 (i) a description of the levels of performance achieved by the eligible entity with respect to the performance indicators described under section 116(b)(2)(A) for\u2014 (I) all participants in activities supported under such grant funds; and (II) individuals with barriers to employment, in the aggregate and disaggregated by each subpopulation and by race, ethnicity, English language proficiency, sex, and age; and (ii) the progress of the entity towards fulfilling the objectives for which the grant was awarded. (B) Public availability As a condition of receiving a grant under this subsection, an eligible entity shall agree to make the eligible entity's progress and findings available for the Secretary to share across States. (d) Reservation of funds Notwithstanding any other provision of this section, the Secretary\u2014 (1) may reserve not more than 5 percent of the amounts made available to carry out this section for technical assistance under, and administration of, this section; and (2) shall reserve not less than 2 percent and not more than 4 percent of such amounts to evaluate the programs carried out under this section. .\n##### (b) Authorization of appropriations\nSection 173 of the Workforce Innovation and Opportunity Act, as redesignated by subsection (a)(1), is further amended\u2014\n**(1)**\nby redesignating subsection (f) as subsection (g), respectively; and\n**(2)**\nby inserting after subsection (e) the following:\n(f) Digital skills at work grants There are authorized to be appropriated to carry out section 172 such sums as may be necessary for fiscal year 2026 and each of the 4 succeeding fiscal years. .\n##### (c) Digital and information literacy skills as training services\nSection 134(c)(3)(D) of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3174(c)(3)(D) ) is amended\u2014\n**(1)**\nin clause (x), by striking and after the semicolon;\n**(2)**\nin clause (xi), by striking the period at the end and inserting ; and ; and\n**(3)**\nby adding at the end the following:\n(xii) training in digital and information literacy skills, as defined in section 172(a). .\n##### (d) Conforming amendment\nSection 8041(g)(2)(C) of the SUPPORT for Patients and Communities Act ( 29 U.S.C. 3225a(g)(2)(C) ) is amended by striking 172(f) and all that follows through the period at the end and inserting 173(g) of such Act. .\n##### (e) Table of contents\nThe table of contents in section 1(b) of the Workforce Innovation and Opportunity Act is amended in the items related to subtitle D of title I\u2014\n**(1)**\nby redesignating the item relating to section 172 as the item relating to section 173; and\n**(2)**\nby inserting after the item relating to section 171 the following:\nSec. 172. Digital skills at work grant program.",
+      "versionDate": "2025-12-03",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-12-03",
+        "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+      },
+      "number": "3328",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "Digital Skills for Today\u2019s Workforce Act",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Labor and Employment",
+        "updateDate": "2026-01-05T16:52:23Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-12-03",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6416ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Digital Skills for Today\u2019s Workforce Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-12-23T08:23:16Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Digital Skills for Today\u2019s Workforce Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-12-23T08:23:15Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend the Workforce Innovation and Opportunity Act to establish a digital skills at work grant program.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-12-23T08:18:30Z"
+    }
+  ]
+}
+```

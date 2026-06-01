@@ -1,0 +1,54 @@
+# S 1425: Red Tape Reduction Act of 2025
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-04-10
+- Latest action: 2025-04-10 - Introduced in Senate
+- Policy area: Taxation
+- Sponsor: Sen. Cassidy, Bill [R-LA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/1425
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-04-10
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1425is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-04-10
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1425is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1425
+IN THE SENATE OF THE UNITED STATES
+April 10, 2025 Mr. Cassidy (for himself and Ms. Hassan ) introduced the following bill; which was read twice and referred to the Committee on Finance
+A BILL
+To amend the Internal Revenue Code of 1986 to modify the exception for de minimis payments by third party settlement organizations.
+#### 1. Short title
+This Act may be cited as the Red Tape Reduction Act of 2025 .
+#### 2. Reinstatement of exception for de minimis payments as in effect prior to enactment of American Rescue Plan Act
+##### (a) In general
+Section 6050W(e) of the Internal Revenue Code of 1986 is amended to read as follows:
+(e) Exception for de minimis payments by third party settlement organizations A third party settlement organization shall be required to report any information under subsection (a) with respect to third party network transactions of any participating payee only if— (1) the amount which would otherwise be reported under subsection (a)(2) with respect to such transactions exceeds $10,000, or (2) the aggregate number of such transactions exceeds 50. .
+##### (b) Effective date
+The amendment made by this section shall apply to transactions settled after December 31, 2024.
+#### 3. Application of de minimis rule for third party network transactions to backup withholding
+##### (a) In general
+Section 3406(b) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+(8) Other reportable payments include payments in settlement of third party network transactions only where aggregate transactions exceed reporting threshold for the calendar year (A) In general Any payment in settlement of a third party network transaction required to be shown on a return required under section 6050W which is made during any calendar year shall be treated as a reportable payment only if— (i) the aggregate number of transactions with respect to the participating payee during such calendar year exceeds the number of transactions specified in section 6050W(e)(2), and (ii) the aggregate amount of transactions with respect to the participating payee during such calendar year exceeds the dollar amount specified in section 6050W(e)(1) at the time of such payment. (B) Exception if third party network transactions made in prior year were reportable Subparagraph (A) shall not apply with respect to payments to any participating payee during any calendar year if one or more payments in settlement of third party network transactions made by the payor to the participating payee during the preceding calendar year were reportable payments. .
+##### (b) Effective date
+The amendments made by this section shall apply to calendar years beginning after December 31, 2024.
+
+
+## Timeline
+
+- 2025-04-10: Introduced in Senate
+- 2025-04-10 - IntroReferral: Introduced in Senate
+- 2025-04-10 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2025-04-10: Introduced in Senate

@@ -1,0 +1,43 @@
+# HRES 694: Expressing the sense of the House of Representatives that the Centers for Medicare & Medicaid Services should halt the pilot program and should not jeopardize seniors' access to critical health care by utilizing artificial intelligence to determine Medicare coverage.
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-09-10
+- Latest action: 2025-09-10 - Submitted in House
+- Policy area: Health
+- Sponsor: Rep. Landsman, Greg [D-OH-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-resolution/694
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### IH
+- Date: 2025-09-10
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres694ih.xml
+
+
+## Full Bill Text
+
+### IH
+- Date: 2025-09-10
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres694ih.xml
+
+IV
+119th CONGRESS
+1st Session
+H. RES. 694
+IN THE HOUSE OF REPRESENTATIVES
+September 10, 2025 Mr. Landsman submitted the following resolution; which was referred to the Committee on Ways and Means , and in addition to the Committee on Energy and Commerce , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+RESOLUTION
+Expressing the sense of the House of Representatives that the Centers for Medicare & Medicaid Services should halt the pilot program and should not jeopardize seniors’ access to critical health care by utilizing artificial intelligence to determine Medicare coverage.
+That it is the sense of the House of Representatives that the Centers for Medicare & Medicaid Services should not utilize artificial intelligence to determine whether patients’ procedures will be covered by Medicare.
+
+
+## Timeline
+
+- 2025-09-10: Introduced in House
+- 2025-09-10 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-09-10 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-09-10 - IntroReferral: Submitted in House
+- 2025-09-10 - IntroReferral: Submitted in House
+- Latest action: 2025-09-10: Submitted in House

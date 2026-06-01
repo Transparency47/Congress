@@ -1,0 +1,330 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hres/902?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-resolution/902
+- Title: Providing for consideration of the bill (H.R. 185) to advance responsible policies.
+- Congress: 119
+- Bill type: HRES
+- Bill number: 902
+- Origin chamber: House
+- Introduced date: 2025-11-20
+- Update date: 2026-04-22T20:09:51Z
+- Update date including text: 2026-04-22T20:09:51Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, summaries, text, titles
+
+## Timeline
+
+- 2025-11-20: Introduced in House
+- 2025-11-20 - IntroReferral: Referred to the House Committee on Rules.
+- 2025-11-20 - IntroReferral: Submitted in House
+- 2025-11-20 - IntroReferral: Submitted in House
+- Latest action: 2025-11-20: Submitted in House
+
+## Actions
+
+- 2025-11-20 - IntroReferral: Referred to the House Committee on Rules.
+- 2025-11-20 - IntroReferral: Submitted in House
+- 2025-11-20 - IntroReferral: Submitted in House
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-11-20",
+    "latestAction": {
+      "actionDate": "2025-11-20",
+      "text": "Submitted in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/902",
+    "number": "902",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Congress"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001201",
+        "district": "3",
+        "firstName": "Thomas",
+        "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+        "lastName": "Suozzi",
+        "party": "D",
+        "state": "NY"
+      }
+    ],
+    "title": "Providing for consideration of the bill (H.R. 185) to advance responsible policies.",
+    "type": "HRES",
+    "updateDate": "2026-04-22T20:09:51Z",
+    "updateDateIncludingText": "2026-04-22T20:09:51Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-11-20",
+      "committees": {
+        "item": {
+          "name": "Rules Committee",
+          "systemCode": "hsru00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Rules.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-11-20",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Submitted in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1025",
+      "actionDate": "2025-11-20",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Submitted in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-11-20T15:12:40Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Rules Committee",
+      "systemCode": "hsru00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "B001298",
+      "district": "2",
+      "firstName": "Don",
+      "fullName": "Rep. Bacon, Don [R-NE-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Bacon",
+      "party": "R",
+      "sponsorshipDate": "2025-11-20",
+      "state": "NE"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres902ih.xml",
+      "text": "IV\n119th CONGRESS\n1st Session\nH. RES. 902\nIN THE HOUSE OF REPRESENTATIVES\nNovember 20, 2025 Mr. Suozzi (for himself and Mr. Bacon ) submitted the following resolution; which was referred to the Committee on Rules\nRESOLUTION\nProviding for consideration of the bill (H.R. 185) to advance responsible policies.\nThat immediately upon adoption of this resolution, the House shall proceed to the consideration in the House of the bill (H.R. 185) to advance responsible policies. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute specified in section 4 of this resolution shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the majority leader and minority leader or their respective designees; and (2) one motion to recommit.\n#### 2.\nClause 1(c) of rule XIX and clause 8 of rule XX shall not apply to the consideration of H.R. 185.\n#### 3.\nThe Clerk shall transmit to the Senate a message that the House has passed H.R. 185 no later than one calendar day after passage.\n#### 4.\nThe amendment in the nature of a substitute referred to in the first section of this resolution is as follows:\nStrike all after the enacting clause and insert the following:\n1. Short title This Act may be cited as the Bipartisan Healthcare Optimization, Protection, and Extension Act or the HOPE Act . 2. Extension and modification of enhanced premium tax credit (a) Extension and modification of rules To increase premium assistance amounts Section 36B(b)(3)(A)(iii) of the Internal Revenue Code of 1986 is amended\u2014 (1) by redesignating subclauses (I) and (II) as items (aa) and (bb), respectively, and adjusting the margins accordingly, (2) by striking Temporary percentages for 2021 through 2025 .\u2014In the case of and inserting Temporary percentages for certain years .\u2014 (I) Before 2026 In the case of , and (3) by adding at the end the following: (II) After 2025 In the case of a taxable year beginning after December 31, 2025, and before January 1, 2028\u2014 (aa) clause (ii) shall not apply for purposes of adjusting premium percentages under this subparagraph, and (bb) the following table shall be applied in lieu of the table contained in clause (i): In the case of household income (expressed as a percent of poverty line) within the following income tier: The initial premium percentage is- The final premium percentage is- Up to 150% 0.0% 0.0% 150% up to 200% 0.0% 2.0% 200% up to 250% 2.0% 4.0% 250% up to 300% 4.0% 6.0% 300% up to 400% 6.0% 8.5% 400% up to 600% 8.5% 8.5% 600% up to 800% 8.5% 9.0% 800% up to 935% 9.0% 9.35% . (b) Extension and modification of rule To allow credit to taxpayers whose household income exceeds 400 percent of poverty line Section 36B(c)(1)(E) of such Code is amended\u2014 (1) by striking Temporary rule for 2021 through 2025 .\u2014In the case of and inserting Temporary rule for certain years .\u2014 (i) Before 2026 In the case of , and (2) by adding at the end the following: (ii) After 2025 In the case of a taxable year beginning after December 31, 2025, and before January 1, 2028, subparagraph (A) shall be applied by substituting but does not exceed 935 percent for but does not exceed 400 percent . . (c) Effective date The amendments made by this section shall apply to taxable years beginning after December 31, 2025. 3. Guardrails to prevent fraud in Exchanges (a) Reduction of fraudulent enrollment in qualified health plans (1) Penalties for agents and brokers Section 1411(h)(1) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 18081(h)(1) ) is amended\u2014 (A) in subparagraph (A)\u2014 (i) by redesignating clause (ii) as clause (iv); (ii) in clause (i)\u2014 (I) in the matter preceding subclause (I), by striking If\u2014 and all that follows through the such person in the matter following subclause (II) and inserting the following: If any person (other than an agent or broker) fails to provide correct information under subsection (b) and such failure is attributable to negligence or disregard of any rules or regulations of the Secretary, such person ; and (II) in the second sentence, by striking For purposes and inserting the following: (iii) Definitions of negligence, disregard For purposes ; (iii) by inserting after clause (i) the following: (ii) Civil penalties for certain violations by agents or brokers If any agent or broker fails to provide correct information under subsection (b) or section 1311(c)(8) or other information, as specified by the Secretary, and such failure is attributable to negligence or disregard of any rules or regulations of the Secretary, such agent or broker shall be subject, in addition to any other penalties that may be prescribed by law, including subparagraph (C), to a civil penalty of not less than $10,000 and not more than $50,000 with respect to each individual who is the subject of an application for which such incorrect information is provided. ; and (iv) in clause (iv) (as so redesignated), by inserting or (ii) after clause (i) ; (B) in subparagraph (B)\u2014 (i) by inserting including subparagraph (C), after law, ; (ii) by striking Any person and inserting the following: (i) In general Any person ; and (iii) by adding at the end the following: (ii) Civil penalties for knowing violations by agents or brokers (I) In general Any agent or broker who knowingly provides false or fraudulent information under subsection (b) or section 1311(c)(8), or other false or fraudulent information as part of an application for enrollment in a qualified health plan offered through an Exchange, as specified by the Secretary, shall be subject, in addition to any other penalties that may be prescribed by law, including subparagraph (C), to a civil penalty of not more than $200,000 with respect to each individual who is the subject of an application for which such false or fraudulent information is provided. (II) Procedure The provisions of section 1128A of the Social Security Act (other than subsections (a) and (b) of such section) shall apply to a civil monetary penalty under subclause (I) in the same manner as such provisions apply to a penalty or proceeding under section 1128A of the Social Security Act. ; and (C) by adding at the end the following: (C) Criminal penalties Any agent or broker who knowingly and willfully provides false or fraudulent information under subsection (b) or section 1311(c)(8), or other false or fraudulent information as part of an application for enrollment in a qualified health plan offered through an Exchange, as specified by the Secretary, shall be fined under title 18, United States Code, imprisoned for not more than 10 years, or both. . (2) Consumer protections (A) In general Section 1311(c) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 18031(c) ) is amended by adding at the end the following new paragraph: (8) Agent- or broker-assisted enrollment in qualified health plans in certain exchanges (A) In general For plan years beginning on or after such date specified by the Secretary, but not later than January 1, 2029, in the case of an Exchange that the Secretary operates pursuant to section 1321(c)(1), the Secretary shall establish a verification process for new enrollments of individuals in, and changes in coverage for individuals under, a qualified health plan offered through such Exchange, which are submitted by an agent or broker in accordance with section 1312(e) and for which the agent or broker is eligible to receive a commission. (B) Requirements The enrollment verification process under subparagraph (A) shall include\u2014 (i) a requirement that the agent or broker provide with the new enrollment or coverage change such documentation or evidence (such as a standardized consent form) or other sources as the Secretary determines necessary to establish that the agent or broker has the consent of the individual for the new enrollment or coverage change; (ii) a requirement that any commissions due to a broker or agent for such new enrollment or coverage change are paid after the enrollee has resolved all inconsistencies in accordance with paragraphs (3) and (4) of section 1411(e); (iii) a requirement that the information required under clause (i) and, as applicable, the date on which inconsistencies are resolved as described in clause (ii), is accessible to the applicable qualified health plan through a database or other resource, as determined by the Secretary, so that any commissions due to a broker or agent for such enrollment can be effectuated at the appropriate time; (iv) a requirement that individuals are notified of any changes to enrollment, coverage, the agent of record, or premium tax credits in a timely manner and that such notice provides plain language instructions on how individuals can cancel unauthorized activity; (v) a requirement that individuals be able to access their account information on a website or other technology platform, as defined by the Secretary, when used to submit an enrollment or plan change, in lieu of the Exchange website described in subsection (d)(4)(C), including information on the agent of record, the qualified health plan, and when any changes are made to the agent of record or the qualified health plan, on a consumer-facing website or through a toll-free telephone hotline; and (vi) a requirement that the agent or broker report to the Secretary any third-party marketing organization or field marketing organization (as such terms are defined in section 1312(e)) involved in the chain of enrollment (as so defined) with respect to such new enrollment or coverage change. (C) Consumer protection The Secretary shall ensure that the enrollment verification process under subparagraph (A) prioritizes continuity of coverage and care for individuals, including by not disenrolling individuals from a qualified health plan without the consent of the individual, regardless of whether the broker, agent, or qualified health plan is in violation of any requirement under this paragraph. . (B) Required reporting Section 1311(c)(1) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 18031(c)(1) ) is amended\u2014 (i) in subparagraph (H), by striking and at the end; (ii) in subparagraph (I), by striking the period at the end and inserting ; and ; and (iii) by adding at the end the following: (J) report to the Secretary the termination (as defined in section 1312(e)(1)(C)) of an issuer. . (3) Authority to regulate field marketing organizations and third-party marketing organizations Section 1312(e) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 18032(e) ) is amended\u2014 (A) by redesignating paragraphs (1) and (2) as subclauses (I) and (II), respectively, and adjusting the margins accordingly; (B) in subclause (II) (as so redesignated), by striking the period at the end and inserting ; and ; (C) by striking the subsection designation and heading and all that follows through brokers\u2014 and inserting the following: (e) Regulation of agents, brokers, and certain marketing organizations (1) Agents, brokers, and certain marketing organizations (A) In general The Secretary shall establish procedures under which a State may allow\u2014 (i) agents or brokers\u2014 ; and (D) by adding at the end the following: (ii) field marketing organizations and third-party marketing organizations to participate in the chain of enrollment for an individual with respect to qualified health plans offered through an Exchange. (B) Criteria For plan years beginning on or after such date specified by the Secretary, but not later than January 1, 2029, the Secretary, by regulation, shall establish criteria for States to use in determining whether to allow agents and brokers to enroll individuals and employers in qualified health plans as described in subclause (I) of subparagraph (A)(i) and to assist individuals as described in subclause (II) of such subparagraph and field marketing organizations and third-party marketing organizations to participate in the chain of enrollment as described in subparagraph (A)(ii). Such criteria shall, at a minimum, require that\u2014 (i) an agent or broker act in accordance with a standard of conduct that includes a duty of such agent or broker to act in the best interests of the enrollee; (ii) a field marketing organization or third-party marketing organization agree to report the termination of an agent or broker to the applicable State and the Secretary, including the reason for termination; and (iii) an agent, broker, field marketing organization, or third-party marketing organization\u2014 (I) meet such marketing requirements as are required by the Secretary; (II) meet marketing requirements in accordance with other applicable Federal or State law; (III) does not employ practices that are confusing or misleading, as determined by the Secretary; (IV) submit all marketing materials to the Secretary for, as determined appropriate by the Secretary, review and approval; (V) is a licensed agent or broker or meets other licensure requirements, as required by the State; (VI) register with the Secretary; and (VII) does not compensate any individual or organization for referrals or any other service relating to the sale of, marketing for, or enrollment in qualified health plans unless such individual or organization meets the criteria described in subclauses (I) through (VI). (C) Definitions In this paragraph: (i) Chain of enrollment The term chain of enrollment , with respect to enrollment of an individual in a qualified health plan offered through an Exchange, means any steps taken from marketing to such individual, to such individual making an enrollment decision with respect to such a plan. (ii) Field marketing organization The term field marketing organization means an organization or individual that directly employs or contracts with agents and brokers, or contracts with carriers, to provide functions relating to enrollment of individuals in qualified health plans offered through an Exchange as part of the chain of enrollment. (iii) Marketing The term marketing means the use of marketing materials to provide information to current and prospective enrollees in a qualified health plan offered through an Exchange. (iv) Marketing materials The term marketing materials means materials relating to a qualified health plan offered through an Exchange or benefits offered through an Exchange that\u2014 (I) are intended\u2014 (aa) to draw an individual\u2019s attention to such plan or the premium tax credits or cost-sharing reductions for such plan or plans offered through an Exchange; (bb) to influence an individual\u2019s decision-making process when selecting a qualified health plan in which to enroll; or (cc) to influence an enrollee\u2019s decision to stay enrolled in such plan; and (II) include or address content regarding the benefits, benefit structure, premiums, or cost sharing of such plan. (v) Termination The term termination , with respect to a contract or business arrangement between an agent or broker and a field marketing organization, third-party marketing organization, or health insurance issuer, means\u2014 (I) the ending of such contract or business arrangement, either unilaterally by one of the parties or on mutual agreement; or (II) the expiration of such contract or business arrangement that is not replaced by a substantially similar agreement. (vi) Third-party marketing organization The term third-party marketing organization means an organization or individual that is compensated to perform lead generation, marketing, or sales relating to enrollment of individuals in qualified health plans offered through an Exchange as part of the chain of enrollment. . (4) Transparency Section 1312(e) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 18032(e) ), as amended by paragraph (3), is further amended by adding at the end the following new paragraphs: (2) Audits (A) In general For plan years beginning on or after such date specified by the Secretary, but not later than January 1, 2029, the Secretary, in coordination with the States and in consultation with the National Association of Insurance Commissioners, shall implement a process for the oversight and enforcement of agent and broker compliance with this section and other applicable Federal and State law (including regulations) that shall include\u2014 (i) periodic audits of agents and brokers based on\u2014 (I) complaints filed with the Secretary by individuals enrolled by such an agent or broker in a qualified health plan offered through an Exchange; (II) an incident or enrollment pattern that suggests fraud; and (III) other factors determined by the Secretary; and (ii) a process under which the Secretary shall share audit results and refer potential cases of fraud to the relevant State department of insurance. (B) Effect Nothing in this paragraph limits or restricts any referrals made under section 1311(i)(3) or any enforcement actions under section 1411(h). (3) List The Secretary shall develop a process to regularly provide to qualified health plans, Exchanges, and States a list of suspended and terminated agents and brokers. . (b) Removal of deceased individuals from Exchange plans Section 1311(c) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 18031(c) ), as amended by subsection (a), is further amended by adding at the end the following new paragraph: (9) Removal of deceased individuals from Exchange plans (A) In general Not later than 90 days after the date of the enactment of this paragraph, and on a quarterly basis thereafter, the Secretary shall conduct a check of the Death Master File (as such term is defined in section 203(d) of the Bipartisan Budget Act of 2013) for purposes of identifying individuals enrolled in a qualified health plan through an Exchange who are deceased. (B) Process The Secretary shall\u2014 (i) establish a process to verify that an individual identified pursuant to a check described in subparagraph (A) is deceased; and (ii) require an Exchange to terminate such individual\u2019s enrollment under a qualified health plan. . (c) Standard of proof for terminating agents and brokers Section 1312(e) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 18032(e) ), as amended by subsection (a), is further amended by adding at the end the following new paragraph: (4) Standard for termination for certain Exchanges In the case of an agent or broker with an agreement in effect with an Exchange operated by the Secretary pursuant to section 1321(c) to perform activities described in paragraph (1)(A)(i) with respect to such Exchange, the Secretary may terminate such agreement for cause if the Secretary finds, based on a preponderance of the evidence, that such agent or broker has violated such agreement, otherwise applicable law, or any other requirement applicable to such agent or broker. . (d) Requirement for Exchange To notify individuals of value of premium tax credits Section 1412(c)(2) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 18082(c)(2) ) is amended by adding at the end the following new subparagraph: (C) Exchange responsibilities Beginning January 1, 2027, if an Exchange is notified under paragraph (1) of an advance determination under section 1411 with respect to the eligibility of an individual for a premium tax credit under section 36B of the Internal Revenue Code of 1986, the Exchange shall, prior to enrolling such individual in a qualified health plan, clearly notify such individual of the amount of such tax credit. . 4. Extending annual open enrollment period for Exchanges for plan year 2026 The Secretary of Health and Human Services shall revise section 155.410(e) of title 45, Code of Federal Regulations (or any successor regulation) to provide that the annual open enrollment period determined for plan year 2026 pursuant to section 1311(c)(6) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 18031(c)(6) ) shall begin on November 1, 2025, and end on May 15, 2026. .",
+      "versionDate": "2025-11-20",
+      "versionType": "IH"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-11-20",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "6232",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "HOPE Act",
+      "type": "HR"
+    },
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-12-10",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "6575",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "CommonGround for Affordable Health Care Act",
+      "type": "HR"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Congress",
+        "updateDate": "2026-01-16T13:29:45Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: summaries
+
+```json
+{
+  "govinfoBulk": {
+    "introducedDate": "2025-11-20",
+    "originChamber": "House",
+    "payload": {
+      "dublinCore": {
+        "contributor": "Congressional Research Service, Library of Congress",
+        "description": "This file contains bill summaries for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is \"to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives\". For more information, refer to the User Guide that accompanies this file.",
+        "format": "text/xml",
+        "language": "EN",
+        "rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      },
+      "item": {
+        "@attributes": {
+          "congress": "119",
+          "measure-id": "id119hres902",
+          "measure-number": "902",
+          "measure-type": "hres",
+          "orig-publish-date": "2025-11-20",
+          "originChamber": "HOUSE",
+          "update-date": "2026-03-13"
+        },
+        "summary": {
+          "@attributes": {
+            "currentChamber": "HOUSE",
+            "summary-id": "id119hres902v00",
+            "update-date": "2026-03-13"
+          },
+          "action-date": "2025-11-20",
+          "action-desc": "Introduced in House",
+          "summary-text": "This resolution provides for the consideration of the bill (H.R. 185) to advance responsible policies."
+        },
+        "title": "Providing for consideration of the bill (H.R. 185) to advance responsible policies."
+      }
+    },
+    "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSUM/119/hres/BILLSUM-119hres902.xml",
+    "summary": {
+      "actionDate": "2025-11-20",
+      "actionDesc": "Introduced in House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 185) to advance responsible policies.",
+      "updateDate": "2026-03-13",
+      "versionCode": "id119hres902"
+    },
+    "title": "Providing for consideration of the bill (H.R. 185) to advance responsible policies."
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-11-20",
+      "actionDesc": "Introduced in House",
+      "text": "This resolution provides for the consideration of the bill (H.R. 185) to advance responsible policies.",
+      "updateDate": "2026-03-13",
+      "versionCode": "id119hres902"
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-11-20",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres902ih.xml"
+        }
+      ],
+      "type": "IH"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Providing for consideration of the bill (H.R. 185) to advance responsible policies.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-11-22T10:03:25Z"
+    },
+    {
+      "title": "Providing for consideration of the bill (H.R. 185) to advance responsible policies.",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-11-21T12:04:12Z"
+    }
+  ]
+}
+```

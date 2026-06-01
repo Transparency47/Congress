@@ -1,0 +1,55 @@
+# HR 5931: Veterans’ Cremation Certainty Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-11-07
+- Latest action: 2025-11-07 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Biggs, Andy [R-AZ-5]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/5931
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-11-07
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5931ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-11-07
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5931ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 5931
+IN THE HOUSE OF REPRESENTATIVES
+November 7, 2025 Mr. Biggs of Arizona introduced the following bill; which was referred to the Committee on Veterans' Affairs
+A BILL
+To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide direct payment to cremation providers for direct cremation designated by veterans prior to death, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Veterans’ Cremation Certainty Act of 2025 .
+#### 2. Direct payment for direct cremation
+##### (a) Direct payment for direct cremation
+Chapter 23 of title 38, United States Code, is amended by adding at the end the following new section:
+2309. Direct payment for direct cremation (a) Direct payment Upon the death of an eligible veteran who has submitted an application described in subsection (b), the Secretary shall pay the direct cremation provider specified in such application the following applicable payment for the cost of direct cremation: (1) For a veteran described in section 2303(a)(2) of this title, such payment shall not exceed the amount authorized under such section and shall be in lieu of any benefit authorized under section 2302 of this title. (2) For a veteran described in section 2307 of this title, such payment shall not exceed the amount authorized under section 2307 of this title and shall be in lieu of any benefit authorized under section 2307 of this title. (b) Application An application described in this section is an application to the Secretary in which an eligible veteran elects direct cremation in lieu of benefits under section 2303 or 2307 of this title and specifies a direct cremation provider. (c) Integration with pre-Need eligibility process To the extent practicable, the Secretary shall ensure the application process under subsection (b) is integrated with the pre-need eligibility determination process (or successor process) pursuant to section 2404 of this title. (d) Definitions In this section: (1) The term direct cremation provider means a crematory or funeral home that provides direct cremation. (2) The term direct cremation means the basic cremation of human remains in a simple container without embalming, viewing, funeral ceremony, or inurnment. Such term includes— (A) transportation of the deceased from the place of death to the direct cremation provider; (B) a basic container or chosen urn; (C) delivery of the cremated remains to the next of kin or location of inurnment; and (D) completion of a death certificate. (3) The term eligible veteran means a veteran eligible for benefits under this chapter and for interment in a national cemetery under section 2402 of this title. .
+##### (b) Clerical amendment
+The table of contents for chapter 23 of such title is amended by adding at the end the following new item:
+2309. Direct payment for direct cremation. .
+##### (c) Regulations
+Not later than 120 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall prescribe regulations under section 2309 of such title, as added by this section.
+##### (d) Application
+Section 2309 of such title, as added by this section, shall apply with respect to deaths that occur on or after the day that is 180 days after the date of the enactment of this Act.
+
+
+## Timeline
+
+- 2025-11-07: Introduced in House
+- 2025-11-07 - IntroReferral: Introduced in House
+- 2025-11-07 - IntroReferral: Introduced in House
+- 2025-11-07 - IntroReferral: Referred to the House Committee on Veterans' Affairs.
+- 2025-11-17 - Committee: Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- Latest action: 2025-11-07: Introduced in House

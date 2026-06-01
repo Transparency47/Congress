@@ -1,0 +1,46 @@
+# HR 1448: PEER Mental Health Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-02-21
+- Latest action: 2025-02-21 - Introduced in House
+- Policy area: Health
+- Sponsor: Rep. Balint, Becca [D-VT-At Large]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hr/1448
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-02-21
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1448ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-02-21
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1448ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 1448
+IN THE HOUSE OF REPRESENTATIVES
+February 21, 2025 Ms. Balint (for herself, Ms. Salinas , and Ms. Norton ) introduced the following bill; which was referred to the Committee on Energy and Commerce
+A BILL
+To amend the Public Health Service Act to authorize the Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, to award grants for peer mental health first aid, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Peer Education and Emergency Response for Mental Health Act of 2025 or the PEER Mental Health Act of 2025 .
+#### 2. Grants for peer mental health first aid
+Title V of the Public Health Service Act is amended by inserting after section 520J of such Act ( 42 U.S.C. 290bb–41 ) the following:
+520J–1. Grants for peer mental health first aid (a) In general The Secretary shall award grants to eligible entities— (1) to train teachers, other relevant school personnel (including education support professionals), students, and parents and caregivers of students— (A) to recognize symptoms of childhood and adolescent mental health conditions; (B) to refer students to appropriate mental health services if necessary; and (C) to recognize signs of immediate mental distress and, upon recognizing such signs apply mental health first aid tactics; and (2) to provide education to such teachers, personnel, students, parents, and caregivers regarding resources that are available in the community for individuals with a mental illness. (b) Relation to other mental health awareness training grants An eligible entity may receive grant funds under this section in addition to receiving amounts made available to such eligible entity pursuant to section 520J. (c) Allocation for schools in rural areas (1) In general In awarding grants under this section, the Secretary shall award not less than 25 percent of the amounts made available to carry out this section for a fiscal year to eligible entities that are elementary schools or secondary schools in rural areas or that are applying for grants on behalf of such schools. (2) Reallocation If the Secretary is unable to obligate the total amount of funds set aside under paragraph (1) for a fiscal year due to a lack of qualified applications from eligible applicants described in paragraph (1), the Secretary shall reallocate the remainder of such funds for making grants under this section to other eligible entities. (d) Application (1) In general To seek a grant under this section, an eligible entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including a plan for the rigorous evaluation of activities that are carried out with funds received through the grant. (2) Streamlined process The Secretary shall streamline the process for applying for a grant under this section so as to keep such process from imposing an unreasonable barrier, especially for eligible entities with limited personnel available to prepare a grant application. (e) Technical assistance The Secretary shall provide technical assistance to eligible entities applying for, or receiving, grants under this section. Such technical assistance shall include the development and dissemination of best practices for providing training and education described in subsection (a). (f) Definition In this section: (1) The terms elementary school , local educational agency , secondary school , and State educational agency have the meanings given to those terms in section 8101 of the Elementary and Secondary Education Act of 1965. (2) The term eligible entity means an elementary school, a local educational agency, a secondary school, or a State educational agency. (3) The term rural area refers to a rural area as defined by the Health Resources and Services Administration for purposes of awarding rural health grants. (g) Authorization of appropriations To carry out this section, there is authorized to be appropriated $24,963,000 for each of fiscal years 2026 through 2030. .
+
+
+## Timeline
+
+- 2025-02-21: Introduced in House
+- 2025-02-21 - IntroReferral: Introduced in House
+- 2025-02-21 - IntroReferral: Introduced in House
+- 2025-02-21 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2025-02-21: Introduced in House

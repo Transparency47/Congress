@@ -1,0 +1,60 @@
+# HR 7495: To authorize the establishment of memorials to the Wisconsin infantry officers and enlisted men who fought in the Battle of Antietam and the Second Battle of Bull Run, and for other purposes.
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-02-11
+- Latest action: 2026-02-11 - Introduced in House
+- Policy area: Public Lands and Natural Resources
+- Sponsor: Rep. Fitzgerald, Scott [R-WI-5]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7495
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-02-11
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7495ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-02-11
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7495ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7495
+IN THE HOUSE OF REPRESENTATIVES
+February 11, 2026 Mr. Fitzgerald (for himself, Mr. Steil , Mr. Van Orden , Mr. Grothman , Mr. Tiffany , and Mr. Wied ) introduced the following bill; which was referred to the Committee on Natural Resources
+A BILL
+To authorize the establishment of memorials to the Wisconsin infantry officers and enlisted men who fought in the Battle of Antietam and the Second Battle of Bull Run, and for other purposes.
+#### 1. Establishment of Wisconsin memorials at Antietam and Manassas
+##### (a) Memorials authorized
+The Secretary of the Interior (referred to in this section as the Secretary ) shall authorize the establishment of—
+**(1)**
+at a suitable location approved by the Secretary within the boundaries of Antietam National Battlefield, a memorial to the officers and enlisted men of the Second, Third, Fifth, Sixth, and Seventh Wisconsin Infantry Regiments who fought in the Battle of Antietam on September 17, 1862; and
+**(2)**
+at a suitable location approved by the Secretary within the boundaries of Manassas National Battlefield Park, a memorial to the officers and enlisted men of the Second, Sixth, and Seventh Wisconsin Infantry Regiments who fought in the Second Battle of Bull Run on August 28–30, 1862.
+##### (b) Authorized entity
+The Secretary shall select the persons who may establish each of the memorials authorized by subsection (a).
+##### (c) Design approvals
+The size, design, and inscriptions of the memorials authorized by subsection (a) shall be subject to the approval of the Secretary.
+##### (d) Prohibition on use of Federal funds for establishment
+No Federal funds may be expended to design the memorials authorized by subsection (a), to acquire the memorials, to prepare the site selected for the memorials, or to install the memorials.
+##### (e) Suspension for misrepresentation in fundraising
+The Secretary may suspend the authority of the persons selected under subsection (b) to establish the memorials authorized by subsection (a) if the Secretary determines that fundraising efforts relating to the memorials have misrepresented an affiliation with the memorials or the Federal Government.
+##### (f) Annual Report
+Until each memorial authorized by subsection (a) is installed, the persons selected under subsection (b) to establish that memorial shall submit to the Secretary an annual report of operations related to fundraising efforts for the memorial and progress on the establishment of the memorial.
+##### (g) Maintenance
+Upon installation of each memorial authorized by subsection (a), the Secretary shall assume responsibility for the maintenance of that memorial. The Secretary may accept contributions for the maintenance of the memorials from the persons selected under subsection (b) to establish the memorials and from other persons. Amounts accepted under this subsection shall be merged with other funds available to the Secretary for the maintenance of the memorials and credited to a separate account with the National Park Foundation.
+
+
+## Timeline
+
+- 2026-02-11: Introduced in House
+- 2026-02-11 - IntroReferral: Introduced in House
+- 2026-02-11 - IntroReferral: Introduced in House
+- 2026-02-11 - IntroReferral: Referred to the House Committee on Natural Resources.
+- Latest action: 2026-02-11: Introduced in House

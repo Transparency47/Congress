@@ -1,0 +1,94 @@
+# HR 3489: Department of Veterans Affairs Medical Physicist Pay Cap Relief Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-05-19
+- Latest action: 2025-05-19 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Cherfilus-McCormick, Sheila [D-FL-20]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/3489
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-05-19
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3489ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-05-19
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3489ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3489
+IN THE HOUSE OF REPRESENTATIVES
+May 19, 2025 Mrs. Cherfilus-McCormick (for herself and Mr. Ciscomani ) introduced the following bill; which was referred to the Committee on Veterans' Affairs
+A BILL
+To amend title 38, United States Code, to codify the requirements for appointment, qualifications, and pay for therapeutic and diagnostic medical physicists of the Department of Veterans Affairs, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Department of Veterans Affairs Medical Physicist Pay Cap Relief Act .
+#### 2. Treatment of therapeutic medical physicists of the Department of Veterans Affairs
+##### (a) Appointment
+Section 7401(1) of title 38, United States Code, is amended by inserting therapeutic medical physicists, diagnostic medical physicists, after physician assistants, .
+##### (b) Qualifications
+Section 7402(b) of such title is amended—
+**(1)**
+by redesignating paragraph (14) as paragraph (16); and
+**(2)**
+by inserting after paragraph (13) the following new paragraphs:
+(14) Therapeutic medical physicist To be eligible to be appointed to a therapeutic medical physicist position, a person must— (A) have completed a post-graduate clinical training program in therapeutic medical physics satisfactory to the Secretary; and (B) be board certified in the field of therapeutic medical physics by a certifying body approved by the Secretary. (15) Diagnostic medical physicist To be eligible to be appointed to a diagnostic medical physicist position, a person must— (A) have completed a post-graduate clinical training program in diagnostic medical physics satisfactory to the Secretary; and (B) be board certified in the field of diagnostic medical physics by a certifying body approved by the Secretary. .
+##### (c) Grade
+Section 7404 of such title is amended—
+**(1)**
+by inserting therapeutic medical physicist, diagnostic medical physicist, after podiatrist (dpm), ; and
+**(2)**
+by inserting after Podiatrist grade. the following:
+Therapeutic medical physicist grade. Diagnostic medical physicist grade. .
+##### (d) Personnel administration
+Section 7421(b) of such title is amended—
+**(1)**
+by redesignating paragraph (9) as paragraph (11); and
+**(2)**
+by inserting, after paragraph (8), the following new paragraphs:
+(9) Therapeutic medical physicists. (10) Diagnostic medical physicists. .
+##### (e) Pay
+**(1) In general**
+Section 7431 of such title is amended—
+**(A)**
+by inserting , Therapeutic Medical Physicist, Diagnostic Medical Physicist before , and Dentist Base each place it appears;
+**(B)**
+by inserting therapeutic medical physicist, diagnostic medical physicist, after podiatrist, each place it appears;
+**(C)**
+by inserting therapeutic medical physicists, diagnostic medical physicists, after podiatrists, each place it appears; and
+**(D)**
+in subsection (e)(1)(A), by inserting , therapeutic medical physicists, diagnostic medical physicists, after podiatrists .
+**(2) Administrative matters**
+Section 7433 of such title is amended by inserting therapeutic medical physicists, diagnostic medical physicists, after podiatrists, each place it appears.
+**(3) Conforming amendment**
+The heading of subchapter III of chapter 74 of such title is amended by inserting Therapeutic Medical Physicists, Diagnostic Medical Physicists after Podiatrists, .
+**(4) Clerical amendment**
+The table of sections at the beginning of chapter 74 of such title is amended by striking the item relating to subchapter III and inserting the following new item:
+Subchapter III—Pay for Physicians, Podiatrists, Therapeutic Medical Physicists, Diagnostic Medical Physicists, and Dentists .
+##### (f) Report
+Not later than one year after the date of enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the amendments made by this section. Such report shall include the following:
+**(1)**
+The effects of an increase in pay for therapeutic medical physicists and diagnostic medical physicists employed on a full-time basis within the Department of Veterans Affairs.
+**(2)**
+The effects on therapeutic medical physicists and diagnostic medical physicists who provide care pursuant to an agreement with the Secretary.
+**(3)**
+Any change to costs to the Department.
+
+
+## Timeline
+
+- 2025-05-19: Introduced in House
+- 2025-05-19 - IntroReferral: Introduced in House
+- 2025-05-19 - IntroReferral: Introduced in House
+- 2025-05-19 - IntroReferral: Referred to the House Committee on Veterans' Affairs.
+- 2025-06-06 - Committee: Referred to the Subcommittee on Health.
+- Latest action: 2025-05-19: Introduced in House

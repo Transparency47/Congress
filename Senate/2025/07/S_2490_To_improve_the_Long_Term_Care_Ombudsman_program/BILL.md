@@ -1,0 +1,71 @@
+# S 2490: Strengthening Advocacy for Long-Term Care Residents Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-07-29
+- Latest action: 2025-07-29 - Introduced in Senate
+- Policy area: Social Welfare
+- Sponsor: Sen. Kaine, Tim [D-VA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/2490
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-07-29
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2490is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-07-29
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2490is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 2490
+IN THE SENATE OF THE UNITED STATES
+July 29, 2025 Mr. Kaine (for himself and Mr. Kim ) introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions
+A BILL
+To improve the Long-Term Care Ombudsman program.
+#### 1. Short title
+This Act may be cited as the Strengthening Advocacy for Long-Term Care Residents Act .
+#### 2. Improving training of volunteers under the State Long-Term Care Ombudsman Program
+Section 712 of the Older Americans Act of 1965 ( 42 U.S.C. 3058g ) is amended—
+**(1)**
+in subsection (h)(5)—
+**(A)**
+in the matter preceding subparagraph (A)—
+**(i)**
+by striking the representatives and inserting each type of representative ; and
+**(ii)**
+by inserting types of before unpaid volunteers ;
+**(B)**
+in subparagraph (A), by inserting for each such type of representative before the semicolon at the end;
+**(C)**
+in subparagraph (B)(iii), by striking and at the end;
+**(D)**
+in subparagraph (C), by adding and at the end; and
+**(E)**
+by adding at the end the following:
+(D) with respect to representatives of the Office who are unpaid volunteers, take into consideration the degree to which each such type of unpaid volunteer performs activities requiring specialized training, with a goal of reducing unnecessary training requirements for prospective unpaid volunteers; ; and
+**(2)**
+by adding at the end the following:
+(k) Training requirements for unpaid volunteers (1) In general In providing the model standards described in subsection (h)(5), the Director of the Office of Long-Term Care Ombudsman Programs shall review and, as necessary, update such model standards on a regular basis to tailor such model standards to the individualized training needs of each type of representative of the Office, including each type of unpaid volunteer. (2) Considerations In carrying out paragraph (1), the Director of the Office of Long-Term Care Ombudsman Programs shall take into consideration the degree to which each type of representative of the Office performs activities that require specialized training, with a goal of reducing unnecessary training requirements for unpaid volunteers. .
+#### 3. Director of the Office of Long-Term Care Ombudsman Programs
+Section 201(d)(2)(A) of the Older Americans Act of 1965 ( 42 U.S.C. 3011(d)(2)(A) ) is amended in the second sentence by inserting serve on a full-time basis and after shall .
+#### 4. Study on State Long-Term Care Ombudsman Programs
+##### (a) In general
+The Assistant Secretary for Aging shall seek to enter into a contract with the National Academies of Sciences, Engineering, and Medicine (referred to in this section as the National Academies ) to conduct a study on the State Long-Term Care Ombudsman programs carried out under the Older Americans Act of 1965 ( 42 U.S.C. 3001 et seq. ), including an assessment of the effectiveness of such programs and any related challenges, and recommendations. The study shall include an assessment of the current (as of the date on which the contract is entered into) recommended staff-to-bed ratio for such programs, as appropriate.
+##### (b) Report
+Not later than 1 year after the date on which a contract is entered into under subsection (a), the National Academies shall publicly issue a report on the findings of such study.
+
+
+## Timeline
+
+- 2025-07-29: Introduced in Senate
+- 2025-07-29 - IntroReferral: Introduced in Senate
+- 2025-07-29 - IntroReferral: Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- Latest action: 2025-07-29: Introduced in Senate

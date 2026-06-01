@@ -1,0 +1,56 @@
+# HR 1404: CHAMPVA Children’s Care Protection Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-02-18
+- Latest action: 2025-02-18 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Brownley, Julia [D-CA-26]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/1404
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**CHAMPVA Children's Care Protection Act of 2025**
+
+This bill provides that a child shall be eligible for medical care under the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) until the child's 26th birthday, regardless of the child's marital status.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-02-18
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1404ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-02-18
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1404ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 1404
+IN THE HOUSE OF REPRESENTATIVES
+February 18, 2025 Ms. Brownley (for herself, Mr. Mrvan , Mr. Grijalva , Ms. Norton , and Mr. Magaziner ) introduced the following bill; which was referred to the Committee on Veterans' Affairs
+A BILL
+To amend title 38, United States Code, to increase the maximum age for children eligible for medical care under the CHAMPVA program, and for other purposes.
+#### 1. Short title
+This Act may be cited as the CHAMPVA Children’s Care Protection Act of 2025 .
+#### 2. Increase of maximum age for children eligible for medical care under CHAMPVA program
+##### (a) Increase
+Subsection (c) of section 1781 of title 38, United States Code, is amended to read as follows:
+(c) (1) Notwithstanding clauses (i) and (iii) of section 101(4)(A) of this title and except as provided in paragraph (2), for purposes of this section, a child is eligible for benefits under subsection (a) until the child's 26th birthday, regardless of the child's marital status. (2) This subsection shall not be construed to limit eligibility for benefits under subsection (a) of a child described in section 101(4)(A)(ii) of this title. .
+##### (b) Effective Date
+Such subsection, as so amended, shall apply with respect to medical care provided on or after the date of the enactment of this Act.
+
+
+## Timeline
+
+- 2025-02-18: Introduced in House
+- 2025-02-18 - IntroReferral: Introduced in House
+- 2025-02-18 - IntroReferral: Introduced in House
+- 2025-02-18 - IntroReferral: Referred to the House Committee on Veterans' Affairs.
+- 2025-12-19 - Committee: Referred to the Subcommittee on Health.
+- Latest action: 2025-02-18: Introduced in House

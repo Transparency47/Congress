@@ -1,0 +1,48 @@
+# S 4160: Prediction Markets Are Gambling Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2026-03-23
+- Latest action: 2026-03-23 - Introduced in Senate
+- Policy area: Sports and Recreation
+- Sponsor: Sen. Schiff, Adam B. [D-CA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/4160
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2026-03-23
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4160is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2026-03-23
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4160is.xml
+
+II
+119th CONGRESS
+2d Session
+S. 4160
+IN THE SENATE OF THE UNITED STATES
+March 23, 2026 Mr. Schiff (for himself, Mr. Curtis , and Ms. Cortez Masto ) introduced the following bill; which was read twice and referred to the Committee on Agriculture, Nutrition, and Forestry
+A BILL
+To amend the Commodity Exchange Act to prohibit certain event contracts involving sports and casino-style games.
+#### 1. Short title
+This Act may be cited as the Prediction Markets Are Gambling Act .
+#### 2. Prohibition on certain event contracts involving sports and casino-style games
+##### (a) Amendment to the Commodity Exchange Act
+Section 5c(c) of the Commodity Exchange Act ( 7 U.S.C. 7a–2(c) ) is amended by adding at the end the following:
+(6) Prohibition on sporting and casino-style event contracts (A) Definitions In this paragraph: (i) Casino-style game The term casino-style game means any game traditionally found in a casino, including slot machine games, video poker, blackjack, roulette, craps, any other casino-style table game, bingo, lottery, and any simulation of any of those games. (ii) Sporting event or athletic competition The term sporting event or athletic competition means any live or virtual contest involving physical activity or skill in which individuals or teams compete and performance determines an outcome or statistical result, including amateur, collegiate, and professional sports. (B) Prohibition Notwithstanding any other provision of this section, no agreement, contract, or transaction relating to any sporting event or athletic competition or any casino-style game may be listed or made available for clearing or trading on or through a registered entity. (C) Rule of construction Nothing in this Act shall be construed to preempt any State law or rule that regulates or prohibits any agreement, contract, or transaction relating to any sporting event or athletic competition or any casino-style game. .
+##### (b) Applicability of prohibition
+Paragraph (6)(B) of section 5c(c) of the Commodity Exchange Act ( 7 U.S.C. 7a–2(c) ) (as added by subsection (a)) shall apply to any agreement, contract, or transaction entered into on or after the date of enactment of this Act.
+
+
+## Timeline
+
+- 2026-03-23: Introduced in Senate
+- 2026-03-23 - IntroReferral: Introduced in Senate
+- 2026-03-23 - IntroReferral: Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- Latest action: 2026-03-23: Introduced in Senate

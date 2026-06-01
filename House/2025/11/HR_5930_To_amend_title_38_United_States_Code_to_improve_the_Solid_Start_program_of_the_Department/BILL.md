@@ -1,0 +1,76 @@
+# HR 5930: Veterans Transition Support Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-11-07
+- Latest action: 2025-11-07 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Beyer, Donald S. [D-VA-8]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/5930
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-11-07
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5930ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-11-07
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5930ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 5930
+IN THE HOUSE OF REPRESENTATIVES
+November 7, 2025 Mr. Beyer (for himself, Mr. Ciscomani , and Mr. McGarvey ) introduced the following bill; which was referred to the Committee on Veterans' Affairs
+A BILL
+To amend title 38, United States Code, to improve the Solid Start program of the Department of Veterans Affairs, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Veterans Transition Support Act of 2025 .
+#### 2. Outreach to members of the Armed Forces under the Solid Start program
+##### (a) In general
+Section 6320 of title 38, United States Code, is amended, in subsection (a)—
+**(1)**
+in paragraph (1), by inserting members of the Armed Forces described in subsection (b) and after needs of ; and
+**(2)**
+in paragraph (2)—
+**(A)**
+in the matter preceding subparagraph (A)—
+**(i)**
+by inserting with the Department of Defense after coordinate efforts ; and
+**(ii)**
+by inserting such members of the Armed Forces and after to assist ;
+**(B)**
+in subparagraph (A), by inserting such members and after reach out to ; and
+**(C)**
+in subparagraph (B), by inserting such members and after to connect .
+##### (b) Activities of the Solid Start program
+Such section is further amended, in subsection (b)(1)—
+**(1)**
+in subparagraph (A), by inserting (with priority for members during the period between 120 and 210 days before separation) after separating from the Armed Forces ;
+**(2)**
+in subparagraph (D), by inserting such member's and after the needs of each ;
+**(3)**
+in subparagraph (E), by inserting such members and after prioritizing outreach to ;
+**(4)**
+in subparagraph (F), by inserting such members who are women and after providing ;
+**(5)**
+by redesignating subparagraphs (B) through (H) as subparagraphs (E) through (K), respectively; and
+**(6)**
+by inserting after subparagraph (A) the following new subparagraphs:
+(B) collecting suicide prevention policies, points of contact, and referral protocols of the Department of Defense to inform such members who are in crisis of such resources; (C) calling and speaking with each such member, regardless of separation type or characterization of service, at least one time not earlier than 210 days, and not later than 120 days, before the separation of such member from the Armed Forces— (i) to inform the member of the transitional health care available under section 1145 of title 10; and (ii) to provide to the member the contact information for— (I) the facility of the Department located closest to the member’s permanent residence; and (II) a representative of an organization recognized by the Secretary under section 5902 of this title, or an agent or attorney recognized under section 5904 of this title, who may assist the member in compiling and filing the member’s claim for disability compensation; (D) communicating with such members through other means (including text message or email)— (i) to schedule a call under subparagraph (C); or (ii) if calling a member under such subparagraph has not resulted in contact before exceeding the maximum number of call attempts as the Secretary may specify; .
+
+
+## Timeline
+
+- 2025-11-07: Introduced in House
+- 2025-11-07 - IntroReferral: Introduced in House
+- 2025-11-07 - IntroReferral: Introduced in House
+- 2025-11-07 - IntroReferral: Referred to the House Committee on Veterans' Affairs.
+- 2025-11-17 - Committee: Referred to the Subcommittee on Economic Opportunity.
+- Latest action: 2025-11-07: Introduced in House

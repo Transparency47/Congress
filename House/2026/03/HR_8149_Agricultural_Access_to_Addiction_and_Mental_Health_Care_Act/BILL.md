@@ -1,0 +1,100 @@
+# HR 8149: Agricultural Access to Addiction and Mental Health Care Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-03-27
+- Latest action: 2026-03-27 - Introduced in House
+- Policy area: Agriculture and Food
+- Sponsor: Rep. Neguse, Joe [D-CO-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/8149
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Agricultural Access to Addiction and Mental Health Care Act**
+
+This bill directs the National Institute of Food and Agriculture (NIFA) to study the accessibility of addiction and mental health care providers and services for farmers and ranchers impacted by severe and persistent drought, extreme weather events, instability in the commodities market, and misinformation targeting consumers.
+
+For example, the study must examine (1) best practices and successful programs at the state and local level that can be replicated at the federal level to address addiction and mental health care needs in agricultural communities, and (2) recommendations for improving the accessibility of care.
+
+In conducting the study, NIFA must collaborate and consult with relevant federal agencies, state departments of agriculture, and mental health and agricultural organizations.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-03-27
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8149ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-03-27
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8149ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 8149
+IN THE HOUSE OF REPRESENTATIVES
+March 27, 2026 Mr. Neguse (for himself and Mr. Van Orden ) introduced the following bill; which was referred to the Committee on Agriculture
+A BILL
+To require the Secretary of Agriculture to conduct a study on the accessibility of addiction and mental health care providers and services for farmers and ranchers who have been impacted by severe and persistent drought, extreme weather events, instability in the commodities market, misinformation targeting consumers, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Agricultural Access to Addiction and Mental Health Care Act .
+#### 2. Finding
+Congress finds that farmers and ranchers face numerous challenges, which can have a significant impact on the mental health and well being of such farmers and ranchers, including—
+**(1)**
+severe and persistent drought;
+**(2)**
+extreme weather events;
+**(3)**
+instability in the commodities market; and
+**(4)**
+misinformation targeting consumers.
+#### 3. Study on accessibility of addiction and mental health care providers and services for farmers and ranchers
+##### (a) Study required
+The Secretary of Agriculture, acting through the Director of the National Institute of Food and Agriculture (in this section referred to as the Secretary ), shall conduct a study on the accessibility of addiction and mental health care providers and services for farmers and ranchers who have been impacted by severe and persistent drought, extreme weather events, instability in the commodities market, misinformation targeting consumers, and related factors.
+##### (b) Topics addressed
+The study conducted under subsection (a) shall include an examination of the following:
+**(1)**
+The availability and accessibility in rural areas of addiction and mental health care providers and services that are trained and dedicated to serve the needs of farmers, ranchers, agricultural workers, and their family members.
+**(2)**
+Barriers and challenges faced by farmers and ranchers in accessing addiction and mental health care and health and wellness resources, including financial, geographic, and cultural barriers.
+**(3)**
+Identification of best practices and successful programs at the State and local level that can be replicated at the Federal level to addressed addiction and mental health care needs in agricultural communities including the following:
+**(A)**
+Hiring and training addiction and mental health care professionals with expertise in working with agricultural communities.
+**(B)**
+Accessing cultural competency training for addiction and mental health care professionals that lack expertise in working with agricultural communities.
+**(C)**
+Developing certificate programs for paraprofessionals and coaches to offer peer-to-peer support programming.
+**(D)**
+Researching effective curricula for youth and young adults to be offered in rural schools.
+**(E)**
+Expanding telehealth and telemedicine services to improve access to care in rural areas.
+**(F)**
+Developing outreach and educational programs to reduce stigma and increase awareness of mental health issues among farmers and ranchers.
+**(G)**
+Enhancing coordination and collaboration between existing mental health providers and agricultural organizations.
+**(H)**
+Conducting research and evaluation to measure the effectiveness of addiction and mental health care services provided to farmers and ranchers.
+**(4)**
+Recommendations for improving the accessibility of addiction and mental health care for farmers and ranchers.
+**(5)**
+The feasibility of providing funding for 6 reimbursable therapy sessions, by providers that are trained and dedicated to serve the needs of farmers, ranchers and their family members, through the Farm and Ranch Stress Assistance Network under section 7522 of the Food, Conservation, and Energy Act of 2008 ( 7 U.S.C. 5936 ).
+##### (c) Collaboration and Consultation
+The Secretary shall collaborate and consult with relevant Federal agencies, State departments of agriculture, mental health organizations, agricultural organizations, and other stakeholders in conducting the study.
+##### (d) Report
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the findings of the study under subsection (a).
+##### (e) Authorization of appropriations
+There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2026 through 2029.
+
+
+## Timeline
+
+- 2026-03-27: Introduced in House
+- 2026-03-27 - IntroReferral: Introduced in House
+- 2026-03-27 - IntroReferral: Introduced in House
+- 2026-03-27 - IntroReferral: Referred to the House Committee on Agriculture.
+- Latest action: 2026-03-27: Introduced in House

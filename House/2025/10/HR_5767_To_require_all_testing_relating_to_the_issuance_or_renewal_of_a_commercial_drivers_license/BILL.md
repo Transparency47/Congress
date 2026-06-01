@@ -1,0 +1,81 @@
+# HR 5767: Secure Commercial Driver Licensing Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-10-17
+- Latest action: 2025-10-17 - Introduced in House
+- Policy area: Transportation and Public Works
+- Sponsor: Rep. Barr, Andy [R-KY-6]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/5767
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-10-17
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5767ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-10-17
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5767ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 5767
+IN THE HOUSE OF REPRESENTATIVES
+October 17, 2025 Mr. Barr introduced the following bill; which was referred to the Committee on Transportation and Infrastructure
+A BILL
+To require all testing relating to the issuance or renewal of a commercial driver’s license to be conducted only in English, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Secure Commercial Driver Licensing Act of 2025 .
+#### 2. Definitions
+In this Act:
+**(1) Commercial driver’s license**
+The term commercial driver’s license has the meaning given the term in section 31301 of title 49, United States Code.
+**(2) Driver’s license**
+The term driver’s license has the meaning given the term in section 31301 of title 49, United States Code.
+**(3) Non-domiciled CDL**
+The term non-domiciled CDL means a commercial driver’s license issued by a State or other jurisdiction to an individual who is not domiciled in that State or jurisdiction, in accordance with part 383 of title 49, Code of Federal Regulations (or successor regulations).
+**(4) Non-domiciled CLP**
+The term non-domiciled CLP means a commercial learner’s permit issued by a State or other jurisdiction to an individual who is not domiciled in that State or jurisdiction, in accordance with part 383 of title 49, Code of Federal Regulations (or successor regulations).
+**(5) Secretary**
+The term Secretary means the Secretary of Transportation.
+#### 3. Requirement to administer driving tests in English
+##### (a) In general
+Section 31305(a) of title 49, United States Code, is amended—
+**(1)**
+in the matter preceding paragraph (1), in the first sentence, by inserting (referred to in this section as the Secretary ) after Secretary of Transportation ;
+**(2)**
+by redesignating paragraphs (7) and (8) as paragraphs (8) and (9), respectively; and
+**(3)**
+by inserting after paragraph (6) the following:
+(7) shall require the tests to be administered only in English; .
+##### (b) Rulemaking
+Not later than 180 days after the date of enactment of this Act, the Secretary shall promulgate new, or revise existing, regulations, rules, and documents, as necessary, to ensure that all testing relating to the issuance or renewal of a commercial driver’s license is conducted only in English, including—
+**(1)**
+any tests administered as part of an entry-level driver training program;
+**(2)**
+any knowledge tests relating to the issuance or renewal of a commercial driver’s license; and
+**(3)**
+any tests administered by a third-party training provider included on the training provider registry maintained by the Federal Motor Carrier Safety Administration.
+#### 4. Requirement to hold driver’s license before obtaining CDL
+##### (a) In general
+Subject to subsection (b), beginning on the date of enactment of this Act, a commercial driver’s license may not be issued to an individual who has not held a driver’s license for a period of at least 1 year before the date on which the commercial driver’s license is issued.
+##### (b) Exemption
+Subsection (a) does not apply to an individual who holds a commercial driver’s license as of the date of enactment of this Act.
+#### 5. Revocation of authority
+The Secretary may revoke the authority of any State or other jurisdiction to issue non-domiciled CDLs or non-domiciled CLPs if the Secretary determines that the State or other jurisdiction is not in compliance with all applicable Federal standards relating to that authority, including the provisions of this Act and any regulations promulgated or revised under this Act.
+
+
+## Timeline
+
+- 2025-10-17: Introduced in House
+- 2025-10-17 - IntroReferral: Introduced in House
+- 2025-10-17 - IntroReferral: Introduced in House
+- 2025-10-17 - IntroReferral: Referred to the House Committee on Transportation and Infrastructure.
+- 2025-12-01 - Committee: Referred to the Subcommittee on Highways and Transit.
+- Latest action: 2025-10-17: Introduced in House

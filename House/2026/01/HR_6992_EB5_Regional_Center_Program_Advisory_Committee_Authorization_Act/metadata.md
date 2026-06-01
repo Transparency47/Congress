@@ -1,0 +1,319 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/6992?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/6992
+- Title: EB–5 Regional Center Program Advisory Committee Authorization Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 6992
+- Origin chamber: House
+- Introduced date: 2026-01-09
+- Update date: 2026-05-30T08:06:06Z
+- Update date including text: 2026-05-30T08:06:06Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2026-01-09: Introduced in House
+- 2026-01-09 - IntroReferral: Introduced in House
+- 2026-01-09 - IntroReferral: Introduced in House
+- 2026-01-09 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2026-01-09: Introduced in House
+
+## Actions
+
+- 2026-01-09 - IntroReferral: Introduced in House
+- 2026-01-09 - IntroReferral: Introduced in House
+- 2026-01-09 - IntroReferral: Referred to the House Committee on the Judiciary.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-01-09",
+    "latestAction": {
+      "actionDate": "2026-01-09",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6992",
+    "number": "6992",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001211",
+        "district": "4",
+        "firstName": "Greg",
+        "fullName": "Rep. Stanton, Greg [D-AZ-4]",
+        "lastName": "Stanton",
+        "party": "D",
+        "state": "AZ"
+      }
+    ],
+    "title": "EB\u20135 Regional Center Program Advisory Committee Authorization Act",
+    "type": "HR",
+    "updateDate": "2026-05-30T08:06:06Z",
+    "updateDateIncludingText": "2026-05-30T08:06:06Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-01-09",
+      "committees": {
+        "item": {
+          "name": "Judiciary Committee",
+          "systemCode": "hsju00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on the Judiciary.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2026-01-09",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2026-01-09",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-01-09T14:00:20Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "F000466",
+      "district": "1",
+      "firstName": "Brian",
+      "fullName": "Rep. Fitzpatrick, Brian K. [R-PA-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Fitzpatrick",
+      "middleName": "K.",
+      "party": "R",
+      "sponsorshipDate": "2026-01-09",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "L000607",
+      "district": "16",
+      "firstName": "Sam",
+      "fullName": "Rep. Liccardo, Sam T. [D-CA-16]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Liccardo",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2026-01-09",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "G000589",
+      "district": "5",
+      "firstName": "Lance",
+      "fullName": "Rep. Gooden, Lance [R-TX-5]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Gooden",
+      "party": "R",
+      "sponsorshipDate": "2026-01-09",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "S000168",
+      "district": "27",
+      "firstName": "Maria",
+      "fullName": "Rep. Salazar, Maria Elvira [R-FL-27]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Salazar",
+      "middleName": "Elvira",
+      "party": "R",
+      "sponsorshipDate": "2026-02-23",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "J000310",
+      "district": "32",
+      "firstName": "Julie",
+      "fullName": "Rep. Johnson, Julie [D-TX-32]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Johnson",
+      "party": "D",
+      "sponsorshipDate": "2026-04-28",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "V000131",
+      "district": "33",
+      "firstName": "Marc",
+      "fullName": "Rep. Veasey, Marc A. [D-TX-33]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Veasey",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2026-04-29",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "C001063",
+      "district": "28",
+      "firstName": "Henry",
+      "fullName": "Rep. Cuellar, Henry [D-TX-28]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Cuellar",
+      "party": "D",
+      "sponsorshipDate": "2026-05-11",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "R000609",
+      "district": "5",
+      "firstName": "John",
+      "fullName": "Rep. Rutherford, John H. [R-FL-5]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Rutherford",
+      "middleName": "H.",
+      "party": "R",
+      "sponsorshipDate": "2026-05-29",
+      "state": "FL"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr6992ih.xml",
+      "text": "I\n119th CONGRESS\n2d Session\nH. R. 6992\nIN THE HOUSE OF REPRESENTATIVES\nJanuary 9, 2026 Mr. Stanton (for himself, Mr. Fitzpatrick , Mr. Liccardo , and Mr. Gooden ) introduced the following bill; which was referred to the Committee on the Judiciary\nA BILL\nTo establish in U.S. Citizenship and Immigration Services of the Department of Homeland Security an EB\u20135 Regional Center Program Advisory Committee.\n#### 1. Short title\nThis Act may be cited as the EB\u20135 Regional Center Program Advisory Committee Authorization Act .\n#### 2. EB\u20135 regional center program advisory committee\nSubtitle E of title IV of the Homeland Security Act of 2002 is amended by adding at the end the following new section:\n463. EB\u20135 regional center program advisory committee (a) Establishment The Secretary shall establish within U.S. Citizenship and Immigration Services an EB\u20135 Regional Center Program Advisory Committee. The Advisory Committee shall be terminated upon adjudication of all benefits filed under section 203(b)(5) and 216A of the Immigration and Nationality Act from time to time or any other public law implementing the EB\u20135 Regional Center Program. (b) Duties (1) In general The Advisory Committee shall advise, consult with, report to, and make recommendations to the Director of U.S. Citizenship and Immigration Services regarding the EB\u20135 Regional Center Program. (2) Recommendations (A) In general The Advisory Committee shall develop recommendations for improvements to the EB\u20135 Regional Center Program within U.S. Citizenship and Immigration Services. (B) Recommendations of subcommittees Recommendations agreed upon by the subcommittees established under subsection (d) for any year shall be approved by a majority of the Advisory Committee before the Advisory Committee submits to the Director the annual report under paragraph (4) for that year. The Advisory Committee shall not make any petition or case-specific recommendations to the program under section 203(b)(5) and section 216A of the Immigration and Nationality Act. (3) Periodic reports The Advisory Committee shall annually, or when deemed necessary by a majority of the Advisory Committee members, submit to the Director\u2014 (A) reports on matters identified by the Director; or (B) reports on other matters identified by a majority of the members of the Advisory Committee. (4) Annual report The Advisory Committee shall submit to the Secretary of Homeland Security and Director an annual report providing information on the activities, findings, and recommendations of the Advisory Committee, including its subcommittees, for the preceding fiscal year. Not later than six months after the date that the Secretary of Homeland Security and the Director receives an annual report for a year, the Director shall publish a public version of the report describing the activities of the Advisory Committee and such related matters as would be informative to the public during that year. (5) Congressional notification For each fiscal quarter beginning after the date of the enactment of this section, the Director shall provide to the Committees on the Judiciary, and the Committees on Appropriations a briefing on the activities of the Advisory Committee. (6) Conformity with the EB\u20135 Reform and Integrity Act of 2022 Nothing in this section may be construed to violate or be inconsistent with section 107 of the EB\u20135 Reform and Integrity Act of 2022. (c) Membership (1) Appointment (A) In general Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security shall appoint the members of the Advisory Committee consisting of representatives of Federal, State, local and Tribal Governments and EB\u20135 regional centers in good standing representing projects from diverse geographies and diverse project types. (B) Composition The membership of the Advisory Committee shall consist of not more than 35 members, each of whom represent a category referred to in subparagraph (C)(i). The member shall be considered the appointed regional center or governmental agency, and the member shall appoint, subject to Secretary approval, the individual that represents such regional center or governmental agency. (C) Representation (i) In general Regional centers members shall be appointed only from regional centers in good standing and operating under the EB\u20135 Reform and Integrity Act of 2022, notwithstanding any lapse or termination of the EB\u20135 Regional Center Program, and each regional center member shall represent a regional center that has submitted petitions to sponsor no fewer than two projects in the same regional center category pursuant to clause (ii). (ii) Representation categories Regional center members shall include at least two from each of the following categories: (I) Regional Center\u2014High unemployment area. (II) Regional Center\u2014Rural. (III) Regional Center\u2014Infrastructure. (IV) Regional Center\u2014Census Region Northeast. (V) Regional Center\u2014Census Region South. (VI) Regional Center\u2014Census Region Midwest. (VII) Regional Center\u2014Census Region West. (iii) Additional representation Representatives shall, in addition, include at least one from each of the following categories: (I) Mayor\u2014City, large; Territory inside Urbanized Area and inside a Principal City with population of 250,000 or more. (II) Mayor\u2014City, midsize; Territory inside Urbanized Area and inside a Principal City with population less than 250,000 and greater than or equal to 100,000. (III) Mayor\u2014City, small; Territory inside Urbanized Area and inside a Principal City with population less than 100,000. (IV) County Economic Development Officer\u2014Urbanized Area. (V) County Economic Development Officer\u2014Urban Place Outside of Urbanized Area. (VI) County Economic Development Officer\u2014Rural Place. (VII) State Economic Development Officer. (VIII) Department of State, ex officio. (IX) Department of Commerce, ex officio. (X) Trade association representing no fewer than 50 EB\u20135 regional centers. (XI) Other relevant fields identified by the Director. (iv) Prohibition The Advisory Committee shall include at least two members from each category under clause (ii) but not exceed three members from any one category. (2) Term of office (A) Terms The term of each member of the Advisory Committee shall be two years, but a member may continue to serve, notwithstanding any term limit, until a successor is appointed. In the event that an individual representing the member is no longer associated with the member, the member shall appoint, subject to Secretary of Homeland Security approval, a new individual to serve the remaining term of such member. (B) Removal The Director may review the participation of a member of the Advisory Committee and remove such member for cause at any time, after notifying the Secretary of Homeland Security. (C) Reappointment A member of the Advisory Committee may be reappointed for a maximum of 6 consecutive terms. (3) Prohibition on compensation The members of the Advisory Committee may not receive pay or benefits from the United States Government by reason of their service on the Advisory Committee, other than pay and benefits for Federal employees serving on the Advisory Committee that are incident to their Federal employment. (4) Meetings (A) In general The Director shall require the Advisory Committee to meet at least quarterly, and may convene additional meetings as necessary. (B) Public meetings At least one of the meetings referred to in subparagraph (A) shall be open to the public. (C) Attendance The Advisory Committee shall maintain a record of the persons present at each meeting. (5) Chairperson The Advisory Committee shall select, from among the members of the Advisory Committee\u2014 (A) a member to serve, for a term of 4 years, as chairperson of the Advisory Committee; and (B) a member to serve as chairperson of each subcommittee of the Advisory Committee established under subsection (d). (d) Subcommittees (1) In general The Director and the Advisory Committee shall establish subcommittees within the Advisory Committee to address EB\u20135 Regional Center Program issues, including the following: (A) Administration, including\u2014 (i) agency staffing; (ii) petition processing times; (iii) improved communication between the Agency and EB\u20135 Regional Center stakeholders; (iv) fraud prevention; and (v) compliance with securities laws. (B) Impact, including\u2014 (i) job creation and job retention; and (ii) capital investment. (C) Policy, subject to applicable requirements under law, including\u2014 (i) legislative interpretation and specific policies and guidelines of U.S. Citizenship and Immigration Services relevant to the EB\u20135 Regional Center Program; (ii) policymaking procedures outside of formal legislative or regulatory rule-making processes; (iii) regulations; (iv) financial structuring of investments; and (v) source of funds issues. (D) Other such issues relevant to the EB\u20135 Regional Center Program and requested by members of the Advisory Committee. (2) Additional subcommittees In addition to the subcommittees established pursuant to paragraph (1), the Advisory Committee chairperson, in coordination with the Director, shall establish within the Advisory Committee such additional subcommittees that the majority of the Advisory Committee determine to be necessary. (3) Meetings and reporting Each subcommittee shall meet at least quarterly, and at least once in-person annually, and submit to the Advisory Committee for inclusion in the annual report required under subsection (b)(4) information, including activities, findings, and recommendations, regarding subject matter considered by the subcommittee. (4) Subject matter experts The chair of the Advisory Committee shall appoint members to subcommittees. .",
+      "versionDate": "2026-01-09",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Immigration",
+        "updateDate": "2026-01-26T13:41:39Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-01-09",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr6992ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "EB\u20135 Regional Center Program Advisory Committee Authorization Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-01-22T03:38:19Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "EB\u20135 Regional Center Program Advisory Committee Authorization Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-01-22T03:38:17Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To establish in U.S. Citizenship and Immigration Services of the Department of Homeland Security an EB-5 Regional Center Program Advisory Committee.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-01-22T03:33:18Z"
+    }
+  ]
+}
+```

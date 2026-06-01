@@ -1,0 +1,45 @@
+# S 633: Presidential and First Spouse Coin Act of 2025
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-02-19
+- Latest action: 2025-02-19 - Introduced in Senate
+- Policy area: Finance and Financial Sector
+- Sponsor: Sen. Cortez Masto, Catherine [D-NV]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/633
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-02-19
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s633is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-02-19
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s633is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 633
+IN THE SENATE OF THE UNITED STATES
+February 19, 2025 Ms. Cortez Masto (for herself, Mr. Cramer , and Mr. Rounds ) introduced the following bill; which was read twice and referred to the Committee on Banking, Housing, and Urban Affairs
+A BILL
+To amend title 31, United States Code, to require the Secretary to mint and issue certain Presidential and First Spouse coins.
+#### 1. Short title
+This Act may be cited as the Presidential and First Spouse Coin Act of 2025 .
+#### 2. Presidential and first spouse coins
+Section 5112 of title 31, United States Code, is amended by adding at the end the following:
+(bb) Design and issuance of $1 coins honoring deceased Presidents of the United States and issuance of accompanying bullion coins and bronze medals honoring the spouse of a deceased President (1) $1 Coins honoring deceased presidents not yet honored (A) In general Notwithstanding subsections (d) and (n), and in addition to the coins issued in accordance with subsections (r) and (w), the Secretary shall mint and issue $1 coins that— (i) have designs on the obverse that meet the requirements of subsection (n)(2)(B) and are emblematic of a President of the United States who is deceased and has not previously been honored with a $1 coin in accordance with this subsection or subsection (n); (ii) have designs on the reverse that meet the requirements of subsection (n)(2)(A). (B) Timing The Secretary shall first issue a coin for a deceased President under subparagraph (A) during the 3-year period following the date of the death of the President. (C) Continuity provision Notwithstanding subparagraph (A), the Secretary shall continue to mint and issue $1 coins in accordance with subsections (r) and (w). (D) Inscriptions The coins issued under this subsection shall have the same inscriptions as required in subsection (n). (E) Issuance of coins The Secretary may mint and issue such number of $1 coins of each design selected under this subsection in uncirculated and proof qualities as the Secretary shall prescribe on the basis of such factors that the Secretary determines to be appropriate. (F) Legal tender The coins minted under this subsection shall be legal tender, as provided in section 5103. (G) Treatment as numismatic items For purposes of sections 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items. (2) Bullion coins and medals honoring the spouse of a deceased President (A) In general Notwithstanding subsection (o)(5)(C), during the same time period described in paragraph (1), the Secretary shall issue bullion coins under this subsection that are emblematic of the spouse of each such President. (B) Specifications The coins issued under this subsection shall have the same specifications, inscriptions, design requirements, and designated denomination as the coins issued under subsection (o). (C) In the case of no First Spouse In the case of any President honored in accordance with paragraph (1) who served without a spouse, the Secretary is not required to mint and issue a corresponding bullion coin. (D) Design and coin for each spouse A separate coin shall be designed and issued under this subsection for each person who was the spouse of a President during any portion of a term of office of such President. (E) Issuance of coins The Secretary may mint and issue such number of bullion coins of each design selected under this subsection in uncirculated and proof qualities as the Secretary shall prescribe on the basis of such factors that the Secretary determines to be appropriate. (F) Legal tender The coins minted under this subsection shall be legal tender, as provided in section 5103. (G) Treatment as numismatic items For purposes of sections 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items. (H) Bronze medals The Secretary may strike and sell bronze medals that bear the likeness of the bullion coins authorized under this subsection, at a price, size, and weight, and with such inscriptions, as the Secretary determines to be appropriate. .
+
+
+## Timeline
+
+- 2025-02-19: Introduced in Senate
+- 2025-02-19 - IntroReferral: Introduced in Senate
+- 2025-02-19 - IntroReferral: Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- Latest action: 2025-02-19: Introduced in Senate

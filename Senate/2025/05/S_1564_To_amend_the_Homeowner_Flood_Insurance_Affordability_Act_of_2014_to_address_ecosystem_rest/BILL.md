@@ -1,0 +1,58 @@
+# S 1564: Floodplain Enhancement and Recovery Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-05-01
+- Latest action: 2025-05-01 - Introduced in Senate
+- Policy area: Finance and Financial Sector
+- Sponsor: Sen. Murray, Patty [D-WA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/1564
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-05-01
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1564is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-05-01
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1564is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1564
+IN THE SENATE OF THE UNITED STATES
+May 1, 2025 Mrs. Murray (for herself and Mr. Daines ) introduced the following bill; which was read twice and referred to the Committee on Banking, Housing, and Urban Affairs
+A BILL
+To amend the Homeowner Flood Insurance Affordability Act of 2014 to address ecosystem restoration projects, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Floodplain Enhancement and Recovery Act .
+#### 2. Ecosystem restoration projects
+##### (a) In general
+Section 22 of the Homeowner Flood Insurance Affordability Act of 2014 ( 42 U.S.C. 4101e ) is amended to read as follows:
+22. Ecosystem restoration projects (a) Definition In this section, the term ecosystem restoration project means a project proposed for the primary purpose of manipulating the physical, chemical, or biological characteristics of a site with the goal of— (1) recovering natural and beneficial functions to a former or degraded aquatic resource or floodplain; or (2) enhancing, accelerating, reclaiming, or improving a specific, natural, and beneficial function of an aquatic resource or floodplain. (b) Exemption from fees for flood hazard change requests for ecosystem restoration projects Notwithstanding any other provision of law, a requester shall be exempt from submitting a review or processing fee for a request for a flood insurance rate map change based on an ecosystem restoration project. (c) Exemption from conditional approval for certain ecosystem restoration projects A community may permit an ecosystem restoration project within an adopted regulatory floodway that would result in an increase in base flood elevations, if— (1) a professional engineer uses the best judgment of the engineer to determine that the cumulative effect of the proposed ecosystem restoration project, when combined with all other existing development, will not increase the water surface elevation of the base flood by more than 1 foot (or a greater amount or metric determined appropriate by the Administrator); (2) no insurable structure or any critical infrastructure is located in an area that would be adversely impacted by the increased base flood elevation; and (3) not later than 180 days after the date on which the ecosystem restoration project is completed, the community submits to the Administrator an analysis regarding the changed conditions caused by the ecosystem restoration project. (d) Rule of construction Nothing in this section may be construed to affect the procedure (as in effect on the day before the date of enactment of the Floodplain Enhancement and Recovery Act ) for providing notification to a landowner with respect to development in a regulatory floodway. .
+##### (b) Technical and conforming amendment
+The table of contents for the Homeowner Flood Insurance Affordability Act of 2014 ( Public Law 113–89 ) is amended by striking the item relating to section 22 and inserting the following:
+Sec. 22. Ecosystem restoration projects. .
+##### (c) Guidance
+**(1) Definitions**
+In this subsection:
+**(A) Administrator**
+The term Administrator means the Administrator of the Federal Emergency Management Agency.
+**(B) Covered agencies**
+The term covered agencies means Federal and State natural resource agencies, as determined by the Administrator.
+**(2) Issuance**
+Not later than 180 days after the date of enactment of this Act, and after consultation with the heads of covered agencies, the Administrator shall issue guidance to implement section 22 of the Homeowner Flood Insurance Affordability Act of 2014 ( 42 U.S.C. 4101e ), as amended by this section.
+
+
+## Timeline
+
+- 2025-05-01: Introduced in Senate
+- 2025-05-01 - IntroReferral: Introduced in Senate
+- 2025-05-01 - IntroReferral: Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- Latest action: 2025-05-01: Introduced in Senate

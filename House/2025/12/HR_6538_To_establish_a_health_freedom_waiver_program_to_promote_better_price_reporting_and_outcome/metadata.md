@@ -1,0 +1,339 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/6538?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/6538
+- Title: More Affordable Care Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 6538
+- Origin chamber: House
+- Introduced date: 2025-12-09
+- Update date: 2026-01-07T16:44:05Z
+- Update date including text: 2026-01-07T16:44:05Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-12-09: Introduced in House
+- 2025-12-09 - IntroReferral: Introduced in House
+- 2025-12-09 - IntroReferral: Introduced in House
+- 2025-12-09 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-12-09 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-12-09: Introduced in House
+
+## Actions
+
+- 2025-12-09 - IntroReferral: Introduced in House
+- 2025-12-09 - IntroReferral: Introduced in House
+- 2025-12-09 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-12-09 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-12-09",
+    "latestAction": {
+      "actionDate": "2025-12-09",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6538",
+    "number": "6538",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000048",
+        "district": "11",
+        "firstName": "August",
+        "fullName": "Rep. Pfluger, August [R-TX-11]",
+        "lastName": "Pfluger",
+        "party": "R",
+        "state": "TX"
+      }
+    ],
+    "title": "More Affordable Care Act",
+    "type": "HR",
+    "updateDate": "2026-01-07T16:44:05Z",
+    "updateDateIncludingText": "2026-01-07T16:44:05Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-12-09",
+      "committees": {
+        "item": {
+          "name": "Ways and Means Committee",
+          "systemCode": "hswm00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-12-09",
+      "committees": {
+        "item": {
+          "name": "Energy and Commerce Committee",
+          "systemCode": "hsif00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-12-09",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-12-09",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-12-09T17:06:10Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-12-09T17:06:05Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "B001314",
+      "district": "4",
+      "firstName": "Aaron",
+      "fullName": "Rep. Bean, Aaron [R-FL-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Bean",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "F000482",
+      "district": "0",
+      "firstName": "Julie",
+      "fullName": "Rep. Fedorchak, Julie [R-ND-At Large]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Fedorchak",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "ND"
+    },
+    {
+      "bioguideId": "B001307",
+      "district": "4",
+      "firstName": "James",
+      "fullName": "Rep. Baird, James R. [R-IN-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Baird",
+      "middleName": "R.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "IN"
+    },
+    {
+      "bioguideId": "C001116",
+      "district": "9",
+      "firstName": "Andrew",
+      "fullName": "Rep. Clyde, Andrew S. [R-GA-9]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Clyde",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-09",
+      "state": "GA"
+    },
+    {
+      "bioguideId": "G000601",
+      "district": "12",
+      "firstName": "Craig",
+      "fullName": "Rep. Goldman, Craig A. [R-TX-12]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Goldman",
+      "middleName": "A.",
+      "party": "R",
+      "sponsorshipDate": "2025-12-12",
+      "state": "TX"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6538ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 6538\nIN THE HOUSE OF REPRESENTATIVES\nDecember 9, 2025 Mr. Pfluger (for himself, Mr. Bean of Florida , Mrs. Fedorchak , Mr. Baird , and Mr. Clyde ) introduced the following bill; which was referred to the Committee on Energy and Commerce , and in addition to the Committee on Ways and Means , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned\nA BILL\nTo establish a health freedom waiver program, to promote better price reporting and outcomes, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the More Affordable Care Act .\n#### 2. Health freedom waiver program\nPart 4 of subtitle D of title I of the Patient Protection and Affordable Care Act ( 42 U.S.C. 18051 et seq. ) is amended by adding at the end the following:\n1335. Health freedom waiver program (a) In general (1) Waiver program The Secretary shall waive all or any requirements described in paragraph (4), as determined by the applicable State, for plan years beginning on or after January 1, 2026, with respect to health insurance coverage within any State that submits a notification under paragraph (2), provided that the State maintains an invisible high-risk insurance pool or another program designed to mitigate risk to insurance premium costs. (2) Notification A State entity described in paragraph (3) desiring a waiver under this section for any plan year beginning on or after January 1, 2026, shall notify the Secretary of its intent to participate in the waiver program with respect to all or any requirements described in paragraph (4). Such notification shall be filed at such time, not later than 90 days before the State intends to begin participation in the waiver program, and in such manner as the Secretary may require, and contain such information as the Secretary may require, including the requirements under paragraph (4) that the State intends to waive and evidence that the State maintains a high-risk insurance pool. (3) State submission A notification with respect to a State may be submitted by\u2014 (A) the governor of the State; or (B) the legislature of the State, upon a majority vote by the State legislature. (4) Requirements The requirements described in this paragraph with respect to health insurance coverage within the State are as follows: (A) Part 1 of subtitle D. (B) Part 2 of subtitle D. (C) Section 1402. (D) Sections 36B and 5000A of the Internal Revenue Code of 1986. (5) Money follows the person (A) In general With respect to a State waiver under paragraph (1), under which, due to the structure of the State plan, individuals and small employers in the State would not qualify for the premium tax credits, cost-sharing reductions, or small business credits under sections 36B of the Internal Revenue Code of 1986 or under part I of subtitle E for which they would otherwise be eligible, the Secretary shall provide for an alternative means by which the aggregate amount of such credits or reductions that would have been paid on behalf of participants in the Exchanges established under this title had the State not received such waiver, shall be paid into the Trump Health Freedom Accounts established under section 223(i) of the Internal Revenue Code of 1986 of eligible residents of the State. (B) Payments to Trump Health Freedom Accounts The Secretary shall pay into the Trump Health Freedom Account of each eligible resident of a State for which a waiver is in effect for a plan year the amount equal to the total amount for which the resident would have been eligible in premium tax credit amounts under section 36B of the Internal Revenue Code of 1986 and cost-sharing reduction amounts under section 1402 for the year, had the State not had such waiver in effect. In determining the appropriate payment amount under this subparagraph, the Secretary shall calculate premium tax credit amounts and cost-sharing reduction amounts based on the national average annual premium amount for a silver tier benchmark plan among States that do not have such waivers in effect for the applicable year. The Secretary shall make payments into the Trump Health Freedom Accounts of eligible residents on a monthly basis, quarterly basis, or in one lump sum at the beginning of the year, at the option of each eligible resident. (6) Coordinated waiver process The Secretary shall develop a process for coordinating and consolidating the State waiver processes applicable under the provisions of this section, and the existing waiver processes applicable under section 1332 and titles XVIII, XIX, and XXI of the Social Security Act, and any other Federal law relating to the provision of health care items or services. Such process shall permit a State to submit a single application for a waiver under any or all of such provisions. (7) Exchanges (A) In general In the case of a State in which a waiver is in effect under this section for a plan year\u2014 (i) the State may\u2014 (I) operate an Exchange established as described in section 1311(b); or (II) allow one or more private entities to run commercial platforms that sell health plans approved by the State insurance commissioner; or (ii) if the State does not operate an Exchange as described in clause (i)(I) or allow for one or more commercial platforms described in clause (i)(II), the Secretary shall operate a Federal Exchange, as described in section 1321(c), provided that any State laws regarding the availability of health plans on, and the operation of, such Exchange shall apply in lieu of any provision under part 1 or part 2 that such State has waived. (B) Application program interface The Secretary shall make available to any State that allows for commercial platforms described in subparagraph (A)(i)(II), the application program interface used for operating Federal and State Exchanges, for use by any private entity running such a platform under State authority. (8) Definitions In this section: (A) Eligible resident The term eligible resident means, with respect to a State for which a waiver is in effect under this section, a resident who\u2014 (i) in the absence of such a waiver in the State, would be eligible for a premium tax credit under section 36B of the Internal Revenue Code of 1986 or a cost-sharing reduction under section 1402, if the resident enrolled in a qualified health plan offered on the Exchange of such State; and (ii) enrolls in a plan offered on the Exchange described in paragraph (7) for the applicable plan year. (B) Secretary Term Secretary means\u2014 (i) the Secretary of Health and Human Services with respect to waivers relating to the provisions described in subparagraph (A) through (C) of paragraph (4); and (ii) the Secretary of the Treasury with respect to waivers relating to the provisions described in paragraph (4)(D). (b) Waiver period Each waiver under this section shall be in effect beginning on January 1 of the plan year for which a timely notice is submitted by the State under subsection (a)(2), and continuing until the entity of the State described in subparagraph (A) or (B) of subsection (a)(3) that submitted the notification under subsection (a)(2) submits to the Secretary a notification of intent to discontinue participation in the waiver program under this section. (c) Limitation The Secretary may not permit a waiver under this section of any Federal law or requirement this is not within the authority of the Secretary. (d) Availability of plans (1) In general Any health insurance coverage offered in a State for which a waiver under this section is in effect, and authorized by the insurance commissioner of the State, shall be made available on, as applicable, the Federal or State Exchange or commercial platforms described in subsection (a)(7), of all States for which such a waiver is in effect, subject to the laws of each such State. (2) Child-only plans In any State for which a waiver under this section is in effect, a health insurance issuer may offer a plan in which the only individuals eligible to enroll are individuals who, as of the beginning of a plan year, have not yet attained the age of 21. (e) Regulations Not later than 1 year after the date of enactment of the More Affordable Care Act , the Secretary of Health and Human Services, in coordination with the Secretary of the Treasury, shall promulgate regulations to carry out this section. (f) Rule of construction regarding consumer protections, including the pre-Existing condition protection Nothing in this section shall be construed to allow a State to waive the requirements of title XXVII of the Public Health Service Act, including sections 2701, 2702, 2703, 2704, 2705, 2708, 2711, 2712, and 2718 of such Act. .\n#### 3. Trump Health Freedom Accounts\n##### (a) In general\nSection 223 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:\n(i) Trump Health Freedom Accounts For purposes of this section\u2014 (1) In general In the case of a Trump Health Freedom Account, this section shall be applied as provided in paragraphs (3) through (8). (2) Trump Health Freedom Account The term Trump Health Freedom Account means a health savings account (determined as provided in this subsection) established by or on behalf of an individual residing in a State for which a waiver under section 1335 of the Patient Protection and Affordable Care Act is in effect which receives deposits of amounts transferred to the individual pursuant to section 1335(a)(5) of such Act. (3) Eligible individual Any individual covered under a health plan authorized to be made available on an Exchange by section 1335(d) of such Act shall be treated as an eligible individual. (4) Treatment of transferred contributions Amounts transferred to a Trump Health Freedom Account pursuant to section 1335(a)(5) of such Act shall not be taken into account in determining the deduction allowed by subsection (a). (5) Health insurance may be purchased from account Subsection (d)(2)(B) shall not apply. (6) Account must be only HSA of individual (A) In general An individual who has a Trump Health Freedom Account shall not be treated as an eligible individual with respect to any health savings account other than such Trump Health Freedom Account. (B) Rollover of existing account permitted An individual on whose behalf a Trump Health Freedom Account is established may roll over the balance of any other health savings account of the individual to such Trump Health Freedom Account according to the rules of subsection (f)(5). (7) No rollovers permitted Except as provided in paragraph (6)(B), subsection (f)(5) shall not apply and no amount shall be contributed from a Trump Health Freedom Account to any health savings account other than a Trump Health Freedom Account. (8) Restriction on use of amounts No amounts in a Trump Health Freedom Account may be used\u2014 (A) to pay premiums for a health plan that covers\u2014 (i) gender transition procedures, or (ii) abortion services; or (B) to pay for any service described in clause (i) or (ii) of subparagraph (A). (9) Definitions For purposes of paragraph (8)\u2014 (A) Gender transition procedure (i) In general The term gender transition procedure means any hormonal or surgical intervention for the purpose of gender transition, including\u2014 (I) gonadotropin-releasing hormone (GnRH) agonists or other puberty-blocking or suppressing drugs to stop or delay normal puberty; (II) testosterone, estrogen, progesterone, or other androgens to an individual at doses that are supraphysiologic to what would normally be produced endogenously in a healthy individual of the same age and sex; (III) castration; (IV) orchiectomy; (V) scrotoplasty; (VI) implantation of erection or testicular prostheses; (VII) vasectomy; (VIII) hysterectomy; (IX) oophorectomy; (X) ovariectomy; (XI) reconstruction of the fixed part of the urethra with or without a metoidioplasty or a phalloplasty; (XII) metoidioplasty; (XIII) penectomy; (XIV) phalloplasty; (XV) vaginoplasty; (XVI) clitoroplasty; (XVII) vaginectomy; (XVIII) vulvoplasty; (XIX) reduction thyrochondroplasty; (XX) chondrolaryngoplasty; (XXI) mastectomy; (XXII) tubal ligation; (XXIII) sterilization; (XXIV) any plastic, cosmetic, or aesthetic surgery that feminizes or masculinizes the facial or other physiological features of an individual; (XXV) any placement of chest implants to create feminine breasts; (XXVI) any placement of fat or artificial implants in the gluteal region; (XXVII) augmentation mammoplasty; (XXVIII) liposuction; (XXIX) lipofilling; (XXX) voice surgery; (XXXI) hair reconstruction; (XXXII) pectoral implants; and (XXXIII) the removal of any otherwise healthy or non-diseased body part or tissue. (ii) Exclusions The term gender transition procedure does not include the following when furnished to an individual by a health care provider with the consent of such individual or, if applicable, such individual\u2019s parents or legal guardian: (I) Services to individuals born with a medically verifiable disorder of sex development, including an individual with external sex characteristics that are irresolvably ambiguous, such as an individual born with 46 XX chromosomes with virilization, an individual born with 46 XY chromosomes with undervirilization, or an individual born having both ovarian and testicular tissue. (II) Services provided when a physician has otherwise diagnosed a disorder of sexual development in which the physician has determined through genetic or biochemical testing that the individual does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action for a healthy individual of the same sex and age. (III) The treatment of any infection, injury, disease, or disorder that has been caused by or exacerbated by the performance of gender transition procedures, whether or not the gender transition procedure was performed in accordance with State and Federal law or whether or not funding for the gender transition procedure is permissible under this section. (IV) Any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness (but not mental, behavioral, or emotional distress or a mental, behavioral, or emotional disorder) that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function, unless the procedure is performed. (V) Puberty suppression or blocking prescription drugs for the purpose of normalizing puberty for a minor experiencing precocious puberty. (VI) Male circumcision. (B) Gender transition The term gender transition means the process in which an individual goes from identifying with or presenting as his or her sex to identifying with or presenting a self-proclaimed identity that does not correspond with or is different from his or her sex, and may be accompanied with social, legal, or physical changes. (C) Sex The term sex , when referring to an individual\u2019s sex, means to refer to either male or female, as biologically determined. (D) Female The term female , when used to refer to a natural person, means an individual who naturally has, had, will have, or would have, but for a congenital anomaly, historical accident, or intentional or unintentional disruption, the reproductive system that at some point produces, transports, and utilizes eggs for fertilization. (E) Male The term male , when used to refer to a natural person, means an individual who naturally has, had, will have, or would have, but for a congenital anomaly, historical accident, or intentional or unintentional disruption, the reproductive system that at some point produces, transports, and utilizes sperm for fertilization. (F) Abortion services (i) In general The term abortion services means\u2014 (I) drugs or procedures used with the primary intent to end the life of the human being in the womb, (II) pre-viable delivery not described in clause (ii), and (III) post-viable delivery with intentional death of the fetus. (ii) Exclusions Such term does not include\u2014 (I) separation of the mother and her embryo or fetus to prevent the mother\u2019s death or immediate irreversible bodily harm, which cannot be mitigated in any other way, (II) treatment of ectopic or molar pregnancy, (III) treatment of miscarriage, or (IV) any service described in clause (i) in the case of a pregnancy which is the result of an act of rape or incest. .\n##### (b) Effective date\nThe amendment made by this section shall apply to taxable years beginning after December 31, 2025.\n#### 4. Credit for employee insurance expenses of small employers in waiver State\n##### (a) In general\nSubsection (g) of section 45R of the Internal Revenue Code of 1986 is amended to read as follows:\n(g) Credit for small employers in waiver State For purposes of this section\u2014 (1) In general In the case of an eligible small employer (determined with the modifications provided in this subsection) located in a State for which a waiver under section 1335 of the Patient Protection and Affordable Care Act is in effect, this section shall be applied as provided in paragraphs (2) through (7). (2) Health insurance credit amount Subsection (b) shall be applied by substituting 50 percent for 50 percent (35 percent in the case of a tax-exempt eligible small employer) . (3) Qualified plans Subsections (b) and (d)(4) shall be applied by treating any health plan authorized to be made available on an Exchange in such State by section 1335(d) of such Act as a qualified health plan offered through an Exchange. (4) Phaseout not to apply Subsection (c) shall not apply. (5) Eligible small employer Subsection (d) shall be applied\u2014 (A) by substituting 50 for 25 in paragraph (1)(A) thereof, and (B) without regard to subparagraph (B) of paragraph (1) thereof. (6) Employee Subsection (e)(1)(A) shall be applied without regard to clause (i) thereof. (7) Credit period Subsection (e)(2) shall not apply, and the credit period with respect to any such employer shall be the period consisting of the 1st taxable year in which the employer (or any predecessor) offers 1 or more qualified health plans to its employees, and any subsequent taxable year. (8) Tax-exempt rules not to apply Subsection (f) shall not apply. .\n##### (b) Effective date\nThe amendment made by this section shall apply to taxable years beginning after December 31, 2025.\n#### 5. Promoting better price reporting and outcomes data\nNot later than 90 days after the date of enactment of this Act, the Secretary of Health and Human Services, in coordination with the Secretary of the Treasury and the Secretary of Labor, shall update all regulations and guidance issued by such secretaries pursuant to Executive Order 13877 (84 Fed. Reg. 30849 (June 24, 2019)), including by\u2014\n**(1)**\nrequiring the disclosure of the actual prices of items and services, not price estimates;\n**(2)**\nissuing updated guidance or regulations ensuring pricing information is standardized and easily comparable across hospitals and health plans;\n**(3)**\nissuing guidance or proposed regulatory action updating enforcement policies designed to ensure compliance with the transparent reporting of complete, accurate, and meaningful data; and\n**(4)**\nrequiring the public reporting of outcomes data by providers.",
+      "versionDate": "2025-12-09",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-11-20",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "3264",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "More Affordable Care Act",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Health",
+        "updateDate": "2026-01-07T16:43:45Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-12-09",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6538ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "More Affordable Care Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-12-27T05:38:19Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "More Affordable Care Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-12-27T05:38:18Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To establish a health freedom waiver program, to promote better price reporting and outcomes, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-12-27T05:33:31Z"
+    }
+  ]
+}
+```

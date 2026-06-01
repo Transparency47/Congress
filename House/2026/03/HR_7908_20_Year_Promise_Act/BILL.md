@@ -1,0 +1,62 @@
+# HR 7908: 20-Year Promise Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-03-12
+- Latest action: 2026-03-12 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Kiggans, Jennifer A. [R-VA-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7908
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-03-12
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7908ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-03-12
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7908ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7908
+IN THE HOUSE OF REPRESENTATIVES
+March 12, 2026 Mrs. Kiggans of Virginia introduced the following bill; which was referred to the Committee on Veterans' Affairs
+A BILL
+To amend title 38, United States Code, to provide for an additional 36 months of entitlement to educational assistance for individuals who serve 20 or more years in the Armed Forces, and for other purposes.
+#### 1. Short title
+This Act may be cited as the 20-Year Promise Act .
+#### 2. Additional months of entitlement to educational assistance
+##### (a) Additional months of entitlement
+Section 3312 of title 38, United States Code, is amended—
+**(1)**
+in subsection (a), by striking (b) and (c) and inserting (b), (c), and (d) ; and
+**(2)**
+by adding at the end the following new subsection:
+(d) Additional months of entitlement for certain individuals Notwithstanding section 3695 of this title, an individual entitled to educational assistance under this chapter who serves an aggregate of 20 or more years in the Armed Forces, without regard to duty status, is entitled to a number of months of educational assistance under section 3313 of this title equal to 72 months. .
+##### (b) Transfer of additional months of entitlement
+Subsection (d) of section 3319 of such title is amended by striking 36 months and inserting 72 months for an individual eligible for additional months of entitlement under section 3312(d) of this title, and 36 months for all other individuals .
+##### (c) Limitation on period of assistance under two of more programs
+Section 3695 of such title is amended by adding at the end the following new subsection:
+(d) The limitation in subsection (a) shall not apply to any individual eligible for additional months of entitlement under section 3312(d) of this title. .
+##### (d) Applicability
+The amendments made by this Act shall apply with respect to an individual who, on or after the date of the enactment of this Act, completes an aggregate of 20 or more years of service in the Armed Forces, without regard to—
+**(1)**
+duty status; or
+**(2)**
+when such individual joined the Armed Forces.
+
+
+## Timeline
+
+- 2026-03-12: Introduced in House
+- 2026-03-12 - IntroReferral: Introduced in House
+- 2026-03-12 - IntroReferral: Introduced in House
+- 2026-03-12 - IntroReferral: Referred to the House Committee on Veterans' Affairs.
+- Latest action: 2026-03-12: Introduced in House

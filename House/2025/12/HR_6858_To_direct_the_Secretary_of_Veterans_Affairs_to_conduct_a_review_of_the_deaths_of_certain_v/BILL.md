@@ -1,0 +1,89 @@
+# HR 6858: Veteran Suicide Prevention Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-12-18
+- Latest action: 2025-12-18 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Garbarino, Andrew R. [R-NY-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6858
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Veteran Suicide Prevention Act**
+
+This bill requires the Department of Veterans Affairs (VA) to complete a review of the deaths of all covered veterans who died by suicide during the five-year period preceding the enactment of this bill. Covered veterans are those who received VA hospital care or medical services during the five-year period preceding the death of the veteran.
+
+The VA shall report on the results of the review and make such report publicly available.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-12-18
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6858ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-12-18
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6858ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 6858
+IN THE HOUSE OF REPRESENTATIVES
+December 18, 2025 Mr. Garbarino (for himself, Mr. Himes , Mr. Lawler , Mr. Neguse , Mr. Kean , and Mr. Davis of North Carolina ) introduced the following bill; which was referred to the Committee on Veterans' Affairs
+A BILL
+To direct the Secretary of Veterans Affairs to conduct a review of the deaths of certain veterans who died by suicide, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Veteran Suicide Prevention Act .
+#### 2. Department of Veterans Affairs review of certain veterans’ deaths by suicide
+##### (a) Review required
+Not later than 18 months after the date of the enactment of this Act, the Secretary of Veterans Affairs shall complete a review of the deaths of all covered veterans who died by suicide during the five-year period preceding the date of the enactment of this Act. Such review shall include—
+**(1)**
+the total number of veterans who died by suicide during the five-year period preceding the date of the enactment of this Act;
+**(2)**
+a summary of such veterans that includes the age, gender, and race of such veterans;
+**(3)**
+a comprehensive list of the medications prescribed to, and found in the systems of, such veterans at the time of their deaths, specifically listing any medications that carried a black box warning, were off-label, psychotropic, or carried warnings that included suicidal ideation;
+**(4)**
+a summary of medical diagnoses by Department of Veterans Affairs physicians which led to the prescribing of the medications referred to in paragraph (3);
+**(5)**
+the number of instances in which the veteran who died by suicide was concurrently on multiple medications prescribed by Department of Veterans Affairs physicians;
+**(6)**
+the percentage of veterans who died by suicide who were not taking any medication prescribed by a Department of Veterans Affairs physician;
+**(7)**
+the percentage of veterans referred to in paragraph (1) with combat experience or trauma (including, but not limited to military sexual trauma, traumatic brain injury, and post-traumatic stress);
+**(8)**
+Veteran Health Administration facilities with markedly high prescription and suicide rates of patients being treated at those facilities;
+**(9)**
+a description of Department of Veterans Affairs policies governing the prescribing of medications referred to in paragraph (3);
+**(10)**
+any patterns apparent to the Secretary based on the review; and
+**(11)**
+recommendations for further action that would improve the safety and well-being of veterans.
+##### (b) Public availability
+Not later than 30 days after the completion of the review required under subsection (a), the Secretary shall—
+**(1)**
+submit to Congress a report on the results of the review; and
+**(2)**
+make such report publicly available.
+##### (c) Covered veteran
+In this section:
+**(1)**
+The term covered veteran means any veteran who received hospital care or medical services furnished by the Department of Veterans Affairs during the five-year period preceding the death of the veteran.
+**(2)**
+The term black box warning means a warning displayed within a box in the prescribing information for drugs that have special problems, particularly ones that may lead to death or serious injury.
+
+
+## Timeline
+
+- 2025-12-18: Introduced in House
+- 2025-12-18 - IntroReferral: Introduced in House
+- 2025-12-18 - IntroReferral: Introduced in House
+- 2025-12-18 - IntroReferral: Referred to the House Committee on Veterans' Affairs.
+- 2026-01-22 - Committee: Referred to the Subcommittee on Health.
+- Latest action: 2025-12-18: Introduced in House

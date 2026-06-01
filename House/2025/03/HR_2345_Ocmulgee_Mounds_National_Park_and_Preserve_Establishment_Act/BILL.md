@@ -1,0 +1,196 @@
+# HR 2345: Ocmulgee Mounds National Park and Preserve Establishment Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-03-25
+- Latest action: 2025-03-25 - Introduced in House
+- Policy area: Public Lands and Natural Resources
+- Sponsor: Rep. Scott, Austin [R-GA-8]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/2345
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-03-25
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2345ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-03-25
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2345ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 2345
+IN THE HOUSE OF REPRESENTATIVES
+March 25, 2025 Mr. Austin Scott of Georgia (for himself, Mr. Bishop , Mr. Carter of Georgia , Mrs. McBath , Mr. McCormick , Mr. David Scott of Georgia , Ms. Williams of Georgia , Mr. Allen , Mr. Loudermilk , Mr. Jack , Mr. Johnson of Georgia , Ms. Greene of Georgia , and Mr. Collins ) introduced the following bill; which was referred to the Committee on Natural Resources
+A BILL
+To establish the Ocmulgee Mounds National Park and Preserve in the State of Georgia, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Ocmulgee Mounds National Park and Preserve Establishment Act .
+#### 2. Definitions
+In this Act:
+**(1) Advisory Council**
+The term Advisory Council means the Ocmulgee Mounds National Park and Preserve Advisory Council established under section 5(a).
+**(2) Map**
+The term Map means the map entitled Ocmulgee Mounds National Park and Preserve Proposed Boundary , numbered 363/193026, and dated September 2024.
+**(3) Secretary**
+The term Secretary means the Secretary of the Interior.
+**(4) State**
+The term State means the State of Georgia.
+**(5) Tribe**
+The term Tribe means the Muscogee (Creek) Nation.
+#### 3. Redesignation of Ocmulgee Mounds National Park and establishment of Ocmulgee Mounds National Preserve
+##### (a) Redesignation of Ocmulgee Mounds National Park; land acquisition
+**(1) In general**
+The Ocmulgee Mounds National Historical Park designated by section 2102(b)(1)(A) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act ( 16 U.S.C. 410yyy–3(b)(1)(A) ) shall be known and designated as the Ocmulgee Mounds National Park .
+**(2) References**
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the Ocmulgee Mounds National Historical Park shall be considered to be a reference to the Ocmulgee Mounds National Park .
+**(3) Land acquisition for Ocmulgee Mounds National Park**
+**(A) In general**
+The Secretary may acquire land or any interest in land within the area depicted as National Park Area on the Map for inclusion in the Ocmulgee Mounds National Park by purchase from a willing seller, donation, or exchange.
+**(B) Administration**
+Any land or interest in land acquired under subparagraph (A) shall be—
+**(i)**
+incorporated into the Ocmulgee Mounds National Park; and
+**(ii)**
+administered by the Secretary in accordance with section 4.
+**(C) Prohibition on use of eminent domain**
+Nothing in this paragraph authorizes the use of eminent domain to acquire land or an interest in land.
+##### (b) Establishment of Ocmulgee Mounds National Preserve
+**(1) In general**
+Effective on the date on which the Secretary publishes in the Federal Register a notice that the Secretary has determined that sufficient land within the area depicted as National Preserve Area on the Map has been acquired under paragraph (2) to constitute a manageable unit, there is established the Ocmulgee Mounds National Preserve in the State as a unit of the National Park System.
+**(2) Land acquisition for Ocmulgee Mounds National Preserve**
+**(A) In general**
+The Secretary may acquire land or any interest in land within the area depicted as National Preserve Area on the Map for inclusion in the Ocmulgee Mounds National Preserve by purchase from a willing seller, donation, or exchange.
+**(B) Administration**
+Any land or interest in land acquired under subparagraph (A) shall be—
+**(i)**
+incorporated into the Ocmulgee Mounds National Preserve; and
+**(ii)**
+administered by the Secretary in accordance with section 4.
+**(C) Prohibition on use of eminent domain**
+Nothing in this paragraph authorizes the use of eminent domain to acquire land or an interest in land.
+**(3) Boundaries**
+The boundaries of the Ocmulgee Mounds National Preserve shall reflect the land and interests in land acquired for the Ocmulgee Mounds National Preserve under paragraph (2)(A).
+##### (c) Map
+**(1) Corrections**
+The Secretary may make technical corrections to the Map.
+**(2) Availability**
+The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+#### 4. Administration of Ocmulgee Mounds National Park and Preserve
+##### (a) In general
+The Ocmulgee Mounds National Park and the Ocmulgee Mounds National Preserve shall—
+**(1)**
+be administered as a single unit of the National Park System in accordance with—
+**(A)**
+this section;
+**(B)**
+the laws generally applicable to units of the National Park System, including—
+**(i)**
+section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54, United States Code; and
+**(ii)**
+chapter 3201 of title 54, United States Code; and
+**(C)**
+any management plan developed under subsection (b); and
+**(2)**
+collectively be known and designated as the Ocmulgee Mounds National Park and Preserve .
+##### (b) Management plan
+**(1) In general**
+Not later than 3 years after the date of enactment of this Act, the Secretary, in consultation with the Advisory Council, shall develop a general management plan for the preservation and use of the Ocmulgee Mounds National Park and Preserve in accordance with section 100502 of title 54, United States Code.
+**(2) Cultural resources and landscapes**
+The general management plan developed under paragraph (1) shall provide for—
+**(A)**
+the interpretation and preservation of cultural resources of the Ocmulgee Mounds National Park and Preserve, including burial grounds and other sites that are sacred to the Tribe; and
+**(B)**
+an inventory of important cultural landscapes, including flora, that should be preserved, managed, developed, and maintained because of the cultural, natural, and public use significance of the cultural landscapes, including to the Tribe.
+##### (c) Hunting and fishing
+**(1) Hunting**
+The Secretary shall allow hunting on land under the jurisdiction of the Secretary within the boundaries of the Ocmulgee Mounds National Preserve in accordance with applicable Federal and State laws.
+**(2) Fishing**
+The Secretary shall allow fishing on waters under the jurisdiction of the Secretary within the boundaries of the Ocmulgee Mounds National Park and Preserve in accordance with applicable Federal and State laws.
+**(3) Limitation**
+The Secretary may designate zones in which, and establish periods during which, no hunting, fishing, or both, shall be allowed for reasons of public safety, administration, fish or wildlife management, or emergencies.
+**(4) Consultation**
+The Secretary shall ensure any regulations prescribing such restrictions under this subsection shall be put into effect only after consultation with the State.
+**(5) Private land**
+Nothing in this subsection prohibits hunting, fishing, or trapping on private land in accordance with applicable State and Federal laws.
+**(6) Congressional intent**
+Nothing in this Act is intended to affect the jurisdiction or responsibilities of the State with respect to fish and wildlife.
+##### (d) Hiring preference
+The Secretary shall establish policies to provide a preference for hiring members of the Tribe for positions at the Ocmulgee Mounds National Park and Preserve, consistent with the Indian preference policy established by the Secretary of the Interior under section 12 of the Act of June 18, 1934 (commonly known as the Indian Reorganization Act ) (48 Stat. 986, chapter 576; 25 U.S.C. 5116 ).
+##### (e) Effect on administration of Bond swamp national wildlife refuge
+**(1) In general**
+Except as provided in paragraph (2), nothing in this Act affects the continued administration of the Bond Swamp National Wildlife Refuge by the Director of the United States Fish and Wildlife Service as a unit of the National Wildlife Refuge System.
+**(2) Cultural interpretation activities**
+The Director of the National Park Service shall consult with the Tribe to provide cultural programs and related activities with respect to the Bond Swamp National Wildlife Refuge with the consent of the Director of the United States Fish and Wildlife Service.
+##### (f) Tribal consultation
+Nothing in this Act prevents continued consultation with federally recognized Indian Tribes pursuant to Executive Order 13175 ( 25 U.S.C. 5301 note; relating to consultation and coordination with Indian Tribal governments).
+##### (g) Military overflights
+Nothing in this Act precludes—
+**(1)**
+low-level overflights of military aircraft over the Ocmulgee Mounds National Park and Preserve;
+**(2)**
+the designation of new units of special use airspace over the Ocmulgee Mounds National Park and Preserve; or
+**(3)**
+the use or establishment of military flight training routes over the Ocmulgee Mounds National Park and Preserve.
+##### (h) Sacred and cultural sites
+The Secretary shall ensure the protection of sacred sites and cultural sites within the Ocmulgee Mounds National Park and Preserve and provide access to the sites by members of Indian Tribes who have ancestral connections to the Ocmulgee River Corridor, in accordance with Public Law 95–341 (commonly known as the American Indian Religious Freedom Act ) ( 42 U.S.C. 1996 et seq. ) and Executive Order 13007 ( 42 U.S.C. 1996 note; relating to Indian sacred sites).
+#### 5. Advisory council
+##### (a) Establishment
+The Secretary shall establish an advisory council, to be known as the Ocmulgee Mounds National Park and Preserve Advisory Council .
+##### (b) Duties
+The Advisory Council shall—
+**(1)**
+advise the Secretary with respect to the development and implementation of the management plan for the Ocmulgee Mounds National Park and Preserve; and
+**(2)**
+not later than 3 years after the date of enactment of this Act, submit to the Secretary recommendations regarding how the Secretary would consider and accommodate Tribal interests in the management of the Ocmulgee Mounds National Park and Preserve, including recommendations regarding how the Secretary and the Tribe may collaborate with respect to land management, species management, and the interpretation of cultural resources and resources of the Tribe at the Ocmulgee Mounds National Park and Preserve.
+##### (c) Members
+The Advisory Council shall consist of 7 members, to be appointed by the Secretary, as follows:
+**(1)**
+1 member, who shall be a representative of the applicable National Park Service office.
+**(2)**
+1 member, who shall be a representative of the applicable United States Fish and Wildlife Service office.
+**(3)**
+3 members, who shall be representatives of the Tribe.
+**(4)**
+1 member, who shall be a representative of the State Department of Natural Resources.
+**(5)**
+1 member, who shall be appointed after considering recommendations from the Middle Georgia Regional Commission.
+##### (d) Applicable law
+The Advisory Council shall be subject to chapter 10 of title 5, United States Code (commonly referred to as the Federal Advisory Committee Act ) (other than section 1013 of that title), and other applicable laws.
+##### (e) Vacancy
+A vacancy on the Advisory Council shall be filled in the same manner as the original appointment.
+##### (f) Quorum
+A majority of the members of the Advisory Council (including not fewer than 1 member who is a designated representative of the Tribe) shall constitute a quorum.
+##### (g) Frequency of meetings
+The Advisory Council shall meet 2 times per year, or more often as the Chairperson of the Advisory Council determines to be appropriate.
+##### (h) Chairperson
+The Advisory Council shall—
+**(1)**
+elect a chairperson of the Advisory Council from among the members of the Advisory Council; and
+**(2)**
+establish any rules and procedures for the Advisory Council that the Advisory Council determines to be appropriate.
+##### (i) No compensation
+Members of the Advisory Council shall serve without compensation.
+#### 6. Land to be held in trust
+All right, title, and interest of the United States in and to the approximately 126 acres of land owned in fee by the Tribe are hereby taken into trust for the benefit of the Tribe. Such land—
+**(1)**
+is part of Indian country (as defined in section 1151 of title 18, United States Code) of the Tribe; and
+**(2)**
+shall be administered in accordance with the laws and regulations generally applicable to property held in trust by the United States for the benefit of an Indian Tribe.
+#### 7. Authorization of appropriations
+There are authorized to be appropriated such sums as are necessary to carry out this Act.
+
+
+## Timeline
+
+- 2025-03-25: Introduced in House
+- 2025-03-25 - IntroReferral: Introduced in House
+- 2025-03-25 - IntroReferral: Introduced in House
+- 2025-03-25 - IntroReferral: Referred to the House Committee on Natural Resources.
+- Latest action: 2025-03-25: Introduced in House

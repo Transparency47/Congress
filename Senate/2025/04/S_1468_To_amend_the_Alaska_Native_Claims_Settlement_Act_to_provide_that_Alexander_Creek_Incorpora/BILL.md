@@ -1,0 +1,54 @@
+# S 1468: A bill to amend the Alaska Native Claims Settlement Act to provide that Alexander Creek, Incorporated, is recognized as a Village Corporation under that Act, and for other purposes.
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-04-10
+- Latest action: 2025-04-10 - Introduced in Senate
+- Policy area: Native Americans
+- Sponsor: Sen. Sullivan, Dan [R-AK]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/1468
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+This bill recognizes Alexander Creek, Incorporated, as an Alaska Native village corporation, subject to certain conditions, and Alexander Creek village as an Alaska Native village.
+
+Alexander Creek, Incorporated, must submit to the Department of the Interior any amendments to its state corporate charter that are necessary to convert from a group corporation to a village corporation.
+
+The bill requires Interior to offer to enter into negotiations with Alexander Creek, Incorporated, to settle aboriginal land claims and any other claims against the United States. As a condition of recognition as a village corporation, Alexander Creek, Incorporated must enter into such an agreement with Interior no later than 13 months after this bill's enactment.
+
+Alexander Creek, Incorporated, must notify its members that (1) they will cease to receive benefits from Cook Inlet Region, Incorporated, individually as at-large shareholders, and (2) all future resource payments shall be retained by Alexander Creek, Incorporated.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-04-10
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1468is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-04-10
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1468is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1468
+IN THE SENATE OF THE UNITED STATES
+April 10, 2025 Mr. Sullivan introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources
+A BILL
+To amend the Alaska Native Claims Settlement Act to provide that Alexander Creek, Incorporated, is recognized as a Village Corporation under that Act, and for other purposes.
+#### 1. Alexander Creek recognition
+The Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq. ) is amended by adding at the end the following:
+43. Alexander Creek recognition (a) Definitions In this section: (1) Alexander Creek, Incorporated The term Alexander Creek, Incorporated means Alexander Creek, Incorporated, the entity organized and recognized— (A) on the day before the date of enactment of this section, as a Group Corporation; and (B) effective beginning on the date of enactment of this section, as a Village Corporation. (2) Alexander Creek village The term Alexander Creek village means the community— (A) located in T. 15 N., R. 7 W., Seward Meridian, in the State; and (B) recognized as a Native village under subsection (b)(2). (3) Region The term Region means Cook Inlet Region, Incorporated, the appropriate Regional Corporation for Alexander Creek, Incorporated, under section 14(h). (b) Recognition of Alexander Creek Notwithstanding section 1432(d) of the Alaska National Interest Lands Conservation Act ( Public Law 96–487 ; 94 Stat. 2543) and the deadline described in section 11(b)(3), subject to the requirements of this section— (1) Alexander Creek, Incorporated, is recognized as a Village Corporation pursuant to this Act; and (2) Alexander Creek village shall be recognized as a Native village, notwithstanding any other provision of this Act. (c) Organization of Alexander Creek, Incorporated As soon as practicable after the date of enactment of this section, Alexander Creek, Incorporated, shall submit to the Secretary— (1) any amendments to the State corporate charter of Alexander Creek, Incorporated, necessary to convert Alexander Creek, Incorporated, from a Group Corporation to a Village Corporation; and (2) if necessary, any amendments to the State corporate charter or governing business documents of Alexander Creek, Incorporated, that fulfill the terms of the agreement described in subsection (d). (d) Agreement (1) Negotiations Not later than 30 days after the date of enactment of this section, the Secretary shall offer to enter into negotiations with Alexander Creek, Incorporated, for the purposes of fairly and equitably settling— (A) the aboriginal land claims of Alexander Creek, Incorporated; and (B) any other claims of Alexander Creek, Incorporated, against the United States. (2) Condition As a condition of recognition as a Village Corporation under this Act, Alexander Creek, Incorporated, shall enter into an agreement with the Secretary to achieve the purposes described in paragraph (1) by not later than 13 months after the date of enactment of this section. (3) Parity To the maximum extent practicable, the agreement under this subsection shall achieve parity, with respect to approximate value, with similar agreements of other Village Corporations. (4) Treatment for Federal property purposes (A) Coordination with GSA The Secretary shall coordinate with the Administrator of General Services with respect to any surplus property to be transferred to Alexander Creek, Incorporated, pursuant to the agreement under this subsection. (B) Status as a State and State agency Notwithstanding paragraphs (2) and (3) of section 549(a) of title 40, United States Code, Alexander Creek, Incorporated, shall be considered to be a State and a State agency under that section for purposes of the agreement under this subsection. (C) Surplus property Notwithstanding any other provision of law, Alexander Creek, Incorporated, shall be eligible to receive real property declared to be surplus under section 1303 of title 40, United States Code, for purposes of the agreement under this subsection. (e) Shareholder participation (1) In general Alexander Creek, Incorporated, shall notify each member of Alexander Creek village that— (A) effective beginning on the date of enactment of this section, the members shall cease to receive benefits from the Region as at-large shareholders pursuant to section 7(m); and (B) all future resource payments from the Region shall be retained by Alexander Creek, Incorporated, pursuant to section 7(j). (2) Liability The Region shall not be liable under any State, Federal, or local law, or under State or Federal common law, for damages arising out of or relating to the cessation of payments to members of Alexander Creek village under paragraph (1)(A). (f) Construction relating to land entitlements (1) In general Except as provided in this section with respect to Alexander Creek, Incorporated, nothing in this section modifies or amends any land conveyance entitlements or conveyance agreement between— (A) the Region and Village Corporations other than Alexander Creek, Incorporated; (B) the Region and the Federal Government; and (C) any party described in subparagraph (A) or (B) and the State. (2) Current Alexander Creek, Incorporated, land Nothing in this section reduces the land entitlement of Alexander Creek, Incorporated, as a Group Corporation before the date of enactment of this section, including any land selected by and conveyed to Alexander Creek, Incorporated, before that date of enactment. .
+
+
+## Timeline
+
+- 2025-04-10: Introduced in Senate
+- 2025-04-10 - IntroReferral: Introduced in Senate
+- 2025-04-10 - IntroReferral: Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-12-02 - Committee: Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- Latest action: 2025-04-10: Introduced in Senate

@@ -1,0 +1,110 @@
+# S 2724: Safe at Home Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-09-04
+- Latest action: 2025-09-04 - Introduced in Senate
+- Policy area: Law
+- Sponsor: Sen. Klobuchar, Amy [D-MN]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/2724
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-09-04
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2724is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-09-04
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2724is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 2724
+IN THE SENATE OF THE UNITED STATES
+September 4, 2025 Ms. Klobuchar (for herself and Mrs. Capito ) introduced the following bill; which was read twice and referred to the Committee on the Judiciary
+A BILL
+To require executive agencies and Federal courts to comply with address confidentiality programs, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Safe at Home Act .
+#### 2. Executive agency and Federal court compliance with State address confidentiality programs
+##### (a) Definitions
+In this section:
+**(1) Address confidentiality program**
+The term address confidentiality program means a program implemented pursuant to State law that—
+**(A)**
+provides a designated address;
+**(B)**
+provides a mail-forwarding service; and
+**(C)**
+is designated by a participant as the legal agent of the participant to receive service of process.
+**(2) Designated address**
+The term designated address means an address assigned by an address confidentiality program for a participant to use in lieu of the physical address of the participant.
+**(3) Executive agency**
+**(A) In general**
+The term executive agency has the meaning given the term Executive agency in section 105 of title 5, United States Code.
+**(B) Exception**
+The term executive agency does not include the Census Bureau.
+**(4) Participant**
+The term participant means an adult or minor who is enrolled in an address confidentiality program.
+**(5) Physical address**
+The term physical address means the actual home, school, or employment address of a participant.
+**(6) State**
+The term State means each of the States, the District of Columbia, each territory or possession of the United States, and each federally recognized Indian Tribe.
+##### (b) Acceptance of address confidentiality program
+Each executive agency and Federal court shall accept, for any purpose for which an individual is required to provide an address to the agency or court, an address designated to that individual pursuant to an address confidentiality program.
+##### (c) Exemption from liability
+A participant shall not be subject to Federal regulatory, civil, or criminal penalties for providing a designated address in lieu of the physical address of the participant to an executive agency or Federal court.
+##### (d) Regulatory compliance with address confidentiality programs
+Not later than 1 year after the date of enactment of this Act, each executive agency shall review and, as necessary, modify existing regulations to comply with this Act.
+##### (e) Compliance with address confidentiality program procedures and exemption from FOIA
+**(1) In general**
+Subject to paragraphs (3) and (4), in the case of an executive agency or Federal court seeking to acquire the physical address of a participant, the agency or court shall comply with any applicable procedures of the applicable address confidentiality program for acquiring such address.
+**(2) FOIA exemption**
+Upon acquiring a physical address under paragraph (1), the physical address—
+**(A)**
+shall be considered confidential; and
+**(B)**
+shall be exempt from disclosure under section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act ) for the purpose of subsection (b)(3) of that section.
+**(3) Law enforcement exception**
+**(A) In general**
+When the physical address of a participant is relevant to a Federal criminal proceeding, a Federal court may order the disclosure of the physical address to relevant parties without regard to the procedures of the relevant address confidentiality program, including—
+**(i)**
+court officers and employees;
+**(ii)**
+supervision and probation officers;
+**(iii)**
+prosecutors;
+**(iv)**
+law enforcement officers; and
+**(v)**
+any other party determined relevant by the Federal court.
+**(B) Limitations**
+If a Federal court orders the disclosure of a physical address to a party under subparagraph (A), the party—
+**(i)**
+shall keep the physical address confidential; and
+**(ii)**
+may only use the physical address for the purpose for which the Federal court orders the disclosure.
+**(4) Administration exception**
+If an executive agency requires the physical address of a participant in order for the executive agency to carry out the requirements of Federal law, a Federal court may order the disclosure of the physical address to the executive agency if the head of the executive agency makes a written request to the relevant address confidentiality program that maintains the record specifying—
+**(A)**
+the particular portion of the record desired; and
+**(B)**
+the activity for which the record is sought.
+**(5) Rule of construction**
+Nothing in this subsection shall be construed to require an executive agency to be subject to an audit performed by a State.
+##### (f) Prompt notification upon termination from participation
+If the participation of an individual in an address confidentiality program is terminated, that individual shall promptly notify each executive agency or Federal court that accepted a designated address under subsection (b).
+
+
+## Timeline
+
+- 2025-09-04: Introduced in Senate
+- 2025-09-04 - IntroReferral: Introduced in Senate
+- 2025-09-04 - IntroReferral: Read twice and referred to the Committee on the Judiciary.
+- Latest action: 2025-09-04: Introduced in Senate

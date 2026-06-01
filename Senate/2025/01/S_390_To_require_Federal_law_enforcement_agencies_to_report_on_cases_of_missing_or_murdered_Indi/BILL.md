@@ -1,0 +1,919 @@
+# S 390: BADGES for Native Communities Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-02-04
+- Latest action: 2025-02-04 - Introduced in Senate
+- Policy area: Native Americans
+- Sponsor: Sen. Cortez Masto, Catherine [D-NV]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/390
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act or the BADGES for Native Communities Act**
+
+This bill revises federal policies and procedures related to information sharing, reporting, and investigating cases of missing, unidentified, or murdered Indians.
+
+Among other elements, the bill requires the Department of Justice to (1) establish a grant program for specified entities (e.g., tribes) to implement changes to enhance their responses to missing person cases and death investigations of interest to tribes, and (2) work with the Department of Health and Human Services to ensure that federal training resources and culturally appropriate mental health and wellness programs are available to tribal and Bureau of Indian Affairs (BIA) law enforcement officers.
+
+The Department of the Interior must establish a five-year demonstration program for the purpose of conducting or adjudicating personnel background investigations for applicants for law enforcement positions in the BIA.
+
+The bill also requires the Government Accountability Office to conduct specified studies, including a study on the evidence collection, handling, response times, and processing procedures and practices of federal law enforcement agencies.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-02-04
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s390is.xml
+
+### Reported in Senate
+- Date: 2025-07-31
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s390rs.xml
+
+### Engrossed in Senate
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s390es.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-02-04
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s390is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 390
+IN THE SENATE OF THE UNITED STATES
+February 4, 2025 Ms. Cortez Masto (for herself, Mr. Hoeven , Mr. Gallego , and Mr. Rounds ) introduced the following bill; which was read twice and referred to the Committee on Indian Affairs
+A BILL
+To require Federal law enforcement agencies to report on cases of missing or murdered Indians, and for other purposes.
+#### 1. Short title; table of contents
+##### (a) Short title
+This Act may be cited as the Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act or the BADGES for Native Communities Act .
+##### (b) Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+TITLE I—Bridging agency data gaps
+Sec. 101. National Missing and Unidentified Persons System Tribal facilitator.
+Sec. 102. Report on Indian country law enforcement personnel resources and need.
+TITLE II—Ensuring safety for Native communities
+Sec. 201. Demonstration program on Bureau of Indian Affairs law enforcement employment background checks.
+Sec. 202. Missing or murdered response coordination grant program.
+Sec. 203. GAO study on Federal law enforcement agency evidence collection, handling, and processing.
+Sec. 204. Bureau of Indian Affairs and Tribal law enforcement officer counseling resources interdepartmental coordination.
+#### 2. Definitions
+In this Act:
+**(1) Death investigation**
+The term death investigation has the meaning determined by the Attorney General.
+**(2) Death investigation of interest to Indian Tribes**
+The term death investigation of interest to Indian Tribes means a case involving—
+**(A)**
+a death investigation into the death of an Indian; or
+**(B)**
+a death investigation of a person found on, in, or adjacent to Indian land or a Village.
+**(3) Director**
+The term Director means the Deputy Bureau Director of the Office of Justice Services of the Bureau of Indian Affairs.
+**(4) Federal law enforcement agency**
+The term Federal law enforcement agency means the Office of Justice Services of the Bureau of Indian Affairs, the Federal Bureau of Investigation, and any other Federal law enforcement agency that—
+**(A)**
+has jurisdiction over crimes in Indian country; or
+**(B)**
+investigates missing persons cases of interest to Indian Tribes, death investigations of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, or unidentified remains cases of interest to Indian Tribes.
+**(5) Indian**
+The term Indian has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+**(6) Indian country**
+The term Indian country has the meaning given the term in section 1151 of title 18, United States Code.
+**(7) Indian land**
+The term Indian land has the meaning given the term Indian lands in section 3 of the Native American Business Development, Trade Promotion, and Tourism Act of 2000 ( 25 U.S.C. 4302 ).
+**(8) Indian Tribe**
+The term Indian Tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+**(9) Missing persons case of interest to Indian Tribes**
+The term missing persons case of interest to Indian Tribes means a case involving—
+**(A)**
+a missing Indian; or
+**(B)**
+a missing person whose last known location is believed to be on, in, or adjacent to Indian land or a Village.
+**(10) National crime information databases**
+The term national crime information databases has the meaning given the term in section 534(f)(3) of title 28, United States Code.
+**(11) Relevant Tribal organization**
+The term relevant Tribal organization means, as applicable—
+**(A)**
+a Tribal organization or an urban Indian organization; and
+**(B)**
+a national or regional organization that—
+**(i)**
+represents a substantial Indian constituency; and
+**(ii)**
+has expertise in the fields of—
+**(I)**
+human trafficking of Indians;
+**(II)**
+human trafficking on Indian land or in a Village;
+**(III)**
+violence against Indians;
+**(IV)**
+missing or murdered Indigenous persons; or
+**(V)**
+Tribal justice systems.
+**(12) Secretary**
+The term Secretary means the Secretary of the Interior.
+**(13) Sexual violence case of interest to Indian Tribes**
+The term sexual violence case of interest to Indian Tribes means a case involving an allegation of sexual violence (as defined in section 204(a) of Public Law 90–284 ( 25 U.S.C. 1304(a) )).
+**(14) Tribal justice official**
+The term Tribal justice official has the meaning given the term tribal justice official in section 2 of the Indian Law Enforcement Reform Act ( 25 U.S.C. 2801 ).
+**(15) Tribal organization**
+The term Tribal organization has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+**(16) Unclaimed human remains case of interest to Indian Tribes**
+The term unclaimed human remains case of interest to Indian Tribes means a case involving—
+**(A)**
+unclaimed Indian remains identified by Federal, Tribal, State, or local law enforcement; or
+**(B)**
+unclaimed human remains found on, in, or adjacent to Indian land or a Village.
+**(17) Unidentified remains case of interest to Indian Tribes**
+The term unidentified remains case of interest to Indian Tribes means a case involving—
+**(A)**
+unidentified Indian remains; or
+**(B)**
+unidentified remains found on, in, or adjacent to Indian land or a Village.
+**(18) Urban Indian organization**
+The term urban Indian organization has the meaning given the term in section 4 of the Indian Health Care Improvement Act ( 25 U.S.C. 1603 ).
+**(19) Village**
+The term Village means the Alaska Native Village Statistical Area covering all or any portion of a Native village (as defined in section 3 of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602 )), as depicted on the applicable Tribal Statistical Area Program Verification Map of the Bureau of the Census.
+I
+Bridging agency data gaps
+#### 101. National Missing and Unidentified Persons System Tribal facilitator
+##### (a) Appointment
+The Attorney General shall appoint 1 or more Tribal facilitators for the National Missing and Unidentified Persons System.
+##### (b) Duties
+The duties of a Tribal facilitator appointed under subsection (a) shall include—
+**(1)**
+coordinating the reporting of information relating to missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes;
+**(2)**
+consulting and coordinating with Indian Tribes and relevant Tribal organizations to address the reporting, documentation, and tracking of missing persons cases of interest to Indian Tribes, unclaimed human remains cases of Interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes;
+**(3)**
+developing working relationships, and maintaining communication, with Indian Tribes and relevant Tribal organizations;
+**(4)**
+providing technical assistance and training to Indian Tribes and relevant Tribal organizations, victim service advocates, medical examiners, coroners, and Tribal justice officials regarding—
+**(A)**
+the gathering and reporting of information to the National Missing and Unidentified Persons System; and
+**(B)**
+working with non-Tribal law enforcement agencies to encourage missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes are reported to the National Missing and Unidentified Persons System;
+**(5)**
+coordinating with the Office of Tribal Justice, the Office of Justice Services of the Bureau of Indian Affairs, the Executive Office for United States Attorneys, the Federal Bureau of Investigation, State law enforcement agencies, and the National Indian Country Training Initiative, as necessary; and
+**(6)**
+conducting other training, information gathering, and outreach activities to improve resolution of missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes.
+##### (c) Reporting and transparency
+**(1) Annual reports to Congress**
+During the 3-year-period beginning on the date of enactment of this Act, the Attorney General, acting through the Director of the National Institute of Justice, shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives an annual report describing the activities and accomplishments of the Tribal facilitators appointed under subsection (a) during the 1-year period preceding the date of the report.
+**(2) Public transparency**
+Annually, the Attorney General, acting through the Director of the National Institute of Justice, shall publish on a website publicly accessible information describing the activities and accomplishments of the Tribal facilitators appointed under subsection (a) during the 1-year period preceding the date of the publication.
+#### 102. Report on Indian country law enforcement personnel resources and need
+##### (a) Office of Justice Services of the Bureau of Indian Affairs
+Section 3(c)(16) of the Indian Law Enforcement Reform Act ( 25 U.S.C. 2802(c)(16) ) is amended by striking subparagraph (C) and inserting the following:
+(C) a list of the unmet— (i) staffing needs of law enforcement, corrections, and court personnel, including criminal investigators, medical examiners, coroners, forensic technicians, indigent defense staff, crime victim services staff, and prosecution staff, at Tribal and Bureau justice agencies, including the Missing and Murdered Unit of the Office of Justice Services of the Bureau; (ii) replacement and repair needs of Tribal and Bureau corrections facilities; (iii) infrastructure and capital needs for Tribal police and court facilities, including evidence storage and processing; and (iv) public safety and emergency communications and technology needs, including equipment and internet capacity needs; and .
+##### (b) Department of Justice
+**(1) Definition of Department of Justice law enforcement agency**
+In this subsection, the term Department of Justice law enforcement agency means each of—
+**(A)**
+the Federal Bureau of Investigation;
+**(B)**
+the Drug Enforcement Administration;
+**(C)**
+the United States Marshals Service;
+**(D)**
+the Bureau of Alcohol, Tobacco, Firearms and Explosives; and
+**(E)**
+the Offices of the United States Attorneys.
+**(2) Annual report**
+Each fiscal year, the Attorney General shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report for that fiscal year that includes—
+**(A)**
+the number of full-time employees of each Department of Justice law enforcement agency that are assigned to work on criminal investigations and prosecutions in Indian country;
+**(B)**
+the percentage of time the full-time employees, as identified under subparagraph (A), spend specifically working in Indian country;
+**(C)**
+the turnover rate during the 5-year period preceding the report of full-time employees assigned to work on criminal investigations and prosecutions in Indian country;
+**(D)**
+the average years of experience at the Department of Justice of full-time employees assigned to work on criminal investigations and prosecutions in Indian country;
+**(E)**
+the number of vacant positions with responsibilities for criminal investigations and prosecutions in Indian country;
+**(F)**
+an identification of expertise and skills necessary to achieve the strategic goals of the Department of Justice relating to public safety in Indian country;
+**(G)**
+an estimate of the number of employees needed with specific skills and competencies to fulfill responsibilities assigned for criminal investigations and prosecutions in Indian country; and
+**(H)**
+a list of measures identified to indicate whether and how the Department of Justice plans to execute its hiring, retention, and training strategies.
+**(3) GAO study and report**
+**(A) Study**
+**(i) In general**
+Not later than 18 months after the date on which the first annual report is submitted under paragraph (2), the Comptroller General of the United States shall conduct a review of unmet staffing identified by the Department of Justice law enforcement agencies tasked with work on criminal investigations and prosecutions in Indian country.
+**(ii) Requirement**
+In conducting the study required under clause (i), the Comptroller General of the United States shall take into account the results of the most recent report, as of the date of enactment of this Act, relating to Indian country investigations and prosecutions prepared by the Attorney General pursuant to section 10(b) of the Indian Law Enforcement Reform Act ( 25 U.S.C. 2809(b) ).
+**(B) Report**
+On completion of the review under subparagraph (A), the Comptroller General of the United States shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report that describes the results of the study, including, as appropriate, proposals for methods by which the Department of Justice can better measure its unmet staffing and other needs for Department of Justice law enforcement agencies tasked with work on criminal investigations and prosecutions in Indian country.
+II
+Ensuring safety for Native communities
+#### 201. Demonstration program on Bureau of Indian Affairs law enforcement employment background checks
+##### (a) Establishment of demonstration program
+**(1) In general**
+The Secretary shall establish a demonstration program for the purpose of conducting or adjudicating, in coordination with the Director, personnel background investigations for applicants for law enforcement positions in the Bureau of Indian Affairs.
+**(2) Background investigations and security clearance determinations**
+**(A) BIA investigations**
+As part of the demonstration program established under paragraph (1), the Secretary may carry out a background investigation, security clearance determination, or both a background investigation and a security clearance determination for an applicant for a law enforcement position in the Bureau of Indian Affairs.
+**(B) Agreements**
+The Secretary may enter into a memorandum of agreement with a State or local government, Indian Tribe, or Tribal organization to develop steps to expedite the process of receiving and obtaining access to information pertinent to background investigation and security clearance determinations for use in the demonstration program.
+**(3) Sunset**
+The demonstration program established under paragraph (1) shall terminate 5 years after the date of the commencement of the demonstration program.
+##### (b) Sufficiency
+Notwithstanding any other provision of law, a background investigation conducted or adjudicated by the Secretary pursuant to the demonstration program established under subsection (a)(1) that results in the granting of a security clearance to an applicant for a law enforcement position in the Bureau of Indian Affairs shall be sufficient to meet the applicable requirements of the Office of Personnel Management or other Federal agency for such investigations.
+##### (c) Report
+Not later than 3 years after the date on which the demonstration program is established under subsection (a)(1), the Secretary shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report on the demonstration program, which shall include a description of—
+**(1)**
+the demonstration program and any recommended changes or updates to the demonstration program, including whether the demonstration program should be reauthorized;
+**(2)**
+the number of background investigations carried out under the demonstration program;
+**(3)**
+the costs, including any cost savings, associated with the investigation and adjudication process under the demonstration program;
+**(4)**
+the processing times for the investigation and adjudication processes under the demonstration program; and
+**(5)**
+any other information that the Secretary determines to be relevant.
+#### 202. Missing or murdered response coordination grant program
+##### (a) Establishment of grant program
+The Attorney General shall establish within the Office of Justice Programs a grant program under which the Attorney General shall make grants to eligible entities described in subsection (b) to carry out eligible activities described in subsection (c).
+##### (b) Eligible entities
+**(1) In general**
+To be eligible to receive a grant under the grant program established under subsection (a) an entity shall be—
+**(A)**
+an Indian Tribe;
+**(B)**
+a relevant Tribal organization;
+**(C)**
+subject to paragraph (2), a State, in consortium with—
+**(i)**
+1 or more Indian Tribes; and
+**(ii)**
+relevant Tribal organizations, if any;
+**(D)**
+a consortium of 2 or more Indian Tribes or relevant Tribal organizations; or
+**(E)**
+subject to paragraph (2), a consortium of 2 or more States in consortium with—
+**(i)**
+1 or more Indian Tribes; and
+**(ii)**
+relevant Tribal organizations, if any.
+**(2) State eligibility**
+To be eligible under subparagraph (C) or (E) of paragraph (1), a State shall demonstrate to the satisfaction of the Attorney General that the State—
+**(A)**
+**(i)**
+reports missing persons cases in the State to the national crime information databases; or
+**(ii)**
+if not, has a plan to do so using a grant received under the grant program established under subsection (a); and
+**(B)**
+if data sharing between the State and the Indian Tribes and relevant Tribal organizations with which the State is in consortium is part of the intended use of the grant received under the grant program established under subsection (a), has entered into a memorandum of understanding with each applicable Indian Tribe and relevant Tribal organization.
+##### (c) Eligible activities
+An eligible entity receiving a grant under the grant program established under subsection (a) may use the grant—
+**(1)**
+to establish a statewide or regional center—
+**(A)**
+to document and track—
+**(i)**
+missing persons cases of interest to Indian Tribes;
+**(ii)**
+sexual violence cases of interest to Indian Tribes; and
+**(iii)**
+death investigations of interest to Indian Tribes; and
+**(B)**
+to input information regarding missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes into the National Missing and Unidentified Persons System and the Missing Persons File in the National Crime Information Center;
+**(2)**
+to establish a State or regional commission to respond to, and to improve coordination between Federal law enforcement agencies, and Tribal, State, and local law enforcement agencies of the investigation of, missing persons cases of interest to Indian Tribes, sexual violence cases of interest to Indian Tribes, and death investigations of interest to Indian Tribes; and
+**(3)**
+to document, develop, and disseminate resources for the coordination and improvement of the investigation of missing persons cases of interest to Indian Tribes, sexual violence cases of interest to Indian Tribes, and death investigations of interest to Indian Tribes, including to develop local or statewide rapid notification or communication systems for alerts and other information relating to those cases.
+##### (d) Authorization of appropriations
+There is authorized to be appropriated to carry out the grant program established under subsection (a)(1) $1,000,000 for each of fiscal years 2026 through 2030.
+#### 203. GAO study on Federal law enforcement agency evidence collection, handling, and processing
+##### (a) In general
+The Comptroller General of the United States shall conduct a study—
+**(1)**
+on the evidence collection, handling, response times, and processing procedures and practices of the Office of Justice Services of the Bureau of Indian Affairs and the Federal Bureau of Investigation in exercising jurisdiction over crimes involving Indians or committed in Indian country;
+**(2)**
+on barriers to evidence collection, handling, response times, and processing identified by the agencies referred to in paragraph (1);
+**(3)**
+on the views of law enforcement officials at the agencies referred to in paragraph (1) and their counterparts within the Offices of the United States Attorneys concerning any relationship between—
+**(A)**
+the barriers identified under paragraph (2); and
+**(B)**
+United States Attorneys declination rates due to insufficient evidence; and
+**(4)**
+that includes a description of barriers to evidence collection, handling, response times, and processing identified and faced by—
+**(A)**
+Tribal law enforcement agencies; and
+**(B)**
+State and local law enforcement agencies that exercise jurisdiction over Indian country.
+##### (b) Report
+Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report describing the results of the study conducted under subsection (a).
+#### 204. Bureau of Indian Affairs and Tribal law enforcement officer counseling resources interdepartmental coordination
+The Secretary of Health and Human Services and the Attorney General shall coordinate with the Director—
+**(1)**
+to ensure that Federal training materials and culturally appropriate mental health and wellness programs are locally or regionally available to law enforcement officers working for the Office of Justice Services of the Bureau of Indian Affairs or an Indian Tribe; and
+**(2)**
+to determine whether law enforcement agencies operated by the Office of Justice Services of the Bureau of Indian Affairs and Indian Tribes are eligible to receive services under—
+**(A)**
+the Law Enforcement Assistance Program of Federal Occupational Health of the Department of Health and Human Services; or
+**(B)**
+any other law enforcement assistance program targeted to meet the needs of law enforcement officers working for law enforcement agencies operated by the Federal Government or an Indian Tribe.
+
+### Reported in Senate
+- Date: 2025-07-31
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s390rs.xml
+
+II
+Calendar No. 138
+119th CONGRESS
+1st Session
+S. 390
+[Report No. 119–53]
+IN THE SENATE OF THE UNITED STATES
+February 4, 2025 Ms. Cortez Masto (for herself, Mr. Hoeven , Mr. Gallego , and Mr. Rounds ) introduced the following bill; which was read twice and referred to the Committee on Indian Affairs
+July 31, 2025 Reported by Ms. Murkowski , without amendment
+A BILL
+To require Federal law enforcement agencies to report on cases of missing or murdered Indians, and for other purposes.
+#### 1. Short title; table of contents
+##### (a) Short title
+This Act may be cited as the Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act or the BADGES for Native Communities Act .
+##### (b) Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+TITLE I—Bridging agency data gaps
+Sec. 101. National Missing and Unidentified Persons System Tribal facilitator.
+Sec. 102. Report on Indian country law enforcement personnel resources and need.
+TITLE II—Ensuring safety for Native communities
+Sec. 201. Demonstration program on Bureau of Indian Affairs law enforcement employment background checks.
+Sec. 202. Missing or murdered response coordination grant program.
+Sec. 203. GAO study on Federal law enforcement agency evidence collection, handling, and processing.
+Sec. 204. Bureau of Indian Affairs and Tribal law enforcement officer counseling resources interdepartmental coordination.
+#### 2. Definitions
+In this Act:
+**(1) Death investigation**
+The term death investigation has the meaning determined by the Attorney General.
+**(2) Death investigation of interest to Indian Tribes**
+The term death investigation of interest to Indian Tribes means a case involving—
+**(A)**
+a death investigation into the death of an Indian; or
+**(B)**
+a death investigation of a person found on, in, or adjacent to Indian land or a Village.
+**(3) Director**
+The term Director means the Deputy Bureau Director of the Office of Justice Services of the Bureau of Indian Affairs.
+**(4) Federal law enforcement agency**
+The term Federal law enforcement agency means the Office of Justice Services of the Bureau of Indian Affairs, the Federal Bureau of Investigation, and any other Federal law enforcement agency that—
+**(A)**
+has jurisdiction over crimes in Indian country; or
+**(B)**
+investigates missing persons cases of interest to Indian Tribes, death investigations of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, or unidentified remains cases of interest to Indian Tribes.
+**(5) Indian**
+The term Indian has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+**(6) Indian country**
+The term Indian country has the meaning given the term in section 1151 of title 18, United States Code.
+**(7) Indian land**
+The term Indian land has the meaning given the term Indian lands in section 3 of the Native American Business Development, Trade Promotion, and Tourism Act of 2000 ( 25 U.S.C. 4302 ).
+**(8) Indian Tribe**
+The term Indian Tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+**(9) Missing persons case of interest to Indian Tribes**
+The term missing persons case of interest to Indian Tribes means a case involving—
+**(A)**
+a missing Indian; or
+**(B)**
+a missing person whose last known location is believed to be on, in, or adjacent to Indian land or a Village.
+**(10) National crime information databases**
+The term national crime information databases has the meaning given the term in section 534(f)(3) of title 28, United States Code.
+**(11) Relevant Tribal organization**
+The term relevant Tribal organization means, as applicable—
+**(A)**
+a Tribal organization or an urban Indian organization; and
+**(B)**
+a national or regional organization that—
+**(i)**
+represents a substantial Indian constituency; and
+**(ii)**
+has expertise in the fields of—
+**(I)**
+human trafficking of Indians;
+**(II)**
+human trafficking on Indian land or in a Village;
+**(III)**
+violence against Indians;
+**(IV)**
+missing or murdered Indigenous persons; or
+**(V)**
+Tribal justice systems.
+**(12) Secretary**
+The term Secretary means the Secretary of the Interior.
+**(13) Sexual violence case of interest to Indian Tribes**
+The term sexual violence case of interest to Indian Tribes means a case involving an allegation of sexual violence (as defined in section 204(a) of Public Law 90–284 ( 25 U.S.C. 1304(a) )).
+**(14) Tribal justice official**
+The term Tribal justice official has the meaning given the term tribal justice official in section 2 of the Indian Law Enforcement Reform Act ( 25 U.S.C. 2801 ).
+**(15) Tribal organization**
+The term Tribal organization has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+**(16) Unclaimed human remains case of interest to Indian Tribes**
+The term unclaimed human remains case of interest to Indian Tribes means a case involving—
+**(A)**
+unclaimed Indian remains identified by Federal, Tribal, State, or local law enforcement; or
+**(B)**
+unclaimed human remains found on, in, or adjacent to Indian land or a Village.
+**(17) Unidentified remains case of interest to Indian Tribes**
+The term unidentified remains case of interest to Indian Tribes means a case involving—
+**(A)**
+unidentified Indian remains; or
+**(B)**
+unidentified remains found on, in, or adjacent to Indian land or a Village.
+**(18) Urban Indian organization**
+The term urban Indian organization has the meaning given the term in section 4 of the Indian Health Care Improvement Act ( 25 U.S.C. 1603 ).
+**(19) Village**
+The term Village means the Alaska Native Village Statistical Area covering all or any portion of a Native village (as defined in section 3 of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602 )), as depicted on the applicable Tribal Statistical Area Program Verification Map of the Bureau of the Census.
+I
+Bridging agency data gaps
+#### 101. National Missing and Unidentified Persons System Tribal facilitator
+##### (a) Appointment
+The Attorney General shall appoint 1 or more Tribal facilitators for the National Missing and Unidentified Persons System.
+##### (b) Duties
+The duties of a Tribal facilitator appointed under subsection (a) shall include—
+**(1)**
+coordinating the reporting of information relating to missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes;
+**(2)**
+consulting and coordinating with Indian Tribes and relevant Tribal organizations to address the reporting, documentation, and tracking of missing persons cases of interest to Indian Tribes, unclaimed human remains cases of Interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes;
+**(3)**
+developing working relationships, and maintaining communication, with Indian Tribes and relevant Tribal organizations;
+**(4)**
+providing technical assistance and training to Indian Tribes and relevant Tribal organizations, victim service advocates, medical examiners, coroners, and Tribal justice officials regarding—
+**(A)**
+the gathering and reporting of information to the National Missing and Unidentified Persons System; and
+**(B)**
+working with non-Tribal law enforcement agencies to encourage missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes are reported to the National Missing and Unidentified Persons System;
+**(5)**
+coordinating with the Office of Tribal Justice, the Office of Justice Services of the Bureau of Indian Affairs, the Executive Office for United States Attorneys, the Federal Bureau of Investigation, State law enforcement agencies, and the National Indian Country Training Initiative, as necessary; and
+**(6)**
+conducting other training, information gathering, and outreach activities to improve resolution of missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes.
+##### (c) Reporting and transparency
+**(1) Annual reports to Congress**
+During the 3-year-period beginning on the date of enactment of this Act, the Attorney General, acting through the Director of the National Institute of Justice, shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives an annual report describing the activities and accomplishments of the Tribal facilitators appointed under subsection (a) during the 1-year period preceding the date of the report.
+**(2) Public transparency**
+Annually, the Attorney General, acting through the Director of the National Institute of Justice, shall publish on a website publicly accessible information describing the activities and accomplishments of the Tribal facilitators appointed under subsection (a) during the 1-year period preceding the date of the publication.
+#### 102. Report on Indian country law enforcement personnel resources and need
+##### (a) Office of Justice Services of the Bureau of Indian Affairs
+Section 3(c)(16) of the Indian Law Enforcement Reform Act ( 25 U.S.C. 2802(c)(16) ) is amended by striking subparagraph (C) and inserting the following:
+(C) a list of the unmet— (i) staffing needs of law enforcement, corrections, and court personnel, including criminal investigators, medical examiners, coroners, forensic technicians, indigent defense staff, crime victim services staff, and prosecution staff, at Tribal and Bureau justice agencies, including the Missing and Murdered Unit of the Office of Justice Services of the Bureau; (ii) replacement and repair needs of Tribal and Bureau corrections facilities; (iii) infrastructure and capital needs for Tribal police and court facilities, including evidence storage and processing; and (iv) public safety and emergency communications and technology needs, including equipment and internet capacity needs; and .
+##### (b) Department of Justice
+**(1) Definition of Department of Justice law enforcement agency**
+In this subsection, the term Department of Justice law enforcement agency means each of—
+**(A)**
+the Federal Bureau of Investigation;
+**(B)**
+the Drug Enforcement Administration;
+**(C)**
+the United States Marshals Service;
+**(D)**
+the Bureau of Alcohol, Tobacco, Firearms and Explosives; and
+**(E)**
+the Offices of the United States Attorneys.
+**(2) Annual report**
+Each fiscal year, the Attorney General shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report for that fiscal year that includes—
+**(A)**
+the number of full-time employees of each Department of Justice law enforcement agency that are assigned to work on criminal investigations and prosecutions in Indian country;
+**(B)**
+the percentage of time the full-time employees, as identified under subparagraph (A), spend specifically working in Indian country;
+**(C)**
+the turnover rate during the 5-year period preceding the report of full-time employees assigned to work on criminal investigations and prosecutions in Indian country;
+**(D)**
+the average years of experience at the Department of Justice of full-time employees assigned to work on criminal investigations and prosecutions in Indian country;
+**(E)**
+the number of vacant positions with responsibilities for criminal investigations and prosecutions in Indian country;
+**(F)**
+an identification of expertise and skills necessary to achieve the strategic goals of the Department of Justice relating to public safety in Indian country;
+**(G)**
+an estimate of the number of employees needed with specific skills and competencies to fulfill responsibilities assigned for criminal investigations and prosecutions in Indian country; and
+**(H)**
+a list of measures identified to indicate whether and how the Department of Justice plans to execute its hiring, retention, and training strategies.
+**(3) GAO study and report**
+**(A) Study**
+**(i) In general**
+Not later than 18 months after the date on which the first annual report is submitted under paragraph (2), the Comptroller General of the United States shall conduct a review of unmet staffing identified by the Department of Justice law enforcement agencies tasked with work on criminal investigations and prosecutions in Indian country.
+**(ii) Requirement**
+In conducting the study required under clause (i), the Comptroller General of the United States shall take into account the results of the most recent report, as of the date of enactment of this Act, relating to Indian country investigations and prosecutions prepared by the Attorney General pursuant to section 10(b) of the Indian Law Enforcement Reform Act ( 25 U.S.C. 2809(b) ).
+**(B) Report**
+On completion of the review under subparagraph (A), the Comptroller General of the United States shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report that describes the results of the study, including, as appropriate, proposals for methods by which the Department of Justice can better measure its unmet staffing and other needs for Department of Justice law enforcement agencies tasked with work on criminal investigations and prosecutions in Indian country.
+II
+Ensuring safety for Native communities
+#### 201. Demonstration program on Bureau of Indian Affairs law enforcement employment background checks
+##### (a) Establishment of demonstration program
+**(1) In general**
+The Secretary shall establish a demonstration program for the purpose of conducting or adjudicating, in coordination with the Director, personnel background investigations for applicants for law enforcement positions in the Bureau of Indian Affairs.
+**(2) Background investigations and security clearance determinations**
+**(A) BIA investigations**
+As part of the demonstration program established under paragraph (1), the Secretary may carry out a background investigation, security clearance determination, or both a background investigation and a security clearance determination for an applicant for a law enforcement position in the Bureau of Indian Affairs.
+**(B) Agreements**
+The Secretary may enter into a memorandum of agreement with a State or local government, Indian Tribe, or Tribal organization to develop steps to expedite the process of receiving and obtaining access to information pertinent to background investigation and security clearance determinations for use in the demonstration program.
+**(3) Sunset**
+The demonstration program established under paragraph (1) shall terminate 5 years after the date of the commencement of the demonstration program.
+##### (b) Sufficiency
+Notwithstanding any other provision of law, a background investigation conducted or adjudicated by the Secretary pursuant to the demonstration program established under subsection (a)(1) that results in the granting of a security clearance to an applicant for a law enforcement position in the Bureau of Indian Affairs shall be sufficient to meet the applicable requirements of the Office of Personnel Management or other Federal agency for such investigations.
+##### (c) Report
+Not later than 3 years after the date on which the demonstration program is established under subsection (a)(1), the Secretary shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report on the demonstration program, which shall include a description of—
+**(1)**
+the demonstration program and any recommended changes or updates to the demonstration program, including whether the demonstration program should be reauthorized;
+**(2)**
+the number of background investigations carried out under the demonstration program;
+**(3)**
+the costs, including any cost savings, associated with the investigation and adjudication process under the demonstration program;
+**(4)**
+the processing times for the investigation and adjudication processes under the demonstration program; and
+**(5)**
+any other information that the Secretary determines to be relevant.
+#### 202. Missing or murdered response coordination grant program
+##### (a) Establishment of grant program
+The Attorney General shall establish within the Office of Justice Programs a grant program under which the Attorney General shall make grants to eligible entities described in subsection (b) to carry out eligible activities described in subsection (c).
+##### (b) Eligible entities
+**(1) In general**
+To be eligible to receive a grant under the grant program established under subsection (a) an entity shall be—
+**(A)**
+an Indian Tribe;
+**(B)**
+a relevant Tribal organization;
+**(C)**
+subject to paragraph (2), a State, in consortium with—
+**(i)**
+1 or more Indian Tribes; and
+**(ii)**
+relevant Tribal organizations, if any;
+**(D)**
+a consortium of 2 or more Indian Tribes or relevant Tribal organizations; or
+**(E)**
+subject to paragraph (2), a consortium of 2 or more States in consortium with—
+**(i)**
+1 or more Indian Tribes; and
+**(ii)**
+relevant Tribal organizations, if any.
+**(2) State eligibility**
+To be eligible under subparagraph (C) or (E) of paragraph (1), a State shall demonstrate to the satisfaction of the Attorney General that the State—
+**(A)**
+**(i)**
+reports missing persons cases in the State to the national crime information databases; or
+**(ii)**
+if not, has a plan to do so using a grant received under the grant program established under subsection (a); and
+**(B)**
+if data sharing between the State and the Indian Tribes and relevant Tribal organizations with which the State is in consortium is part of the intended use of the grant received under the grant program established under subsection (a), has entered into a memorandum of understanding with each applicable Indian Tribe and relevant Tribal organization.
+##### (c) Eligible activities
+An eligible entity receiving a grant under the grant program established under subsection (a) may use the grant—
+**(1)**
+to establish a statewide or regional center—
+**(A)**
+to document and track—
+**(i)**
+missing persons cases of interest to Indian Tribes;
+**(ii)**
+sexual violence cases of interest to Indian Tribes; and
+**(iii)**
+death investigations of interest to Indian Tribes; and
+**(B)**
+to input information regarding missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes into the National Missing and Unidentified Persons System and the Missing Persons File in the National Crime Information Center;
+**(2)**
+to establish a State or regional commission to respond to, and to improve coordination between Federal law enforcement agencies, and Tribal, State, and local law enforcement agencies of the investigation of, missing persons cases of interest to Indian Tribes, sexual violence cases of interest to Indian Tribes, and death investigations of interest to Indian Tribes; and
+**(3)**
+to document, develop, and disseminate resources for the coordination and improvement of the investigation of missing persons cases of interest to Indian Tribes, sexual violence cases of interest to Indian Tribes, and death investigations of interest to Indian Tribes, including to develop local or statewide rapid notification or communication systems for alerts and other information relating to those cases.
+##### (d) Authorization of appropriations
+There is authorized to be appropriated to carry out the grant program established under subsection (a)(1) $1,000,000 for each of fiscal years 2026 through 2030.
+#### 203. GAO study on Federal law enforcement agency evidence collection, handling, and processing
+##### (a) In general
+The Comptroller General of the United States shall conduct a study—
+**(1)**
+on the evidence collection, handling, response times, and processing procedures and practices of the Office of Justice Services of the Bureau of Indian Affairs and the Federal Bureau of Investigation in exercising jurisdiction over crimes involving Indians or committed in Indian country;
+**(2)**
+on barriers to evidence collection, handling, response times, and processing identified by the agencies referred to in paragraph (1);
+**(3)**
+on the views of law enforcement officials at the agencies referred to in paragraph (1) and their counterparts within the Offices of the United States Attorneys concerning any relationship between—
+**(A)**
+the barriers identified under paragraph (2); and
+**(B)**
+United States Attorneys declination rates due to insufficient evidence; and
+**(4)**
+that includes a description of barriers to evidence collection, handling, response times, and processing identified and faced by—
+**(A)**
+Tribal law enforcement agencies; and
+**(B)**
+State and local law enforcement agencies that exercise jurisdiction over Indian country.
+##### (b) Report
+Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report describing the results of the study conducted under subsection (a).
+#### 204. Bureau of Indian Affairs and Tribal law enforcement officer counseling resources interdepartmental coordination
+The Secretary of Health and Human Services and the Attorney General shall coordinate with the Director—
+**(1)**
+to ensure that Federal training materials and culturally appropriate mental health and wellness programs are locally or regionally available to law enforcement officers working for the Office of Justice Services of the Bureau of Indian Affairs or an Indian Tribe; and
+**(2)**
+to determine whether law enforcement agencies operated by the Office of Justice Services of the Bureau of Indian Affairs and Indian Tribes are eligible to receive services under—
+**(A)**
+the Law Enforcement Assistance Program of Federal Occupational Health of the Department of Health and Human Services; or
+**(B)**
+any other law enforcement assistance program targeted to meet the needs of law enforcement officers working for law enforcement agencies operated by the Federal Government or an Indian Tribe.
+
+### Engrossed in Senate
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s390es.xml
+
+119th CONGRESS
+1st Session
+S. 390
+IN THE SENATE OF THE UNITED STATES
+AN ACT
+To require Federal law enforcement agencies to report on cases of missing or murdered Indians, and for other purposes.
+#### 1. Short title; table of contents
+##### (a) Short title
+This Act may be cited as the Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act or the BADGES for Native Communities Act .
+##### (b) Table of contents
+The table of contents for this Act is as follows:
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+TITLE I—Bridging agency data gaps
+Sec. 101. National Missing and Unidentified Persons System Tribal facilitator.
+Sec. 102. Report on Indian country law enforcement personnel resources and need.
+TITLE II—Ensuring safety for Native communities
+Sec. 201. Demonstration program on Bureau of Indian Affairs law enforcement employment background checks.
+Sec. 202. Missing or murdered response coordination grant program.
+Sec. 203. GAO study on Federal law enforcement agency evidence collection, handling, and processing.
+Sec. 204. Bureau of Indian Affairs and Tribal law enforcement officer counseling resources interdepartmental coordination.
+#### 2. Definitions
+In this Act:
+**(1) Death investigation**
+The term death investigation has the meaning determined by the Attorney General.
+**(2) Death investigation of interest to Indian Tribes**
+The term death investigation of interest to Indian Tribes means a case involving—
+**(A)**
+a death investigation into the death of an Indian; or
+**(B)**
+a death investigation of a person found on, in, or adjacent to Indian land or a Village.
+**(3) Director**
+The term Director means the Deputy Bureau Director of the Office of Justice Services of the Bureau of Indian Affairs.
+**(4) Federal law enforcement agency**
+The term Federal law enforcement agency means the Office of Justice Services of the Bureau of Indian Affairs, the Federal Bureau of Investigation, and any other Federal law enforcement agency that—
+**(A)**
+has jurisdiction over crimes in Indian country; or
+**(B)**
+investigates missing persons cases of interest to Indian Tribes, death investigations of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, or unidentified remains cases of interest to Indian Tribes.
+**(5) Indian**
+The term Indian has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+**(6) Indian country**
+The term Indian country has the meaning given the term in section 1151 of title 18, United States Code.
+**(7) Indian land**
+The term Indian land has the meaning given the term Indian lands in section 3 of the Native American Business Development, Trade Promotion, and Tourism Act of 2000 ( 25 U.S.C. 4302 ).
+**(8) Indian Tribe**
+The term Indian Tribe has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+**(9) Missing persons case of interest to Indian Tribes**
+The term missing persons case of interest to Indian Tribes means a case involving—
+**(A)**
+a missing Indian; or
+**(B)**
+a missing person whose last known location is believed to be on, in, or adjacent to Indian land or a Village.
+**(10) National crime information databases**
+The term national crime information databases has the meaning given the term in section 534(f)(3) of title 28, United States Code.
+**(11) Relevant Tribal organization**
+The term relevant Tribal organization means, as applicable—
+**(A)**
+a Tribal organization or an urban Indian organization; and
+**(B)**
+a national or regional organization that—
+**(i)**
+represents a substantial Indian constituency; and
+**(ii)**
+has expertise in the fields of—
+**(I)**
+human trafficking of Indians;
+**(II)**
+human trafficking on Indian land or in a Village;
+**(III)**
+violence against Indians;
+**(IV)**
+missing or murdered Indigenous persons; or
+**(V)**
+Tribal justice systems.
+**(12) Secretary**
+The term Secretary means the Secretary of the Interior.
+**(13) Sexual violence case of interest to Indian Tribes**
+The term sexual violence case of interest to Indian Tribes means a case involving an allegation of sexual violence (as defined in section 204(a) of Public Law 90–284 ( 25 U.S.C. 1304(a) )).
+**(14) Tribal justice official**
+The term Tribal justice official has the meaning given the term tribal justice official in section 2 of the Indian Law Enforcement Reform Act ( 25 U.S.C. 2801 ).
+**(15) Tribal organization**
+The term Tribal organization has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+**(16) Unclaimed human remains case of interest to Indian Tribes**
+The term unclaimed human remains case of interest to Indian Tribes means a case involving—
+**(A)**
+unclaimed Indian remains identified by Federal, Tribal, State, or local law enforcement; or
+**(B)**
+unclaimed human remains found on, in, or adjacent to Indian land or a Village.
+**(17) Unidentified remains case of interest to Indian Tribes**
+The term unidentified remains case of interest to Indian Tribes means a case involving—
+**(A)**
+unidentified Indian remains; or
+**(B)**
+unidentified remains found on, in, or adjacent to Indian land or a Village.
+**(18) Urban Indian organization**
+The term urban Indian organization has the meaning given the term in section 4 of the Indian Health Care Improvement Act ( 25 U.S.C. 1603 ).
+**(19) Village**
+The term Village means the Alaska Native Village Statistical Area covering all or any portion of a Native village (as defined in section 3 of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602 )), as depicted on the applicable Tribal Statistical Area Program Verification Map of the Bureau of the Census.
+I
+Bridging agency data gaps
+#### 101. National Missing and Unidentified Persons System Tribal facilitator
+##### (a) Appointment
+The Attorney General shall appoint 1 or more Tribal facilitators for the National Missing and Unidentified Persons System.
+##### (b) Duties
+The duties of a Tribal facilitator appointed under subsection (a) shall include—
+**(1)**
+coordinating the reporting of information relating to missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes;
+**(2)**
+consulting and coordinating with Indian Tribes and relevant Tribal organizations to address the reporting, documentation, and tracking of missing persons cases of interest to Indian Tribes, unclaimed human remains cases of Interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes;
+**(3)**
+developing working relationships, and maintaining communication, with Indian Tribes and relevant Tribal organizations;
+**(4)**
+providing technical assistance and training to Indian Tribes and relevant Tribal organizations, victim service advocates, medical examiners, coroners, and Tribal justice officials regarding—
+**(A)**
+the gathering and reporting of information to the National Missing and Unidentified Persons System; and
+**(B)**
+working with non-Tribal law enforcement agencies to encourage missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes are reported to the National Missing and Unidentified Persons System;
+**(5)**
+coordinating with the Office of Tribal Justice, the Office of Justice Services of the Bureau of Indian Affairs, the Executive Office for United States Attorneys, the Federal Bureau of Investigation, State law enforcement agencies, and the National Indian Country Training Initiative, as necessary; and
+**(6)**
+conducting other training, information gathering, and outreach activities to improve resolution of missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes.
+##### (c) Reporting and transparency
+**(1) Annual reports to Congress**
+During the 3-year-period beginning on the date of enactment of this Act, the Attorney General, acting through the Director of the National Institute of Justice, shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives an annual report describing the activities and accomplishments of the Tribal facilitators appointed under subsection (a) during the 1-year period preceding the date of the report.
+**(2) Public transparency**
+Annually, the Attorney General, acting through the Director of the National Institute of Justice, shall publish on a website publicly accessible information describing the activities and accomplishments of the Tribal facilitators appointed under subsection (a) during the 1-year period preceding the date of the publication.
+#### 102. Report on Indian country law enforcement personnel resources and need
+##### (a) Office of Justice Services of the Bureau of Indian Affairs
+Section 3(c)(16) of the Indian Law Enforcement Reform Act ( 25 U.S.C. 2802(c)(16) ) is amended by striking subparagraph (C) and inserting the following:
+(C) a list of the unmet— (i) staffing needs of law enforcement, corrections, and court personnel, including criminal investigators, medical examiners, coroners, forensic technicians, indigent defense staff, crime victim services staff, and prosecution staff, at Tribal and Bureau justice agencies, including the Missing and Murdered Unit of the Office of Justice Services of the Bureau; (ii) replacement and repair needs of Tribal and Bureau corrections facilities; (iii) infrastructure and capital needs for Tribal police and court facilities, including evidence storage and processing; and (iv) public safety and emergency communications and technology needs, including equipment and internet capacity needs; and .
+##### (b) Department of Justice
+**(1) Definition of Department of Justice law enforcement agency**
+In this subsection, the term Department of Justice law enforcement agency means each of—
+**(A)**
+the Federal Bureau of Investigation;
+**(B)**
+the Drug Enforcement Administration;
+**(C)**
+the United States Marshals Service;
+**(D)**
+the Bureau of Alcohol, Tobacco, Firearms and Explosives; and
+**(E)**
+the Offices of the United States Attorneys.
+**(2) Annual report**
+Each fiscal year, the Attorney General shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report for that fiscal year that includes—
+**(A)**
+the number of full-time employees of each Department of Justice law enforcement agency that are assigned to work on criminal investigations and prosecutions in Indian country;
+**(B)**
+the percentage of time the full-time employees, as identified under subparagraph (A), spend specifically working in Indian country;
+**(C)**
+the turnover rate during the 5-year period preceding the report of full-time employees assigned to work on criminal investigations and prosecutions in Indian country;
+**(D)**
+the average years of experience at the Department of Justice of full-time employees assigned to work on criminal investigations and prosecutions in Indian country;
+**(E)**
+the number of vacant positions with responsibilities for criminal investigations and prosecutions in Indian country;
+**(F)**
+an identification of expertise and skills necessary to achieve the strategic goals of the Department of Justice relating to public safety in Indian country;
+**(G)**
+an estimate of the number of employees needed with specific skills and competencies to fulfill responsibilities assigned for criminal investigations and prosecutions in Indian country; and
+**(H)**
+a list of measures identified to indicate whether and how the Department of Justice plans to execute its hiring, retention, and training strategies.
+**(3) GAO study and report**
+**(A) Study**
+**(i) In general**
+Not later than 18 months after the date on which the first annual report is submitted under paragraph (2), the Comptroller General of the United States shall conduct a review of unmet staffing identified by the Department of Justice law enforcement agencies tasked with work on criminal investigations and prosecutions in Indian country.
+**(ii) Requirement**
+In conducting the study required under clause (i), the Comptroller General of the United States shall take into account the results of the most recent report, as of the date of enactment of this Act, relating to Indian country investigations and prosecutions prepared by the Attorney General pursuant to section 10(b) of the Indian Law Enforcement Reform Act ( 25 U.S.C. 2809(b) ).
+**(B) Report**
+On completion of the review under subparagraph (A), the Comptroller General of the United States shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report that describes the results of the study, including, as appropriate, proposals for methods by which the Department of Justice can better measure its unmet staffing and other needs for Department of Justice law enforcement agencies tasked with work on criminal investigations and prosecutions in Indian country.
+II
+Ensuring safety for Native communities
+#### 201. Demonstration program on Bureau of Indian Affairs law enforcement employment background checks
+##### (a) Establishment of demonstration program
+**(1) In general**
+The Secretary shall establish a demonstration program for the purpose of conducting or adjudicating, in coordination with the Director, personnel background investigations for applicants for law enforcement positions in the Bureau of Indian Affairs.
+**(2) Background investigations and security clearance determinations**
+**(A) BIA investigations**
+As part of the demonstration program established under paragraph (1), the Secretary may carry out a background investigation, security clearance determination, or both a background investigation and a security clearance determination for an applicant for a law enforcement position in the Bureau of Indian Affairs.
+**(B) Agreements**
+The Secretary may enter into a memorandum of agreement with a State or local government, Indian Tribe, or Tribal organization to develop steps to expedite the process of receiving and obtaining access to information pertinent to background investigation and security clearance determinations for use in the demonstration program.
+**(3) Sunset**
+The demonstration program established under paragraph (1) shall terminate 5 years after the date of the commencement of the demonstration program.
+##### (b) Sufficiency
+Notwithstanding any other provision of law, a background investigation conducted or adjudicated by the Secretary pursuant to the demonstration program established under subsection (a)(1) that results in the granting of a security clearance to an applicant for a law enforcement position in the Bureau of Indian Affairs shall be sufficient to meet the applicable requirements of the Office of Personnel Management or other Federal agency for such investigations.
+##### (c) Report
+Not later than 3 years after the date on which the demonstration program is established under subsection (a)(1), the Secretary shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report on the demonstration program, which shall include a description of—
+**(1)**
+the demonstration program and any recommended changes or updates to the demonstration program, including whether the demonstration program should be reauthorized;
+**(2)**
+the number of background investigations carried out under the demonstration program;
+**(3)**
+the costs, including any cost savings, associated with the investigation and adjudication process under the demonstration program;
+**(4)**
+the processing times for the investigation and adjudication processes under the demonstration program; and
+**(5)**
+any other information that the Secretary determines to be relevant.
+#### 202. Missing or murdered response coordination grant program
+##### (a) Establishment of grant program
+The Attorney General shall establish within the Office of Justice Programs a grant program under which the Attorney General shall make grants to eligible entities described in subsection (b) to carry out eligible activities described in subsection (c).
+##### (b) Eligible entities
+**(1) In general**
+To be eligible to receive a grant under the grant program established under subsection (a) an entity shall be—
+**(A)**
+an Indian Tribe;
+**(B)**
+a relevant Tribal organization;
+**(C)**
+subject to paragraph (2), a State, in consortium with—
+**(i)**
+1 or more Indian Tribes; and
+**(ii)**
+relevant Tribal organizations, if any;
+**(D)**
+a consortium of 2 or more Indian Tribes or relevant Tribal organizations; or
+**(E)**
+subject to paragraph (2), a consortium of 2 or more States in consortium with—
+**(i)**
+1 or more Indian Tribes; and
+**(ii)**
+relevant Tribal organizations, if any.
+**(2) State eligibility**
+To be eligible under subparagraph (C) or (E) of paragraph (1), a State shall demonstrate to the satisfaction of the Attorney General that the State—
+**(A)**
+**(i)**
+reports missing persons cases in the State to the national crime information databases; or
+**(ii)**
+if not, has a plan to do so using a grant received under the grant program established under subsection (a); and
+**(B)**
+if data sharing between the State and the Indian Tribes and relevant Tribal organizations with which the State is in consortium is part of the intended use of the grant received under the grant program established under subsection (a), has entered into a memorandum of understanding with each applicable Indian Tribe and relevant Tribal organization.
+##### (c) Eligible activities
+An eligible entity receiving a grant under the grant program established under subsection (a) may use the grant—
+**(1)**
+to establish a statewide or regional center—
+**(A)**
+to document and track—
+**(i)**
+missing persons cases of interest to Indian Tribes;
+**(ii)**
+sexual violence cases of interest to Indian Tribes; and
+**(iii)**
+death investigations of interest to Indian Tribes; and
+**(B)**
+to input information regarding missing persons cases of interest to Indian Tribes, unclaimed human remains cases of interest to Indian Tribes, and unidentified remains cases of interest to Indian Tribes into the National Missing and Unidentified Persons System and the Missing Persons File in the National Crime Information Center;
+**(2)**
+to establish a State or regional commission to respond to, and to improve coordination between Federal law enforcement agencies, and Tribal, State, and local law enforcement agencies of the investigation of, missing persons cases of interest to Indian Tribes, sexual violence cases of interest to Indian Tribes, and death investigations of interest to Indian Tribes; and
+**(3)**
+to document, develop, and disseminate resources for the coordination and improvement of the investigation of missing persons cases of interest to Indian Tribes, sexual violence cases of interest to Indian Tribes, and death investigations of interest to Indian Tribes, including to develop local or statewide rapid notification or communication systems for alerts and other information relating to those cases.
+##### (d) Authorization of appropriations
+There is authorized to be appropriated to carry out the grant program established under subsection (a)(1) $1,000,000 for each of fiscal years 2026 through 2030.
+#### 203. GAO study on Federal law enforcement agency evidence collection, handling, and processing
+##### (a) In general
+The Comptroller General of the United States shall conduct a study—
+**(1)**
+on the evidence collection, handling, response times, and processing procedures and practices of the Office of Justice Services of the Bureau of Indian Affairs and the Federal Bureau of Investigation in exercising jurisdiction over crimes involving Indians or committed in Indian country;
+**(2)**
+on barriers to evidence collection, handling, response times, and processing identified by the agencies referred to in paragraph (1);
+**(3)**
+on the views of law enforcement officials at the agencies referred to in paragraph (1) and their counterparts within the Offices of the United States Attorneys concerning any relationship between—
+**(A)**
+the barriers identified under paragraph (2); and
+**(B)**
+United States Attorneys declination rates due to insufficient evidence; and
+**(4)**
+that includes a description of barriers to evidence collection, handling, response times, and processing identified and faced by—
+**(A)**
+Tribal law enforcement agencies; and
+**(B)**
+State and local law enforcement agencies that exercise jurisdiction over Indian country.
+##### (b) Report
+Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committees on Indian Affairs, the Judiciary, and Appropriations of the Senate and the Committees on Natural Resources, the Judiciary, and Appropriations of the House of Representatives a report describing the results of the study conducted under subsection (a).
+#### 204. Bureau of Indian Affairs and Tribal law enforcement officer counseling resources interdepartmental coordination
+The Secretary of Health and Human Services and the Attorney General shall coordinate with the Director—
+**(1)**
+to ensure that Federal training materials and culturally appropriate mental health and wellness programs are locally or regionally available to law enforcement officers working for the Office of Justice Services of the Bureau of Indian Affairs or an Indian Tribe; and
+**(2)**
+to determine whether law enforcement agencies operated by the Office of Justice Services of the Bureau of Indian Affairs and Indian Tribes are eligible to receive services under—
+**(A)**
+the Law Enforcement Assistance Program of Federal Occupational Health of the Department of Health and Human Services; or
+**(B)**
+any other law enforcement assistance program targeted to meet the needs of law enforcement officers working for law enforcement agencies operated by the Federal Government or an Indian Tribe.
+
+
+## Timeline
+
+- 2025-02-04: Introduced in Senate
+- 2025-02-04 - IntroReferral: Introduced in Senate
+- 2025-02-04 - IntroReferral: Read twice and referred to the Committee on Indian Affairs.
+- 2025-03-05 - Committee: Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2025-07-31 - Committee: Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-53.
+- 2025-07-31 - Committee: Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-53.
+- 2025-07-31 - Calendars: Placed on Senate Legislative Calendar under General Orders. Calendar No. 138.
+- 2025-12-11 - Floor: Passed Senate without amendment by Unanimous Consent. (consideration: CR S8685; text: CR S8685-8687)
+- 2025-12-11 - Floor: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-15 - Floor: Message on Senate action sent to the House.
+- 2025-12-15 16:06:05 - Floor: Received in the House.
+- 2025-12-15 16:18:15 - Floor: Held at the desk.
+- Latest action: 2025-02-04: Introduced in Senate

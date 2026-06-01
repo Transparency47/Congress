@@ -1,0 +1,72 @@
+# HR 8461: Western Tribal Water Act of 2026
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-04-23
+- Latest action: 2026-04-23 - Introduced in House
+- Policy area: Native Americans
+- Sponsor: Rep. Hurd, Jeff [R-CO-3]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/8461
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-04-23
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8461ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-04-23
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8461ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 8461
+IN THE HOUSE OF REPRESENTATIVES
+April 23, 2026 Mr. Hurd of Colorado (for himself and Ms. Pettersen ) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure , and in addition to the Committee on Energy and Commerce , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To amend the America’s Water Infrastructure Act of 2018 to reauthorize the Indian Reservation Drinking Water Program, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Western Tribal Water Act of 2026 .
+#### 2. Findings
+Congress finds that—
+**(1)**
+the Upper Colorado River Basin is home to several Indian Tribes that face a variety of challenges for water supply reliability, including over $100,000,000 in water infrastructure needs;
+**(2)**
+the Ute Mountain Ute Tribe in particular has a project with an estimated cost of $50,000,000 to fix aging drinking water delivery infrastructure in southwestern Colorado; and
+**(3)**
+the Indian Reservation Drinking Water Program under section 2001 of the America's Water Infrastructure Act of 2018 (42 U.S.C. 300j–3c note; Public Law 115–270 ) helps Indian Tribes in other drought-stricken basins across the Western United States improve their drinking water supplies and other water services.
+#### 3. Indian Reservation Drinking Water Program
+Section 2001 of the America's Water Infrastructure Act of 2018 (42 U.S.C. 300j–3c note; Public Law 115–270 ) is amended—
+**(1)**
+in subsection (c)(1)—
+**(A)**
+in subparagraph (D), by striking and at the end;
+**(B)**
+in subparagraph (E), by striking the period at the end and inserting ; and ; and
+**(C)**
+by adding at the end the following:
+(F) 10 eligible projects described in subsection (b) that are within the Upper Colorado River Basin. ; and
+**(2)**
+in subsection (g)—
+**(A)**
+in paragraph (1), by striking and at the end;
+**(B)**
+in paragraph (2), by striking the period at the end and inserting ; and ; and
+**(C)**
+by adding at the end the following:
+(3) $60,000,000 for each of fiscal years 2027 and 2028. .
+
+
+## Timeline
+
+- 2026-04-23: Introduced in House
+- 2026-04-23 - IntroReferral: Introduced in House
+- 2026-04-23 - IntroReferral: Introduced in House
+- 2026-04-23 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-04-23 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2026-04-23: Introduced in House

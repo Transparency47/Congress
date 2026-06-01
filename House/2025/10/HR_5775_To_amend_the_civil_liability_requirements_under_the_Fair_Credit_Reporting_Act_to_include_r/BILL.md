@@ -1,0 +1,71 @@
+# HR 5775: FCRA Liability Harmonization Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-10-17
+- Latest action: 2025-10-17 - Introduced in House
+- Policy area: Finance and Financial Sector
+- Sponsor: Rep. Loudermilk, Barry [R-GA-11]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/5775
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-10-17
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5775ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-10-17
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5775ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 5775
+IN THE HOUSE OF REPRESENTATIVES
+October 17, 2025 Mr. Loudermilk (for himself, Mrs. Wagner , Mr. Fitzgerald , Mr. Meuser , Mrs. Kim , and Mr. Huizenga ) introduced the following bill; which was referred to the Committee on Financial Services , and in addition to the Committee on the Judiciary , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To amend the civil liability requirements under the Fair Credit Reporting Act to include requirements relating to class actions, and for other purposes.
+#### 1. Short title
+This Act may be cited as the FCRA Liability Harmonization Act .
+#### 2. Maintaining consistency in civil liability under the Fair Credit Reporting Act for class actions
+##### (a) Willful noncompliance
+Section 616 of the Fair Credit Reporting Act ( 15 U.S.C. 1681n ) is amended—
+**(1)**
+in subsection (a)—
+**(A)**
+in paragraph (1)(B), by inserting and after the semicolon;
+**(B)**
+by striking paragraph (2);
+**(C)**
+by redesignating paragraph (3) as paragraph (2); and
+**(D)**
+in paragraph (2), as redesignated by subparagraph (C), by striking as determined by the court. and inserting
+as determined by the court, in an amount that does not exceed the lesser of— (A) $100,000; or (B) the amount that is 40 percent of any damages awarded under paragraph (1)(A). ;
+**(2)**
+by redesignating subsection (d) as subsection (e); and
+**(3)**
+by inserting after subsection (c) the following new subsection:
+(d) Class action lawsuits With respect to a class action brought by a class made up of consumers against a person who willfully fails to comply with a requirement imposed under this title, such person shall be liable to such consumers in such an amount as a court may determine, except that— (1) the court may not apply a minimum amount of damages for each member of the class; (2) the total recovery (excluding reasonable attorney’s fees as determined by the court) of the class may not exceed the lesser of— (A) $500,000; or (B) 1 percent of the net worth of such person; and (3) the costs of the action together with reasonable attorney’s fees, as determined by the court, may not exceed the lesser— (A) of $100,000; (B) the amount that is 40 percent of any damages awarded by a court under this subsection; or (C) the sum of the costs of the action and reasonable attorney’s fees, as determined by the court, not to exceed the lower of $100,000 or an amount equal to 40 percent of actual damages. .
+##### (b) Negligent noncompliance
+Section 617 of the Fair Credit Reporting Act ( 15 U.S.C. 1681o ) is amended—
+**(1)**
+in subsection (a)(2), by striking the period at the end and inserting
+, not to exceed the lesser of— (A) $100,000; or (B) 40 percent of any actual damages determined by the court. ; and
+**(2)**
+by adding at the end the following new subsection:
+(c) Class action lawsuits With respect to a class action brought by consumers against a person who negligently fails to comply with any requirement imposed under this title, such person is liable to such consumers in an amount equal to the sum of any actual damages sustained by the consumers as a result of the failure, except that the total recovery (excluding reasonable attorney’s fees as determined by the court) of the class shall not exceed the lesser of— (1) $500,000; (2) 1 percent of the net worth of such person; or (3) the sum of the costs of the action and reasonable attorney’s fees, as determined by the court, not to exceed the lower of $100,000 or an amount equal to 40 percent of actual damages. .
+
+
+## Timeline
+
+- 2025-10-17: Introduced in House
+- 2025-10-17 - IntroReferral: Introduced in House
+- 2025-10-17 - IntroReferral: Introduced in House
+- 2025-10-17 - IntroReferral: Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-10-17 - IntroReferral: Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-10-17: Introduced in House

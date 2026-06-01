@@ -1,0 +1,50 @@
+# HR 4008: Pay Our Correctional Officers Fairly Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-06-12
+- Latest action: 2025-06-12 - Introduced in House
+- Policy area: Government Operations and Politics
+- Sponsor: Rep. Weber, Randy K. Sr. [R-TX-14]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/4008
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-06-12
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4008ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-06-12
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4008ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 4008
+IN THE HOUSE OF REPRESENTATIVES
+June 12, 2025 Mr. Weber of Texas (for himself, Mr. Bacon , Mr. Fitzpatrick , Mr. Langworthy , Mr. Lucas , and Ms. Stefanik ) introduced the following bill; which was referred to the Committee on Oversight and Government Reform
+A BILL
+To amend title 5, United States Code, to provide increased locality pay rates to certain Bureau of Prisons employees whose duty stations are located in the pay locality designated as Rest of U.S. , and for other purposes.
+#### 1. Short title
+This Act may be cited as the Pay Our Correctional Officers Fairly Act .
+#### 2. Providing nearest other locality pay rate for certain Bureau of Prisons employees receiving Rest of U.S. locality rate
+Section 5304 of title 5, United States Code, is amended—
+**(1)**
+by redesignating subsection (i) as subsection (j); and
+**(2)**
+by inserting after subsection (h) the following:
+(i) (1) Notwithstanding any other provision of this chapter, and consistent with paragraph (2), the official worksite of an employee of the Bureau of Prisons that is otherwise located in the pay locality designated as Rest of U.S. shall be considered to be located in the nearest other pay locality established pursuant to this section. (2) For purposes of carrying out paragraph (1)— (A) if more than one pay locality is within 200 miles of the official worksite of such an employee, such worksite shall be considered to be located in the pay locality with the highest comparability payment; (B) an employee of the Bureau of Prisons shall not be subject to paragraph (1) if the official worksite of such employee is not within 200 miles of any pay locality other than Rest of U.S. ; and (C) notwithstanding any other provision of law, the term employee includes any prevailing rate employee (as that term is defined in section 5342). (3) This subsection shall begin to apply during any pay period beginning on or after the date that is 180 days after the date of enactment of this subsection. .
+
+
+## Timeline
+
+- 2025-06-12: Introduced in House
+- 2025-06-12 - IntroReferral: Introduced in House
+- 2025-06-12 - IntroReferral: Introduced in House
+- 2025-06-12 - IntroReferral: Referred to the House Committee on Oversight and Government Reform.
+- Latest action: 2025-06-12: Introduced in House

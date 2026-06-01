@@ -1,0 +1,111 @@
+# HR 2779: Abortion Funding Awareness Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-04-09
+- Latest action: 2025-04-09 - Introduced in House
+- Policy area: Health
+- Sponsor: Rep. Houchin, Erin [R-IN-9]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/2779
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Abortion Funding Awareness Act of 2025**
+
+This bill establishes reporting requirements for states regarding certain Medicaid payments to abortion providers.
+
+Specifically, the bill requires states that make Medicaid payments using federal funds for any items or services furnished by an abortion provider to annually (1) submit a report to the Centers for Medicare & Medicaid Services on all such payments, and (2) publish the report on the state's website. The report must include specified information, including the number of abortions performed by the providers and the gestational age with respect to each such abortion. (Current law restricts the use of federal funds for abortions to cases of rape, incest, or life endangerment of the woman. States may use their own funds to cover abortions in other cases.)
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-04-09
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2779ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-04-09
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2779ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 2779
+IN THE HOUSE OF REPRESENTATIVES
+April 9, 2025 Mrs. Houchin introduced the following bill; which was referred to the Committee on Energy and Commerce
+A BILL
+To require States to report information on Medicaid payments to abortion providers.
+#### 1. Short title
+This Act may be cited as the Abortion Funding Awareness Act of 2025 .
+#### 2. Required reporting of medicaid payments to abortion providers
+##### (a) In general
+Not later than 60 days after the end of the first fiscal year ending after the date of enactment of this Act and each fiscal year thereafter, each State that makes a Medicaid payment from Federal funds during the fiscal year for any items or services furnished by an abortion provider shall—
+**(1)**
+submit to the Secretary a report on all such payments; and
+**(2)**
+publish the report on a public internet website of the State.
+##### (b) Report described
+The report under subsection (a) shall, with respect to a State that makes a Medicaid payment from Federal funds during the fiscal year for any items or services furnished by an abortion provider, include the following:
+**(1)**
+With respect to each such payment, each of the following:
+**(A)**
+A specification of the amount of the payment.
+**(B)**
+A specification of the purposes for which the payment was made.
+**(C)**
+A comparison of the amount of the payment with the amount of any such payment to the provider involved in any prior fiscal year.
+**(2)**
+A specification of the number of abortions performed during the fiscal year by the provider involved and the gestational age with respect to each such abortion.
+**(3)**
+A specification of the method of abortion used.
+##### (c) Report to congress
+Not later than 90 days after the end of each fiscal year described in subsection (a), the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and to the Committee on Finance of the Senate, and publish on a public internet website of the Department of Health and Human Services, a report that—
+**(1)**
+contains the reports submitted pursuant to subsection (a) for the fiscal year; and
+**(2)**
+includes a summary of the reports.
+##### (d) Definitions
+In this section:
+**(1) Abortion**
+The term abortion means the use or prescription of any instrument, medicine, drug, or any other substance or device—
+**(A)**
+to intentionally kill the unborn child of a woman known to be pregnant; or
+**(B)**
+to intentionally terminate the pregnancy of a woman known to be pregnant, with an intention other than—
+**(i)**
+after viability, to produce a live birth and preserve the life and health of the child born alive; or
+**(ii)**
+to remove a dead unborn child.
+**(2) Abortion provider**
+The term abortion provider means an entity that—
+**(A)**
+performs (or refers an individual for) an abortion; or
+**(B)**
+controls, is controlled by, or is under common control with, an entity described in subparagraph (A).
+**(3) Medicaid payment from Federal funds**
+The term Medicaid payment from Federal funds means a payment for which there is Federal financial participation under title XIX of the Social Security Act.
+**(4) Secretary**
+The term Secretary means the Secretary of Health and Human Services.
+**(5) State**
+The term State has the meaning given the term for purposes of title XIX of the Social Security Act.
+##### (e) Conforming amendments to Social Security Act
+Section 1902(a) of the Social Security Act ( 42 U.S.C. 1396a(a) ) is amended—
+**(1)**
+by striking and at the end of paragraph (86);
+**(2)**
+by striking the period at the end of paragraph (87) and inserting ; and ; and
+**(3)**
+by inserting after paragraph (87) the following:
+(88) provide for the submission of reports in accordance with section 2 of the Abortion Funding Awareness Act of 2025 . .
+
+
+## Timeline
+
+- 2025-04-09: Introduced in House
+- 2025-04-09 - IntroReferral: Introduced in House
+- 2025-04-09 - IntroReferral: Introduced in House
+- 2025-04-09 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2025-04-09: Introduced in House

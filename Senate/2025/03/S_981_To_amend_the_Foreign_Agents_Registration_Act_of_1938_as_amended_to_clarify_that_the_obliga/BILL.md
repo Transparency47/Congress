@@ -1,0 +1,85 @@
+# S 981: Foreign Agents Transparency Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-03-12
+- Latest action: 2025-03-12 - Introduced in Senate
+- Policy area: International Affairs
+- Sponsor: Sen. Grassley, Chuck [R-IA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/981
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-03-12
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s981is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-03-12
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s981is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 981
+IN THE SENATE OF THE UNITED STATES
+March 12, 2025 Mr. Grassley (for himself, Mr. Peters , Mr. Young , and Ms. Warren ) introduced the following bill; which was read twice and referred to the Committee on Foreign Relations
+A BILL
+To amend the Foreign Agents Registration Act of 1938, as amended to clarify that the obligation of individuals who formerly served as agents of foreign principals to register as foreign agents under the Act is continuing with respect to activities carried out previously on behalf of such foreign principals, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Foreign Agents Transparency Act .
+#### 2. Clarifying the continuing obligation to register as an agent of a foreign principal
+##### (a) Obligation
+The third sentence of section 2(a) of the Foreign Agents Registration Act of 1938, as amended ( 22 U.S.C. 612(a) ) is amended by striking for the period and inserting covering the period .
+##### (b) Effective date
+The amendment made by subsection (a) shall apply with respect to any individual who serves as the agent of a foreign principal under the Foreign Agents Registration Act of 1938, as amended ( 22 U.S.C. 611 et seq. )—
+**(1)**
+during the 5-year period ending on the date of enactment of this Act;
+**(2)**
+on the date of enactment of this Act; or
+**(3)**
+after the date of enactment of this Act.
+#### 3. Permitting order requiring compliance to apply after FARA activities have ended
+##### (a) Continual compliance
+Section 8(f) of the Foreign Agents Registration Act of 1938, as amended ( 22 U.S.C. 618(f) ) is amended—
+**(1)**
+by inserting after the first sentence the following: The Attorney General may make application for an order requiring a person to comply with any appropriate provision of this Act or any regulation thereunder while the person acts as an agent of a foreign principal or at any time thereafter. ; and
+**(2)**
+by striking the period at the end and inserting the following: , including an order requiring a person to comply with section 2 with respect to any period during which the person acts as the agent of a foreign principal notwithstanding that the person does not act as the agent of a foreign principal at the time the court issues the order. .
+##### (b) Effective date
+The amendments made by subsection (a) shall apply with respect to any individual who serves as the agent of a foreign principal under the Foreign Agents Registration Act of 1938, as amended ( 22 U.S.C. 611 et seq. )—
+**(1)**
+during the 5-year period ending on the date of enactment of this Act;
+**(2)**
+on the date of enactment of this Act; or
+**(3)**
+after the date of enactment of this Act.
+#### 4. Annual reports relating to compliance
+##### (a) Definitions
+In this section—
+**(1)**
+the term covered action means an action taken by the Attorney General against a covered individual to enforce the Foreign Agents Registration Act of 1938, as amended ( 22 U.S.C. 611 et seq. ), as amended by sections 2 and 3 of this Act; and
+**(2)**
+the term covered individual means an individual who served as the agent of a foreign principal under the Foreign Agents Registration Act of 1938, as amended ( 22 U.S.C. 611 et seq. ) during the 5-year period ending on the date of enactment of this Act.
+##### (b) In general
+Not later than 1 year after the date of enactment of this Act, and each year from that date thereafter, the Attorney General shall submit to the Committee on the Judiciary and the Committee on Foreign Relations of the Senate and the Committee on the Judiciary of the House of Representatives, as well as any other Member of Congress upon request of such Member, a written, machine-readable report that describes each covered action taken by the Attorney General.
+##### (c) Organization
+Each report submitted under subsection (b) shall be organized by each covered action taken and shall include, with respect to each covered action—
+**(1)**
+the name of each covered individual against whom the covered action was taken;
+**(2)**
+a description of the rationale behind taking the covered action; and
+**(3)**
+the status of the covered action.
+
+
+## Timeline
+
+- 2025-03-12: Introduced in Senate
+- 2025-03-12 - IntroReferral: Introduced in Senate
+- 2025-03-12 - IntroReferral: Read twice and referred to the Committee on Foreign Relations.
+- Latest action: 2025-03-12: Introduced in Senate

@@ -1,0 +1,99 @@
+# S 1052: A bill to amend the John D. Dingell, Jr. Conservation, Management, and Recreation Act to reauthorize the National Volcano Early Warning and Monitoring System, and for other purposes.
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-03-13
+- Latest action: 2025-03-13 - Introduced in Senate
+- Policy area: Emergency Management
+- Sponsor: Sen. Murkowski, Lisa [R-AK]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/1052
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-03-13
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1052is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-03-13
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1052is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1052
+IN THE SENATE OF THE UNITED STATES
+March 13, 2025 Ms. Murkowski (for herself, Ms. Cantwell , Ms. Hirono , and Mr. Sullivan ) introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources
+A BILL
+To amend the John D. Dingell, Jr. Conservation, Management, and Recreation Act to reauthorize the National Volcano Early Warning and Monitoring System, and for other purposes.
+#### 1. Reauthorization of the National Volcano Early Warning and Monitoring System
+##### (a) Modernization activities
+Section 5001(b)(2)(B) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act ( 43 U.S.C. 31k(b)(2)(B) ) is amended—
+**(1)**
+by striking the System shall include the comprehensive application and inserting the following: “the System shall include—
+(i) the comprehensive application ;
+**(2)**
+in clause (i) (as so designated)—
+**(A)**
+by striking Global Positioning System and inserting Global Navigation Satellite System ;
+**(B)**
+by striking and unoccupied aerial vehicles and inserting unoccupied aerial vehicles, infrasound arrays, visible and infrared cameras, and advanced digital telemetry networks ; and
+**(C)**
+by striking the period at the end and inserting ; and ; and
+**(3)**
+by adding at the end the following:
+(ii) maintaining or expanding the technical instrumentation and infrastructure required for the comprehensive application of the emerging technologies described in clause (i), particularly advanced digital telemetry networks. .
+##### (b) Management plan
+Section 5001(b)(3)(A) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act ( 43 U.S.C. 31k(b)(3)(A) ) is amended—
+**(1)**
+in clause (ii)(III), by inserting (including new or existing cooperative agreements) after partnerships ; and
+**(2)**
+in clause (iii)—
+**(A)**
+in the clause heading, by striking Update and inserting Updates ; and
+**(B)**
+in subclause (II)—
+**(i)**
+in the subclause heading, by striking Update and inserting Updates ;
+**(ii)**
+by striking clause (i) to include and inserting “clause (i)—
+(aa) to include ;
+**(iii)**
+in item (aa) (as so designated), by striking the period at the end and inserting ; and ; and
+**(iv)**
+by adding at the end the following:
+(bb) not less frequently than once every 5 years after the date on which the management plan is submitted under that clause. .
+##### (c) Management and coordination
+Section 5001(b)(3) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act ( 43 U.S.C. 31k(b)(3) ) is amended—
+**(1)**
+in subparagraph (D)—
+**(A)**
+by redesignating clauses (ii) through (iv) as clauses (iii) through (v), respectively; and
+**(B)**
+by inserting after clause (i) the following:
+(ii) the Chief of the Forest Service; ; and
+**(2)**
+by adding at the end the following:
+(F) Implementation committee The Secretary shall establish an implementation committee that shall— (i) include representatives of— (I) each State agency or designee of a State agency subject to a cooperative agreement entered into under subparagraph (C); (II) institutions of higher education; and (III) each volcano observatory described in paragraph (1)(B)(i); and (ii) be responsible for providing to the Secretary recommended requirements, implementation steps, and performance standards for the System. (G) Communication The Secretary, in coordination with State emergency management partners, shall identify public communication and messaging responsibilities for each of the Secretary and the State emergency management partners to avoid confusion or duplication with respect to those responsibilities. .
+##### (d) Reauthorization
+Section 5001(c) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act ( 43 U.S.C. 31k(c) ) is amended—
+**(1)**
+in paragraph (1)—
+**(A)**
+by striking $55,000,000 and inserting $75,000,000 ; and
+**(B)**
+by striking 2023 and inserting 2033 ; and
+**(2)**
+in paragraph (2), by striking 2024 and inserting 2034 .
+
+
+## Timeline
+
+- 2025-03-13: Introduced in Senate
+- 2025-03-13 - IntroReferral: Introduced in Senate
+- 2025-03-13 - IntroReferral: Read twice and referred to the Committee on Energy and Natural Resources.
+- Latest action: 2025-03-13: Introduced in Senate

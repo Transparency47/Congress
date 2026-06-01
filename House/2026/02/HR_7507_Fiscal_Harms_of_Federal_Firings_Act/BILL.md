@@ -1,0 +1,134 @@
+# HR 7507: Fiscal Harms of Federal Firings Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-02-11
+- Latest action: 2026-02-11 - Introduced in House
+- Policy area: Government Operations and Politics
+- Sponsor: Rep. McClain Delaney, April [D-MD-6]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7507
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-02-11
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7507ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-02-11
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7507ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7507
+IN THE HOUSE OF REPRESENTATIVES
+February 11, 2026 Mrs. McClain Delaney (for herself, Mr. Subramanyam , Ms. Norton , Mr. Olszewski , Mr. Walkinshaw , Ms. Elfreth , Mr. Ivey , Mr. Moulton , Mr. Vindman , and Mr. Lynch ) introduced the following bill; which was referred to the Committee on Oversight and Government Reform
+A BILL
+To require the Comptroller General of the United States to conduct a study of the impact of Federal reductions in force on State and local governments, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Fiscal Harms of Federal Firings Act .
+#### 2. Findings
+Congress finds the following:
+**(1)**
+Federal Reductions in Force (RIFs) may displace workers, altering where affected individuals live and work across States and localities.
+**(2)**
+Such workforce reductions may increase demand for State-administered services, including unemployment insurance, medicaid, workforce retraining, housing assistance, and other social services.
+**(3)**
+RIFs may reduce economic activity and tax revenues in regions with a high concentration of Federal employment.
+**(4)**
+States and local governments vary significantly in their fiscal capacity to absorb the short- and long-term impacts of large-scale Federal workforce reductions.
+**(5)**
+There is currently no comprehensive Federal assessment of how RIFs affect State and local government budgets, revenues, and expenditures.
+#### 3. Study of the impact of Federal reductions in force on State and local government budgets
+##### (a) In general
+The Comptroller General of the United States shall conduct a comprehensive study on the impacts of RIFs on the budgets of States and local governments.
+##### (b) Scope of study
+The study shall examine, at a minimum—
+**(1)**
+changes in State or local government expenditures resulting from a RIF related to—
+**(A)**
+unemployment insurance;
+**(B)**
+Medicaid and other health programs;
+**(C)**
+workforce development and retraining; or
+**(D)**
+housing and income assistance programs;
+**(2)**
+impacts on State and local government tax revenues as a result of a RIF, including income, sales, and property taxes;
+**(3)**
+regional economic effects, including employment shifts and impacts on the private-sector;
+**(4)**
+administrative and operational challenges faced by States and local governments responding to RIFs;
+**(5)**
+differences in impacts on States and local governments based on—
+**(A)**
+size and scale of the RIF;
+**(B)**
+geographic concentration of Federal employees; and
+**(C)**
+State and local government fiscal capacity and labor market conditions;
+**(6)**
+historical case studies of significant RIFs on States or local governments occurring within the previous 20 years; and
+**(7)**
+strategies used by States and local governments to mitigate fiscal and economic impacts.
+##### (c) Consultation and data collection
+**(1) Consultation**
+In conducting the study, the Comptroller General shall seek to consult with—
+**(A)**
+State and local government budget officers and governors offices;
+**(B)**
+State and local government workforce and labor agencies;
+**(C)**
+relevant Federal agencies, including the Office of Personnel Management and the Department of Labor; and
+**(D)**
+economists, labor market experts, and public finance researchers.
+**(2) Data sources**
+The study may use administrative data, surveys, economic modeling, and publicly available fiscal and labor statistics.
+##### (d) GAO reports to Congress
+**(1) Deadline**
+Not later than 18 months after the date of the enactment of this Act, the Comptroller General shall submit a report on the study to—
+**(A)**
+the Committee on Education and Workforce of the House of Representatives;
+**(B)**
+the Committee on Health, Education, Labor, and Pensions of the Senate;
+**(C)**
+the Committee on Oversight and Government Reform of the House of Representatives; and
+**(D)**
+the Committee on Homeland Security and Governmental Affairs of the Senate.
+**(2) Contents**
+The report under paragraph (1) shall include—
+**(A)**
+findings and analysis from the study, including—
+**(i)**
+an analysis of whether each RIF studied improved the respective agency’s efficiency; and
+**(ii)**
+any recommendations, including any recommendations for statutory or administrative changes to provide support for displaced employees and States and local governments impacted by RIFs;
+**(B)**
+identification of States and local governments that experienced the greatest fiscal effects of RIFs;
+**(C)**
+projected short-term and long-term budgetary impacts on States and local governments; and
+**(D)**
+policy options for Congress to consider, including potential Federal assistance, coordination mechanisms, or advance planning tools.
+**(3) Public availability**
+The Comptroller General shall make the report under paragraph (1) publicly available on the website of the Government Accountability Office.
+##### (e) Definitions
+In this Act—
+**(1)**
+the term reduction in force or RIF means a reduction in force under subchapter I of chapter 35 or section 3595 of title 5, United States Code, or any other significant downsizing of Federal civilian employees; and
+**(2)**
+the term State means each of the several States, the District of Columbia, and any territory or possession of the United States.
+
+
+## Timeline
+
+- 2026-02-11: Introduced in House
+- 2026-02-11 - IntroReferral: Introduced in House
+- 2026-02-11 - IntroReferral: Introduced in House
+- 2026-02-11 - IntroReferral: Referred to the House Committee on Oversight and Government Reform.
+- Latest action: 2026-02-11: Introduced in House

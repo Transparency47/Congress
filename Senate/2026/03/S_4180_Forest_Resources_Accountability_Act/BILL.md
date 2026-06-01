@@ -1,0 +1,111 @@
+# S 4180: Forest Resources Accountability Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2026-03-24
+- Latest action: 2026-03-24 - Introduced in Senate
+- Policy area: Public Lands and Natural Resources
+- Sponsor: Sen. Bennet, Michael F. [D-CO]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/4180
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2026-03-24
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4180is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2026-03-24
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4180is.xml
+
+II
+119th CONGRESS
+2d Session
+S. 4180
+IN THE SENATE OF THE UNITED STATES
+March 24, 2026 Mr. Bennet introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources
+A BILL
+To prohibit a road construction project in the White River National Forest in the State of Colorado, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Forest Resources Accountability Act .
+#### 2. Findings
+Congress finds that—
+**(1)**
+Forest Service staffing decreased by 6,000 between January 20, 2025, and December 31, 2025;
+**(2)**
+since January 20, 2025, the reduced staffing of the Forest Service has resulted in—
+**(A)**
+40 percent less hazardous fuels reduction projects nationwide;
+**(B)**
+22 percent less trails maintenance projects nationwide; and
+**(C)**
+significant reductions to science and research that inform Forest Service management of timber, fire, recreation, wildlife, water, and natural resources on the 193,000,000 acres managed by the Forest Service; and
+**(3)**
+with limited staffing resources, the Forest Service must focus on projects that address public needs, including—
+**(A)**
+wildfire risk reduction;
+**(B)**
+forest treatments that reduce insect and disease infestation;
+**(C)**
+improving recreation opportunities, including trail maintenance and permitting recreation trips;
+**(D)**
+maintaining and improving drinking water resources;
+**(E)**
+sustaining healthy wildlife populations and habitat; and
+**(F)**
+ensuring scientifically sound stewardship of the health, diversity, and productivity of United States forests and grasslands to meet the needs of present and future generations.
+#### 3. Prohibition of road construction project in the White River National Forest
+##### (a) Purpose
+The purpose of this section is to protect critical winter wildlife habitat in the Federal land.
+##### (b) Definitions
+In this section:
+**(1) Federal land**
+The term Federal land means sections 16, 17, 18, 19, 20, 21, 28, 29, 30, 31, 32, and 33 of T. 4 S., R. 82 W in the White River National Forest in the State of Colorado.
+**(2) Parcel**
+The term parcel means the 680-acre parcel described on page 1 of the record of decision, known as the Berlaimont Estates parcel.
+**(3) Record of decision**
+The term record of decision means the record of decision for the Berlaimont Estates Access Road, dated March 2023.
+**(4) Secretary**
+The term Secretary means the Secretary of Agriculture.
+##### (c) Adequate access
+In providing adequate access to inholdings within the Federal land, the Secretary shall only provide access to reasonable and necessary routes that are—
+**(1)**
+in existence as of the date of the record of decision;
+**(2)**
+unpaved;
+**(3)**
+seasonal; and
+**(4)**
+limited to specific uses set forth in a special use permit that ensures the access remains subject to enforceable terms and conditions that will protect the National Forest System.
+##### (d) Prohibition
+The Secretary shall not approve or issue any easement, special use authorization, or other authorization to open, improve, authorize, permit, construct, plan, or otherwise consider any utility corridor or year-round road described in the record of decision or any substantially similar road access project on the Federal land.
+##### (e) Additional prohibitions
+**(1) In general**
+No Federal funds may be used to open, improve, authorize, permit, construct, plan, or otherwise consider any easement, special use authorization, or other authorization allowing any utility corridor or year-round road to be located on the Federal land to access the parcel.
+**(2) Effect**
+Nothing in this subsection prevents the use, in accordance with applicable laws and regulations, of any Forest Service road existing on the date of enactment of this Act by the Forest Service, any owner of the parcel, or the public.
+##### (f) Land acquisition from willing sellers
+**(1) In general**
+To the maximum extent practicable, the Secretary shall acquire, through purchase, exchange, or donation, from any willing seller, the parcel.
+**(2) Coordination**
+In carrying out paragraph (1), the Secretary shall coordinate with the State of Colorado, Eagle County, and local land trusts to leverage non-Federal programs, authorities, and resources in the efforts to acquire the parcel.
+**(3) Report**
+Not later than 180 days after the date of enactment of this Act, the Secretary shall submit a report describing the efforts of the Secretary, the owner of the parcel, and the entities described in paragraph (2) to—
+**(A)**
+the Committee on Energy and Natural Resources of the Senate; and
+**(B)**
+the Committee on Natural Resources of the House of Representatives.
+**(4) Incorporation of land**
+If the parcel is acquired by the Secretary, the parcel shall be incorporated into the White River National Forest and administered for the purposes of conservation of wildlife and the enjoyment of present and future generations.
+
+
+## Timeline
+
+- 2026-03-24: Introduced in Senate
+- 2026-03-24 - IntroReferral: Introduced in Senate
+- 2026-03-24 - IntroReferral: Read twice and referred to the Committee on Energy and Natural Resources.
+- Latest action: 2026-03-24: Introduced in Senate

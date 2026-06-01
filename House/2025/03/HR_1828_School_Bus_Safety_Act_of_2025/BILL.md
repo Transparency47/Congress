@@ -1,0 +1,168 @@
+# HR 1828: School Bus Safety Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-03-04
+- Latest action: 2025-03-04 - Introduced in House
+- Policy area: Transportation and Public Works
+- Sponsor: Rep. Cohen, Steve [D-TN-9]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/1828
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**School Bus Safety Act of 2025**
+
+This bill directs the Department of Transportation (DOT) to issue rules requiring school buses to have certain safety features. DOT must also establish a grant program to assist in the implementation of the requirements.
+
+Specifically, DOT must issue rules requiring school buses to include
+
+- three-point safety belts for all seats,
+
+- a fire suppression system which addresses engine fires,
+
+- a firewall between the engine and passenger compartment that prevents hazardous quantities of gas or flames from passing through the firewall,
+
+- increased performance standards for interior flammability and smoke emissions,
+
+- an automatic emergency braking system,
+
+- an event data recorder, and
+
+- an electronic stability control system.
+
+DOT must also require at least eight hours of behind-the-wheel training for school bus operators that meets specified requirements.
+
+Further, the Federal Motor Carrier Safety Administration and the National Highway Traffic Safety Administration (NHTSA) must issue rules on the evaluation of safety sensitive personnel for moderate-to-severe obstructive sleep apnea.
+
+NHTSA must also study the benefits of requiring school buses manufactured in, or imported into, the United States to be equipped with a motion-activated detection system that is capable of detecting road users (e.g., pedestrians and bicyclists) and alerting the bus operator of their presence. NHTSA must issue rules implementing such a requirement.
+
+Finally, DOT must establish a grant program to assist local educational agencies in (1) purchasing school buses equipped with three-point safety belts or any of the other safety features required under this bill, and (2) modifying existing school buses.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-03-04
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1828ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-03-04
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1828ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 1828
+IN THE HOUSE OF REPRESENTATIVES
+March 4, 2025 Mr. Cohen introduced the following bill; which was referred to the Committee on Transportation and Infrastructure , and in addition to the Committee on Education and Workforce , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To direct the Secretary of Transportation to issue rules requiring the inclusion of new safety equipment in school buses, and for other purposes.
+#### 1. Short title
+This Act may be cited as the School Bus Safety Act of 2025 .
+#### 2. Definitions
+In this Act:
+**(1) 3-point safety belt**
+The term 3-point safety belt has the meaning given the term Type 2 seat belt assembly in section 571.209 of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+**(2) Automatic emergency braking system**
+The term automatic emergency braking system means a crash avoidance system installed and operational in a vehicle that consists of—
+**(A)**
+a forward collision warning function—
+**(i)**
+to detect vehicles and objects ahead of the vehicle; and
+**(ii)**
+to alert the operator of the vehicle of an impending collision; and
+**(B)**
+a crash-imminent braking function to provide automatic braking when forward-looking sensors of the vehicle indicate that—
+**(i)**
+a crash is imminent; and
+**(ii)**
+the operator of the vehicle is not reacting in a timely or appropriate manner.
+**(3) Event data recorder**
+The term event data recorder has the meaning given the term in section 563.5(b) of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+**(4) School bus**
+The term school bus has the meaning given the term schoolbus in section 30125(a) of title 49, United States Code.
+**(5) Secretary**
+The term Secretary means the Secretary of Transportation.
+#### 3. School bus safety
+##### (a) Seat belt requirement
+Not later than 1 year after the date of enactment of this Act, the Secretary shall issue final rules prescribing or amending motor vehicle safety standards under chapter 301 of title 49, United States Code, to require school buses with a gross vehicle weight rating of greater than 10,000 pounds to be equipped with a 3-point safety belt at each designated seating position.
+##### (b) Fire protection requirements
+**(1) Fire suppression systems**
+**(A) In general**
+Not later than 1 year after the date of enactment of this Act, the Secretary shall issue rules prescribing or amending motor vehicle safety standards under chapter 301 of title 49, United States Code, to require school buses to be equipped with fire suppression systems that, at a minimum, address engine fires.
+**(B) Application**
+The standards prescribed or amendments made under subparagraph (A) shall apply to school buses manufactured in, or imported into, the United States on or after the effective date of the standards or amendments.
+**(2) Firewalls**
+**(A) In general**
+Not later than 1 year after the date of enactment of this Act, the Secretary shall issue rules prescribing or amending motor vehicle safety standards under chapter 301 of title 49, United States Code, for school buses, especially school buses with engines that extend beyond the firewall, to ensure that no hazardous quantity of gas or flame can pass through the firewall from the engine compartment to the passenger compartment.
+**(B) Application**
+The standards prescribed or amendments made under subparagraph (A) shall apply to school buses manufactured in, or imported into, the United States on or after the effective date of the standards or amendments.
+**(3) Interior flammability and smoke emissions characteristics**
+Not later than 1 year after the date of enactment of this Act, the Secretary shall amend section 571.302 of title 49, Code of Federal Regulations (relating to Federal Motor Vehicle Safety Standard Number 302), to adopt, with respect to a motor vehicle (as defined in section 30102(a) of title 49, United States Code), performance standards for interior flammability and smoke emissions characteristics that are not less rigorous than the performance standards for interior flammability and smoke emissions characteristics applicable to—
+**(A)**
+a compartment occupied by the crew or passengers of a transport category airplane (within the meaning of part 25 of title 14, Code of Federal Regulations (as in effect on the date of enactment of this Act)) under section 25.853 of title 14, Code of Federal Regulations (as in effect on the date of enactment of this Act); and
+**(B)**
+a passenger car or locomotive cab (as those terms are defined in section 238.5 of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act)) under section 238.103 of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+##### (c) Other safety equipment requirements
+Not later than 1 year after the date of enactment of this Act, the Secretary shall issue final rules—
+**(1)**
+prescribing or amending motor vehicle safety standards under chapter 301 of title 49, United States Code, to require school buses to be equipped with—
+**(A)**
+an automatic emergency braking system;
+**(B)**
+an event data recorder; and
+**(C)**
+an electronic stability control system (as defined in section 571.136 of title 49, Code of Federal Regulations (as in effect on the date of enactment of this Act)); and
+**(2)**
+amending part 383 of title 49, Code of Federal Regulations, to require not less than 8 hours of behind-the-wheel instruction for operators of school buses, which shall be accrued—
+**(A)**
+on public roads; and
+**(B)**
+with a trained instructor who possesses a valid commercial driver’s license with a school bus endorsement.
+##### (d) Obstructive sleep apnea
+Not later than 1 year after the date of enactment of this Act, the Administrator of the Federal Motor Carrier Safety Administration and the Administrator of the Federal Railroad Administration shall complete the rulemaking process and publish a final rule with respect to the advance notice of proposed rulemaking entitled Evaluation of Safety Sensitive Personnel for Moderate-to-Severe Obstructive Sleep Apnea (81 Fed. Reg. 12642 (March 10, 2016)).
+##### (e) Effective date
+The standards prescribed or amendments made under subsections (a) and (c) shall apply with respect to school buses manufactured in, or imported into, the United States on or after the date that is 1 year after the date on which the Secretary issues the rules required under the applicable subsection.
+#### 4. Studies
+##### (a) Motion-Activated detection systems
+**(1) In general**
+Not later than 2 years after the date of enactment of this Act, the Administrator of the National Highway Traffic Safety Administration (referred to in this section as the Administrator ) shall complete a study with respect to the benefits of requiring school buses manufactured in, or imported into, the United States to be equipped with a motion-activated detection system that is capable of—
+**(A)**
+detecting pedestrians, bicyclists, and other road users located near the exterior of the school bus; and
+**(B)**
+alerting the operator of the school bus of the road users described in subparagraph (A).
+**(2) Regulations**
+Not later than 1 year after the date on which the Administrator completes the study under paragraph (1), the Administrator shall issue rules requiring school buses manufactured in, or imported into, the United States to effectuate that requirement.
+##### (b) Safety belt alert
+Not later than 2 years after the date of enactment of this Act, the Administrator shall complete a study on the benefits of requiring school buses manufactured in, or imported into, the United States to be equipped with a system to alert the operator of the school bus if a passenger in the school bus is not wearing a 3-point safety belt equipped on the school bus.
+#### 5. Safety grant program
+##### (a) In general
+Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall establish a grant program to provide grants to States to make subgrants to local educational agencies—
+**(1)**
+to assist the local educational agencies in purchasing school buses equipped with—
+**(A)**
+3-point safety belts at each designated seating position; or
+**(B)**
+any other school bus safety feature described in section 3 or 4; and
+**(2)**
+to assist the local educational agencies in modifying school buses already owned by the local educational agency to be equipped with—
+**(A)**
+3-point safety belts at each designated seating position; or
+**(B)**
+any other school bus safety feature described in section 3 or 4.
+##### (b) Authorization of appropriations
+There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+
+## Timeline
+
+- 2025-03-04: Introduced in House
+- 2025-03-04 - IntroReferral: Introduced in House
+- 2025-03-04 - IntroReferral: Introduced in House
+- 2025-03-04 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-03-04 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-03-04 - Committee: Referred to the Subcommittee on Highways and Transit.
+- Latest action: 2025-03-04: Introduced in House

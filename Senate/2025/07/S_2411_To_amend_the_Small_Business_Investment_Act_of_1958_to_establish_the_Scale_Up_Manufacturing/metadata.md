@@ -1,0 +1,203 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/s/2411?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-bill/2411
+- Title: Scale-Up Manufacturing Investment Company Act of 2025
+- Congress: 119
+- Bill type: S
+- Bill number: 2411
+- Origin chamber: Senate
+- Introduced date: 2025-07-23
+- Update date: 2025-09-16T17:29:15Z
+- Update date including text: 2025-09-16T17:29:15Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2025-07-23: Introduced in Senate
+- 2025-07-23 - IntroReferral: Introduced in Senate
+- 2025-07-23 - IntroReferral: Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- Latest action: 2025-07-23: Introduced in Senate
+
+## Actions
+
+- 2025-07-23 - IntroReferral: Introduced in Senate
+- 2025-07-23 - IntroReferral: Read twice and referred to the Committee on Small Business and Entrepreneurship.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-07-23",
+    "latestAction": {
+      "actionDate": "2025-07-23",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2411",
+    "number": "2411",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001288",
+        "district": "",
+        "firstName": "Cory",
+        "fullName": "Sen. Booker, Cory A. [D-NJ]",
+        "lastName": "Booker",
+        "party": "D",
+        "state": "NJ"
+      }
+    ],
+    "title": "Scale-Up Manufacturing Investment Company Act of 2025",
+    "type": "S",
+    "updateDate": "2025-09-16T17:29:15Z",
+    "updateDateIncludingText": "2025-09-16T17:29:15Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2025-07-23",
+      "committees": {
+        "item": {
+          "name": "Small Business and Entrepreneurship Committee",
+          "systemCode": "sssb00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2025-07-23",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-23T19:42:03Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2411is.xml",
+      "text": "II\n119th CONGRESS\n1st Session\nS. 2411\nIN THE SENATE OF THE UNITED STATES\nJuly 23, 2025 Mr. Booker introduced the following bill; which was read twice and referred to the Committee on Small Business and Entrepreneurship\nA BILL\nTo amend the Small Business Investment Act of 1958 to establish the Scale-Up Manufacturing Investment Company ( SUMIC ) Program.\n#### 1. Short title\nThis Act may be cited as the Scale-Up Manufacturing Investment Company Act of 2025 .\n#### 2. Findings\nCongress finds that\u2014\n**(1)**\nthe strength of the United States manufacturing sector is critical to the economy and the global competitiveness of the United States;\n**(2)**\nUnited States manufacturers support 17,600,000 jobs in the United States and account for 12 percent of the gross domestic product of the United States;\n**(3)**\naccess to capital is essential to growth and innovation in the manufacturing sector;\n**(4)**\nsmall, emerging manufacturers face unique challenges scaling commercial production in the United States, driving many young manufacturers to other countries;\n**(5)**\nstructural barriers exist in the United States that prevent key investments in first-commercial manufacturing facilities;\n**(6)**\na healthy manufacturing sector is essential to innovation economy of the United States, providing three-quarters of all private sector research and development, employing nearly two-thirds of all research and development workers, and producing the majority of all patents issued;\n**(7)**\ntechnology-intensive manufacturing small businesses, some of which may be start-ups, with the potential to anchor the next generation of manufacturing production where they locate, face special challenges in accessing the capital to move from idea to prototype and into commercial production;\n**(8)**\nalready more capital intensive than software or services start-ups, manufacturing start-ups and small businesses face a second and wider valley of death when it comes to raising the capital to scale up for commercial production because of their capital intensity and novel technology;\n**(9)**\na number of countries, including China, South Korea, Germany, and Japan, provide publicly funded incentives to attract these firms, recognizing that despite the risks, the long-term benefits of establishing leadership in emerging technology areas are large;\n**(10)**\na study of manufacturing technology-intensive start-ups licensed by the Massachusetts Institute of Technology found that almost all that scaled up into commercial production did so overseas largely because of this far more attractive capital and investment environment for manufacturing start-ups, which is a huge loss for the future of manufacturing in the United States;\n**(11)**\nif the United States loses the first generation of production for a new technology or manufacturing process, history suggests that it is an uphill battle once lost to reclaim that capability here given the unique learning and know-how acquired during the building of that first factory; and\n**(12)**\nto ensure that manufacturing technologies invented in the United States are ultimately made in the United States will require addressing the unique capital access challenges faced by these technology-intensive manufacturing start-ups.\n#### 3. Scale-Up Manufacturing Investment Program\n##### (a) In general\nTitle III of the Small Business Investment Act of 1958 ( 15 U.S.C. 681 et seq. ) is amended by adding at the end the following:\nD Scale-Up Manufacturing Investment Company Program 399A. Definitions In this part\u2014 (1) the term Associate Administrator means the Associate Administrator described in section 201; (2) the term Council means the Scale-Up Manufacturing Investment Company Credit Council that may be established under section 399K; (3) the term participating investment fund means a privately managed investment fund licensed under section 399C to operate under the program; (4) the term private capital has the meaning given the term in section 103(9); (5) the term program means the scale-up manufacturing investment company program established under section 399B; (6) the term qualifying manufacturing project means an investment in a small and emerging manufacturer for the purposes of building first commercial production facilities, novel manufacturing capabilities, or the introduction into production of emerging manufacturing technologies; (7) the term small and emerging manufacturer means any advanced manufacturer that does not exceed the size standard established by the Administrator for the applicable North American Industry Classification System code under section 3 of the Small Business Act ( 15 U.S.C. 632 ); and (8) the term small business concern owned and controlled by socially and economically disadvantaged individuals has the meaning given the term in section 8(d)(3)(C) of the Small Business Act ( 15 U.S.C. 637(d)(3)(C) ). 399B. Establishment (a) In general The Administrator shall establish and carry out a scale-up manufacturing investment company program under which the Administrator shall provide leverage to participating investment funds to support debt and equity investments in qualifying manufacturing projects of small and emerging manufacturers in the United States. (b) Administration of program The program shall be administered by the Administrator acting through the Associate Administrator. 399C. Selection of participating investment funds (a) Application for license (1) Submission of application An investment fund desiring to receive a license to operate under the program shall submit an application to the Administrator at such time and in such manner as the Administrator may require. (2) Requirement An application submitted under paragraph (1) shall demonstrate that the investment fund\u2014 (A) has the requisite minimum private capital raised from investors; and (B) committed to operate under the program as of the date of submission of the application. (3) Status Not later than 90 days after the date on which the Administrator receives an application submitted under paragraph (1), the Administrator shall provide the applicant with a written report detailing the status of the application and any requirements remaining for completion of the application. (b) Selection (1) In general Not later than 180 days after the date on which the Administrator receives an application under subsection (a), the Administrator shall approve or deny the application for a license to operate under the program and notify the applicant of the determination. (2) Criteria The Administrator shall establish selection criteria to evaluate applications to operate under the program, which shall include, at a minimum\u2014 (A) the proven investment experience of the investment fund manager; (B) the proven, balanced, and positive-investment track record of a previous investment fund or the principals and fund performance analysis measured against benchmarks and peer funds; (C) the experience of the investment fund with investments relating to small manufacturers and emerging technologies related to advanced manufacturing; (D) an evaluation of the use of leverage by the investment fund managers in past deals; (E) evidence indicating a cohesive and effective team and team dynamic; (F) principals with strong reputations; (G) a record of positive realizations and exits from previous investments in the investment track record; (H) clearly articulated focus, investment thesis, investment themes, and investment instruments to be used to capitalize companies; and (I) fund structure and economics that reflect standard practices and industry norms, such as\u2014 (i) preferred returns to limited partners; (ii) general partner carried interest allocations, fees and vesting schedules; (iii) adequate fund infrastructure and supporting back office services; and (iv) evidence of fund raising traction and capability. (c) Fees (1) In general The Administration shall prescribe fees to be paid by each applicant for a license to operate as a participating investment fund under the program. (2) Use of amounts Fees collected under this subsection\u2014 (A) shall be deposited in the account for salaries and expenses of the Administration; and (B) are authorized to be appropriated solely to cover the costs of licensing examinations. 399D. Provision of leverage to participating investment funds (a) In general Not later than 60 days after the date on which the Administrator approves and issues a license under section 399C to operate as a participating investment fund under the program, the Administrator may provide not more than $1 of leverage for every $1 of private capital raised by the participating investment fund. (b) Maximum leverage The maximum amount of outstanding leverage made available in any given fiscal year\u2014 (1) to any participating investment fund may not exceed $500,000,000; and (2) to all participating investment funds in aggregate may not exceed $1,000,000,000. (c) Private capital requirement (1) In general The private capital of a participating investment fund shall be not less than $250,000,000. (2) Financial institution investments Any national bank, or any member bank of the Federal Reserve System or nonmember insured bank to the extent permitted under applicable State law, may invest in any one or more participating investment funds, or in any entity established to invest solely in participating investment funds, except that in no event shall the total amount of such investments of any such bank exceed 5 percent of the capital and surplus of the bank. (d) Leverage fee The Administrator shall charge and collect a leverage fee of not more than 5.5 percent and not less than 3 percent of the face amount of the leverage issued. 399E. Borrowing power (a) In general Each participating investment fund shall have the authority to borrow money and issue debentures and preferred securities, subject to such limitations and regulations as the Administration may prescribe. (b) Limitation Of the leverage provided by the Administrator to a participating investment fund under section 399D\u2014 (1) not less than 70 percent shall be issued as debentures under subsection (a); and (2) not more than 30 percent may be issued as preferred securities under subsection (a). (c) Federal Financing Bank The Federal Financing Bank may acquire a debenture issued by a participating investment fund company under subsection (a). (d) Purchase and guarantee by SBA (1) In general The Administration may purchase or guarantee the timely payment of all principal and interest as scheduled on debentures or preferred securities issued by participating investment funds under subsection (a), subject to such limitations and regulations as the Administration may prescribe. (2) Full faith and credit The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under any guarantee under this subsection. (e) Third-Party debt The Administrator\u2014 (1) shall not permit a participating investment fund having outstanding leverage to incur third-party debt that would create or contribute to an unreasonable risk of default or loss to the Federal Government; and (2) shall permit such participating investment funds to incur third-party debt only on such terms and subject to such conditions as may be established by the Administrator, by regulation or otherwise. (f) Calculation of subsidy rate All fees, interest, and profits received and retained by the Administration under this section and section 399D shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as that term is defined in section 502 of the Federal Credit Reform Act of 1990 ( 2 U.S.C. 661a )) to the Administration of purchasing and guaranteeing debentures and preferred securities under this Act. 399F. Investments in small business concerns (a) In general A participating investment fund shall use leverage received under section 399D to make debt and equity investments in small and emerging manufacturers to carry out qualifying manufacturing projects. (b) Limitation Not more than 50 percent of the amount provided by a participating investment fund to a small and emerging manufacturer under subsection (a) for a qualifying manufacturing project shall consist of leverage provided to the participating investment fund under the program. (c) Portfolio management A single investment made by a participating investment fund under subsection (a) may not exceed 10 percent of the total capital of the participating investment fund, which includes private capital and any leverage projected to be provided to the participating investment fund, if applicable. (d) Increased outreach The Administration shall issue policy directives to provide for enhanced outreach efforts to increase investments by participating investment funds in\u2014 (1) a small business concern owned and controlled by socially and economically disadvantaged individuals; and (2) small business concerns owned and controlled by\u2014 (A) women; (B) veterans; or (C) individuals with disabilities. 399G. Examinations and valuations (a) Examinations (1) In general Each participating investment fund shall be subject to examinations made at the direction of the Investment Division of the Administration in accordance with this subsection. (2) Assistance of private sector entities Examinations under this subsection may be conducted with the assistance of a private sector entity that has the qualifications and the expertise necessary to conduct such examinations. (3) Costs (A) Assessment (i) In general The Administrator may assess the cost of examinations under this subsection, including compensation of the examiners, against the participating investment fund examined. (ii) Payment Any participating investment fund against which the Administrator assesses costs under subparagraph (A) shall pay such costs. (B) Deposit of funds Funds collected under this subsection\u2014 (i) shall be deposited in the account for salaries and expenses of the Administration; and (ii) are authorized to be appropriated solely to cover the costs of examinations and other program oversight activities. (b) Valuations (1) Frequency of valuations (A) In general Each participating investment fund shall submit to the Administrator a written valuation of the loans and investments of the participating investment fund not less often than semiannually or otherwise upon the request of the Administrator, except that any participating investment fund with no leverage outstanding shall submit such valuations annually, unless the Administrator determines otherwise. (B) Material adverse changes Not later than 30 days after the end of a fiscal quarter of a participating investment fund during which a material adverse change in the aggregate valuation of the loans and investments or operations of the participating investment fund occurs, the participating investment fund shall notify the Administrator in writing of the nature and extent of that change. (C) Independent certification (i) In general Not less than once during each fiscal year, each participating investment fund shall submit to the Administrator the financial statements of the participating investment fund, audited by an independent certified public accountant approved by the Administrator. (ii) Audit requirements Each audit conducted under clause (i) shall include\u2014 (I) a review of the procedures and documentation used by the participating investment fund in preparing the valuations required by this subsection; and (II) a statement by the independent certified public accountant that such valuations were prepared in conformity with the valuation criteria applicable to the participating investment fund established in accordance with paragraph (2). (2) Valuation criteria Each valuation submitted under this subsection shall be prepared by the participating investment fund in accordance with valuation criteria, which shall\u2014 (A) be established or approved by the Administrator; and (B) include appropriate safeguards to ensure that the noncash assets of a participating investment fund are not overvalued. 399H. Miscellaneous The Administrator may take such action as set forth in sections 309, 311, 312, 314, 315, and 316 and an owner (including a member, partner, or shareholder), officer, director, employee, agent, or other participant in the management or conduct of the affairs of a participating investment fund shall be subject to the requirements of such sections. 399I. Violations; removal or suspension of management officials (a) Violations If any participating investment fund violates or fails to comply with any of the provisions of this part or of regulations prescribed hereunder, all of its rights, privileges, and franchises derived therefrom may thereby be forfeited. Before any such participating investment fund shall be declared dissolved, or its rights, privileges, and franchises forfeited, any noncompliance with or violation of this Act shall be determined and adjudged by a court of the United States of competent jurisdiction in a suit brought for that purpose in the district, territory, or other place subject to the jurisdiction of the United States, in which the principal office of such participating investment fund is located. Any such suit shall be brought by the United States at the instance of the Administration or the Attorney General. (b) Suspension of management officials Using the procedures for removing or suspending a director or an officer of a licensee set forth in section 313, the Administrator may remove or suspend any management official of a participating investment fund. 399J. Reports Each participating investment fund shall, on a semi-annual basis, provide to the Administrator such information as the Administrator may require, including\u2014 (1) information related to the measurement criteria that the participating investment fund proposed in the application for the program; (2) information on the use of leverage by the participating investment fund; and (3) in each case in which the participating investment fund makes an investment in a small business concern that is not a small business concern owned and controlled by socially and economically disadvantaged individuals, a report on the number and percentage of employees of the small business concern who are socially and economically disadvantaged individuals. 399K. Scale-Up Manufacturing Investment Company Credit Council (a) Establishment The Administrator may establish a Scale-Up Manufacturing Investment Company Credit Council, which, if established, shall consist of 5 members from the private sector with aggregate and collective experience in technology development, manufacturing financing, and capital investment. (b) Duties The Council, if established, shall advise the Administrator on carrying out the program, which shall include\u2014 (1) providing advice from time to time on advanced scale-up manufacturing industries; and (2) establishing and conducting an annual briefing beginning not later than 18 months after the date of enactment of this section. 399L. Regulations The Administrator may issue such regulations as the Administrator determines necessary to carry out the provisions of this part in accordance with its purposes. .\n##### (b) Bank Holding Company Act of 1956\nSection 13(d)(1)(E) of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1851(d)(1)(E) ) is amended by inserting investments in 1 or more participating investment funds, as defined in section 399A of the Small Business Investment Act of 1958, before or investments .\n##### (c) Ineligibility for bankruptcy\nSection 109(b)(2) of title 11, United States Code, is amended by inserting a participating investment fund as defined in section 399A of the Small Business Investment Act of 1958, before credit union .\n##### (d) Eligibility for CRA credit\nSection 804 of the Community Reinvestment Act of 1977 ( 12 U.S.C. 2903 ) is amended by adding at the end the following:\n(e) Investments in participating investment funds In assessing and taking into account, under subsection (a), the record of a financial institution, the appropriate Federal financial supervisory agency shall consider, as a factor, investments made in 1 or more participating investment funds under part D of title III of the Small Business Investment Act of 1958. .",
+      "versionDate": "2025-07-23",
+      "versionType": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Commerce",
+        "updateDate": "2025-09-16T17:29:15Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-07-23",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2411is.xml"
+        }
+      ],
+      "type": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Scale-Up Manufacturing Investment Company Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-08-06T04:53:23Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "Scale-Up Manufacturing Investment Company Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-08-06T04:53:21Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A bill to amend the Small Business Investment Act of 1958 to establish the Scale-Up Manufacturing Investment Company (\"SUMIC\") Program.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-08-06T04:48:33Z"
+    }
+  ]
+}
+```

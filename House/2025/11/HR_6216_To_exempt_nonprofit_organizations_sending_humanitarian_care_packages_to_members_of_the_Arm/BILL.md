@@ -1,0 +1,67 @@
+# HR 6216: Support Our Troops Shipping Relief Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-11-20
+- Latest action: 2025-11-20 - Introduced in House
+- Policy area: Foreign Trade and International Finance
+- Sponsor: Rep. Moulton, Seth [D-MA-6]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6216
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-11-20
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6216ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-11-20
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6216ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 6216
+IN THE HOUSE OF REPRESENTATIVES
+November 20, 2025 Mr. Moulton introduced the following bill; which was referred to the Committee on Ways and Means , and in addition to the Committee on Oversight and Government Reform , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To exempt nonprofit organizations sending humanitarian care packages to members of the Armed Forces stationed overseas from certain tariff and postal reporting requirements, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Support Our Troops Shipping Relief Act of 2025 .
+#### 2. Findings and purpose
+##### (a) Findings
+Congress finds the following:
+**(1)**
+Nonprofit organizations, such as Operation Troop Support in Danvers, Massachusetts, have shipped millions of care packages to members of the United States Armed Forces deployed overseas, containing comfort items, personal supplies, and messages of encouragement.
+**(2)**
+Recent Customs and postal reporting requirements—such as the need to list six-digit Harmonized System codes and item-by-item country-of-origin data—were designed for commercial trade, not humanitarian parcels, and have unintentionally restricted the ability of volunteer organizations to send morale-support shipments abroad.
+**(3)**
+These burdens have led to delays, returned packages, and significant cost increases for nonprofits relying on donations and volunteers.
+**(4)**
+Congress therefore intends to exempt qualified nonprofit troop-support organizations from unnecessary tariff and reporting requirements and to direct relevant agencies to simplify their documentation standards.
+##### (b) Purpose
+The purpose of this Act is to remove unnecessary Customs barriers that hinder the ability of nonprofit organizations to send humanitarian care packages to members of the United States Armed Forces serving overseas.
+#### 3. Exemption under the Tariff Act of 1930 for humanitarian care packages for Armed Forces personnel sent by qualified nonprofit organizations
+The Tariff Act of 1930 is amended by inserting after section 321 ( 19 U.S.C. 1321 ) the following:
+321A. Exemption for humanitarian care packages for Armed Forces personnel sent by qualified nonprofit organizations (a) Exemption established A shipment that meets the requirements of this section shall be exempt from— (1) any tariff or duty otherwise applicable under any provision of law; and (2) any requirement to provide— (A) individual Harmonized System classification codes; (B) country-of-origin declarations; or (C) commercial invoices. (b) Eligible shipments A shipment shall qualify for the exemption under subsection (a) if— (1) it originates from a qualified nonprofit organization; (2) it is addressed to a military mail address or other destination authorized by the Department of Defense; and (3) the declared contents are humanitarian care packages as defined in section 3 of the Support Our Troops Shipping Relief Act of 2025. (c) Rules of construction (1) In general Nothing in this section may be construed to limit security screening or inspection authority under any other provision of law. (2) Additional rule To the extent this section is determined to be inconsistent with Universal Postal Union requirements or a Status of Forces Agreement negotiated by the Department of Defense, enforcement of any violation of this section shall be delayed until on or after January 31, 2027. (d) Definitions In this section— (1) the term “Armed Forces” has the meaning given that term in section 101(a)(4) of title 10, United States Code; (2) the term “humanitarian care package” means a parcel containing donated goods intended solely for the comfort, welfare, or morale of Armed Forces personnel stationed outside the continental United States; (3) the term “qualified nonprofit organization” means an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of that Code that primarily supports United States service members or veterans; and (4) the term “military mail address” means an Army Post Office (APO), Fleet Post Office (FPO), or Diplomatic Post Office (DPO) address designated by the Department of Defense for receipt of mail by United States Armed Forces personnel abroad. .
+#### 4. Implementation by the United States Postal Service and U.S. Customs and Border Protection
+##### (a) Domestic treatment of military mail
+The United States Postal Service shall treat any shipment that meets the requirements of section 321A of the Tariff Act of 1930, as added by section 4, as domestic mail for all rate, tariff, and customs purposes, regardless of destination.
+##### (b) Joint regulations
+Not later than 180 days after the date of the enactment of this Act, the Postmaster General and the Secretary of the Treasury (acting through the Commissioner of U.S. Customs and Border Protection) shall jointly issue regulations to carry out this section.
+##### (c) Simplified manifest requirement
+In implementing this section, the United States Postal Service and U.S. Customs and Border Protection shall accept simplified manifests for any shipments that meets the requirements of section 321A of the Tariff Act of 1930, as added by section 4, which may list categories of contents (such as “snack foods,” “personal hygiene items,” “letters and cards,” or similar general descriptions) in lieu of individual Harmonized System codes or country-of-origin information for each item.
+
+
+## Timeline
+
+- 2025-11-20: Introduced in House
+- 2025-11-20 - IntroReferral: Introduced in House
+- 2025-11-20 - IntroReferral: Introduced in House
+- 2025-11-20 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-11-20 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-11-20: Introduced in House

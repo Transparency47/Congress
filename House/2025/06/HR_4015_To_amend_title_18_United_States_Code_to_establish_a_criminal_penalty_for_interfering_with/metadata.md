@@ -1,0 +1,262 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/4015?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/4015
+- Title: Safe and Open Streets Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 4015
+- Origin chamber: House
+- Introduced date: 2025-06-13
+- Update date: 2025-12-05T22:05:16Z
+- Update date including text: 2025-12-05T22:05:16Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-06-13: Introduced in House
+- 2025-06-13 - IntroReferral: Introduced in House
+- 2025-06-13 - IntroReferral: Introduced in House
+- 2025-06-13 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2025-06-13: Introduced in House
+
+## Actions
+
+- 2025-06-13 - IntroReferral: Introduced in House
+- 2025-06-13 - IntroReferral: Introduced in House
+- 2025-06-13 - IntroReferral: Referred to the House Committee on the Judiciary.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-06-13",
+    "latestAction": {
+      "actionDate": "2025-06-13",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4015",
+    "number": "4015",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000603",
+        "district": "7",
+        "firstName": "David",
+        "fullName": "Rep. Rouzer, David [R-NC-7]",
+        "lastName": "Rouzer",
+        "party": "R",
+        "state": "NC"
+      }
+    ],
+    "title": "Safe and Open Streets Act",
+    "type": "HR",
+    "updateDate": "2025-12-05T22:05:16Z",
+    "updateDateIncludingText": "2025-12-05T22:05:16Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-06-13",
+      "committees": {
+        "item": {
+          "name": "Judiciary Committee",
+          "systemCode": "hsju00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on the Judiciary.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-06-13",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-06-13",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-06-13T13:30:35Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "E000246",
+      "district": "11",
+      "firstName": "Chuck",
+      "fullName": "Rep. Edwards, Chuck [R-NC-11]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Edwards",
+      "party": "R",
+      "sponsorshipDate": "2025-06-13",
+      "state": "NC"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4015ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 4015\nIN THE HOUSE OF REPRESENTATIVES\nJune 13, 2025 Mr. Rouzer (for himself and Mr. Edwards ) introduced the following bill; which was referred to the Committee on the Judiciary\nA BILL\nTo amend title 18, United States Code, to establish a criminal penalty for interfering with commerce by blocking public roads.\n#### 1. Short title\nThis Act may be cited as the Safe and Open Streets Act .\n#### 2. Crime of interference with commerce by blocking public roads\n##### (a) In general\nSection 1951 of title 18, United States Code, is amended\u2014\n**(1)**\nby redesignating subsections (b) and (c) as subsections (c) and (d), respectively; and\n**(2)**\nby inserting after subsection (a) the following:\n(b) Interference with commerce by blocking public roads (1) Offense It shall be unlawful to, in any way or degree, purposely obstruct, delay, or affect commerce or the movement of any article or commodity in commerce by blocking a public road or highway, or to attempt or conspire so to do. (2) Penalty Any person who violates paragraph (1) shall be fined under this title, imprisoned not more than 5 years, or both. .\n##### (b) Conforming amendments\n**(1) Section heading**\nThe heading of section 1951 of title 18, United States Code, is amended by striking by threats or violence .\n**(2) Table of sections**\nThe table of sections for chapter 95 of title 18, United States Code, is amended by striking the item relating to section 1951 and inserting the following:\n1951. Interference with commerce. .\n**(3) Cross references**\n**(A) Title 5, United States Code**\nSection 8332(o)(2)(B)(xx) of title 5, United States Code, is amended by striking by threats of violence .\n**(B) Title 18, United States Code**\nPart I of title 18, United States Code, is amended\u2014\n**(i)**\nin section 1961(1), by striking , robbery, or extortion ; and\n**(ii)**\nin section 2516(1)(c), by striking by threats or violence .",
+      "versionDate": "2025-06-13",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-06-18",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "2115",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "Safe and Open Streets Act",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Crime and Law Enforcement",
+        "updateDate": "2025-07-07T13:17:13Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-06-13",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4015ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Safe and Open Streets Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-06-25T04:53:19Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Safe and Open Streets Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-06-25T04:53:18Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend title 18, United States Code, to establish a criminal penalty for interfering with commerce by blocking public roads.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-06-25T04:48:27Z"
+    }
+  ]
+}
+```

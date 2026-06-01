@@ -1,0 +1,153 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/9046?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/9046
+- Title: To require the Secretary of Defense to conduct a study on members of the Armed Forces who separated from the Armed Forces due to the mandate to receive the COVID-19 vaccine and the transfer of education benefits by such members, and for other purposes.
+- Congress: 119
+- Bill type: HR
+- Bill number: 9046
+- Origin chamber: House
+- Introduced date: 2026-05-29
+- Update date: 2026-05-30T08:05:38Z
+- Update date including text: 2026-05-30T09:28:25Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, titles
+
+## Timeline
+
+- 2026-05-29: Introduced in House
+- 2026-05-29 - IntroReferral: Introduced in House
+- 2026-05-29 - IntroReferral: Introduced in House
+- 2026-05-29 - IntroReferral: Referred to the House Committee on Armed Services.
+- Latest action: 2026-05-29: Introduced in House
+
+## Actions
+
+- 2026-05-29 - IntroReferral: Introduced in House
+- 2026-05-29 - IntroReferral: Introduced in House
+- 2026-05-29 - IntroReferral: Referred to the House Committee on Armed Services.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-05-29",
+    "latestAction": {
+      "actionDate": "2026-05-29",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9046",
+    "number": "9046",
+    "originChamber": "House",
+    "policyArea": {},
+    "sponsors": [
+      {
+        "bioguideId": "B001321",
+        "district": "7",
+        "firstName": "Tom",
+        "fullName": "Rep. Barrett, Tom [R-MI-7]",
+        "lastName": "Barrett",
+        "party": "R",
+        "state": "MI"
+      }
+    ],
+    "title": "To require the Secretary of Defense to conduct a study on members of the Armed Forces who separated from the Armed Forces due to the mandate to receive the COVID-19 vaccine and the transfer of education benefits by such members, and for other purposes.",
+    "type": "HR",
+    "updateDate": "2026-05-30T08:05:38Z",
+    "updateDateIncludingText": "2026-05-30T09:28:25Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-05-29",
+      "committees": {
+        "item": {
+          "name": "Armed Services Committee",
+          "systemCode": "hsas00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Armed Services.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2026-05-29",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2026-05-29",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-05-29T16:04:50Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "To require the Secretary of Defense to conduct a study on members of the Armed Forces who separated from the Armed Forces due to the mandate to receive the COVID-19 vaccine and the transfer of education benefits by such members, and for other purposes.",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-05-30T08:05:38Z"
+    },
+    {
+      "title": "To require the Secretary of Defense to conduct a study on members of the Armed Forces who separated from the Armed Forces due to the mandate to receive the COVID-19 vaccine and the transfer of education benefits by such members, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-05-30T08:05:38Z"
+    }
+  ]
+}
+```

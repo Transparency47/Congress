@@ -1,0 +1,58 @@
+# HR 8257: Small County PILT Parity Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-04-14
+- Latest action: 2026-04-14 - Introduced in House
+- Policy area: Government Operations and Politics
+- Sponsor: Rep. Hurd, Jeff [R-CO-3]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/8257
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-04-14
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8257ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-04-14
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8257ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 8257
+IN THE HOUSE OF REPRESENTATIVES
+April 14, 2026 Mr. Hurd of Colorado (for himself, Mr. Zinke , and Mr. Moylan ) introduced the following bill; which was referred to the Committee on Natural Resources
+A BILL
+To amend section 6903 of title 31, United States Code, to provide for additional population tiers, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Small County PILT Parity Act .
+#### 2. Adjustment for low-population units of general local government
+Section 6903(c) of title 31, United States Code, is amended—
+**(1)**
+in paragraph (1), by striking 4,999 and inserting 499 ; and
+**(2)**
+in paragraph (2)—
+**(A)**
+in the matter preceding the table—
+**(i)**
+by striking 5,000 and inserting 500 ; and
+**(ii)**
+by striking (rounding and inserting (except for the first population value, rounding ; and
+**(B)**
+by striking the table and inserting the following:
+If population equals— the limitation is equal to the population times— 500 $514.50 1,000 $404.56 2,000 $320.75 3,000 $289.14 4,000 $262.84 5,000 $231.25 6,000 $216.56 7,000 $203.90 8,000 $189.24 9,000 $176.57 10,000 $161.82 11,000 $157.69 12,000 $153.48 13,000 $147.18 14,000 $142.98 15,000 $138.73 16,000 $136.64 17,000 $134.51 18,000 $132.44 19,000 $130.35 20,000 $128.30 21,000 $126.14 22,000 $124.04 23,000 $124.04 24,000 $121.95 25,000 $119.85 26,000 $117.73 27,000 $117.73 28,000 $117.73 29,000 $115.65 30,000 $115.65 31,000 $113.53 32,000 $113.53 33,000 $111.40 34,000 $111.40 35,000 $109.28 36,000 $109.28 37,000 $107.20 38,000 $107.20 39,000 $105.13 40,000 $105.13 41,000 $102.99 42,000 $100.93 43,000 $100.93 44,000 $98.78 45,000 $98.78 46,000 $96.72 47,000 $96.72 48,000 $94.61 49,000 $94.61 50,000 $92.50. .
+
+
+## Timeline
+
+- 2026-04-14: Introduced in House
+- 2026-04-14 - IntroReferral: Introduced in House
+- 2026-04-14 - IntroReferral: Introduced in House
+- 2026-04-14 - IntroReferral: Referred to the House Committee on Natural Resources.
+- Latest action: 2026-04-14: Introduced in House

@@ -1,0 +1,58 @@
+# S 1505: A bill to ensure that Social Security beneficiaries receive regular statements from the Social Security Administration, and for other purposes.
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-04-29
+- Latest action: 2025-04-29 - Introduced in Senate
+- Policy area: Social Welfare
+- Sponsor: Sen. Cassidy, Bill [R-LA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/s/1505
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-04-29
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1505is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-04-29
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1505is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1505
+IN THE SENATE OF THE UNITED STATES
+April 29, 2025 Mr. Cassidy (for himself, Mr. Coons , Ms. Collins , and Mr. Kaine ) introduced the following bill; which was read twice and referred to the Committee on Finance
+A BILL
+To ensure that Social Security beneficiaries receive regular statements from the Social Security Administration, and for other purposes.
+#### 1. Ensuring beneficiaries receive regular social security statements
+Not later than January 1, 2027, the Commissioner of Social Security shall ensure that—
+**(1)**
+individuals with social security account numbers are mailed a paper social security statement whenever they enter the workforce or start a new job;
+**(2)**
+a paper social security statement is mailed to each individual with a social security account number not less frequently than—
+**(A)**
+once every 5 years beginning with the year in which the individual achieves age 25;
+**(B)**
+once every 2 years beginning with the year in which the individual achieves age 55; and
+**(C)**
+annually beginning with the year in which the individual achieves age 60;
+**(3)**
+individuals with social security account numbers are mailed paper social security statements regardless of whether they have created an online my Social Security account with the Social Security Administration; and
+**(4)**
+individuals are able to opt out from receiving paper social security statements (including statements otherwise required under this section).
+#### 2. Limitation on administrative expenses
+There are authorized to be appropriated to the Commissioner of Social Security for the Social Security Administration's Limitation on Administrative Expenses for each fiscal year beginning with 2026 such sums as are necessary to carry out this Act.
+
+
+## Timeline
+
+- 2025-04-29: Introduced in Senate
+- 2025-04-29 - IntroReferral: Introduced in Senate
+- 2025-04-29 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2025-04-29: Introduced in Senate

@@ -1,0 +1,52 @@
+# HR 8290: Exchange Rate Accountability Act of 2026
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-04-15
+- Latest action: 2026-04-15 - Introduced in House
+- Policy area: International Affairs
+- Sponsor: Rep. Sessions, Pete [R-TX-17]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/8290
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-04-15
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8290ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-04-15
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8290ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 8290
+IN THE HOUSE OF REPRESENTATIVES
+April 15, 2026 Mr. Sessions introduced the following bill; which was referred to the Committee on Financial Services
+A BILL
+To require the use of the voice and vote of the United States to oppose any quota increase at the International Monetary Fund for member countries that employ certain exchange rate practices, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Exchange Rate Accountability Act of 2026 .
+#### 2. Opposition to IMF quota increase for countries that undermine the balanced growth of international trade
+The Bretton Woods Agreements Act ( 22 U.S.C. 286–286aaa ) is amended—
+**(1)**
+by redesignating the 2nd section 73 (as added by section 1901 of division P of Public Law 116–94 ) as section 74; and
+**(2)**
+by adding at the end the following:
+75. Opposition to quota increase for countries that undermine the balanced growth of international trade (a) In general Not less than 7 days before consideration of any proposal to increase the quota of a foreign member of the Fund that is one of the 10 largest shareholders in the Fund, the Secretary of the Treasury shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate that sets forth a determination by the Secretary as to whether the foreign member meets the following criteria: (1) The member, in the preceding 12 months, does not appear to have been in violation of the obligations of the member under Article VIII of the Articles of Agreement of the Fund, based on publicly available data. (2) The member— (A) maintains transparent exchange rate policies and practices; and (B) publishes credible balance of payments data. (3) To the extent that the member, in the preceding 12 months, has recorded a current account surplus, the member has not persistently managed the rate of exchange between its currency and the United States dollar for purposes of preventing effective balance of payments adjustments or gaining unfair competitive advantage in international trade. (b) Effect of determination On determining that a foreign member of the Fund has failed to meet any of the criteria set forth in subsection (a), the Secretary shall instruct the Governor of the Fund to use the voice and vote of the United States to oppose the proposal to increase the quota of the member in the Fund. (c) Waiver The President may waive subsection (b) with respect to a member of the Fund on reporting to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate that the waiver is important to the national interest of the United States, with an explanation of the reasons therefor. (d) Proposal consideration For purposes of this section, consideration of a proposal to increase the quota of a foreign member of the Fund does not include consent to an amendment to the Articles of Agreement of the Fund that has been authorized by law. (e) Sunset This section shall cease to have force or effect 7 years after the date of the enactment of this Act. .
+
+
+## Timeline
+
+- 2026-04-15: Introduced in House
+- 2026-04-15 - IntroReferral: Introduced in House
+- 2026-04-15 - IntroReferral: Introduced in House
+- 2026-04-15 - IntroReferral: Referred to the House Committee on Financial Services.
+- 2026-04-21 - Committee: Committee Consideration and Mark-up Session Held
+- 2026-04-21 - Committee: Ordered to be Reported by the Yeas and Nays: 32 - 20.
+- Latest action: 2026-04-15: Introduced in House

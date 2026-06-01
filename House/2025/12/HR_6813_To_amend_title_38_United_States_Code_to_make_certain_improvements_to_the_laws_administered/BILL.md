@@ -1,0 +1,79 @@
+# HR 6813: VA Insurance Improvement Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-12-17
+- Latest action: 2025-12-17 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Pappas, Chris [D-NH-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6813
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-12-17
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6813ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-12-17
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6813ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 6813
+IN THE HOUSE OF REPRESENTATIVES
+December 17, 2025 Mr. Pappas (for himself and Mr. Moylan ) introduced the following bill; which was referred to the Committee on Veterans' Affairs
+A BILL
+To amend title 38, United States Code, to make certain improvements to the laws administered by the Secretary of Veterans Affairs relating to insurance for veterans, and for other purposes.
+#### 1. Short title
+This Act may be cited as the VA Insurance Improvement Act .
+#### 2. Expansion of veterans life insurance program
+##### (a) In general
+Section 1922B of title 38, United States Code, is amended—
+**(1)**
+in subsection (a)—
+**(A)**
+in paragraph (1), by striking service-disabled ;
+**(B)**
+by striking paragraph (3);
+**(C)**
+by redesignating paragraphs (4) through (6) as paragraphs (3) through (5), respectively; and
+**(D)**
+in paragraph (5)(A), as so redesignated, by striking paragraph (5) and inserting paragraph (4) ;
+**(2)**
+in subsection (b), by striking the veteran has a service-connected disability and all that follows through the period at the end of paragraph (2) and inserting the following: the veteran submits an application for such insurance before the veteran attains 81 years of age. ; and
+**(3)**
+in subsection (c)(2)(B)(ii), by striking subsection (a)(5) and inserting subsection (a)(4) .
+##### (b) Clerical amendments
+**(1) Section heading**
+Such section is further amended by striking the section heading and inserting the following:
+1922B. Veterans Affairs life insurance .
+**(2) Table of sections**
+The table of sections at the beginning of chapter 19 of such title is amended by striking the item relating to section 1922B and inserting the following new item:
+1922B. Veterans Affairs life insurance. .
+#### 3. Veterans’ mortgage life insurance reimbursement of administrative costs
+Section 2106(d) of title 38, United States Code, is amended—
+**(1)**
+by redesignating paragraph (2) as paragraph (3);
+**(2)**
+by inserting after paragraph (1) the following new paragraph (2):
+(2) For each fiscal year, the Secretary shall determine the administrative costs to the Department that, in the judgment of the Secretary, are properly allocable to the provision of insurance under this section and shall reimburse the General Operating Expenses appropriations account and the Information Technology Systems, Department of Veterans Affairs appropriations account of the Department in appropriate amounts for such administrative costs from amounts in the Veterans Insurance and Indemnities appropriation account. ; and
+**(3)**
+in paragraph (3), as so redesignated, by striking such account and inserting the Veterans Insurance and Indemnities appropriation account .
+#### 4. Inclusion of Space Force in eligibility for TSGLI
+Section 1965(6) of title 38, United States Code, is amended by inserting Space Force, after Marine Corps, .
+
+
+## Timeline
+
+- 2025-12-17: Introduced in House
+- 2025-12-17 - IntroReferral: Introduced in House
+- 2025-12-17 - IntroReferral: Introduced in House
+- 2025-12-17 - IntroReferral: Referred to the House Committee on Veterans' Affairs.
+- 2026-01-22 - Committee: Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- Latest action: 2025-12-17: Introduced in House

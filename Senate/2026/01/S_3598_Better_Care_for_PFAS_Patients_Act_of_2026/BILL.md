@@ -1,0 +1,74 @@
+# S 3598: Better Care for PFAS Patients Act of 2026
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2026-01-08
+- Latest action: 2026-01-08 - Introduced in Senate
+- Policy area: Health
+- Sponsor: Sen. Shaheen, Jeanne [D-NH]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/3598
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2026-01-08
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s3598is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2026-01-08
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s3598is.xml
+
+II
+119th CONGRESS
+2d Session
+S. 3598
+IN THE SENATE OF THE UNITED STATES
+January 8 (legislative day, January 7), 2026 Mrs. Shaheen (for herself and Ms. Collins ) introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions
+A BILL
+To provide for the periodic issuance of up-to-date clinical guidance on addressing the health effects of per- and polyfluoroalkyl substances (PFAS), and for other purposes.
+#### 1. Short title
+This Act may be cited as the Better Care for PFAS Patients Act of 2026 .
+#### 2. PFAS health effects assessment, recommendations, and guidance
+##### (a) Periodic assessment and recommendations
+**(1) Agreement**
+The Director of the Agency for Toxic Substances and Disease Registry (in this section referred to as the Director ) shall enter into an agreement with the National Academies of Sciences, Engineering, and Medicine (or another appropriate entity if the National Academies declines to enter into such agreement) under which the National Academies or the other appropriate entity agrees—
+**(A)**
+to assess the health effects of per- and polyfluoroalkyl substances (in this section referred to as PFAS ) that can be measured in human tissues;
+**(B)**
+to formulate clinical recommendations on addressing such health effects;
+**(C)**
+not later than 2 years after the date of entry into such agreement, to complete the initial assessment under subparagraph (A) and formulate the initial recommendations under subparagraph (B); and
+**(D)**
+to update the most recent assessment and recommendations under this paragraph—
+**(i)**
+every 5 years; or
+**(ii)**
+more frequently as determined necessary by the Director based on an assessment of the science.
+**(2) Consultation**
+In carrying out the assessments under paragraph (1), the National Academies of Sciences, Engineering, and Medicine or other appropriate entity shall engage with PFAS exposed communities and solicit input from members of such communities regarding their experiences with PFAS exposure, testing, and clinical follow-up.
+**(3) Timing of entry into agreement**
+The Director shall enter into the agreement required by paragraph (1) not later than 60 days after the date of enactment of this Act.
+##### (b) Up-to-Date guidance
+Based on the results of the most recent assessment and recommendations under subsection (a), the Director, in consultation with the entity with which the Director enters into the agreement under subsection (a), shall—
+**(1)**
+not later than 5 years after the date of entry into the agreement required by subsection (a)—
+**(A)**
+issue up-to-date clinical guidance on addressing the health effects of PFAS;
+**(B)**
+post such guidance on the public website of the Agency for Toxic Substances and Disease Registry; and
+**(C)**
+disseminate such guidance to State and local public health authorities and appropriate health care professionals; and
+**(2)**
+every 5 years thereafter, or more frequently as determined necessary by the Director based on an assessment of the science, issue, post, and disseminate up-to-date guidance as described in paragraph (1).
+
+
+## Timeline
+
+- 2026-01-08: Introduced in Senate
+- 2026-01-08 - IntroReferral: Introduced in Senate
+- 2026-01-08 - IntroReferral: Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- Latest action: 2026-01-08: Introduced in Senate

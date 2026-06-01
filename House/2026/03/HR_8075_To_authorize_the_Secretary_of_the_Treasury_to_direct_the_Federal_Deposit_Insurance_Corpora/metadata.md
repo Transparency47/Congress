@@ -1,0 +1,209 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/8075?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/8075
+- Title: To authorize the Secretary of the Treasury to direct the Federal Deposit Insurance Corporation and the National Credit Union Administration to establish emergency transaction account guarantee programs, and for other purposes.
+- Congress: 119
+- Bill type: HR
+- Bill number: 8075
+- Origin chamber: House
+- Introduced date: 2026-03-25
+- Update date: 2026-04-17T19:43:30Z
+- Update date including text: 2026-04-17T19:43:30Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2026-03-25: Introduced in House
+- 2026-03-25 - IntroReferral: Introduced in House
+- 2026-03-25 - IntroReferral: Introduced in House
+- 2026-03-25 - IntroReferral: Referred to the House Committee on Financial Services.
+- Latest action: 2026-03-25: Introduced in House
+
+## Actions
+
+- 2026-03-25 - IntroReferral: Introduced in House
+- 2026-03-25 - IntroReferral: Introduced in House
+- 2026-03-25 - IntroReferral: Referred to the House Committee on Financial Services.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-03-25",
+    "latestAction": {
+      "actionDate": "2026-03-25",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8075",
+    "number": "8075",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001282",
+        "district": "6",
+        "firstName": "Andy",
+        "fullName": "Rep. Barr, Andy [R-KY-6]",
+        "lastName": "Barr",
+        "party": "R",
+        "state": "KY"
+      }
+    ],
+    "title": "To authorize the Secretary of the Treasury to direct the Federal Deposit Insurance Corporation and the National Credit Union Administration to establish emergency transaction account guarantee programs, and for other purposes.",
+    "type": "HR",
+    "updateDate": "2026-04-17T19:43:30Z",
+    "updateDateIncludingText": "2026-04-17T19:43:30Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-03-25",
+      "committees": {
+        "item": {
+          "name": "Financial Services Committee",
+          "systemCode": "hsba00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Financial Services.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2026-03-25",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2026-03-25",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-03-25T14:00:20Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Financial Services Committee",
+      "systemCode": "hsba00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8075ih.xml",
+      "text": "I\n119th CONGRESS\n2d Session\nH. R. 8075\nIN THE HOUSE OF REPRESENTATIVES\nMarch 25, 2026 Mr. Barr introduced the following bill; which was referred to the Committee on Financial Services\nA BILL\nTo authorize the Secretary of the Treasury to direct the Federal Deposit Insurance Corporation and the National Credit Union Administration to establish emergency transaction account guarantee programs, and for other purposes.\n#### 1. Emergency TAG program authority\n##### (a) Insured depository institutions\nSection 13 of the Federal Deposit Insurance Act ( 12 U.S.C. 1823 ) is amended by adding at the end the following:\n(l) Emergency TAG program authority (1) In general After a determination by the Secretary of the Treasury under paragraph (2), and subject to the limits in paragraph (3), the Board of Directors may establish an emergency transaction account guarantee program under which the Corporation fully insures the deposits of all insured depository institutions that are maintained in non-interest-bearing transaction accounts. (2) Banking stress event determination The Board of Directors may establish a program under paragraph (1) only if\u2014 (A) the Secretary of the Treasury, in consultation with the President, determines that\u2014 (i) a banking stress event exists that presents serious adverse effects on economic conditions or the stability of the banking system; and (ii) use of the program authorized under this subsection would avoid or mitigate such adverse effects; and (B) the Secretary of the Treasury gives immediate notice of such determination to the Board of Directors and the Board of Governors of the Federal Reserve System. (3) Program limitations (A) Limitation on size (i) In general Before the Corporation insures any deposits pursuant to a program established under paragraph (1), the Secretary of the Treasury shall, in consultation with the President, determine the maximum amount of costs that the Deposit Insurance Fund may incur under the program. (ii) Increase Notwithstanding clause (i), the maximum amount of costs for a program established under paragraph (1) may be increased, if\u2014 (I) such increase is approved in the same manner as a program established under paragraph (1); and (II) the Secretary of the Treasury issues a report to the Congress containing data and analysis justifying the increase. (B) Limitation on duration (i) In general The Corporation shall terminate each program established under paragraph (1) no later than the date that is 6 months after the date of commencement of the program. (ii) Extension Notwithstanding clause (i), the termination date for a program established under paragraph (1) may be extended one time for an additional 3-month period, if\u2014 (I) such extension is approved in the same manner as a program established under paragraph (1); and (II) the Secretary of the Treasury issues a report to the Congress containing data and analysis justifying the extension. (4) Testimony to Congress Not later than 30 days after a program is established under paragraph (1), the Secretary of the Treasury shall testify before the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate with respect to the program. (5) GAO review Not later than 90 days after the termination of a program established under paragraph (1), the Comptroller General of the United States shall review the program and issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing all findings and determinations made in carrying out such review. (6) Repayment of loss (A) In general The Corporation shall recover any loss to the Deposit Insurance Fund arising from any program established under paragraph (1) from 1 or more special assessments on insured depository institutions, depository institution holding companies (except that a special assessment on a depository institution holding company shall require the concurrence of the Secretary of the Treasury), or both, as the Corporation determines to be appropriate. (B) Rule of application For purposes of this paragraph, sections 7(c)(2) and 18(h) shall apply to depository institution holding companies as if they were insured depository institutions. (7) Rulemaking The Corporation may issue such rules as the Corporation determines to be appropriate to carry out the provisions of this subsection. (8) Definitions In this subsection: (A) Banking stress event The term banking stress event means an exceptional and broad reduction in the stability of deposits at insured depository institutions. (B) Non-interest-bearing transaction account The term non-interest-bearing transaction account means a transaction account that\u2014 (i) is non-interest-bearing; or (ii) pays a de minimis amount of interest, as established by the Corporation. (C) Transaction account The term transaction account means a deposit or account from which the depositor or account holder is permitted to make transfers or withdrawals by negotiable or transferable instrument, payment order of withdrawal, telephone transfer, or other similar device for the purpose of making payments or transfers to third persons or others or from which the depositor or account holder may make third-party payments at an automated teller machine or a remote service unit, or other electronic device, including by debit card, and includes such other deposits or accounts maintained at an insured depository institution that the Corporation may determine consistent with this definition. .\n##### (b) Insured credit unions\nSection 207(k) of the Federal Credit Union Act ( 12 U.S.C. 1787(k) ) is amended by adding at the end the following:\n(7) Emergency TAG program authority (A) In general After a determination by the Secretary of the Treasury under subparagraph (B), and subject to the limits in subparagraph (C), the Board may establish an emergency transaction account guarantee program under which the Administration fully insures the deposits and shares of all insured credit unions that are maintained in non-interest-bearing transaction accounts. (B) Credit union stress event determination The Board may establish a program under subparagraph (A) only if\u2014 (i) the Secretary of the Treasury, in consultation with the President, determines that\u2014 (I) a credit union stress event exists that presents serious adverse effects on economic conditions or the stability of the credit union system; and (II) use of the program authorized under this subsection would avoid or mitigate such adverse effects; and (ii) the Secretary of the Treasury gives immediate notice of such determination to the Board and the Board of Governors of the Federal Reserve System. (C) Program limitations (i) Limitation on size (I) In general Before the Board insures any deposits or shares pursuant to a program established under subparagraph (A), the Secretary of the Treasury shall, in consultation with the President, determine the maximum amount of costs that the National Credit Union Share Insurance Fund may incur under the program. (II) Increase Notwithstanding subclause (I), the maximum amount of costs for a program established under subparagraph (A) may be increased, if\u2014 (aa) such increase is approved in the same manner as a program established under subparagraph (A); and (bb) the Secretary of the Treasury issues a report to the Congress containing data and analysis justifying the increase. (ii) Limitation on duration (I) In general The Board shall terminate each program the Board establishes under subparagraph (A) no later than the date that is 6 months after the date of commencement of the program. (II) Extension Notwithstanding subclause (I), the termination date for a program established under subparagraph (A) may be extended one time for an additional 3-month period, if\u2014 (aa) such extension is approved in the same manner as a program established under subparagraph (A); and (bb) the Secretary of the Treasury issues a report to the Congress containing data and analysis justifying the extension. (D) Testimony to Congress Not later than 30 days after a program is established under subparagraph (A), the Secretary of the Treasury shall testify before the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate with respect to the program. (E) GAO review Not later than 90 days after the termination of a program established under subparagraph (A), the Comptroller General of the United States shall review the program and issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing all findings and determinations made in carrying out such review. (F) Repayment of loss The Board shall recover any loss to the National Credit Union Share Insurance Fund arising from any program established under subparagraph (A) from 1 or more special assessments on insured credit unions. (G) Rulemaking The Board may issue such rules as the Board determines to be appropriate to carry out the provisions of this subsection. (H) Definitions In this paragraph: (i) Credit union stress event The term credit union stress event means an exceptional and broad reduction in the stability of shares and deposits at insured credit unions. (ii) Non-interest-bearing transaction account The term non-interest-bearing transaction account means a transaction account that\u2014 (I) does not pay a dividend; or (II) pays a de minimis dividend, as established by the Board. (iii) Transaction account The term transaction account means a deposit, share, or account from which the depositor or account holder is permitted to make transfers or withdrawals by negotiable or transferable instrument, payment order of withdrawal, telephone transfer, or other similar device for the purpose of making payments or transfers to third persons or others or from which the depositor or account holder may make third-party payments at an automated teller machine or a remote service unit, or other electronic device, including by debit card, and includes such other deposits or accounts maintained at an insured credit union that the Board may determine consistent with this definition. .",
+      "versionDate": "2026-03-25",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Finance and Financial Sector",
+        "updateDate": "2026-04-17T19:43:30Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-03-25",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8075ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To authorize the Secretary of the Treasury to direct the Federal Deposit Insurance Corporation and the National Credit Union Administration to establish emergency transaction account guarantee programs, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-04-14T05:18:49Z"
+    },
+    {
+      "title": "To authorize the Secretary of the Treasury to direct the Federal Deposit Insurance Corporation and the National Credit Union Administration to establish emergency transaction account guarantee programs, and for other purposes.",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-03-26T08:06:48Z"
+    }
+  ]
+}
+```

@@ -1,0 +1,388 @@
+# S 240: Crow Tribe Water Rights Settlement Amendments Act of 2025
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-01-24
+- Latest action: 2025-01-24 - Introduced in Senate
+- Policy area: Native Americans
+- Sponsor: Sen. Daines, Steve [R-MT]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/240
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Crow Tribe Water Rights Settlement Amendments Act of 2025**
+
+This bill revises the water rights settlement agreement entered into by the Crow Tribe of Montana and Montana.
+
+The Crow Tribe Water Rights Settlement Act of 2010 ratified, authorized, and confirmed the water rights compact between the tribe and Montana. Among other provisions, this settlement act authorized the Bureau of Reclamation to plan, design and construct the following two major projects on the Crow Reservation: (1) the rehabilitation and improvement of the Crow Irrigation Project (CIP); and (2) the planning, design, and construction of the MR&I System (the municipal, rural, and industrial water system of the Crow Reservation).
+
+Among other provisions, the bill revises the settlement act to
+
+- replace references to the *MR&I System* with *MR&I Projects* ;
+
+- establish a nontrust, interest-bearing account (to be known as the Crow CIP Implementation Account) to allow Reclamation to continue to work on the rehabilitation of the CIP;
+
+- create a new MR&I Projects Account, through which the tribe must use funds for activities related to water production, treatment, or delivery infrastructure; and
+
+- extend by five years (to 2030) the period during which the tribe has the exclusive right to construct hydropower facilities on the Yellowtail Afterbay Dam in Montana.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-01-24
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s240is.xml
+
+### Reported in Senate
+- Date: 2025-11-04
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s240rs.xml
+
+### Engrossed in Senate
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s240es.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-01-24
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s240is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 240
+IN THE SENATE OF THE UNITED STATES
+January 24, 2025 Mr. Daines (for himself and Mr. Sheehy ) introduced the following bill; which was read twice and referred to the Committee on Indian Affairs
+A BILL
+To amend the Crow Tribe Water Rights Settlement Act of 2010 to make improvements to that Act, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Crow Tribe Water Rights Settlement Amendments Act of 2025 .
+#### 2. Crow Tribe water rights settlement
+##### (a) Definitions
+Section 403 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3097) is amended—
+**(1)**
+by striking paragraph (11) and inserting the following:
+(11) MR&I Project The term MR&I Project means an activity described in clauses (i) through (iii) of section 411(e)(3)(F) . ; and
+**(2)**
+in paragraph (12)—
+**(A)**
+in the paragraph heading, by striking System and inserting Projects ; and
+**(B)**
+in subparagraphs (A) through (C), by striking System each place it appears and inserting Projects .
+##### (b) Repeal of MR&I System
+**(1) In general**
+Section 406 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3102) is repealed.
+**(2) Clerical amendment**
+The table of contents for the Claims Resolution Act of 2010 ( Public Law 111–291 ; 124 Stat. 3064) is amended by striking the item relating to section 406.
+##### (c) Crow Settlement Fund
+Section 411 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3113) is amended—
+**(1)**
+in subsection (a), by striking to be administered by the Secretary and inserting to be managed, invested, and distributed by the Secretary and to remain available until expended, withdrawn, or reverted to the general fund of the Treasury, consisting of amounts deposited in the Fund under subsection (b), together with any investment earnings, including interest, earned on those amounts, ;
+**(2)**
+in subsections (b) and (c), by striking section 414 each place it appears and inserting section 415 ;
+**(3)**
+in subsection (c)—
+**(A)**
+in paragraph (3), by striking System and inserting Projects ; and
+**(B)**
+by adding at the end the following:
+(5) The MR&I Projects Account, to be established as soon as practicable after the date of enactment of the Crow Tribe Water Rights Settlement Amendments Act of 2025 , consisting of— (A) amounts made available pursuant to paragraphs (1) and (2) of section 415(b) that are appropriated after the date of enactment of the Crow Tribe Water Rights Settlement Amendments Act of 2025 ; and (B) amounts to be deposited pursuant to section 415(h)(2). ;
+**(4)**
+in subsection (e)—
+**(A)**
+in paragraph (2), by striking subparagraph (C) and inserting the following:
+(C) the American Indian Trust Fund Management Reform Act of 1994 ( 25 U.S.C. 4001 et seq. ). ; and
+**(B)**
+in paragraph (3)—
+**(i)**
+in subparagraph (A), by striking through (E) and inserting through (F) ;
+**(ii)**
+in subparagraph (C)(i), by striking section 412 and inserting section 413 ;
+**(iii)**
+in subparagraph (E)—
+**(I)**
+in the subparagraph heading, by striking System and inserting Projects ; and
+**(II)**
+by striking System each place it appears and inserting Projects ; and
+**(iv)**
+by adding at the end the following:
+(F) MR&I Projects Account Funds from the MR&I Projects Account shall be used for expenditures by the Tribe in accordance with the following: (i) Priority use of funds The Tribe shall use funds from the MR&I Projects Account— (I) to plan, permit, design, engineer, construct, reconstruct, replace, rehabilitate, operate, or repair water production, treatment, or delivery infrastructure, including for domestic and municipal use or wastewater infrastructure; and (II) to comply with applicable environmental laws for the activities described in subclause (I). (ii) Other use of funds After providing written notice to the Secretary that on-Reservation MR&I projects described in clause (i) are complete, the Tribe may use funds remaining in the MR&I Projects Account to purchase on-Reservation land with water rights. ;
+**(5)**
+in subsection (f)(2), by striking section 414 and inserting section 415 ; and
+**(6)**
+by adding at the end the following:
+(i) Title to infrastructure Title to, control over, and operation of any project constructed using funds from the MR&I Projects Account shall remain in the Tribe. (j) Operation, maintenance, and replacement The Federal Government shall have no obligation to pay for the operation, maintenance, or replacement of any MR&I Project. .
+##### (d) Crow CIP Implementation Account
+The Crow Tribe Water Rights Settlement Act of 2010 ( 31 U.S.C. 1101 note; Public Law 111–291 ) is amended—
+**(1)**
+by redesignating sections 412 through 416 as sections 413 through 417, respectively; and
+**(2)**
+by inserting after section 411 the following:
+412. Crow CIP Implementation Account (a) Establishment The Secretary shall establish a nontrust, interest-bearing account, to be known as the Crow CIP Implementation Account , to be managed and distributed by the Secretary. (b) Deposits The Secretary shall deposit in the Crow CIP Implementation Account— (1) amounts made available pursuant to paragraphs (1) and (2) of section 415(a) that are appropriated after the date of enactment of the Crow Tribe Water Rights Settlement Amendments Act of 2025 ; and (2) amounts to be deposited pursuant to section 415(h)(1). (c) Uses Amounts in the Crow CIP Implementation Account shall be used to carry out section 405. (d) Interest In addition to the deposits made into the Crow CIP Implementation Account pursuant to subsection (b), any investment earnings, including interest credited to amounts unexpended in the Crow CIP Implementation Account, shall be available for use in accordance with subsection (c). .
+##### (e) Yellowtail Dam, Montana
+Subsection (b)(1) of section 413 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3116) (as redesignated by subsection (d)(1)) is amended by striking 15 years and inserting 20 years .
+##### (f) Funding
+Section 415 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3120) (as redesignated by subsection (d)(1)) is amended—
+**(1)**
+in subsection (e)—
+**(A)**
+in the subsection heading, by striking System and inserting Projects ; and
+**(B)**
+by striking System and inserting Projects ;
+**(2)**
+by striking subsection (h) and inserting the following:
+(h) Joint signature accounts The Secretary shall take all actions necessary to authorize the withdrawal of funds, including principal and interest, held and maintained in joint signature accounts in accordance with the following: (1) Crow CIP Implementation Account In the special joint signature account named CIP Account established pursuant to the agreement with the Tribe dated October 19, 2011, for the purpose of transferring and depositing those funds in the Crow CIP Implementation Account established under section 412(a). (2) MR&I Projects Account In the special joint signature account named MR&I Account established pursuant to the agreement with the Tribe dated September 13, 2012, for the purpose of transferring and depositing those funds in the MR&I Projects Account established pursuant to section 411(c)(5). ; and
+**(3)**
+by adding at the end the following:
+(j) MR&I Projects Account fluctuations in costs (1) Indexing adjustment Amounts deposited in the MR&I Projects Account pursuant to section 411(c)(5)(A) shall be increased or decreased, as appropriate, by such amounts as may be justified by reason of ordinary fluctuations in costs occurring after May 1, 2008, as indicated by the Bureau of Reclamation Construction Cost Index–Composite Trend. (2) Period of indexing The period of indexing adjustment under paragraph (1), for any increment of funding, shall end on the date on which the amounts are deposited in the MR&I Projects Account. .
+##### (g) Technical and conforming amendments
+**(1)**
+Section 403(9) of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3098) is amended by striking ( 25 U.S.C. 450b ) and inserting ( 25 U.S.C. 5304 ) .
+**(2)**
+Section 409(b) of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3108) is amended, in each of paragraphs (1) and (2), by striking section 414 and inserting section 415 .
+**(3)**
+Section 410(e)(1) of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3112) is amended—
+**(A)**
+in subparagraph (B), by striking section 414 and inserting section 415 ; and
+**(B)**
+in subparagraph (C), by striking agreements with the Tribe required by sections 405(a) and 406(a) and inserting agreement with the Tribe required by section 405(a) .
+**(4)**
+Section 416 of the Crow Tribe Water Rights Settlement Act of 2010 ( 31 U.S.C. 1105 note; Public Law 111–291 ) (as redesignated by subsection (d)(1)) is amended, in each of paragraphs (3) and (4), by striking section 414 and inserting section 415 .
+##### (h) Clerical amendment
+The table of contents for the Claims Resolution Act of 2010 ( Public Law 111–291 ; 124 Stat. 3064) is amended by striking the items relating to sections 407 through 416 and inserting the following:
+Sec. 407. Tribal water rights. Sec. 408. Storage allocation from Bighorn Lake. Sec. 409. Satisfaction of claims. Sec. 410. Waivers and releases of claims. Sec. 411. Crow Settlement Fund. Sec. 412. Crow CIP Implementation Account. Sec. 413. Yellowtail Dam, Montana. Sec. 414. Miscellaneous provisions. Sec. 415. Funding. Sec. 416. Repeal on failure to meet enforceability date. Sec. 417. Antideficiency. .
+
+### Reported in Senate
+- Date: 2025-11-04
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s240rs.xml
+
+II
+Calendar No. 260
+119th CONGRESS
+1st Session
+S. 240
+[Report No. 119–93]
+IN THE SENATE OF THE UNITED STATES
+January 24, 2025 Mr. Daines (for himself and Mr. Sheehy ) introduced the following bill; which was read twice and referred to the Committee on Indian Affairs
+November 4, 2025 Reported by Ms. Murkowski , without amendment
+A BILL
+To amend the Crow Tribe Water Rights Settlement Act of 2010 to make improvements to that Act, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Crow Tribe Water Rights Settlement Amendments Act of 2025 .
+#### 2. Crow Tribe water rights settlement
+##### (a) Definitions
+Section 403 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3097) is amended—
+**(1)**
+by striking paragraph (11) and inserting the following:
+(11) MR&I Project The term MR&I Project means an activity described in clauses (i) through (iii) of section 411(e)(3)(F) . ; and
+**(2)**
+in paragraph (12)—
+**(A)**
+in the paragraph heading, by striking System and inserting Projects ; and
+**(B)**
+in subparagraphs (A) through (C), by striking System each place it appears and inserting Projects .
+##### (b) Repeal of MR&I System
+**(1) In general**
+Section 406 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3102) is repealed.
+**(2) Clerical amendment**
+The table of contents for the Claims Resolution Act of 2010 ( Public Law 111–291 ; 124 Stat. 3064) is amended by striking the item relating to section 406.
+##### (c) Crow Settlement Fund
+Section 411 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3113) is amended—
+**(1)**
+in subsection (a), by striking to be administered by the Secretary and inserting to be managed, invested, and distributed by the Secretary and to remain available until expended, withdrawn, or reverted to the general fund of the Treasury, consisting of amounts deposited in the Fund under subsection (b), together with any investment earnings, including interest, earned on those amounts, ;
+**(2)**
+in subsections (b) and (c), by striking section 414 each place it appears and inserting section 415 ;
+**(3)**
+in subsection (c)—
+**(A)**
+in paragraph (3), by striking System and inserting Projects ; and
+**(B)**
+by adding at the end the following:
+(5) The MR&I Projects Account, to be established as soon as practicable after the date of enactment of the Crow Tribe Water Rights Settlement Amendments Act of 2025 , consisting of— (A) amounts made available pursuant to paragraphs (1) and (2) of section 415(b) that are appropriated after the date of enactment of the Crow Tribe Water Rights Settlement Amendments Act of 2025 ; and (B) amounts to be deposited pursuant to section 415(h)(2). ;
+**(4)**
+in subsection (e)—
+**(A)**
+in paragraph (2), by striking subparagraph (C) and inserting the following:
+(C) the American Indian Trust Fund Management Reform Act of 1994 ( 25 U.S.C. 4001 et seq. ). ; and
+**(B)**
+in paragraph (3)—
+**(i)**
+in subparagraph (A), by striking through (E) and inserting through (F) ;
+**(ii)**
+in subparagraph (C)(i), by striking section 412 and inserting section 413 ;
+**(iii)**
+in subparagraph (E)—
+**(I)**
+in the subparagraph heading, by striking System and inserting Projects ; and
+**(II)**
+by striking System each place it appears and inserting Projects ; and
+**(iv)**
+by adding at the end the following:
+(F) MR&I Projects Account Funds from the MR&I Projects Account shall be used for expenditures by the Tribe in accordance with the following: (i) Priority use of funds The Tribe shall use funds from the MR&I Projects Account— (I) to plan, permit, design, engineer, construct, reconstruct, replace, rehabilitate, operate, or repair water production, treatment, or delivery infrastructure, including for domestic and municipal use or wastewater infrastructure; and (II) to comply with applicable environmental laws for the activities described in subclause (I). (ii) Other use of funds After providing written notice to the Secretary that on-Reservation MR&I projects described in clause (i) are complete, the Tribe may use funds remaining in the MR&I Projects Account to purchase on-Reservation land with water rights. ;
+**(5)**
+in subsection (f)(2), by striking section 414 and inserting section 415 ; and
+**(6)**
+by adding at the end the following:
+(i) Title to infrastructure Title to, control over, and operation of any project constructed using funds from the MR&I Projects Account shall remain in the Tribe. (j) Operation, maintenance, and replacement The Federal Government shall have no obligation to pay for the operation, maintenance, or replacement of any MR&I Project. .
+##### (d) Crow CIP Implementation Account
+The Crow Tribe Water Rights Settlement Act of 2010 ( 31 U.S.C. 1101 note; Public Law 111–291 ) is amended—
+**(1)**
+by redesignating sections 412 through 416 as sections 413 through 417, respectively; and
+**(2)**
+by inserting after section 411 the following:
+412. Crow CIP Implementation Account (a) Establishment The Secretary shall establish a nontrust, interest-bearing account, to be known as the Crow CIP Implementation Account , to be managed and distributed by the Secretary. (b) Deposits The Secretary shall deposit in the Crow CIP Implementation Account— (1) amounts made available pursuant to paragraphs (1) and (2) of section 415(a) that are appropriated after the date of enactment of the Crow Tribe Water Rights Settlement Amendments Act of 2025 ; and (2) amounts to be deposited pursuant to section 415(h)(1). (c) Uses Amounts in the Crow CIP Implementation Account shall be used to carry out section 405. (d) Interest In addition to the deposits made into the Crow CIP Implementation Account pursuant to subsection (b), any investment earnings, including interest credited to amounts unexpended in the Crow CIP Implementation Account, shall be available for use in accordance with subsection (c). .
+##### (e) Yellowtail Dam, Montana
+Subsection (b)(1) of section 413 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3116) (as redesignated by subsection (d)(1)) is amended by striking 15 years and inserting 20 years .
+##### (f) Funding
+Section 415 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3120) (as redesignated by subsection (d)(1)) is amended—
+**(1)**
+in subsection (e)—
+**(A)**
+in the subsection heading, by striking System and inserting Projects ; and
+**(B)**
+by striking System and inserting Projects ;
+**(2)**
+by striking subsection (h) and inserting the following:
+(h) Joint signature accounts The Secretary shall take all actions necessary to authorize the withdrawal of funds, including principal and interest, held and maintained in joint signature accounts in accordance with the following: (1) Crow CIP Implementation Account In the special joint signature account named CIP Account established pursuant to the agreement with the Tribe dated October 19, 2011, for the purpose of transferring and depositing those funds in the Crow CIP Implementation Account established under section 412(a). (2) MR&I Projects Account In the special joint signature account named MR&I Account established pursuant to the agreement with the Tribe dated September 13, 2012, for the purpose of transferring and depositing those funds in the MR&I Projects Account established pursuant to section 411(c)(5). ; and
+**(3)**
+by adding at the end the following:
+(j) MR&I Projects Account fluctuations in costs (1) Indexing adjustment Amounts deposited in the MR&I Projects Account pursuant to section 411(c)(5)(A) shall be increased or decreased, as appropriate, by such amounts as may be justified by reason of ordinary fluctuations in costs occurring after May 1, 2008, as indicated by the Bureau of Reclamation Construction Cost Index–Composite Trend. (2) Period of indexing The period of indexing adjustment under paragraph (1), for any increment of funding, shall end on the date on which the amounts are deposited in the MR&I Projects Account. .
+##### (g) Technical and conforming amendments
+**(1)**
+Section 403(9) of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3098) is amended by striking ( 25 U.S.C. 450b ) and inserting ( 25 U.S.C. 5304 ) .
+**(2)**
+Section 409(b) of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3108) is amended, in each of paragraphs (1) and (2), by striking section 414 and inserting section 415 .
+**(3)**
+Section 410(e)(1) of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3112) is amended—
+**(A)**
+in subparagraph (B), by striking section 414 and inserting section 415 ; and
+**(B)**
+in subparagraph (C), by striking agreements with the Tribe required by sections 405(a) and 406(a) and inserting agreement with the Tribe required by section 405(a) .
+**(4)**
+Section 416 of the Crow Tribe Water Rights Settlement Act of 2010 ( 31 U.S.C. 1105 note; Public Law 111–291 ) (as redesignated by subsection (d)(1)) is amended, in each of paragraphs (3) and (4), by striking section 414 and inserting section 415 .
+##### (h) Clerical amendment
+The table of contents for the Claims Resolution Act of 2010 ( Public Law 111–291 ; 124 Stat. 3064) is amended by striking the items relating to sections 407 through 416 and inserting the following:
+Sec. 407. Tribal water rights. Sec. 408. Storage allocation from Bighorn Lake. Sec. 409. Satisfaction of claims. Sec. 410. Waivers and releases of claims. Sec. 411. Crow Settlement Fund. Sec. 412. Crow CIP Implementation Account. Sec. 413. Yellowtail Dam, Montana. Sec. 414. Miscellaneous provisions. Sec. 415. Funding. Sec. 416. Repeal on failure to meet enforceability date. Sec. 417. Antideficiency. .
+
+### Engrossed in Senate
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s240es.xml
+
+119th CONGRESS
+1st Session
+S. 240
+IN THE SENATE OF THE UNITED STATES
+AN ACT
+To amend the Crow Tribe Water Rights Settlement Act of 2010 to make improvements to that Act, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Crow Tribe Water Rights Settlement Amendments Act of 2025 .
+#### 2. Crow Tribe water rights settlement
+##### (a) Definitions
+Section 403 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3097) is amended—
+**(1)**
+by striking paragraph (11) and inserting the following:
+(11) MR&I Project The term MR&I Project means an activity described in clauses (i) through (iii) of section 411(e)(3)(F) . ; and
+**(2)**
+in paragraph (12)—
+**(A)**
+in the paragraph heading, by striking System and inserting Projects ; and
+**(B)**
+in subparagraphs (A) through (C), by striking System each place it appears and inserting Projects .
+##### (b) Repeal of MR&I System
+**(1) In general**
+Section 406 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3102) is repealed.
+**(2) Clerical amendment**
+The table of contents for the Claims Resolution Act of 2010 ( Public Law 111–291 ; 124 Stat. 3064) is amended by striking the item relating to section 406.
+##### (c) Crow Settlement Fund
+Section 411 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3113) is amended—
+**(1)**
+in subsection (a), by striking to be administered by the Secretary and inserting to be managed, invested, and distributed by the Secretary and to remain available until expended, withdrawn, or reverted to the general fund of the Treasury, consisting of amounts deposited in the Fund under subsection (b), together with any investment earnings, including interest, earned on those amounts, ;
+**(2)**
+in subsections (b) and (c), by striking section 414 each place it appears and inserting section 415 ;
+**(3)**
+in subsection (c)—
+**(A)**
+in paragraph (3), by striking System and inserting Projects ; and
+**(B)**
+by adding at the end the following:
+(5) The MR&I Projects Account, to be established as soon as practicable after the date of enactment of the Crow Tribe Water Rights Settlement Amendments Act of 2025 , consisting of— (A) amounts made available pursuant to paragraphs (1) and (2) of section 415(b) that are appropriated after the date of enactment of the Crow Tribe Water Rights Settlement Amendments Act of 2025 ; and (B) amounts to be deposited pursuant to section 415(h)(2). ;
+**(4)**
+in subsection (e)—
+**(A)**
+in paragraph (2), by striking subparagraph (C) and inserting the following:
+(C) the American Indian Trust Fund Management Reform Act of 1994 ( 25 U.S.C. 4001 et seq. ). ; and
+**(B)**
+in paragraph (3)—
+**(i)**
+in subparagraph (A), by striking through (E) and inserting through (F) ;
+**(ii)**
+in subparagraph (C)(i), by striking section 412 and inserting section 413 ;
+**(iii)**
+in subparagraph (E)—
+**(I)**
+in the subparagraph heading, by striking System and inserting Projects ; and
+**(II)**
+by striking System each place it appears and inserting Projects ; and
+**(iv)**
+by adding at the end the following:
+(F) MR&I Projects Account Funds from the MR&I Projects Account shall be used for expenditures by the Tribe in accordance with the following: (i) Priority use of funds The Tribe shall use funds from the MR&I Projects Account— (I) to plan, permit, design, engineer, construct, reconstruct, replace, rehabilitate, operate, or repair water production, treatment, or delivery infrastructure, including for domestic and municipal use or wastewater infrastructure; and (II) to comply with applicable environmental laws for the activities described in subclause (I). (ii) Other use of funds After providing written notice to the Secretary that on-Reservation MR&I projects described in clause (i) are complete, the Tribe may use funds remaining in the MR&I Projects Account to purchase on-Reservation land with water rights. ;
+**(5)**
+in subsection (f)(2), by striking section 414 and inserting section 415 ; and
+**(6)**
+by adding at the end the following:
+(i) Title to infrastructure Title to, control over, and operation of any project constructed using funds from the MR&I Projects Account shall remain in the Tribe. (j) Operation, maintenance, and replacement The Federal Government shall have no obligation to pay for the operation, maintenance, or replacement of any MR&I Project. .
+##### (d) Crow CIP Implementation Account
+The Crow Tribe Water Rights Settlement Act of 2010 ( 31 U.S.C. 1101 note; Public Law 111–291 ) is amended—
+**(1)**
+by redesignating sections 412 through 416 as sections 413 through 417, respectively; and
+**(2)**
+by inserting after section 411 the following:
+412. Crow CIP Implementation Account (a) Establishment The Secretary shall establish a nontrust, interest-bearing account, to be known as the Crow CIP Implementation Account , to be managed and distributed by the Secretary. (b) Deposits The Secretary shall deposit in the Crow CIP Implementation Account— (1) amounts made available pursuant to paragraphs (1) and (2) of section 415(a) that are appropriated after the date of enactment of the Crow Tribe Water Rights Settlement Amendments Act of 2025 ; and (2) amounts to be deposited pursuant to section 415(h)(1). (c) Uses Amounts in the Crow CIP Implementation Account shall be used to carry out section 405. (d) Interest In addition to the deposits made into the Crow CIP Implementation Account pursuant to subsection (b), any investment earnings, including interest credited to amounts unexpended in the Crow CIP Implementation Account, shall be available for use in accordance with subsection (c). .
+##### (e) Yellowtail Dam, Montana
+Subsection (b)(1) of section 413 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3116) (as redesignated by subsection (d)(1)) is amended by striking 15 years and inserting 20 years .
+##### (f) Funding
+Section 415 of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3120) (as redesignated by subsection (d)(1)) is amended—
+**(1)**
+in subsection (e)—
+**(A)**
+in the subsection heading, by striking System and inserting Projects ; and
+**(B)**
+by striking System and inserting Projects ;
+**(2)**
+by striking subsection (h) and inserting the following:
+(h) Joint signature accounts The Secretary shall take all actions necessary to authorize the withdrawal of funds, including principal and interest, held and maintained in joint signature accounts in accordance with the following: (1) Crow CIP Implementation Account In the special joint signature account named CIP Account established pursuant to the agreement with the Tribe dated October 19, 2011, for the purpose of transferring and depositing those funds in the Crow CIP Implementation Account established under section 412(a). (2) MR&I Projects Account In the special joint signature account named MR&I Account established pursuant to the agreement with the Tribe dated September 13, 2012, for the purpose of transferring and depositing those funds in the MR&I Projects Account established pursuant to section 411(c)(5). ; and
+**(3)**
+by adding at the end the following:
+(j) MR&I Projects Account fluctuations in costs (1) Indexing adjustment Amounts deposited in the MR&I Projects Account pursuant to section 411(c)(5)(A) shall be increased or decreased, as appropriate, by such amounts as may be justified by reason of ordinary fluctuations in costs occurring after May 1, 2008, as indicated by the Bureau of Reclamation Construction Cost Index–Composite Trend. (2) Period of indexing The period of indexing adjustment under paragraph (1), for any increment of funding, shall end on the date on which the amounts are deposited in the MR&I Projects Account. .
+##### (g) Technical and conforming amendments
+**(1)**
+Section 403(9) of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3098) is amended by striking ( 25 U.S.C. 450b ) and inserting ( 25 U.S.C. 5304 ) .
+**(2)**
+Section 409(b) of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3108) is amended, in each of paragraphs (1) and (2), by striking section 414 and inserting section 415 .
+**(3)**
+Section 410(e)(1) of the Crow Tribe Water Rights Settlement Act of 2010 ( Public Law 111–291 ; 124 Stat. 3112) is amended—
+**(A)**
+in subparagraph (B), by striking section 414 and inserting section 415 ; and
+**(B)**
+in subparagraph (C), by striking agreements with the Tribe required by sections 405(a) and 406(a) and inserting agreement with the Tribe required by section 405(a) .
+**(4)**
+Section 416 of the Crow Tribe Water Rights Settlement Act of 2010 ( 31 U.S.C. 1105 note; Public Law 111–291 ) (as redesignated by subsection (d)(1)) is amended, in each of paragraphs (3) and (4), by striking section 414 and inserting section 415 .
+##### (h) Clerical amendment
+The table of contents for the Claims Resolution Act of 2010 ( Public Law 111–291 ; 124 Stat. 3064) is amended by striking the items relating to sections 407 through 416 and inserting the following:
+Sec. 407. Tribal water rights. Sec. 408. Storage allocation from Bighorn Lake. Sec. 409. Satisfaction of claims. Sec. 410. Waivers and releases of claims. Sec. 411. Crow Settlement Fund. Sec. 412. Crow CIP Implementation Account. Sec. 413. Yellowtail Dam, Montana. Sec. 414. Miscellaneous provisions. Sec. 415. Funding. Sec. 416. Repeal on failure to meet enforceability date. Sec. 417. Antideficiency. .
+
+
+## Timeline
+
+- 2025-01-24: Introduced in Senate
+- 2025-01-24 - IntroReferral: Introduced in Senate
+- 2025-01-24 - IntroReferral: Read twice and referred to the Committee on Indian Affairs.
+- 2025-03-05 - Committee: Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2025-11-04 - Committee: Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-93.
+- 2025-11-04 - Committee: Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-93.
+- 2025-11-04 - Calendars: Placed on Senate Legislative Calendar under General Orders. Calendar No. 260.
+- 2025-12-11 - Floor: Passed Senate without amendment by Unanimous Consent. (consideration: CR S8691-8692; text: CR S8691-8692)
+- 2025-12-11 - Floor: Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-15 - Floor: Message on Senate action sent to the House.
+- 2025-12-15 16:06:04 - Floor: Received in the House.
+- 2025-12-15 16:18:07 - Floor: Held at the desk.
+- Latest action: 2025-01-24: Introduced in Senate

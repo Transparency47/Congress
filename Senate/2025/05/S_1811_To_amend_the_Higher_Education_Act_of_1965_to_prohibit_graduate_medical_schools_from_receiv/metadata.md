@@ -1,0 +1,248 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/s/1811?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-bill/1811
+- Title: Embracing Anti-Discrimination, Unbiased Curricula, and Advancing Truth in Education Act
+- Congress: 119
+- Bill type: S
+- Bill number: 1811
+- Origin chamber: Senate
+- Introduced date: 2025-05-20
+- Update date: 2025-12-05T22:07:33Z
+- Update date including text: 2025-12-05T22:07:33Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-05-20: Introduced in Senate
+- 2025-05-20 - IntroReferral: Introduced in Senate
+- 2025-05-20 - IntroReferral: Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- Latest action: 2025-05-20: Introduced in Senate
+
+## Actions
+
+- 2025-05-20 - IntroReferral: Introduced in Senate
+- 2025-05-20 - IntroReferral: Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-05-20",
+    "latestAction": {
+      "actionDate": "2025-05-20",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1811",
+    "number": "1811",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000393",
+        "district": "",
+        "firstName": "John",
+        "fullName": "Sen. Kennedy, John [R-LA]",
+        "lastName": "Kennedy",
+        "party": "R",
+        "state": "LA"
+      }
+    ],
+    "title": "Embracing Anti-Discrimination, Unbiased Curricula, and Advancing Truth in Education Act",
+    "type": "S",
+    "updateDate": "2025-12-05T22:07:33Z",
+    "updateDateIncludingText": "2025-12-05T22:07:33Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2025-05-20",
+      "committees": {
+        "item": {
+          "name": "Health, Education, Labor, and Pensions Committee",
+          "systemCode": "sshr00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2025-05-20",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-05-20T18:27:13Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "Senate",
+      "name": "Health, Education, Labor, and Pensions Committee",
+      "systemCode": "sshr00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "S001227",
+      "firstName": "Eric",
+      "fullName": "Sen. Schmitt, Eric [R-MO]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Schmitt",
+      "middleName": "S.",
+      "party": "R",
+      "sponsorshipDate": "2025-05-20",
+      "state": "MO"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1811is.xml",
+      "text": "II\n119th CONGRESS\n1st Session\nS. 1811\nIN THE SENATE OF THE UNITED STATES\nMay 20, 2025 Mr. Kennedy (for himself and Mr. Schmitt ) introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions\nA BILL\nTo amend the Higher Education Act of 1965 to prohibit graduate medical schools from receiving Federal financial assistance if such schools adopt certain policies and requirements relating to diversity, equity, and inclusion.\n#### 1. Short title\nThis Act may be cited as the Embracing Anti-Discrimination, Unbiased Curricula, and Advancing Truth in Education Act or the EDUCATE Act .\n#### 2. Limitation on availability of funds for certain graduate medical schools\nPart B of title I of the Higher Education Act of 1965 ( 20 U.S.C. 1011 et seq. ) is amended by adding at the end the following:\n124. Limitation on availability of funds for certain graduate medical schools (a) Limitation Notwithstanding any other provision of law, no graduate medical school at an institution of higher education shall be eligible to receive funds or any other form of financial assistance under any Federal program, including participation in any federally funded or guaranteed student loan program, unless the institution submits the following certifications to the Secretary: (1) A certification that the institution does not, and will not, do any of the following: (A) Direct or compel faculty, staff, or students of the medical school to personally state, pledge, recite, or otherwise express any of the following tenets as a precondition of receiving any benefit, program access, instruction, privilege, employment, admission, or other such matter: (i) That any sex, race, ethnicity, religion, color, or national origin makes an individual a member of oppressed or oppressor categories. (ii) That individuals should be adversely treated on the basis of their sex, race, ethnicity, religion, color, or national origin. (iii) That individuals, by virtue of sex, race, ethnicity, religion, color, or national origin, are inherently responsible for actions committed in the past by other members of the same sex, race, ethnicity, religion, color, or national origin. (iv) That America is systemically, structurally, or institutionally racist, or that racism is weaved into the ordinary business of society , or that America is an oppressive nation. (B) Take any action that would deprive or tend to deprive a medical student of educational opportunities or otherwise adversely affect their status as a student, on the basis of race, ethnicity, color, or national origin, including\u2014 (i) making a distinction or classification of medical school students on the basis of race, ethnicity, color, or national origin; (ii) establishing a privilege or benefit for students solely on the basis of race, ethnicity, color, or national origin; (iii) providing a course of instruction for students solely on the basis of race, ethnicity, color, or national origin; or (iv) otherwise distinguishing students by race, ethnicity, color, or national origin. (C) Require a course of instruction or unit of study at the medical school directing or otherwise compelling students, faculty, or staff to personally state, pledge, recite, assert, or otherwise adopt any of the tenets specified in subparagraph (A). (D) Establish, maintain, or contract with a diversity, equity, and inclusion office, or any other functional equivalent of such an office, to serve the medical school. (E) Require or incentivize an individual to complete a diversity statement professing or adhering to diversity, equity, and inclusion as a condition of, or benefit in, admission or employment at such school. (2) A certification that the institution will comply with all applicable civil rights laws, including\u2014 (A) titles IV and VI of the Civil Rights Act of 1964 ( 42 U.S.C. 2000c et seq. ; 2000d et seq.); (B) title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq); (C) section 504 of the Rehabilitation Act of 1973 ( 29 U.S.C. 794 ); (D) the Age Discrimination Act of 1975 ( 42 U.S.C. 6101 et seq. ); and (E) any regulations, guidelines, and standards issued by the Department of Education under any applicable civil rights laws. (b) Definitions In this section: (1) Diversity, equity, and inclusion office The term diversity, equity, and inclusion office means any component of an institution of higher education, including any division, unit, or center of such an institution, that is responsible for directing or compelling faculty, staff, or students to state, pledge, recite, assert, or otherwise express ideas as a precondition of receiving any benefit, program access, instruction, privilege, employment, admission, or other such matter in violation of title IV or title VI of the Civil Rights Act of 1964 ( 42 U.S.C. 2000c et seq. ; 2000d et seq.). (2) Diversity statement The term diversity statement means any written or oral statement that\u2014 (A) asserts that individuals of any race, sex, ethnicity, color, or national origin are inherently superior or inferior; (B) asserts that individuals should be adversely or advantageously treated on the basis of their race, sex, ethnicity, color, or national origin; or (C) asserts that individuals, by virtue of race, sex, ethnicity, color, or national origin, bear collective guilt and are inherently responsible for actions committed in the past by other members of the same race, ethnicity, color, or national origin. (3) Institution of higher education The term institution of higher education has the meaning given that term in section 102. .\n#### 3. Conforming requirements for accrediting agencies and associations\nSection 496(a) of the Higher Education Act of 1965 ( 20 U.S.C. 1099b(a) ) is amended\u2014\n**(1)**\nin paragraph (7), by striking and at the end;\n**(2)**\nin paragraph (8), by striking the period at the end and inserting ; and ; and\n**(3)**\nby adding at the end the following:\n(9) if such agency or association has or seeks to include within its scope of recognition the evaluation of the quality of institutions or programs offering graduate medical education, such agency or association shall, in addition to meeting the other requirements of this subpart, demonstrate to the Secretary that the agency or association does not require an institution or program to adopt any policies or other requirements in contravention of section 124 as a condition of receiving accreditation from the agency or association. .\n#### 4. Rules of construction\nNothing in this Act or the amendments made by this Act shall be construed\u2014\n**(1)**\nto prohibit a graduate medical school at an institution of higher education from\u2014\n**(A)**\nproviding instruction about unique medical needs or conditions that may be related to an individual\u2019s sex, race, or other characteristics; or\n**(B)**\ncollecting and maintaining demographic data on students solely for informational purposes;\n**(2)**\nin the case of an institution with a religious mission, to require or incentivize the institution to take any action that is contrary to the tenets of such religion; or\n**(3)**\nto restrict or prohibit\u2014\n**(A)**\nthe exercise of First Amendment rights by anyone lawfully present on the grounds of an institution of higher education (as defined in section 102 of the Higher Education Act of 1965 ( 20 U.S.C. 1002 ));\n**(B)**\nacademic instruction at such an institution, except to the extent required under section 124(a)(1)(C) of the Higher Education Act of 1965 (as added by section 2);\n**(C)**\nresearch operations at such an institution;\n**(D)**\nthe operations of student organizations at such an institution;\n**(E)**\nthe invitation of lecturers and other guest speakers to such an institution; or\n**(F)**\nthe ability of an institution to comply with Federal and State anti-discrimination laws.\n#### 5. Severability\nIf any provision of this Act or an amendment made by this Act is held invalid, the remainder of this Act and the amendments made by this Act shall not be affected thereby.",
+      "versionDate": "2025-05-20",
+      "versionType": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-05-20",
+        "text": "Referred to the House Committee on Education and Workforce."
+      },
+      "number": "3518",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "To amend the Higher Education Act of 1965 to prohibit graduate medical schools from receiving Federal financial assistance if such schools adopt certain policies and requirements relating to diversity, equity, and inclusion.",
+      "type": "HR"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Education",
+        "updateDate": "2025-05-30T14:19:38Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-05-20",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1811is.xml"
+        }
+      ],
+      "type": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Embracing Anti-Discrimination, Unbiased Curricula, and Advancing Truth in Education Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-05-30T02:08:18Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "Embracing Anti-Discrimination, Unbiased Curricula, and Advancing Truth in Education Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-05-30T02:08:17Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A bill to amend the Higher Education Act of 1965 to prohibit graduate medical schools from receiving Federal financial assistance if such schools adopt certain policies and requirements relating to diversity, equity, and inclusion.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-05-30T02:03:23Z"
+    }
+  ]
+}
+```

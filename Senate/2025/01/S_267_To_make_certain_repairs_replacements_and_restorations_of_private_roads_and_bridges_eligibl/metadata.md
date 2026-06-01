@@ -1,0 +1,308 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/s/267?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-bill/267
+- Title: Restoring Access to Mountain Homes Act
+- Congress: 119
+- Bill type: S
+- Bill number: 267
+- Origin chamber: Senate
+- Introduced date: 2025-01-28
+- Update date: 2025-12-05T22:50:12Z
+- Update date including text: 2025-12-05T22:50:12Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, summaries, text, titles
+
+## Timeline
+
+- 2025-01-28: Introduced in Senate
+- 2025-01-28 - IntroReferral: Introduced in Senate
+- 2025-01-28 - IntroReferral: Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- Latest action: 2025-01-28: Introduced in Senate
+
+## Actions
+
+- 2025-01-28 - IntroReferral: Introduced in Senate
+- 2025-01-28 - IntroReferral: Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-01-28",
+    "latestAction": {
+      "actionDate": "2025-01-28",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/267",
+    "number": "267",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Emergency Management"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001305",
+        "district": "",
+        "firstName": "Ted",
+        "fullName": "Sen. Budd, Ted [R-NC]",
+        "lastName": "Budd",
+        "party": "R",
+        "state": "NC"
+      }
+    ],
+    "title": "Restoring Access to Mountain Homes Act",
+    "type": "S",
+    "updateDate": "2025-12-05T22:50:12Z",
+    "updateDateIncludingText": "2025-12-05T22:50:12Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2025-01-28",
+      "committees": {
+        "item": {
+          "name": "Homeland Security and Governmental Affairs Committee",
+          "systemCode": "ssga00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2025-01-28",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-01-28T17:12:00Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "Senate",
+      "name": "Homeland Security and Governmental Affairs Committee",
+      "systemCode": "ssga00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "T000476",
+      "firstName": "Thomas",
+      "fullName": "Sen. Tillis, Thomas [R-NC]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Tillis",
+      "middleName": "Roland",
+      "party": "R",
+      "sponsorshipDate": "2025-01-28",
+      "state": "NC"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s267is.xml",
+      "text": "II\n119th CONGRESS\n1st Session\nS. 267\nIN THE SENATE OF THE UNITED STATES\nJanuary 28, 2025 Mr. Budd (for himself and Mr. Tillis ) introduced the following bill; which was read twice and referred to the Committee on Homeland Security and Governmental Affairs\nA BILL\nTo make certain repairs, replacements, and restorations of private roads and bridges eligible for reimbursement under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Restoring Access to Mountain Homes Act .\n#### 2. Reimbursement for repair, replacement, and restoration work on private roads and bridges impacted by Tropical Storm Helene\n##### (a) Eligibility for reimbursement\nNotwithstanding any provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq. ) or the regulations governing the public assistance program of the Federal Emergency Management Agency under such Act, the State, Indian Tribal, and local governments in North Carolina covered under major disaster declaration FEMA\u20134827\u2013DR\u2013NC (relating to Tropical Storm Helene) shall be eligible for reimbursement for the cost of repairs, replacements, or restoration to private roads and bridges, without regard to pre-existing condition, under section 428 of such Act ( 42 U.S.C. 5189f ) that\u2014\n**(1)**\nare used as the sole means of access to primary residences or essential community services;\n**(2)**\nare significantly damaged or destroyed as a direct result of Tropical Storm Helene as identified in FEMA\u20134827\u2013DR\u2013NC; and\n**(3)**\ndoes not duplicate work that has already been completed.\n##### (b) Conditions of reimbursement\nReimbursement under this section shall be subject to the following conditions:\n**(1)**\nPrivate roads or bridges shall be inspected by appropriate State, Indian Tribal, or local government officials or their designees to verify the scope, need, and cost-effectiveness of any mitigation measures for the proposed repair, replacement, or restoration.\n**(2)**\nThe State, Indian Tribal, or local governments requesting assistance shall ensure that the private roads or bridges being repaired, replaced, or restored remain open for disaster recovery activities for the duration of the repair, replacement, or restoration process.\n**(3)**\nThe State or Indian Tribal governments shall be responsible for documenting all costs associated with repairs, replacements, or restorations within their jurisdiction in accordance with Federal Emergency Management Agency policy.\n**(4)**\nThe State, Indian Tribal, or local government applying for public assistance funding shall obtain authority or permission to perform the work to permanently repair, replace, or restore the private roads and bridges.\n**(5)**\nThe State, Indian Tribal, or local government applying for public assistance funding shall ensure the work under this section is performed in compliance with all applicable State and Federal regulations and requirements that pertain to work that is permanent in nature.\n##### (c) Duplication of benefits\n**(1) In general**\nAny individual or household that has received assistance prior to the date of enactment of this Act pursuant to section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5174 ) for the purposes of repairing a private road or bridge eligible under this section may proceed with such repairs or return any such assistance to have such repair eligible pursuant to this section.\n**(2) Calculation**\nIn the event the individual or household chooses to proceed with such repairs utilizing assistance provided pursuant to section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5174 ) for a private road or bridge, such assistance shall not be counted against the maximum amount of assistance for such individual or household under such section.\n##### (d) Eligible cost\n**(1) In general**\nIn determining eligible costs, the Administrator shall base such determinations on properly conducted and certified cost estimates prepared by professionally licensed engineers (mutually agreed upon by the Administrator and the applicant).\n**(2) Use of estimates**\nOnce certified by a professionally licensed engineer under paragraph (1) and accepted by the Administrator, the estimates on which grants made pursuant to this section are based shall be presumed to be reasonable and eligible costs, as long as there is no evidence of fraud.",
+      "versionDate": "2025-01-28",
+      "versionType": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-01-29",
+        "text": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management."
+      },
+      "number": "760",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "Restoring Access to Mountain Homes Act",
+      "type": "HR"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Emergency Management",
+        "updateDate": "2025-05-01T21:21:19Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: summaries
+
+```json
+{
+  "govinfoBulk": {
+    "introducedDate": "2025-01-28",
+    "originChamber": "Senate",
+    "payload": {
+      "dublinCore": {
+        "contributor": "Congressional Research Service, Library of Congress",
+        "description": "This file contains bill summaries for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is \"to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives\". For more information, refer to the User Guide that accompanies this file.",
+        "format": "text/xml",
+        "language": "EN",
+        "rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      },
+      "item": {
+        "@attributes": {
+          "congress": "119",
+          "measure-id": "id119s267",
+          "measure-number": "267",
+          "measure-type": "s",
+          "orig-publish-date": "2025-01-28",
+          "originChamber": "SENATE",
+          "update-date": "2025-05-20"
+        },
+        "summary": {
+          "@attributes": {
+            "currentChamber": "SENATE",
+            "summary-id": "id119s267v00",
+            "update-date": "2025-05-20"
+          },
+          "action-date": "2025-01-28",
+          "action-desc": "Introduced in Senate",
+          "summary-text": "<p><strong>Restoring Access to Mountain Homes Act</strong></p><p>This bill authorizes the Federal Emergency Management Agency (FEMA) to provide Public Assistance (PA) grant funding, under certain conditions, to reimburse government entities covered under the major disaster declaration for North Carolina relating to Tropical Storm Helene for the costs of repairing, replacing, or restoring private roads and bridges damaged by Helene.</p><p>Under current law, the PA program provides grants for repairing disaster damage to infrastructure owned or legally maintained by government entities (or certain\u00a0nonprofits). The bill authorizes PA funding for permanent repair work on privately\u00a0owned and maintained roads and bridges significantly damaged by Helene in North Carolina, as costs incurred by state, tribal, or local governments for such work are eligible for reimbursement. \u00a0\u00a0</p><p>Also, under current law, the costs of repairing damage that existed before the disaster are generally ineligible for PA. The bill makes the repair, replacement, or restoration costs eligible for reimbursement under PA regardless of pre-existing condition.</p><p>Additionally, the bill contains criteria and conditions for reimbursement, including that to be eligible a road or bridge must be used as the sole means of accessing primary residences or essential community services. Reimbursement is under PA\u2019s alternative procedures, and the bill requires\u00a0FEMA to determine eligible costs based on estimates prepared by engineers.</p><p>Recipients of funds from\u00a0FEMA\u2019s Individuals and Households Program (IHP) before the bill\u2019s enactment may use IHP funds for repairs eligible under the bill without those costs counting against their maximum amount of IHP assistance.</p>"
+        },
+        "title": "Restoring Access to Mountain Homes Act"
+      }
+    },
+    "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSUM/119/s/BILLSUM-119s267.xml",
+    "summary": {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Restoring Access to Mountain Homes Act</strong></p><p>This bill authorizes the Federal Emergency Management Agency (FEMA) to provide Public Assistance (PA) grant funding, under certain conditions, to reimburse government entities covered under the major disaster declaration for North Carolina relating to Tropical Storm Helene for the costs of repairing, replacing, or restoring private roads and bridges damaged by Helene.</p><p>Under current law, the PA program provides grants for repairing disaster damage to infrastructure owned or legally maintained by government entities (or certain\u00a0nonprofits). The bill authorizes PA funding for permanent repair work on privately\u00a0owned and maintained roads and bridges significantly damaged by Helene in North Carolina, as costs incurred by state, tribal, or local governments for such work are eligible for reimbursement. \u00a0\u00a0</p><p>Also, under current law, the costs of repairing damage that existed before the disaster are generally ineligible for PA. The bill makes the repair, replacement, or restoration costs eligible for reimbursement under PA regardless of pre-existing condition.</p><p>Additionally, the bill contains criteria and conditions for reimbursement, including that to be eligible a road or bridge must be used as the sole means of accessing primary residences or essential community services. Reimbursement is under PA\u2019s alternative procedures, and the bill requires\u00a0FEMA to determine eligible costs based on estimates prepared by engineers.</p><p>Recipients of funds from\u00a0FEMA\u2019s Individuals and Households Program (IHP) before the bill\u2019s enactment may use IHP funds for repairs eligible under the bill without those costs counting against their maximum amount of IHP assistance.</p>",
+      "updateDate": "2025-05-20",
+      "versionCode": "id119s267"
+    },
+    "title": "Restoring Access to Mountain Homes Act"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-01-28",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Restoring Access to Mountain Homes Act</strong></p><p>This bill authorizes the Federal Emergency Management Agency (FEMA) to provide Public Assistance (PA) grant funding, under certain conditions, to reimburse government entities covered under the major disaster declaration for North Carolina relating to Tropical Storm Helene for the costs of repairing, replacing, or restoring private roads and bridges damaged by Helene.</p><p>Under current law, the PA program provides grants for repairing disaster damage to infrastructure owned or legally maintained by government entities (or certain\u00a0nonprofits). The bill authorizes PA funding for permanent repair work on privately\u00a0owned and maintained roads and bridges significantly damaged by Helene in North Carolina, as costs incurred by state, tribal, or local governments for such work are eligible for reimbursement. \u00a0\u00a0</p><p>Also, under current law, the costs of repairing damage that existed before the disaster are generally ineligible for PA. The bill makes the repair, replacement, or restoration costs eligible for reimbursement under PA regardless of pre-existing condition.</p><p>Additionally, the bill contains criteria and conditions for reimbursement, including that to be eligible a road or bridge must be used as the sole means of accessing primary residences or essential community services. Reimbursement is under PA\u2019s alternative procedures, and the bill requires\u00a0FEMA to determine eligible costs based on estimates prepared by engineers.</p><p>Recipients of funds from\u00a0FEMA\u2019s Individuals and Households Program (IHP) before the bill\u2019s enactment may use IHP funds for repairs eligible under the bill without those costs counting against their maximum amount of IHP assistance.</p>",
+      "updateDate": "2025-05-20",
+      "versionCode": "id119s267"
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-01-28",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s267is.xml"
+        }
+      ],
+      "type": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Restoring Access to Mountain Homes Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-02-28T03:53:21Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "Restoring Access to Mountain Homes Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-02-28T03:53:20Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A bill to make certain repairs, replacements, and restorations of private roads and bridges eligible for reimbursement under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-02-28T03:48:21Z"
+    }
+  ]
+}
+```

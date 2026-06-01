@@ -1,0 +1,49 @@
+# S 1695: HUD-USDA-VA Interagency Coordination Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-05-08
+- Latest action: 2025-05-08 - Introduced in Senate
+- Policy area: Housing and Community Development
+- Sponsor: Sen. McCormick, David [R-PA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/1695
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-05-08
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1695is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-05-08
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1695is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1695
+IN THE SENATE OF THE UNITED STATES
+May 8, 2025 Mr. McCormick (for himself and Mr. Gallego ) introduced the following bill; which was read twice and referred to the Committee on Banking, Housing, and Urban Affairs
+A BILL
+To require the Secretaries of Housing and Urban Development, Agriculture, and Veterans Affairs to submit to Congress a report on improving collaboration in housing programs, and for other purposes.
+#### 1. Short title
+This Act may be cited as the HUD-USDA-VA Interagency Coordination Act .
+#### 2. Memorandum of understanding
+The Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Secretary of Veterans Affairs shall establish a memorandum of understanding, or other appropriate interagency agreement, to share relevant housing-related research and market data that facilities evidence-based policymaking.
+#### 3. Interagency report
+##### (a) Report
+Not later than 180 days after the date of enactment of this Act, the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Secretary of Veterans Affairs shall jointly submit to the Committee on Banking, Housing, and Urban Affairs, the Committee on Agriculture, Nutrition, and Forestry, and the Committee on Veterans' Affairs of the Senate and the Committee on Financial Services, the Committee on Agriculture, and the Committee on Veterans' Affairs of the House of Representatives a report containing a description of opportunities for increased collaboration between the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Secretary of Veterans Affairs to improve efficiencies in housing programs.
+##### (b) Publication
+The report required under subsection (a) shall, prior to submission under that subsection, be published in the Federal Register and open for comment for a period of 30 days.
+
+
+## Timeline
+
+- 2025-05-08: Introduced in Senate
+- 2025-05-08 - IntroReferral: Introduced in Senate
+- 2025-05-08 - IntroReferral: Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- Latest action: 2025-05-08: Introduced in Senate

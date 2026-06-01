@@ -1,0 +1,1071 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/2618?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/2618
+- Title: Federal Firearm Licensee Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 2618
+- Origin chamber: House
+- Introduced date: 2025-04-03
+- Update date: 2026-04-30T08:06:51Z
+- Update date including text: 2026-04-30T08:06:51Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, summaries, text, titles
+
+## Timeline
+
+- 2025-04-03: Introduced in House
+- 2025-04-03 - IntroReferral: Introduced in House
+- 2025-04-03 - IntroReferral: Introduced in House
+- 2025-04-03 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2025-04-03: Introduced in House
+
+## Actions
+
+- 2025-04-03 - IntroReferral: Introduced in House
+- 2025-04-03 - IntroReferral: Introduced in House
+- 2025-04-03 - IntroReferral: Referred to the House Committee on the Judiciary.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-04-03",
+    "latestAction": {
+      "actionDate": "2025-04-03",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2618",
+    "number": "2618",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "K000385",
+        "district": "2",
+        "firstName": "Robin",
+        "fullName": "Rep. Kelly, Robin L. [D-IL-2]",
+        "lastName": "Kelly",
+        "party": "D",
+        "state": "IL"
+      }
+    ],
+    "title": "Federal Firearm Licensee Act",
+    "type": "HR",
+    "updateDate": "2026-04-30T08:06:51Z",
+    "updateDateIncludingText": "2026-04-30T08:06:51Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-04-03",
+      "committees": {
+        "item": {
+          "name": "Judiciary Committee",
+          "systemCode": "hsju00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on the Judiciary.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-04-03",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-04-03",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-04-03T15:02:50Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "A000380",
+      "district": "1",
+      "firstName": "Gabe",
+      "fullName": "Rep. Amo, Gabe [D-RI-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Amo",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "RI"
+    },
+    {
+      "bioguideId": "A000381",
+      "district": "3",
+      "firstName": "Yassamin",
+      "fullName": "Rep. Ansari, Yassamin [D-AZ-3]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Ansari",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "AZ"
+    },
+    {
+      "bioguideId": "A000148",
+      "district": "4",
+      "firstName": "Jake",
+      "fullName": "Rep. Auchincloss, Jake [D-MA-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Auchincloss",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "MA"
+    },
+    {
+      "bioguideId": "B001300",
+      "district": "44",
+      "firstName": "Nanette",
+      "fullName": "Rep. Barrag\u00e1n, Nanette Diaz [D-CA-44]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Barrag\u00e1n",
+      "middleName": "Diaz",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "B001281",
+      "district": "3",
+      "firstName": "Joyce",
+      "fullName": "Rep. Beatty, Joyce [D-OH-3]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Beatty",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "OH"
+    },
+    {
+      "bioguideId": "B001324",
+      "district": "1",
+      "firstName": "Wesley",
+      "fullName": "Rep. Bell, Wesley [D-MO-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Bell",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "MO"
+    },
+    {
+      "bioguideId": "B001278",
+      "district": "1",
+      "firstName": "Suzanne",
+      "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Bonamici",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "OR"
+    },
+    {
+      "bioguideId": "B001296",
+      "district": "2",
+      "firstName": "Brendan",
+      "fullName": "Rep. Boyle, Brendan F. [D-PA-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Boyle",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "B001285",
+      "district": "26",
+      "firstName": "Julia",
+      "fullName": "Rep. Brownley, Julia [D-CA-26]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Brownley",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "C001125",
+      "district": "2",
+      "firstName": "Troy",
+      "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Carter",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "LA"
+    },
+    {
+      "bioguideId": "C001117",
+      "district": "6",
+      "firstName": "Sean",
+      "fullName": "Rep. Casten, Sean [D-IL-6]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Casten",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "C001127",
+      "district": "20",
+      "firstName": "Sheila",
+      "fullName": "Rep. Cherfilus-McCormick, Sheila [D-FL-20]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Cherfilus-McCormick",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "C001067",
+      "district": "9",
+      "firstName": "Yvette",
+      "fullName": "Rep. Clarke, Yvette D. [D-NY-9]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Clarke",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "C001061",
+      "district": "5",
+      "firstName": "Emanuel",
+      "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Cleaver",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "MO"
+    },
+    {
+      "bioguideId": "C001078",
+      "district": "11",
+      "firstName": "Gerald",
+      "fullName": "Rep. Connolly, Gerald E. [D-VA-11]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Connolly",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "VA"
+    },
+    {
+      "bioguideId": "C001059",
+      "district": "21",
+      "firstName": "Jim",
+      "fullName": "Rep. Costa, Jim [D-CA-21]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Costa",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "C001130",
+      "district": "30",
+      "firstName": "Jasmine",
+      "fullName": "Rep. Crockett, Jasmine [D-TX-30]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Crockett",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "D000096",
+      "district": "7",
+      "firstName": "Danny",
+      "fullName": "Rep. Davis, Danny K. [D-IL-7]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Davis",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "D000197",
+      "district": "1",
+      "firstName": "Diana",
+      "fullName": "Rep. DeGette, Diana [D-CO-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "DeGette",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "CO"
+    },
+    {
+      "bioguideId": "D000624",
+      "district": "6",
+      "firstName": "Debbie",
+      "fullName": "Rep. Dingell, Debbie [D-MI-6]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Dingell",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "MI"
+    },
+    {
+      "bioguideId": "F000476",
+      "district": "10",
+      "firstName": "Maxwell",
+      "fullName": "Rep. Frost, Maxwell [D-FL-10]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Frost",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "G000587",
+      "district": "29",
+      "firstName": "Sylvia",
+      "fullName": "Rep. Garcia, Sylvia R. [D-TX-29]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Garcia",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "G000599",
+      "district": "10",
+      "firstName": "Daniel",
+      "fullName": "Rep. Goldman, Daniel S. [D-NY-10]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Goldman",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "J000288",
+      "district": "4",
+      "firstName": "Henry",
+      "fullName": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Johnson",
+      "middleName": "C. \"Hank\"",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "GA"
+    },
+    {
+      "bioguideId": "K000402",
+      "district": "26",
+      "firstName": "Timothy",
+      "fullName": "Rep. Kennedy, Timothy M. [D-NY-26]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Kennedy",
+      "middleName": "M.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "K000389",
+      "district": "17",
+      "firstName": "Ro",
+      "fullName": "Rep. Khanna, Ro [D-CA-17]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Khanna",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "K000391",
+      "district": "8",
+      "firstName": "Raja",
+      "fullName": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Krishnamoorthi",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "L000562",
+      "district": "8",
+      "firstName": "Stephen",
+      "fullName": "Rep. Lynch, Stephen F. [D-MA-8]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Lynch",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "MA"
+    },
+    {
+      "bioguideId": "M001238",
+      "district": "0",
+      "firstName": "Sarah",
+      "fullName": "Rep. McBride, Sarah [D-DE-At Large]",
+      "isOriginalCosponsor": "True",
+      "lastName": "McBride",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "DE"
+    },
+    {
+      "bioguideId": "M001143",
+      "district": "4",
+      "firstName": "Betty",
+      "fullName": "Rep. McCollum, Betty [D-MN-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "McCollum",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "MN"
+    },
+    {
+      "bioguideId": "M001220",
+      "district": "3",
+      "firstName": "Morgan",
+      "fullName": "Rep. McGarvey, Morgan [D-KY-3]",
+      "isOriginalCosponsor": "True",
+      "lastName": "McGarvey",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "KY"
+    },
+    {
+      "bioguideId": "M001229",
+      "district": "10",
+      "firstName": "LaMonica",
+      "fullName": "Rep. McIver, LaMonica [D-NJ-10]",
+      "isOriginalCosponsor": "True",
+      "lastName": "McIver",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "NJ"
+    },
+    {
+      "bioguideId": "M001196",
+      "district": "6",
+      "firstName": "Seth",
+      "fullName": "Rep. Moulton, Seth [D-MA-6]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Moulton",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "MA"
+    },
+    {
+      "bioguideId": "M001214",
+      "district": "1",
+      "firstName": "Frank",
+      "fullName": "Rep. Mrvan, Frank J. [D-IN-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Mrvan",
+      "middleName": "J.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "IN"
+    },
+    {
+      "bioguideId": "M001225",
+      "district": "15",
+      "firstName": "Kevin",
+      "fullName": "Rep. Mullin, Kevin [D-CA-15]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Mullin",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "N000191",
+      "district": "2",
+      "firstName": "Joe",
+      "fullName": "Rep. Neguse, Joe [D-CO-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Neguse",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "CO"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": "0",
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "DC"
+    },
+    {
+      "bioguideId": "P000608",
+      "district": "50",
+      "firstName": "Scott",
+      "fullName": "Rep. Peters, Scott H. [D-CA-50]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Peters",
+      "middleName": "H.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "Q000023",
+      "district": "5",
+      "firstName": "Mike",
+      "fullName": "Rep. Quigley, Mike [D-IL-5]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Quigley",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "R000617",
+      "district": "3",
+      "firstName": "Delia",
+      "fullName": "Rep. Ramirez, Delia C. [D-IL-3]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Ramirez",
+      "middleName": "C.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "S001205",
+      "district": "5",
+      "firstName": "Mary",
+      "fullName": "Rep. Scanlon, Mary Gay [D-PA-5]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Scanlon",
+      "middleName": "Gay",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "S001145",
+      "district": "9",
+      "firstName": "Janice",
+      "fullName": "Rep. Schakowsky, Janice D. [D-IL-9]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Schakowsky",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "S001190",
+      "district": "10",
+      "firstName": "Bradley",
+      "fullName": "Rep. Schneider, Bradley Scott [D-IL-10]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Schneider",
+      "middleName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "S001218",
+      "district": "1",
+      "firstName": "Melanie",
+      "fullName": "Rep. Stansbury, Melanie A. [D-NM-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Stansbury",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "NM"
+    },
+    {
+      "bioguideId": "S001230",
+      "district": "10",
+      "firstName": "Suhas",
+      "fullName": "Rep. Subramanyam, Suhas [D-VA-10]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Subramanyam",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "VA"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": "13",
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "MI"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": "1",
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "NV"
+    },
+    {
+      "bioguideId": "T000487",
+      "district": "2",
+      "firstName": "Jill",
+      "fullName": "Rep. Tokuda, Jill N. [D-HI-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Tokuda",
+      "middleName": "N.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "HI"
+    },
+    {
+      "bioguideId": "T000486",
+      "district": "15",
+      "firstName": "Ritchie",
+      "fullName": "Rep. Torres, Ritchie [D-NY-15]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Torres",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "L000602",
+      "district": "12",
+      "firstName": "Summer",
+      "fullName": "Rep. Lee, Summer L. [D-PA-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Lee",
+      "middleName": "L.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "J000310",
+      "district": "32",
+      "firstName": "Julie",
+      "fullName": "Rep. Johnson, Julie [D-TX-32]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Johnson",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "E000296",
+      "district": "3",
+      "firstName": "Dwight",
+      "fullName": "Rep. Evans, Dwight [D-PA-3]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Evans",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "S001157",
+      "district": "13",
+      "firstName": "David",
+      "fullName": "Rep. Scott, David [D-GA-13]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Scott",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "GA"
+    },
+    {
+      "bioguideId": "O000172",
+      "district": "14",
+      "firstName": "Alexandria",
+      "fullName": "Rep. Ocasio-Cortez, Alexandria [D-NY-14]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Ocasio-Cortez",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "T000481",
+      "district": "12",
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "MI"
+    },
+    {
+      "bioguideId": "D000631",
+      "district": "4",
+      "firstName": "Madeleine",
+      "fullName": "Rep. Dean, Madeleine [D-PA-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Dean",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "M001223",
+      "district": "2",
+      "firstName": "Seth",
+      "fullName": "Rep. Magaziner, Seth [D-RI-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Magaziner",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "RI"
+    },
+    {
+      "bioguideId": "M001206",
+      "district": "25",
+      "firstName": "Joseph",
+      "fullName": "Rep. Morelle, Joseph D. [D-NY-25]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Morelle",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "P000613",
+      "district": "19",
+      "firstName": "Jimmy",
+      "fullName": "Rep. Panetta, Jimmy [D-CA-19]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Panetta",
+      "party": "D",
+      "sponsorshipDate": "2025-04-03",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "F000468",
+      "district": "7",
+      "firstName": "Lizzie",
+      "fullName": "Rep. Fletcher, Lizzie [D-TX-7]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Fletcher",
+      "party": "D",
+      "sponsorshipDate": "2025-04-29",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "S001201",
+      "district": "3",
+      "firstName": "Thomas",
+      "fullName": "Rep. Suozzi, Thomas R. [D-NY-3]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Suozzi",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-29",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "L000606",
+      "district": "16",
+      "firstName": "George",
+      "fullName": "Rep. Latimer, George [D-NY-16]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Latimer",
+      "party": "D",
+      "sponsorshipDate": "2025-04-29",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "G000583",
+      "district": "5",
+      "firstName": "Josh",
+      "fullName": "Rep. Gottheimer, Josh [D-NJ-5]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Gottheimer",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "NJ"
+    },
+    {
+      "bioguideId": "T000469",
+      "district": "20",
+      "firstName": "Paul",
+      "fullName": "Rep. Tonko, Paul [D-NY-20]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Tonko",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "B001318",
+      "district": "0",
+      "firstName": "Becca",
+      "fullName": "Rep. Balint, Becca [D-VT-At Large]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Balint",
+      "party": "D",
+      "sponsorshipDate": "2026-02-04",
+      "state": "VT"
+    },
+    {
+      "bioguideId": "P000607",
+      "district": "2",
+      "firstName": "Mark",
+      "fullName": "Rep. Pocan, Mark [D-WI-2]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Pocan",
+      "party": "D",
+      "sponsorshipDate": "2026-03-25",
+      "state": "WI"
+    },
+    {
+      "bioguideId": "H001081",
+      "district": "5",
+      "firstName": "Jahana",
+      "fullName": "Rep. Hayes, Jahana [D-CT-5]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Hayes",
+      "party": "D",
+      "sponsorshipDate": "2026-04-29",
+      "state": "CT"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2618ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 2618\nIN THE HOUSE OF REPRESENTATIVES\nApril 3, 2025 Ms. Kelly of Illinois (for herself, Mr. Amo , Ms. Ansari , Mr. Auchincloss , Ms. Barrag\u00e1n , Mrs. Beatty , Mr. Bell , Ms. Bonamici , Mr. Boyle of Pennsylvania , Ms. Brownley , Mr. Carter of Louisiana , Mr. Casten , Mrs. Cherfilus-McCormick , Ms. Clarke of New York , Mr. Cleaver , Mr. Connolly , Mr. Costa , Ms. Crockett , Mr. Davis of Illinois , Ms. DeGette , Mrs. Dingell , Mr. Frost , Ms. Garcia of Texas , Mr. Goldman of New York , Mr. Johnson of Georgia , Mr. Kennedy of New York , Mr. Khanna , Mr. Krishnamoorthi , Mr. Lynch , Ms. McBride , Ms. McCollum , Mr. McGarvey , Mrs. McIver , Mr. Moulton , Mr. Mrvan , Mr. Mullin , Mr. Neguse , Ms. Norton , Mr. Peters , Mr. Quigley , Mrs. Ramirez , Ms. Scanlon , Ms. Schakowsky , Mr. Schneider , Ms. Stansbury , Mr. Subramanyam , Mr. Thanedar , Ms. Titus , Ms. Tokuda , Mr. Torres of New York , Ms. Lee of Pennsylvania , Ms. Johnson of Texas , Mr. Evans of Pennsylvania , Mr. David Scott of Georgia , Ms. Ocasio-Cortez , Ms. Tlaib , Ms. Dean of Pennsylvania , Mr. Magaziner , Mr. Morelle , and Mr. Panetta ) introduced the following bill; which was referred to the Committee on the Judiciary\nA BILL\nTo modernize the business of selling firearms.\n#### 1. Short title; table of contents\n##### (a) Short title\nThis Act may be cited as the Federal Firearm Licensee Act .\n##### (b) Table of contents\nThe table of contents for this Act is as follows:\nSec. 1. Short title; table of contents.\nSec. 2. Findings.\nSec. 3. Definitions.\nSec. 4. Repeal of temporary Brady provision.\nSec. 5. Physical security of licensee premises.\nSec. 6. Business inventory firearms.\nSec. 7. Electronic records.\nSec. 8. Notification of default transfers.\nSec. 9. Multiple firearm sales records and reports.\nSec. 10. Safety devices and warnings to purchasers.\nSec. 11. Inspections.\nSec. 12. Authority with regard to license issuance and renewal.\nSec. 13. Increased licensing fees.\nSec. 14. Elimination of obligatory stay of effective date of license revocation.\nSec. 15. Elimination of relief for dealers indicted for a crime punishable by imprisonment for a term exceeding one year.\nSec. 16. Elimination of relief while Federal disability relief application pending.\nSec. 17. Presumption of knowledge of State law in sale of long guns to residents of another State.\nSec. 18. Increased penalties for knowing transfer of firearm without conducting a background check.\nSec. 19. Unlawful acts upon incurring Federal disability or notice of license suspension, revocation, or denied renewal.\nSec. 20. Regulation of facilitators of firearm transfers.\nSec. 21. Dealer and employee background checks.\nSec. 22. Liability standards.\nSec. 23. Civil enforcement.\nSec. 24. Removal of bar on civil proceedings if criminal proceedings terminated.\nSec. 25. Repeal of certain limitations.\nSec. 26. Authority to hire additional industry operation investigators for Bureau of Alcohol, Tobacco, Firearms, and Explosives.\nSec. 27. Report on implementation of this Act.\nSec. 28. Annual licensed dealer inspections report and analysis.\nSec. 29. Deadline for issuance of final regulations.\n#### 2. Findings\nCongress finds the following:\n**(1)**\nA growing body of evidence demonstrates that firearm dealers\u2019 sales practices affect the probability of firearms getting to criminals and that policies designed to hold firearm sellers accountable can curtail the diversion of firearms to criminals.\n**(2)**\nFederal laws governing firearm dealers\u2014\n**(A)**\nhave not been updated in more than 30 years;\n**(B)**\ncontain safeguards that protect dealers who engage in illegal practices from adverse enforcement action;\n**(C)**\nfrustrate law enforcement efforts to curb firearm trafficking and violence; and\n**(D)**\nare, thus, inadequate to meet the realities of the 21st century.\n**(3)**\n**(A)**\nThe Tiahrt Amendments, for one\u2014\n**(i)**\nseverely limit the authority of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (commonly known as the ATF ) to disclose crime firearm trace data to the public;\n**(ii)**\nprevent\u2014\n**(I)**\nthe collection of valuable information; and\n**(II)**\nthe establishment of effective policies to prevent illegal firearms from being used in crimes; and\n**(iii)**\nimpede enforcement of the firearm laws by\u2014\n**(I)**\nrequiring most background check records to be destroyed within 24 hours; and\n**(II)**\nbarring the Government from requiring owners of firearm shops to conduct annual inventory audits.\n**(B)**\nRepealing the Tiahrt Amendments would support law enforcement efforts and give the public vital information needed to craft the most effective policies against illegal firearms.\n**(4)**\nAdditionally, Federal law imposes no requirements that firearm dealers physically secure their highly valuable and lethal inventory. The number of firearm thefts from licensed firearm dealers has increased more than the number from any other source. Between 2013 and 2017, the number of firearms stolen in firearm-dealer burglaries more than doubled and the number of firearms stolen in firearm-dealer robberies tripled.\n#### 3. Definitions\nSection 921(a) of title 18, United States Code, is amended by adding at the end the following:\n(38) The term facilitator means any person engaged in the business of hosting a commercial marketplace in which offers for firearm sales, purchases, or other transfers are allowed to be made, except that such a person shall not be considered to be a facilitator with respect to any transaction that is made through the use of a website or mobile application owned or operated by the person if\u2014 (A) the transaction violates the terms of service of the website or mobile application; and (B) the person has made a good faith effort to enforce the terms of service by, at a minimum, auditing firearms transactions on a quarterly basis to ensure compliance with this chapter. (39) The term occasional means, with respect to transactions, fewer than 5 transactions in a 12-month period. (40) The term personal collection includes any firearm obtained only for the personal use of an individual and not for the purpose of selling or trading, except that a firearm obtained through inheritance shall not be considered part of a personal collection until the firearm has been possessed for 1 year. (41) The term business inventory firearm means, with respect to a person, a firearm required by law to be recorded in the acquisition and disposition logs of any firearms business of the person. (42) (A) The term frame means the part of a handgun, or a variant thereof, that provides housing or a structure for the primary energized component designed to hold back the hammer, striker, bolt, or similar component prior to initiation of the firing sequence (such as a sear or the equivalent), even if pins or other attachments are required to connect such component to the housing or structure. (B) The term receiver means the part of a rifle, shotgun, or projectile weapon other than a handgun, or a variant thereof, that provides housing or a structure for the primary component designed to block or seal the breech prior to initiation of the firing sequence (such as a bolt, breechblock, or the equivalent), even if pins or other attachments are required to connect such component to the housing or structure. (C) For purposes of this paragraph, the term variant means a weapon utilizing a similar frame or receiver design irrespective of new or different model designations or configurations, characteristics, features, components, accessories, or attachments. For example, an AK-type firearm with a short stock and a pistol grip is a pistol variant of an AK-type rifle, an AR-type firearm with a short stock and a pistol grip is a pistol variant of an AR-type rifle, and a revolving cylinder shotgun is a shotgun variant of a revolver. (43) The term semiautomatic shotgun means any repeating shotgun that\u2014 (A) utilizes a portion of the energy of a firing shell to extract the fired shell casing and chamber the next round; and (B) requires a separate pull of the trigger to fire each shell. .\n#### 4. Repeal of temporary Brady provision\n##### (a) In general\nSection 922 of title 18, United States Code, is amended by striking subsection (s).\n##### (b) Conforming amendments\nChapter 44 of title 18, United States Code, is amended\u2014\n**(1)**\nin section 922\u2014\n**(A)**\nin subsection (t)\u2014\n**(i)**\nin paragraph (3)(C)(ii), by striking (as defined in subsection (s)(8)) ; and\n**(ii)**\nby adding at the end the following:\n(8) For purposes of this subsection, the term chief law enforcement officer means the chief of police, the sheriff, or an equivalent officer or the designee of any such individual. ; and\n**(B)**\nin subsection (y)(2), in the matter preceding subparagraph (A), by striking , (g)(5)(B), and (s)(3)(B)(v)(II) and inserting and (g)(5)(B) ;\n**(2)**\nin section 924(a)(5), by striking subsection (s) or (t) of section 922 and inserting section 922(t) ; and\n**(3)**\nin section 925A, in the matter preceding paragraph (1), by striking subsection (s) or (t) of section 922 and inserting section 922(t) .\n#### 5. Physical security of licensee premises\n##### (a) Security plan submission requirement\n**(1) In general**\nSection 923(d)(1)(G) of title 18, United States Code, is amended\u2014\n**(A)**\nby striking , the applicant and inserting the following:\n\u2014 (i) the applicant ;\n**(B)**\nby striking the period at the end and inserting ; and ; and\n**(C)**\nby adding at the end the following:\n(ii) the applicant\u2014 (I) submits with the application a security plan that describes how the applicant will secure, in accordance with the regulations issued under section 926(d), the premises from which the applicant will conduct business under the license (including in the event of a natural disaster or other emergency); and (II) certifies that, if issued such a license, the applicant will comply with the plan described in subclause (I). .\n**(2) Written approval required before license renewal**\nSection 923(d)(1) of title 18, United States Code, is amended\u2014\n**(A)**\nin subparagraph (F), by striking and at the end;\n**(B)**\nin subparagraph (G), as amended by paragraph (1), by striking the period at the end and inserting ; and ; and\n**(C)**\nby adding at the end the following:\n(H) in the case of an application to renew a license to deal in firearms\u2014 (i) the license is not suspended; (ii) no license issued to the applicant under this chapter has been revoked; and (iii) the Attorney General has inspected the premises and provided written approval of the security plan submitted by the applicant under subparagraph (G)(ii)(I). .\n**(3) Applicability to existing dealers whose license will expire**\n**(A) In general**\nIf, not later than 1 year after the date on which regulations are prescribed under section 926(d) of title 18, United States Code (as added by subsection (c) of this section), a person described in subparagraph (B) of this paragraph submits to the Attorney General a security plan described in clause (ii)(I) of section 923(d)(1)(G) of that title (as added by paragraph (1) of this subsection), the security plan shall be considered to have been submitted in accordance with such section 923(d)(1)(G).\n**(B) Person described**\nA person described in this subparagraph is a person\u2014\n**(i)**\nwho, on the date of enactment of this Act, is a licensed dealer (as defined in section 921(a)(11) of title 18, United States Code); and\n**(ii)**\nwhose license to deal in firearms issued under chapter 44 of title 18, United States Code, will expire on or after the date that is 1 year after the date on which regulations are prescribed under section 926(d) of that title (as added by subsection (c) of this section).\n##### (b) Annual compliance certification requirement\n**(1) In general**\nSection 923 of title 18, United States Code, is amended by adding at the end the following:\n(m) Annual certification (1) In general Each licensed manufacturer, licensed importer, and licensed dealer shall\u2014 (A) annually certify to the Attorney General that each premises from which the licensee conducts business subject to license under this chapter is in compliance with the regulations prescribed under section 926(d); and (B) in the case of a licensed dealer, include with the certification under subparagraph (A)\u2014 (i) the results of a reconciliation of the resale firearms then in the business inventory of the licensee against the resale firearms in the business inventory of the licensee at the time of the most recent prior certification (if any) under this paragraph; and (ii) all dispositions and acquisitions of resale firearms in the year covered by the certification, identifying and reporting any missing firearm. (2) Civil penalty The Attorney General shall impose a civil penalty of not more than $5,000 on, and may suspend the license issued under this section to, a licensee who fails to comply with paragraph (1). .\n**(2) Applicability**\nIn the case of a person who, on the date of enactment of this Act, is a licensee referred to in section 923(m) of title 18, United States Code (as added by paragraph (1)), such section 923(m) shall apply to the person on and after the date that is 1 year after the date on which regulations are prescribed under subsection (d) of section 926 of that title (as added by subsection (c)(1)).\n##### (c) Regulations\n**(1) In general**\nSection 926 of title 18, United States Code, is amended by adding at the end the following:\n(d) Securing premises from theft The Attorney General shall prescribe such regulations as are necessary to ensure that any premises at which a licensee referred to in section 923(m) conducts business is secure from theft, which shall include requiring\u2014 (1) compliance with the security plan submitted by the licensee pursuant to section 923(d)(1)(G)(ii)(I), if applicable; (2) the use of locked metal cabinets and fireproof safes; (3) security systems, video monitoring, and anti-theft alarms; (4) security gates, strong locks, and site hardening; (5) concrete bollards and other access controls, if necessary; and (6) the use of any other security-enhancing features appropriate for the specific circumstances of the licensee. .\n**(2) Applicability**\nThe regulations prescribed under section 926(d) of title 18, United States Code, as added by paragraph (1), shall not apply to a person who, on the date of the enactment of this Act, is a licensee referred to in section 923(m) of that title, until the date that is 1 year after the date on which the regulations are prescribed.\n#### 6. Business inventory firearms\n##### (a) Requirement To transfer firearm in personal collection to business inventory before disposition\nSection 923(c) of title 18, United States Code, is amended\u2014\n**(1)**\nby striking the second sentence and inserting the following: Nothing in this chapter shall be construed to prohibit a licensed manufacturer, licensed importer, or licensed dealer from maintaining a personal collection of firearms. ;\n**(2)**\nby striking the third sentence; and\n**(3)**\nby adding at the end the following: Any firearm disposed of by a licensee shall be from the business inventory of the licensee.\n##### (b) Licensee firearms inventory\nSection 923(g) of title 18, United States Code, is amended by adding at the end the following:\n(8) (A) Each quarter, a licensee shall conduct a physical check of the firearms inventory of the business of the licensee licensed under this chapter and report to the Attorney General and appropriate local authorities any firearm that is lost, stolen, or unaccounted for. (B) The Attorney General shall prescribe regulations to implement the requirements under subparagraph (A), which shall require, at a minimum, that a licensee record, for each firearm in the inventory of the licensee\u2014 (i) the date of receipt of the firearm; (ii) the name, address, and license number, if applicable, of the person from whom the firearm was received; (iii) the name of the manufacturer and, if applicable, importer of the firearm; (iv) the model, serial number, type, and caliber or gauge of the firearm; and (v) the date of the sale or other disposition of the firearm. (C) Nothing in this paragraph shall be construed to prohibit the Attorney General from, at any time, requiring the regular or one-time submission of the inventory records of a licensee to ensure that the licensee is in compliance with this chapter. .\n##### (c) Repeal of limitations on imposition of requirement that firearms dealers conduct physical check of firearms inventory\n**(1) Fiscal year 2013**\nThe fifth proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Consolidated and Further Continuing Appropriations Act, 2013 ( 18 U.S.C. 923 note; Public Law 113\u20136 ; 127 Stat. 248) is amended by striking and any fiscal year thereafter .\n**(2) Fiscal year 2012**\nThe matter under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Consolidated and Further Continuing Appropriations Act, 2012 ( Public Law 112\u201355 ; 125 Stat. 609) is amended by striking the seventh proviso.\n**(3) Fiscal year 2010**\nThe seventh proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Consolidated Appropriations Act, 2010 ( Public Law 111\u2013117 ; 123 Stat. 3129) is amended by striking or any other .\n**(4) Fiscal year 2009**\nThe seventh proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Omnibus Appropriations Act, 2009 ( Public Law 111\u20138 ; 123 Stat. 575) is amended by striking or any other .\n**(5) Fiscal year 2008**\nThe seventh proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Consolidated Appropriations Act, 2008 ( Public Law 110\u2013161 ; 121 Stat. 1904) is amended by striking or any other .\n**(6) Fiscal year 2006**\nThe seventh proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title I of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006 ( Public Law 109\u2013108 ; 119 Stat. 2296) is amended by striking or any other .\n**(7) Fiscal year 2005**\nThe seventh proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title I of division B of the Consolidated Appropriations Act, 2005 ( Public Law 108\u2013447 ; 118 Stat. 2860) is amended by striking or any other .\n**(8) Fiscal year 2004**\nThe seventh proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title I of division B of the Consolidated Appropriations Act, 2004 ( Public Law 108\u2013199 ; 118 Stat. 53) is amended by striking or any other .\n#### 7. Electronic records\n##### (a) Records retention and submission\nSection 923(g) of title 18, United States Code, is amended\u2014\n**(1)**\nin paragraph (1)(A)\u2014\n**(A)**\nin the first sentence, by inserting before the period at the end the following: , except that, notwithstanding any other provision of law, on and after the date that is 1 year after the date of enactment of the Federal Firearm Licensee Act , records prepared by a licensee under this chapter of the sale or other disposition of firearms, including each firearms transaction record, and the corresponding record of receipt of such firearms, shall be retained at the business premises readily accessible for inspection under this chapter until the business is discontinued ; and\n**(B)**\nby striking the second sentence;\n**(2)**\nin paragraph (5)(A), by inserting or electronically as may be after submit on a form ; and\n**(3)**\nin paragraph (7), by inserting , electronically, after orally .\n##### (b) Records databases\nSection 923(g) of title 18, United States Code, as amended by section 6, is amended by adding at the end the following:\n(9) (A) Not later than 3 years after the date of enactment of this paragraph, the National Tracing Center of the Bureau of Alcohol, Tobacco, Firearms, and Explosives shall establish and maintain electronic, searchable databases of all records regarding the importation, production, shipment, receipt, sale, or other disposition of firearms required to be submitted by licensees to the Attorney General under this chapter. (B) Each licensee under this chapter may provide the National Tracing Center with electronic access, consistent with the requirements of this paragraph, to all records within the possession of the licensee that are required to be kept under this chapter. (C) The National Tracing Center\u2014 (i) shall have remote access to query, search, or otherwise access the electronic databases described in subparagraph (A); and (ii) with the permission of a State, or political subdivision of a State, may query, search, or otherwise access the databases of the firearms registration system or pawnbroker records system of the State or political subdivision. (D) The National Tracing Center may query, search, or otherwise access the electronic databases described in subparagraph (A) only to obtain information related to any Federal, State, local, tribal, or foreign criminal investigation. (E) The electronic databases established under subparagraph (A)\u2014 (i) shall be electronically searchable by date of disposition, license number, and the information identified on each firearm or other firearm descriptor, including the manufacturer, importer, model, serial number, type, and caliber or gauge; (ii) shall not be electronically searchable by the personally identifiable information of any individual, without a warrant authorizing such a search; and (iii) shall include in search results the entire contents of the relevant records kept by the licensee. .\n##### (c) Video recordings of sales and transfers\nSection 923(g) of title 18, United States Code, as amended by subsection (b), is amended by adding at the end the following:\n(10) In accordance with regulations promulgated by the Attorney General, each licensed dealer operating a location at which firearms are sold to a person not licensed under this chapter shall\u2014 (A) maintain video surveillance of all areas within each premises where firearms in the business inventory of the licensee are sold or transferred; (B) retain records of the surveillance, including any sound recording obtained from the surveillance, for a period of not less than 90 days; and (C) post a sign in a conspicuous place and at each public entrance to the retail location, in block letters not less than 1 inch in height, stating that the premises are under video surveillance. .\n##### (d) Increased penalties for licensee violations relating to acquisition and disposition records\nSection 924(a)(3) of title 18, United States Code, is amended\u2014\n**(1)**\nby redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margins accordingly;\n**(2)**\nby moving the matter following clause (ii) (as so redesignated) 2 ems to the right;\n**(3)**\nin the matter following clause (ii) (as so redesignated), by striking one year and inserting 5 years ;\n**(4)**\nby inserting (A) after (3) ; and\n**(5)**\nby adding at the end the following:\n(B) If the conduct described in clause (i) or (ii) of subparagraph (A) is in relation to an offense under subsection (a)(6) or (d) of section 922, the licensed dealer, licensed importer, licensed manufacturer, or licensed collector shall be fined under this title, imprisoned not more than 10 years, or both. .\n##### (e) Elimination of limitation on centralizing records\nSection 926(a) of title 18, United States Code, is amended, in the matter following paragraph (3)\u2014\n**(1)**\nin the first sentence, by striking records required to be maintained under this chapter or any portion of the contents of such records, be recorded at or transferred to a facility owned, managed, or controlled by the United States or any State or any political subdivision thereof, nor that ; and\n**(2)**\nin the second sentence, by striking Secretary's and inserting Attorney General's .\n##### (f) Electronic recordkeeping adoption and implementation\nSection 926 of title 18, United States Code, as amended by section 5, is amended by adding at the end the following:\n(e) Facilitation of electronic recordkeeping The Attorney General\u2014 (1) shall facilitate and incentivize the conversion to, and adoption of, electronic recordkeeping solutions by licensees that enable electronic completion and submission to the Attorney General of all records required to be maintained under this chapter; (2) shall facilitate\u2014 (A) digital capture of paper records of licensed dealers; and (B) the integration and indexing of data onto a platform accessible by law enforcement authorities for purposes of investigating a violent crime or crime gun trace; (3) shall facilitate, with respect to the electronic databases established under section 923(g)(9)(A)\u2014 (A) remote access to electronic records of licensed dealers by law enforcement authorities for purposes of investigating a violent crime or crime gun trace; and (B) access by licensed dealers to only their own records; and (4) may not remotely access or search electronic records of licensed dealers without a warrant authorizing such a search. .\n#### 8. Notification of default transfers\nSection 922(t)(1) of title 18, United States Code, is amended\u2014\n**(1)**\nin subparagraph (C), by striking and at the end;\n**(2)**\nin subparagraph (D), by striking the period at the end and inserting ; and ; and\n**(3)**\nby adding at the end the following:\n(E) in the case of a transfer conducted pursuant to subparagraph (B)(ii) or clause (ii) or (iii) of subparagraph (C), the licensee notifies the Attorney General, not later than the close of business on the day on which the firearm is transferred, that the firearm has been transferred to the person. .\n#### 9. Multiple firearm sales records and reports\n##### (a) Expanding reporting requirement to certain long guns\nSection 923(g)(3)(A) of title 18, United States Code, is amended\u2014\n**(1)**\nin the first sentence, by striking pistols, or revolvers, or any combination of pistols and revolvers and inserting pistols, revolvers, semiautomatic rifles or shotguns, or rifles or shotguns capable of accepting a high capacity magazine, or any combination of such weapons ; and\n**(2)**\nby inserting after the first sentence the following: In the preceding sentence, the term high capacity magazine means a magazine capable of holding more than 10 rounds of ammunition, and includes a magazine that may be readily converted to hold more than 10 rounds of ammunition. .\n##### (b) Requirement To retain instant criminal background check records for 90 business days\nSection 922(t)(2)(C) of title 18, United States Code, is amended\u2014\n**(1)**\nby striking destroy and inserting retain for not less than 90 business days ;\n**(2)**\nby striking (other than the identifying number and the date the number was assigned) ; and\n**(3)**\nby inserting before the period at the end the following: solely for purposes related to discovering misuse or avoidance of the national instant criminal background check system or ensuring its proper operation .\n##### (c) Attorney General reports of multiple sales by non-Licensees\nSection 923(g)(3) of title 18, United States Code, is amended\u2014\n**(1)**\nby redesignating subparagraph (B) as subparagraph (C); and\n**(2)**\nby inserting after subparagraph (A) the following:\n(B) (i) The Attorney General shall prepare a report of multiple dispositions of firearms to persons not licensed under this chapter, which shall include the names and identifying information of transferees appearing in the records retained under section 922(t)(2)(C) on 2 or more occasions in any period of 5 consecutive business days. (ii) The report described in clause (i) shall be prepared on a form substantially similar to the form created pursuant to subparagraph (A) and include the names and addresses of the licensees who requested the background checks under subsection (t). (iii) The Attorney General shall forward the report described in clause (i) to the office designated pursuant to subparagraph (A) and to the departments of State police or State law enforcement agencies of the State or local law enforcement agencies of the local jurisdictions in which the sales or other dispositions took place, not later than the close of business on the date of the most recent such sale or other disposition. .\n##### (d) Records retention To investigate crime guns\nSection 923(g)(3)(C) of title 18, United States Code, as redesignated by subsection (c)(1) of this section, is amended\u2014\n**(1)**\nin the first sentence\u2014\n**(A)**\nby inserting a firearm involved in a crime or after Except in the case of forms and contents thereof regarding ; and\n**(B)**\nby striking , and shall destroy each such form and any record of the contents thereof no more than 20 days from the date such form is received and inserting and shall retain each such form and any record of the contents of the form for not less than 180 days after the date on which the form is received ; and\n**(2)**\nby striking the second sentence.\n#### 10. Safety devices and warnings to purchasers\nSection 922(z) of title 18, United States Code, is amended\u2014\n**(1)**\nby inserting and warnings to purchasers after Secure gun storage or safety device ;\n**(2)**\nby striking handgun each place it appears and inserting firearm ; and\n**(3)**\nby adding at the end the following:\n(4) Warnings to purchasers (A) In general A licensed dealer operating a physical retail location shall post conspicuously within the licensed premises all warnings required to be provided to firearms purchasers under applicable State and local law. (B) Materials (i) Development and distribution by Attorney General The Attorney General shall\u2014 (I) develop materials regarding suicide prevention, securing firearms from loss, theft, or access by a minor or prohibited person, and straw purchasing; and (II) provide the materials developed under subclause (I) to each licensed dealer. (ii) Dissemination by dealers A licensed dealer shall disseminate the materials described in clause (i) upon transfer of a firearm to a person not licensed under this chapter. .\n#### 11. Inspections\n##### (a) Mandated annual inspections of high-Risk licensed dealers and quinquennial inspections of other licensed dealers\nSection 923(g)(1)(B) of title 18, United States Code, is amended\u2014\n**(1)**\nin clause (ii), by redesignating subclauses (I) and (II) as items (aa) and (bb), respectively, and adjusting the margins accordingly;\n**(2)**\nby redesignating clauses (i), (ii), and (iii) as subclauses (I), (II), and (III), respectively, and adjusting the margins accordingly;\n**(3)**\nby inserting (i) after (B) ; and\n**(4)**\nby adding at the end the following:\n(ii) (I) The Attorney General\u2014 (aa) not less frequently than annually, shall inspect or examine the inventory, records, and business premises of each licensed dealer whom the Attorney General determines to be a high-risk dealer, based on considerations that include whether\u2014 (AA) during the preceding 5 years, the dealer reported a lost or stolen firearm; (BB) during the preceding 10 years, the dealer was issued a report of violation, received a warning letter, or was the subject of a warning conference; or (CC) during the preceding year, multiple firearms were determined to have been used in a crime under Federal, State, or local law within 3 years after sale by the dealer; and (bb) may appoint an attorney to ensure that high-risk dealers comply with all applicable firearm sales laws. (II) An attorney appointed under subclause (I)(bb) may, with respect to high-risk dealers, use in-store observation, monitor records, conduct random and repeated sales integrity tests, and design and offer instructional programs providing best practices sales training to all employees involved in firearm sales until the attorney certifies to the Attorney General that the high-risk dealer has complied with all applicable firearm sales laws for 3 consecutive years. (III) Not later than 180 days after the date on which an inspection or examination under subclause (I) reveals a violation of this section or any regulation prescribed under this chapter, and not later than 180 days after a security inspection conducted under paragraph (6)(B)(i) of this subsection, the Attorney General shall conduct an inspection or examination to determine whether the violation identified in the preceding inspection or examination has been cured. (IV) Not less frequently than once every 5 years, the Attorney General shall inspect or examine the inventory, records, and business premises of each licensed dealer that the Attorney General has not determined to be a high-risk dealer under subclause (I). .\n##### (b) Elimination of limit on inspection of licensee records\nSection 923(g)(1)(B)(i)(II) of title 18, United States Code, as redesignated by subsection (a), is amended\u2014\n**(1)**\nby striking \u2014 and all that follows through (bb) ; and\n**(2)**\nby striking with respect to records relating to a firearm involved in a criminal investigation that is traced to the licensee .\n##### (c) Mandated security inspection of dealers reporting lost or stolen firearms\nSection 923(g)(6) of title 18, United States Code, is amended\u2014\n**(1)**\nby inserting (A) after (6) ; and\n**(2)**\nby adding at the end the following:\n(B) (i) If the Attorney General receives a report under subparagraph (A) from a licensed dealer, the Attorney General shall conduct an independent inspection of the security of the premises at which the theft occurred, which shall include an inspection of the measures taken to implement the security plan submitted by the licensed dealer under subsection (d)(1)(G)(ii). (ii) On completion of a security inspection under clause (i), the Attorney General shall provide the licensed dealer with\u2014 (I) a notice of any violation by the licensed dealer of any security requirements prescribed under section 926(d); and (II) recommendations for improving security of the premises involved. .\n##### (d) Elimination of limit on inspection of other premises\nSection 923(j) of title 18, United States Code, is amended by striking the sixth sentence.\n#### 12. Authority with regard to license issuance and renewal\n##### (a) Denial authority\nSection 923 of title 18, United States Code, is amended\u2014\n**(1)**\nin subsection (c)\u2014\n**(A)**\nby inserting (1) before Upon ;\n**(B)**\nin the first sentence, by inserting , subject to paragraph (2), after the Attorney General shall ; and\n**(C)**\nby adding at the end the following:\n(2) The Attorney General shall deny an application submitted under subsection (a) or (b) if the Attorney General determines that\u2014 (A) issuing the license would pose a danger to public safety; or (B) the applicant\u2014 (i) is not likely to comply with the law; or (ii) is otherwise not suitable to be issued a license. ; and\n**(2)**\nin subsection (d)(1)\u2014\n**(A)**\nin the matter preceding subparagraph (A), by striking shall and inserting or renewal thereof shall, subject to subsection (c)(2), ;\n**(B)**\nin subparagraph (C), by striking not willfully violated and inserting no uncured violations of ; and\n**(C)**\nin subparagraph (F)\u2014\n**(i)**\nin clause (ii), by striking and at the end; and\n**(ii)**\nby adding at the end the following:\n(iv) each employee employed in the business\u2014 (I) will be at least the minimum age at which individuals may possess a firearm in the locality in which the business will be conducted; and (II) is not prohibited from being transferred a firearm, or transporting, shipping, or receiving firearms or ammunition, in interstate or foreign commerce by subsection (d), (g), or (n) (as applicable) of section 922 or by State, local, or Tribal law; and .\n##### (b) Authority To revoke or suspend licenses\nSection 923 of title 18, United States Code, is amended\u2014\n**(1)**\nin subsection (e)\u2014\n**(A)**\nin the first sentence, by inserting or suspend after revoke ; and\n**(B)**\nin the third sentence, by striking Secretary's and inserting Attorney General's ; and\n**(2)**\nin subsection (f)\u2014\n**(A)**\nin paragraph (1)\u2014\n**(i)**\nby inserting or suspended after revoked each place it appears; and\n**(ii)**\nby inserting or suspension after revocation each place it appears;\n**(B)**\nin paragraph (2)\u2014\n**(i)**\nby striking , or revokes and inserting , revokes, or suspends ; and\n**(ii)**\nby striking or revocation and inserting , revocation, or suspension ; and\n**(C)**\nin paragraph (3)\u2014\n**(i)**\nby inserting or suspend after revoke each place it appears; and\n**(ii)**\nby striking or revocation and inserting , revocation, or suspension .\n##### (c) Authority To promulgate rules\nSection 926(a) of title 18, United States Code, is amended, in the matter preceding paragraph (1), by striking only .\n##### (d) Repeal of riders limiting use of funds To deny licenses due to lack of business activity\n**(1) Fiscal year 2013**\nThe matter under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Consolidated and Further Continuing Appropriations Act, 2013 ( 18 U.S.C. 923 note; Public Law 113\u20136 ; 127 Stat. 247) is amended by striking the sixth proviso.\n**(2) Fiscal year 2012**\nThe matter under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Consolidated and Further Continuing Appropriations Act, 2012 ( Public Law 112\u201355 ; 125 Stat. 609) is amended by striking the ninth proviso.\n#### 13. Increased licensing fees\n##### (a) Fees for licensed importers, manufacturers, and dealers in firearms and importers and manufacturers of ammunition\nSection 923(a) of title 18, United States Code, is amended\u2014\n**(1)**\nin paragraph (1)\u2014\n**(A)**\nin subparagraph (A), by striking $1,000 and inserting $2,000 ;\n**(B)**\nin subparagraph (B), by striking $50 and inserting $100 ; and\n**(C)**\nin subparagraph (C), by striking $10 and inserting $20 ;\n**(2)**\nin paragraph (2)\u2014\n**(A)**\nin subparagraph (A), by striking $1,000 and inserting $2,000 ; and\n**(B)**\nin subparagraph (B), by striking $50 and inserting $100 ; and\n**(3)**\nin paragraph (3)\u2014\n**(A)**\nin subparagraph (A), by striking $1,000 and inserting $2,000 ; and\n**(B)**\nin subparagraph (B)\u2014\n**(i)**\nby striking $200 and inserting $400 ; and\n**(ii)**\nby striking $90 and inserting $180 .\n##### (b) Fees for licensed collectors\nSection 923(b) of title 18, United States Code, is amended by striking $10 and inserting $20 .\n#### 14. Elimination of obligatory stay of effective date of license revocation\nSection 923(f)(2) of title 18, United States Code, is amended, in the second sentence, by striking shall upon the request of the holder of the license and inserting may, upon a showing by the holder of the license of good cause, .\n#### 15. Elimination of relief for dealers indicted for a crime punishable by imprisonment for a term exceeding one year\n##### (a) In general\nSection 925 of title 18, United States Code, is amended\u2014\n**(1)**\nby striking subsection (b); and\n**(2)**\nby redesignating subsections (c) through (f) as subsections (b) through (e), respectively.\n##### (b) Conforming amendments\n**(1) Chapter 44 of title 18, United States Code**\nChapter 44 of title 18, United States Code, is amended\u2014\n**(A)**\nin section 922\u2014\n**(i)**\nin subsection (d), in the second sentence\u2014\n**(I)**\nby striking licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 is not precluded from dealing in firearms or ammunition, or to a ; and\n**(II)**\nby striking subsection (c) of section 925 and inserting section 925(b) ;\n**(ii)**\nin subsection (l), by striking 925(d) of this chapter and inserting 925(c) ; and\n**(iii)**\nin subsection (r), by striking 925(d)(3) of this chapter and inserting 925(c)(3) ; and\n**(B)**\nin section 925(f), by striking subsection (d) and inserting subsection (c) .\n**(2) Foreign Military Sales Act**\nSection 38(b)(1)(B)(i) of the Foreign Military Sales Act ( 22 U.S.C. 2778(b)(1)(B)(i) ) is amended by striking 925(e) and inserting 925(d) .\n**(3) NICS Improvement Amendments Act of 2007**\nSection 101(c)(2)(A)(iii) of the NICS Improvement Amendments Act of 2007 ( 34 U.S.C. 40911(c)(2)(A)(iii) ) is amended by striking 925(c) and inserting 925(b) .\n**(4) Atomic Energy Act of 1954**\nSection 161A(b) of the Atomic Energy Act of 1954 ( 42 U.S.C. 2201a(b) ) is amended by striking 925(d)(3) and inserting 925(c)(3) .\n#### 16. Elimination of relief while Federal disability relief application pending\nSection 925(b) of title 18, United States Code, as so redesignated by section 15(a) of this Act, is amended by striking the fourth sentence and inserting the following: This subsection shall not be construed to prohibit the Attorney General from, on a showing by a licensee of good cause, permitting the licensee to continue operations while an application for relief from disabilities is pending. .\n#### 17. Presumption of knowledge of State law in sale of long guns to residents of another State\nSection 922(b)(3) of title 18, United States Code, is amended by striking in the absence of evidence to the contrary, .\n#### 18. Increased penalties for knowing transfer of firearm without conducting a background check\nSection 922(t)(5) of title 18, United States Code, is amended by inserting before the period at the end the following: in the case of the first violation and, in the case of a subsequent violation, shall immediately suspend or revoke any license issued to the licensee under section 923 and impose on the licensee a civil fine equal to $20,000 .\n#### 19. Unlawful acts upon incurring Federal disability or notice of license suspension, revocation, or denied renewal\n##### (a) Restrictions\nSection 922 of title 18, United States Code, is amended by adding at the end the following:\n(aa) Unlawful acts upon incurring Federal disability or notice of license suspension, revocation, or denied renewal (1) In general It shall be unlawful for a licensed importer, licensed manufacturer, licensed dealer, licensed collector, or licensed facilitator who incurs a disability imposed by Federal laws with respect to the acquisition, receipt, transfer, shipment, transportation, or possession of firearms or ammunition during the term of a license issued under this chapter or while an application to renew such a license is pending, or who has been notified by the Attorney General that a license issued to the licensee under this chapter has been suspended or revoked or that an application of the licensee to renew such a license has been denied, to\u2014 (A) transfer a business inventory firearm\u2014 (i) into the personal collection of the licensee; or (ii) to any person other than a licensee under this chapter or a Federal, State, or local law enforcement agency; or (B) receive a business inventory firearm. (2) Waiver Upon a showing by a licensee of good cause, the Attorney General may issue a written waiver of paragraph (1) if the licensee authorizes the Attorney General to inspect the records and inventory of the licensee at any time to ensure that the licensee is in compliance with this chapter. .\n##### (b) Penalties\nSection 924(a) of title 18, United States Code, is amended by adding at the end the following:\n(9) Whoever knowingly violates section 922(aa) shall be fined under this title, imprisoned for not more than 1 year, or both. .\n##### (c) Notice requirement\nSection 923(f)(1) of title 18, United States Code, is amended, in the first sentence, by inserting before the period at the end the following: and setting forth the provisions of Federal law and regulation that prohibit a person not licensed under this chapter from engaging in the business of dealing in firearms and the restrictions set forth in section 922(aa) .\n#### 20. Regulation of facilitators of firearm transfers\n##### (a) Licensing\nSection 923(a) of title 18, United States Code, is amended by adding at the end the following:\n(4) If the applicant is a facilitator of firearm sales, purchases, or other transfers, a fee of $1,000 per year. .\n##### (b) Completed facilitated sales\nSection 923 of title 18, United States Code, as amended by section 5, is amended by adding at the end the following:\n(n) Duties of facilitators (1) In general A licensed facilitator shall\u2014 (A) inform each prospective seller using the commercial marketplace of the licensed facilitator that any offer for firearm sales, purchases, or other transfers made using the commercial marketplace may be completed only with the assistance of a licensed importer, licensed manufacturer, or licensed dealer, who must take possession of the firearm directly from the transferor for the purpose of complying with section 922(t); (B) require each prospective firearm seller using the commercial marketplace of the licensed facilitator to complete each firearm sale, purchase, or other transfer as described in subparagraph (A); and (C) maintain records of any sale, purchase, or other transfer described in subparagraph (A), which shall include\u2014 (i) the date of the offer; (ii) the name of the offeror; (iii) the name and the licensee number of the licensee that will take possession of the firearm directly from the transferor; and (iv) the model, serial number, type, and caliber or gauge of the firearm involved. (2) Advance identification of licensed dealer A licensed facilitator may require a prospective seller, as a condition of using the commercial marketplace of the licensed facilitator, to, before offering a firearm for sale, identify a licensed dealer that will take possession of the firearm and complete the sale. (3) Licensee compliance On taking possession of a firearm sold, purchased, or otherwise transferred in a commercial marketplace of a licensed facilitator, a licensee shall comply with all requirements of this chapter as if the licensee were transferring the firearm from the inventory of the licensee to the unlicensed transferee. .\n##### (c) Liability\nSection 924(h) of title 18, United States Code, is amended\u2014\n**(1)**\nby inserting (1) before Whoever ; and\n**(2)**\nby adding at the end the following:\n(2) Whoever, having accepted an offer to transfer ownership of a firearm using a commercial marketplace of a licensed facilitator in order to complete a firearm transaction as described in subsection (n)(1), knowingly transfers the firearm to a person not licensed under this chapter without a licensed importer, licensed manufacturer, or licensed dealer first taking possession of the firearm for the purpose of complying with section 922(t)\u2014 (A) except as provided in subparagraph (B), shall be fined under this title, imprisoned for not more than 1 year, or both; or (B) if transfer of the firearm to, or receipt of the firearm by, the transferee violates subsection (d), (g), or (n) of section 922, or the firearm is used to commit a crime of violence (as defined in section (c)(3) of this section) or drug trafficking crime (as defined in subsection (c)(2) of this section), shall be fined under this title, imprisoned for not more than 10 years, or both. .\n##### (d) Conforming amendments\nChapter 44 of title 18, United States Code, is amended\u2014\n**(1)**\nin section 922\u2014\n**(A)**\nin subsection (a)\u2014\n**(i)**\nin paragraph (1)\u2014\n**(I)**\nin subparagraph (A), by striking or at the end;\n**(II)**\nin subparagraph (B), by adding or at the end; and\n**(III)**\nby adding at the end the following:\n(C) except a licensed facilitator, to engage in the business of hosting a commercial marketplace in which offers for firearm sales, purchases, or other transfers are allowed to be made; ; and\n**(ii)**\nin paragraph (6)\u2014\n**(I)**\nby striking or licensed collector and inserting licensed collector, or licensed facilitator ; and\n**(II)**\nby striking or collector and inserting collector, or facilitator ; and\n**(B)**\nin subsection (m), by striking or licensed collector and inserting licensed collector, or licensed facilitator ;\n**(2)**\nin section 923\u2014\n**(A)**\nin subsection (c)(1), as so designated by section 12 of this Act, in the first sentence, by inserting or facilitate firearm sales, purchases, or other transfers before during the period stated in the license ;\n**(B)**\nin subsection (g)(1)(A)\u2014\n**(i)**\nin the matter preceding clause (i)\u2014\n**(I)**\nin the first sentence, by striking and licensed dealer and inserting licensed dealer, and licensed facilitator ; and\n**(II)**\nin the last sentence, by inserting licensed facilitator, before or any licensed importer ;\n**(ii)**\nin clause (i), by striking or licensed collector and inserting , licensed collector, or licensed facilitator ; and\n**(iii)**\nin clause (ii), by striking or licensed collector and inserting , licensed collector, or licensed facilitator ; and\n**(C)**\nin subsection (j), in the first sentence, by striking or licensed dealer and inserting licensed dealer, or licensed facilitator ; and\n**(3)**\nin section 924(a)(3), as amended by section 7\u2014\n**(A)**\nin subparagraph (A), in the matter preceding clause (i), by striking or licensed collector and inserting licensed collector, or licensed facilitator ; and\n**(B)**\nin subparagraph (B), by striking or licensed collector and inserting licensed collector, or licensed facilitator .\n#### 21. Dealer and employee background checks\n##### (a) Requirements\n**(1) Background checks required before issuance or renewal of dealers license**\nSection 923(c)(1) of title 18, United States Code, as so designated by section 12 of this Act, is amended by inserting after the first sentence the following: Notwithstanding the preceding sentence, the Attorney General may not issue or renew a license unless the Attorney General has contacted the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act ( 34 U.S.C. 40901 ) to determine whether it would be unlawful for the applicant, or any employee of the applicant identified by the applicant on the application as trusted with the possession or receipt of any firearm, to be transferred or receive a firearm, and the system has notified the Attorney General that the information available to the system does not demonstrate that the transfer to or receipt of a firearm by the applicant or any such employee would violate subsection (d), (g), or (n) (as applicable) of section 922 or State, local, or Tribal law where the business premises of the applicant subject to the license is located. .\n**(2) Background check required before firearm possession by dealer employee**\nSection 923(g) of title 18, United States Code, as amended by section 7 of this Act, is amended by adding at the end the following:\n(11) A licensed dealer may not allow an employee to possess a firearm at a premises from which the licensed dealer conducts business subject to license under this chapter, unless\u2014 (A) the employee is at least the minimum age required by State and local law to possess or receive a firearm; (B) the licensed dealer has contacted the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act ( 34 U.S.C. 40901 ) to determine whether transfer of a firearm to, or receipt of a firearm by, the individual would be unlawful; and (C) the system has notified the licensee that the information available to the system does not demonstrate that the transfer of a firearm to, or receipt of a firearm by, the individual would violate subsection (d), (g), or (n) (as applicable) of section 922 or State, local, or Tribal law. .\n##### (b) Authority of NICS system To respond to licensed dealer request for criminal background check of employee or applicant for employment\nSection 103(b)(2) of the Brady Handgun Violence Prevention Act ( 34 U.S.C. 40901(b)(2) ) is amended\u2014\n**(1)**\nin the heading, by striking Voluntary and inserting Compulsory ; and\n**(2)**\nin subparagraph (A), by striking voluntarily .\n##### (c) Authority of NICS system To search national data exchange\nSection 103(e)(1) of the Brady Handgun Violence Prevention Act ( 34 U.S.C. 40901(e)(1) ) is amended by adding at the end the following:\n(L) Search of national data exchange database The system established under this section shall include a search of the database of the National Data Exchange when conducting a background check under this section. .\n#### 22. Liability standards\n##### (a) Liability in licensing\nSection 923 of title 18, United States Code, is amended\u2014\n**(1)**\nin subsection (d)(1)(D), by striking willfully and inserting knowingly ; and\n**(2)**\nin subsection (e), by striking willfully each place it appears and inserting knowingly .\n##### (b) Liability in penalties\nSection 924 of title 18, United States Code, is amended\u2014\n**(1)**\nin subsection (a)(1)(D), by striking willfully and inserting knowingly ; and\n**(2)**\nin subsection (d)(1), by striking willful and inserting knowing .\n#### 23. Civil enforcement\n##### (a) Fines for engaging in the business without a license\nSection 924(n) of title 18, United States Code, is amended\u2014\n**(1)**\nby inserting (1) after (n) ; and\n**(2)**\nby adding at the end the following:\n(2) If the Attorney General finds that a person has engaged in conduct that constitutes a violation of section 922(a)(1)(A), the Attorney General shall\u2014 (A) transmit to the person a written notice specifying the violation, which shall include a copy of the provision of law violated; and (B) impose on the person a civil penalty in an amount that is not less than $2,500 and not more than $20,000. .\n##### (b) Tiered penalties for repeated violations of regulations by licensed dealers\nSection 924 of title 18, United States Code, is amended by adding at the end the following:\n(q) Penalties relating to violations of regulations by licensed dealers (1) In general If the Attorney General finds a licensed dealer to be in violation of a regulation prescribed under section 926, the Attorney General shall\u2014 (A) if the violation is not a result of gross negligence by the licensed dealer\u2014 (i) in the case of the first such violation by the licensed dealer, if not preceded by a violation to which subparagraph (B) applies, transmit to the licensed dealer a written notice specifying the violation, which shall include a copy of the regulation violated; (ii) in the case of the second such violation by the licensed dealer, if not preceded by a violation to which subparagraph (B) applies, impose a civil penalty in an amount that is not less than $2,500 and not more than $20,000; (iii) in the case of the third such violation by the licensed dealer, if not preceded by a violation to which subparagraph (B) applies, suspend the license to deal in firearms issued to the licensed dealer under this chapter until the violation ceases; (iv) in the case of the fourth such violation by the licensed dealer, whether or not preceded by a violation to which subparagraph (B) applies, revoke the license; or (v) in the case of any such violation by the licensed dealer, if preceded by a violation to which subparagraph (B) applies, apply the penalty authorized under this subsection that is 1 level greater in severity than the level of severity of the penalty most recently applied to the licensed dealer under this subsection; or (B) if the violation is a result of gross negligence by the licensed dealer\u2014 (i) in the case of the first such violation by the licensed dealer, impose a civil penalty in an amount that is not less than $2,500 and not more than $20,000; (ii) in the case of the second such violation by the licensed dealer\u2014 (I) impose a civil penalty in an amount equal to $20,000; and (II) suspend the license to deal in firearms issued to the licensed dealer under this chapter until the violation ceases; or (iii) in the case of the third such violation by the licensed dealer, revoke the license to deal in firearms issued to the licensed dealer under this chapter. (2) Suspension of license In the case of any violation described in paragraph (1), if the Attorney General finds that the nature of the violation indicates that the continued operation of a firearms business by the licensed dealer presents an imminent risk to public safety, the Attorney General shall, notwithstanding paragraph (1), immediately suspend the license to deal in firearms issued to the licensed dealer under this chapter and secure the firearms inventory of the licensed dealer, until the violation ceases, unless the appropriate penalty under paragraph (1) is revocation of the license, in which case the Attorney General shall immediately revoke the license and secure the firearms inventory of the licensed dealer. .\n#### 24. Removal of bar on civil proceedings if criminal proceedings terminated\nSection 923(f) of title 18, United States Code, is amended by striking paragraph (4).\n#### 25. Repeal of certain limitations\n##### (a) Limitations related to use of firearms trace data\n**(1) Fiscal year 2012**\nThe matter under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Consolidated and Further Continuing Appropriations Act, 2012 ( 18 U.S.C. 923 note; Public Law 112\u201355 ; 125 Stat. 609) is amended by striking the sixth proviso.\n**(2) Fiscal year 2010**\nThe sixth proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Consolidated Appropriations Act, 2010 ( Public Law 111\u2013117 ; 123 Stat. 3128) is amended by striking beginning in fiscal year 2010 and thereafter and inserting in fiscal year 2010 .\n**(3) Fiscal year 2009**\nThe sixth proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Omnibus Appropriations Act, 2009 ( Public Law 111\u20138 ; 123 Stat. 575) is amended by striking beginning in fiscal year 2009 and thereafter and inserting in fiscal year 2009 .\n**(4) Fiscal year 2008**\nThe sixth proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Consolidated Appropriations Act, 2008 ( Public Law 110\u2013161 ; 121 Stat. 1903) is amended by striking beginning in fiscal year 2008 and thereafter and inserting in fiscal year 2008 .\n**(5) Fiscal year 2006**\nThe sixth proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title I of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006 ( Public Law 109\u2013108 ; 119 Stat. 2295) is amended by striking with respect to any fiscal year .\n**(6) Fiscal year 2005**\nThe sixth proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title I of division B of the Consolidated Appropriations Act, 2005 ( Public Law 108\u2013447 ; 118 Stat. 2859) is amended by striking with respect to any fiscal year .\n**(7) Fiscal year 2023**\nSection 644 of division J of the Consolidated Appropriations Resolution, 2003 ( 5 U.S.C. 552 note; Public Law 108\u20137 ; 117 Stat. 473) is amended by striking or any other Act with respect to any fiscal year .\n##### (b) Limitations relating to consolidating and centralizing records\nThe first proviso under the heading Salaries and Expenses under the heading Bureau of Alcohol, Tobacco, Firearms and Explosives in title II of division B of the Consolidated and Further Continuing Appropriations Act, 2012 ( 18 U.S.C. 923 note; Public Law 112\u201355 ; 125 Stat. 609) is amended by striking or hereafter .\n##### (c) Requirement To destroy instant criminal background check records within 24 hours\nSection 511 of division B of the Consolidated and Further Continuing Appropriations Act, 2012 ( 34 U.S.C. 40901 note; Public Law 112\u201355 ; 125 Stat. 632) is amended\u2014\n**(1)**\nby striking \u2014 and all that follows through (1) ; and\n**(2)**\nby striking the semicolon and all that follows and inserting a period.\n#### 26. Authority to hire additional industry operation investigators for Bureau of Alcohol, Tobacco, Firearms, and Explosives\nThe Attorney General may hire 650 industry operation investigators for the Bureau of Alcohol, Tobacco, Firearms, and Explosives, to be distributed among the various field divisions to match the number and distribution of persons licensed under chapter 44 of title 18, United States Code, in addition to any personnel needed to carry out this Act and the amendments made by this Act and any industry operation investigators authorized by other law.\n#### 27. Report on implementation of this Act\nNot later than 2 years after the date of enactment of this Act, the Attorney General shall submit to Congress and publish on the website of the Department of Justice a written report on the implementation of this Act and the amendments made by this Act, including any steps needed to complete the implementation, which shall identify any additional resources that are required to\u2014\n**(1)**\nconduct regular inspections under chapter 44 of title 18, United States Code; and\n**(2)**\nensure that this Act and the amendments made by this Act are enforced against noncompliant federally licensed firearms dealers in a timely manner.\n#### 28. Annual licensed dealer inspections report and analysis\n##### (a) In general\nNot later than 2 years after the date of enactment of this Act, and annually thereafter, the Attorney General shall submit to Congress and publish on the website of the Department of Justice a report that contains the information described in subsection (b) with respect to\u2014\n**(1)**\nthe preceding 2-year period, in the case of the first report; or\n**(2)**\nthe preceding year, in the case of each subsequent report.\n##### (b) Contents\nEach report under subsection (a) shall state, with respect to the applicable reporting period\u2014\n**(1)**\nthe number of inspections or examinations conducted of Type 01, Type 02, and Type 07 Federal firearm licensees (dealers, pawnbrokers, and manufacturers, respectively) by each field division of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, including by the number of inspections or examinations of high-risk dealers (as that term is used in clause (ii) of section 923(g)(1)(B) of title 18, United States Code, as added by section 11 of this Act) and non-high-risk dealers;\n**(2)**\nthe number of security inspections under subparagraph (B) of section 923(g)(6) of title 18, United States Code, as added by section 11 of this Act, prompted by dealer reports of lost or stolen firearms under subparagraph (A) of such section 923(g)(6), as so designated by section 11 of this Act, and the number of follow-up security inspections conducted during the 6-month period following a security inspection revealing a violation;\n**(3)**\nthe average amount of time spent on\u2014\n**(A)**\ninspections or examinations of high-risk dealers (as described in paragraph (1));\n**(B)**\ninspections or examinations of non-high-risk dealers (as described in paragraph (1));\n**(C)**\nsecurity inspections (as described in paragraph (2)); and\n**(D)**\nfollow-up security inspections (as described in paragraph (2)); and\n**(4)**\nan analysis of the most frequently cited violations and corrective actions or penalties imposed in each inspection or examination described in paragraph (1) or security inspection described in paragraph (2), including\u2014\n**(A)**\nthe number of licenses recommended to be suspended or revoked;\n**(B)**\nthe number of licensees sent notices of suspension or revocation;\n**(C)**\nthe number of hearings requested by licensees on receipt of a notice of suspension or revocation;\n**(D)**\nthe number of suspension or revocation hearings initiated during a prior 12-month period that remain ongoing during the 12-month period covered by the report; and\n**(E)**\nthe decision ultimately rendered in each such matter by the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives.\n#### 29. Deadline for issuance of final regulations\nNot later than 2 years after the date of enactment of this Act, the Attorney General shall prescribe all regulations required to carry out this Act and the amendments made by this Act.",
+      "versionDate": "2025-04-03",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-04-03",
+        "text": "Read twice and referred to the Committee on the Judiciary. (text: CR S2175-2181)"
+      },
+      "number": "1294",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "Federal Firearm Licensee Act",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Crime and Law Enforcement",
+        "updateDate": "2025-04-11T14:34:09Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: summaries
+
+```json
+{
+  "govinfoBulk": {
+    "introducedDate": "2025-04-03",
+    "originChamber": "House",
+    "payload": {
+      "dublinCore": {
+        "contributor": "Congressional Research Service, Library of Congress",
+        "description": "This file contains bill summaries for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is \"to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives\". For more information, refer to the User Guide that accompanies this file.",
+        "format": "text/xml",
+        "language": "EN",
+        "rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      },
+      "item": {
+        "@attributes": {
+          "congress": "119",
+          "measure-id": "id119hr2618",
+          "measure-number": "2618",
+          "measure-type": "hr",
+          "orig-publish-date": "2025-04-03",
+          "originChamber": "HOUSE",
+          "update-date": "2026-02-25"
+        },
+        "summary": {
+          "@attributes": {
+            "currentChamber": "HOUSE",
+            "summary-id": "id119hr2618v00",
+            "update-date": "2026-02-25"
+          },
+          "action-date": "2025-04-03",
+          "action-desc": "Introduced in House",
+          "summary-text": "<p><strong>Federal Firearm Licensee Act</strong></p><p>This bill establishes new security requirements and expands recordkeeping and reporting requirements for federally licensed dealers, importers, and manufacturers of firearms (i.e., federal firearms licensees, or FFLs). The bill also\u00a0broadens the authority of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) to administer federal firearms laws and enforce violations.</p><p>Specifically, bill requires FFLs to implement and comply with a plan to secure their business premises, conduct quarterly physical checks of their business inventories, maintain video surveillance of the area where firearms are sold or transferred, and initiate firearms-related background checks for employees.</p><p>Additionally,\u00a0the bill requires\u00a0FFLs to report to the ATF any inventory firearm that is lost, stolen, or unaccounted for\u00a0and to notify the ATF about default-proceed transactions (i.e., allowable firearm transfers to an unlicensed person prior to the completion of a background check when the submitted background check remains incomplete after three business days).</p><p>Finally, the bill removes limits on the ATF's authority to conduct activities related to the administration of federal firearms laws. It enhances the\u00a0ATF's inspection authority, including by removing the limit on the number of annual compliance inspections (currently, one), requiring\u00a0inspections of high-risk FFLs, and authorizing an additional 650 investigators. Finally, the bill directs the ATF to deny an application for a federal firearms license if it would endanger public safety or if the applicant is unlikely to comply with the law.</p>"
+        },
+        "title": "Federal Firearm Licensee Act"
+      }
+    },
+    "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSUM/119/hr/BILLSUM-119hr2618.xml",
+    "summary": {
+      "actionDate": "2025-04-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Federal Firearm Licensee Act</strong></p><p>This bill establishes new security requirements and expands recordkeeping and reporting requirements for federally licensed dealers, importers, and manufacturers of firearms (i.e., federal firearms licensees, or FFLs). The bill also\u00a0broadens the authority of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) to administer federal firearms laws and enforce violations.</p><p>Specifically, bill requires FFLs to implement and comply with a plan to secure their business premises, conduct quarterly physical checks of their business inventories, maintain video surveillance of the area where firearms are sold or transferred, and initiate firearms-related background checks for employees.</p><p>Additionally,\u00a0the bill requires\u00a0FFLs to report to the ATF any inventory firearm that is lost, stolen, or unaccounted for\u00a0and to notify the ATF about default-proceed transactions (i.e., allowable firearm transfers to an unlicensed person prior to the completion of a background check when the submitted background check remains incomplete after three business days).</p><p>Finally, the bill removes limits on the ATF's authority to conduct activities related to the administration of federal firearms laws. It enhances the\u00a0ATF's inspection authority, including by removing the limit on the number of annual compliance inspections (currently, one), requiring\u00a0inspections of high-risk FFLs, and authorizing an additional 650 investigators. Finally, the bill directs the ATF to deny an application for a federal firearms license if it would endanger public safety or if the applicant is unlikely to comply with the law.</p>",
+      "updateDate": "2026-02-25",
+      "versionCode": "id119hr2618"
+    },
+    "title": "Federal Firearm Licensee Act"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-04-03",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Federal Firearm Licensee Act</strong></p><p>This bill establishes new security requirements and expands recordkeeping and reporting requirements for federally licensed dealers, importers, and manufacturers of firearms (i.e., federal firearms licensees, or FFLs). The bill also\u00a0broadens the authority of the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) to administer federal firearms laws and enforce violations.</p><p>Specifically, bill requires FFLs to implement and comply with a plan to secure their business premises, conduct quarterly physical checks of their business inventories, maintain video surveillance of the area where firearms are sold or transferred, and initiate firearms-related background checks for employees.</p><p>Additionally,\u00a0the bill requires\u00a0FFLs to report to the ATF any inventory firearm that is lost, stolen, or unaccounted for\u00a0and to notify the ATF about default-proceed transactions (i.e., allowable firearm transfers to an unlicensed person prior to the completion of a background check when the submitted background check remains incomplete after three business days).</p><p>Finally, the bill removes limits on the ATF's authority to conduct activities related to the administration of federal firearms laws. It enhances the\u00a0ATF's inspection authority, including by removing the limit on the number of annual compliance inspections (currently, one), requiring\u00a0inspections of high-risk FFLs, and authorizing an additional 650 investigators. Finally, the bill directs the ATF to deny an application for a federal firearms license if it would endanger public safety or if the applicant is unlikely to comply with the law.</p>",
+      "updateDate": "2026-02-25",
+      "versionCode": "id119hr2618"
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-04-03",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2618ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Federal Firearm Licensee Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-04-11T10:23:18Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Federal Firearm Licensee Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-04-11T10:23:16Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To modernize the business of selling firearms.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-04-11T10:18:20Z"
+    }
+  ]
+}
+```

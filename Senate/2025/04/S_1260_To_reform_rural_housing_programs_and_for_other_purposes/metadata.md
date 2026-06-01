@@ -1,0 +1,387 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/s/1260?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-bill/1260
+- Title: Rural Housing Service Reform Act of 2025
+- Congress: 119
+- Bill type: S
+- Bill number: 1260
+- Origin chamber: Senate
+- Introduced date: 2025-04-02
+- Update date: 2026-03-05T12:03:19Z
+- Update date including text: 2026-03-05T12:03:19Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-04-02: Introduced in Senate
+- 2025-04-02 - IntroReferral: Introduced in Senate
+- 2025-04-02 - IntroReferral: Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- Latest action: 2025-04-02: Introduced in Senate
+
+## Actions
+
+- 2025-04-02 - IntroReferral: Introduced in Senate
+- 2025-04-02 - IntroReferral: Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-04-02",
+    "latestAction": {
+      "actionDate": "2025-04-02",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1260",
+    "number": "1260",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Housing and Community Development"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001203",
+        "district": "",
+        "firstName": "Tina",
+        "fullName": "Sen. Smith, Tina [D-MN]",
+        "lastName": "Smith",
+        "party": "D",
+        "state": "MN"
+      }
+    ],
+    "title": "Rural Housing Service Reform Act of 2025",
+    "type": "S",
+    "updateDate": "2026-03-05T12:03:19Z",
+    "updateDateIncludingText": "2026-03-05T12:03:19Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2025-04-02",
+      "committees": {
+        "item": {
+          "name": "Banking, Housing, and Urban Affairs Committee",
+          "systemCode": "ssbk00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2025-04-02",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": [
+          {
+            "date": "2025-04-02T20:07:00Z",
+            "name": "Referred To"
+          },
+          {
+            "date": "2025-04-02T20:07:00Z",
+            "name": "Referred To"
+          }
+        ]
+      },
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "R000605",
+      "firstName": "Mike",
+      "fullName": "Sen. Rounds, Mike [R-SD]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Rounds",
+      "party": "R",
+      "sponsorshipDate": "2025-04-02",
+      "state": "SD"
+    },
+    {
+      "bioguideId": "D000618",
+      "firstName": "Steve",
+      "fullName": "Sen. Daines, Steve [R-MT]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Daines",
+      "party": "R",
+      "sponsorshipDate": "2025-04-02",
+      "state": "MT"
+    },
+    {
+      "bioguideId": "F000479",
+      "firstName": "John",
+      "fullName": "Sen. Fetterman, John [D-PA]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Fetterman",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "C000880",
+      "firstName": "Mike",
+      "fullName": "Sen. Crapo, Mike [R-ID]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Crapo",
+      "party": "R",
+      "sponsorshipDate": "2025-04-02",
+      "state": "ID"
+    },
+    {
+      "bioguideId": "W000805",
+      "firstName": "Mark",
+      "fullName": "Sen. Warner, Mark R. [D-VA]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Warner",
+      "middleName": "R.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "VA"
+    },
+    {
+      "bioguideId": "C001096",
+      "firstName": "Kevin",
+      "fullName": "Sen. Cramer, Kevin [R-ND]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Cramer",
+      "party": "R",
+      "sponsorshipDate": "2025-04-02",
+      "state": "ND"
+    },
+    {
+      "bioguideId": "W000790",
+      "firstName": "Raphael",
+      "fullName": "Sen. Warnock, Raphael G. [D-GA]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Warnock",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "GA"
+    },
+    {
+      "bioguideId": "S001181",
+      "firstName": "Jeanne",
+      "fullName": "Sen. Shaheen, Jeanne [D-NH]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Shaheen",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "NH"
+    },
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-04-02",
+      "state": "KS"
+    },
+    {
+      "bioguideId": "C001113",
+      "firstName": "Catherine",
+      "fullName": "Sen. Cortez Masto, Catherine [D-NV]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Cortez Masto",
+      "party": "D",
+      "sponsorshipDate": "2025-04-30",
+      "state": "NV"
+    },
+    {
+      "bioguideId": "R000618",
+      "firstName": "Pete",
+      "fullName": "Sen. Ricketts, Pete [R-NE]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Ricketts",
+      "party": "R",
+      "sponsorshipDate": "2025-04-30",
+      "state": "NE"
+    },
+    {
+      "bioguideId": "K000383",
+      "firstName": "Angus",
+      "fullName": "Sen. King, Angus S., Jr. [I-ME]",
+      "isOriginalCosponsor": "False",
+      "lastName": "King",
+      "middleName": "S.",
+      "party": "I",
+      "sponsorshipDate": "2026-03-03",
+      "state": "ME"
+    },
+    {
+      "bioguideId": "R000584",
+      "firstName": "James",
+      "fullName": "Sen. Risch, James E. [R-ID]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Risch",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-04",
+      "state": "ID"
+    },
+    {
+      "bioguideId": "H001046",
+      "firstName": "Martin",
+      "fullName": "Sen. Heinrich, Martin [D-NM]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Heinrich",
+      "party": "D",
+      "sponsorshipDate": "2026-03-04",
+      "state": "NM"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1260is.xml",
+      "text": "II\n119th CONGRESS\n1st Session\nS. 1260\nIN THE SENATE OF THE UNITED STATES\nApril 2, 2025 Ms. Smith (for herself, Mr. Rounds , Mr. Daines , Mr. Fetterman , Mr. Crapo , Mr. Warner , Mr. Cramer , Mr. Warnock , Mrs. Shaheen , and Mr. Moran ) introduced the following bill; which was read twice and referred to the Committee on Banking, Housing, and Urban Affairs\nA BILL\nTo reform rural housing programs, and for other purposes.\n#### 1. Short title; table of contents\n##### (a) Short title\nThis Act may be cited as the Rural Housing Service Reform Act of 2025 .\n##### (b) Table of contents\nThe table of contents of this Act is as follows:\nSec. 1. Short title; table of contents.\nTITLE I\u2014Streamlining and updates\nSec. 101. Application of multifamily mortgage foreclosure procedures to multifamily mortgages held by the Secretary of Agriculture and preservation of the rental assistance contract upon foreclosure.\nSec. 102. Study on rural housing loans for housing for low- and moderate-income families.\nSec. 103. Authorization of appropriations for staffing and IT upgrades.\nSec. 104. Funding for technical improvements.\nTITLE II\u2014Rural housing preservation and revitalization\nSec. 201. Permanent establishment of housing preservation and revitalization program.\nSec. 202. Rental assistance contract authority.\nTITLE III\u2014Native CDFI relending\nSec. 301. Native CDFI relending program.\nTITLE IV\u2014Section 504 loans and grants\nSec. 401. Modifications to loans and grants for minor improvements to farm housing and buildings; income eligibility.\nTITLE V\u2014Rural community development initiative grants\nSec. 501. Rural community development initiative.\nTITLE VI\u2014Reports\nSec. 601. Annual report on rural housing programs.\nSec. 602. GAO report on Rural Housing Service technology.\nTITLE VII\u2014Rural housing voucher program\nSec. 701. Adjustment to rural development voucher amount.\nSec. 702. Eligibility for rural housing vouchers.\nSec. 703. Amount of voucher assistance.\nTITLE VIII\u2014Transfers to nonprofit organizations\nSec. 801. Transfer of multifamily rural housing projects.\nTITLE IX\u2014Section 502 loans and guarantees\nSec. 901. Extension of loan term.\nSec. 902. Release of liability for section 502 guaranteed borrower upon assumption of original loan by new borrower.\nSec. 903. Department of Agriculture loan restrictions.\nTITLE X\u2014Accessory dwelling units\nSec. 1001. Loan guarantees.\nTITLE XI\u2014Time frame for completing application review\nSec. 1101. Application review.\nI\nStreamlining and updates\n#### 101. Application of multifamily mortgage foreclosure procedures to multifamily mortgages held by the Secretary of Agriculture and preservation of the rental assistance contract upon foreclosure\n##### (a) Multifamily mortgage procedures\nSection 363(2) of the Multifamily Mortgage Foreclosure Act of 1981 ( 12 U.S.C. 3702(2) ) is amended\u2014\n**(1)**\nin subparagraph (D), by striking and at the end;\n**(2)**\nin subparagraph (E), by striking the period at the end and inserting ; or ; and\n**(3)**\nby adding at the end the following:\n(F) section 514, 515, or 538 of the Housing Act of 1949 ( 42 U.S.C. 1484 , 1485, 1490p). .\n##### (b) Preservation of contract\nSection 521(d) of the Housing Act of 1949 ( 42 U.S.C. 1490a(d) ) is amended by adding at the end the following:\n(3) Notwithstanding any other provision of law in managing and disposing of any multifamily property that is owned or has a mortgage held by the Secretary, and during the process of foreclosure on any property with a contract for rental assistance under this section\u2014 (A) the Secretary shall maintain any rental assistance payments that are attached to any dwelling units in the property; and (B) the rental assistance contract may be used to provide further assistance to existing projects under 514, 515, or 516. .\n#### 102. Study on rural housing loans for housing for low- and moderate-income families\nNot later than 6 months after the date of enactment of this Act, the Secretary of Agriculture shall conduct a study and submit to Congress a publicly available report on the loan program under section 521 of the Housing Act of 1949 ( 42 U.S.C. 1490a ), including\u2014\n**(1)**\nthe total amount provided by the Secretary in subsidies under such section 521 to borrowers with loans made pursuant to section 502 of such Act ( 42 U.S.C. 1472 );\n**(2)**\nhow much of the subsidies described in paragraph (1) are being recaptured; and\n**(3)**\nthe amount of time and costs associated with recapturing those subsidies.\n#### 103. Authorization of appropriations for staffing and IT upgrades\nThere is authorized to be appropriated to the Secretary of Agriculture for each of fiscal years 2026 through 2030 such sums as may be necessary for increased staffing needs and information technology upgrades to support all Rural Housing Service programs.\n#### 104. Funding for technical improvements\n##### (a) Authorization of appropriations\nThere is authorized to be appropriated to the Secretary of Agriculture such sums as may be necessary for fiscal year 2026 for improvements to the technology of the Rural Housing Service of the Department of Agriculture used to process and manage housing loans.\n##### (b) Availability\nAmounts appropriated pursuant to subsection (a) shall remain available until the date that is 5 years after the date of the appropriation.\n##### (c) Timeline\nThe Secretary of Agriculture shall make the improvements described in subsection (a) during the 5-year period beginning on the date on which amounts are appropriated under subsection (a).\nII\nRural housing preservation and revitalization\n#### 201. Permanent establishment of housing preservation and revitalization program\nTitle V of the Housing Act of 1949 ( 42 U.S.C. 1471 et seq. ) is amended by adding at the end the following:\n545. Housing preservation and revitalization program (a) Establishment The Secretary shall carry out a program under this section for the preservation and revitalization of multifamily rental housing projects financed under section 514, 515, or 516. (b) Notice of maturing loans (1) To owners On an annual basis, the Secretary shall provide written notice to each owner of a property financed under section 514, 515, or 516 that will mature within the 4-year period beginning upon the provision of the notice, setting forth the options and financial incentives that are available to facilitate the extension of the loan term or the option to decouple a rental assistance contract pursuant to subsection (f). (2) To tenants (A) In general On an annual basis, for each property financed under section 514, 515, or 516, not later than the date that is 2 years before the date that the loan will mature, the Secretary shall provide written notice to each household residing in the property that informs them of\u2014 (i) the date of the loan maturity; (ii) the possible actions that may happen with respect to the property upon that maturity; and (iii) how to protect their right to reside in federally assisted housing, or how to secure housing voucher, after that maturity. (B) Language Notice under this paragraph shall be provided in plain English and shall be translated to other languages in the case of any property located in an area in which a significant number of residents speak such other languages. (c) Loan restructuring Under the program under this section, in any circumstance in which the Secretary proposes a restructuring to an owner or an owner proposes a restructuring to the Secretary, the Secretary may restructure such existing housing loans, as the Secretary considers appropriate, for the purpose of ensuring that those projects have sufficient resources to preserve the projects to provide safe and affordable housing for low-income residents and farm laborers, by\u2014 (1) reducing or eliminating interest; (2) deferring loan payments; (3) subordinating, reducing, or reamortizing loan debt; (4) providing other financial assistance, including advances, payments, and incentives (including the ability of owners to obtain reasonable returns on investment) required by the Secretary; and (5) permanently removing a portion of the housing units from income restrictions when sustained vacancies have occurred. (d) Renewal of rental assistance (1) In general When the Secretary proposes to restructure a loan or agrees to the proposal of an owner to restructure a loan pursuant to subsection (c), the Secretary shall offer to renew the rental assistance contract under section 521(a)(2) for a term that is the shorter of 20 years and the term of the restructured loan, subject to annual appropriations, provided that the owner agrees to bring the property up to such standards that will ensure maintenance of the property as decent, safe, and sanitary housing for the full term of the rental assistance contract. (2) Additional rental assistance With respect to a project described in paragraph (1), if rental assistance is not available for all households in the project for which the loan is being restructured pursuant to subsection (c), the Secretary may extend such additional rental assistance to unassisted households at that project as is necessary to make the project safe and affordable to low-income households. (e) Restrictive use agreements (1) Requirement As part of the preservation and revitalization agreement for a project, the Secretary shall obtain a restrictive use agreement that is recorded and obligates the owner to operate the project in accordance with this title. (2) Term (A) No extension of rental assistance contract Except when the Secretary enters into a 20-year extension of the rental assistance contract for a project, the term of the restrictive use agreement for the project shall be consistent with the term of the restructured loan for the project. (B) Extension of rental assistance contract If the Secretary enters into a 20-year extension of the rental assistance contract for a project, the term of the restrictive use agreement for the project shall be for the longer of\u2014 (i) 20 years; or (ii) the remaining term of the loan for that project. (C) Termination The Secretary may terminate the 20-year use restrictive use agreement for a project before the end of the term of the agreement if the 20-year rental assistance contract for the project with the owner is terminated at any time for reasons outside the control of the owner. (f) Decoupling of rental assistance (1) Renewal of rental assistance contract If the Secretary determines that a loan maturing during the 4-year period beginning upon the provision of the notice required under subsection (b)(1) for a project cannot reasonably be restructured in accordance with subsection (c) because it is not financially feasible or the owner does not agree with the proposed restructuring, and the project was operating with rental assistance under section 521 and the recipient is a borrower under section 514 or 515, the Secretary may renew the rental assistance contract, notwithstanding any requirement under section 521 that the recipient be a current borrower under section 514 or 515, for a term of 20 years, subject to annual appropriations. (2) Additional rental assistance With respect to a project described in paragraph (1), if rental assistance is not available for all households in the project for which the loan is being restructured pursuant to subsection (c), the Secretary may extend such additional rental assistance to unassisted households at that project as is necessary to make the project safe and affordable to low-income households. (3) Rents (A) In general Any agreement to extend the term of the rental assistance contract under section 521 for a project shall obligate the owner to continue to maintain the project as decent, safe, and sanitary housing and to operate the development as affordable housing in a manner that meets the goals of this title. (B) Rent amounts Subject to subparagraph (C), in setting rents, the Secretary\u2014 (i) shall determine the maximum initial rent based on current fair market rents established under section 8 of the United States Housing Act of 1937 ( 42 U.S.C. 1437f ); and (ii) may annually adjust the rent determined under clause (i) by the operating cost adjustment factor as provided under section 524 of the Multifamily Assisted Housing Reform and Affordability Act of 1997 ( 42 U.S.C. 1437f note). (C) Higher rent (i) In general Subparagraph (B) shall not apply if the Secretary determines that the budget-based needs of a project require a higher rent than the rent described in subparagraph (B). (ii) Rent If the Secretary makes a positive determination under clause (i), the Secretary may approve a budget-based rent level for the project. (4) Conditions for approval (A) Plan Before the approval of a rental assistance contract authorized under this section, the Secretary shall require, through an annual notice in the Federal Register, the owner to submit to the Secretary a plan that identifies financing sources and a timetable for renovations and improvements determined to be necessary by the Secretary to maintain and preserve the project. (B) Automatic approval If a plan submitted under subparagraph (A) is not acted upon by the Secretary within 30 days of the submission, the rental assistance contract is automatically approved for not more than a 1-year period. (g) Multifamily housing transfer technical assistance Under the program under this section, the Secretary may provide grants to qualified nonprofit organizations and public housing agencies to provide technical assistance, including financial and legal services, to borrowers under loans under this title for multifamily housing to facilitate the acquisition or preservation of such multifamily housing properties in areas where the Secretary determines there is a risk of loss of affordable housing. (h) Administrative expenses Of any amounts made available for the program under this section for any fiscal year, the Secretary may use not more than $1,000,000 for administrative expenses for carrying out such program. (i) Authorization of appropriations There is authorized to be appropriated for the program under this section $200,000,000 for each of fiscal years 2026 through 2030. (j) Rulemaking (1) In general Not later than 180 days after the date of enactment of the Rural Housing Service Reform Act of 2025 , the Secretary shall\u2014 (A) publish an advance notice of proposed rulemaking; and (B) consult with appropriate stakeholders. (2) Interim final rule Not later than 1 year after the date of enactment of the Rural Housing Service Reform Act of 2025 , the Secretary shall publish an interim final rule to carry out this section. .\n#### 202. Rental assistance contract authority\nSection 521(d) of the Housing Act of 1949 ( 42 U.S.C. 1490a(d) ), as amended by section 101(b), is amended\u2014\n**(1)**\nin paragraph (1)\u2014\n**(A)**\nby redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively;\n**(B)**\nby inserting after subparagraph (A) the following:\n(B) upon request of an owner of a project financed under section 514 or 515, the Secretary is authorized to enter into renewal of such agreements for a period of 20 years or the term of the loan, whichever is shorter, subject to amounts made available in appropriations Acts; ;\n**(C)**\nin subparagraph (C), as so redesignated, by striking subparagraph (A) and inserting subparagraphs (A) and (B) ; and\n**(D)**\nin subparagraph (D), as so redesignated, by striking subparagraphs (A) and (B) and inserting subparagraphs (A), (B), and (C) ;\n**(2)**\nin paragraph (2), by striking shall and inserting may ; and\n**(3)**\nby adding at the end the following:\n(4) In the case of any rental assistance contract authority that becomes available because of the termination of assistance on behalf of an assisted family\u2014 (A) at the option of the owner of the rental project, the Secretary shall provide the owner a period of not more than 6 months before unused assistance is made available pursuant to subparagraph (B) during which the owner may use such assistance authority to provide assistance on behalf of an eligible unassisted family that\u2014 (i) is residing in the same rental project in which the assisted family resided before the termination; or (ii) newly occupies a dwelling unit in the rental project during that 6-month period; and (B) except for assistance used as provided in subparagraph (A), the Secretary shall use such remaining authority to provide assistance on behalf of eligible families residing in other rental projects originally financed under section 514, 515, or 516. .\nIII\nNative CDFI relending\n#### 301. Native CDFI relending program\nSection 502 of the Housing Act of 1949 ( 42 U.S.C. 1472 ) is amended by adding at the end the following:\n(j) Set aside for native community development financial institutions (1) Definitions In this subsection\u2014 (A) the term Alaska Native has the meaning given the term Native in section 3(b) of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1602(b) ); (B) the term appropriate congressional committees means\u2014 (i) the Committee on Agriculture of the Senate; (ii) the Committee on Indian Affairs of the Senate; (iii) the Committee on Banking, Housing, and Urban Affairs of the Senate; (iv) the Committee on Agriculture of the House of Representatives; (v) the Committee on Natural Resources of the House of Representatives; and (vi) the Committee on Financial Services of the House of Representatives; (C) the term community development financial institution has the meaning given the term in section 103 of the Community Development Banking and Financial Institutions Act of 1994 ( 12 U.S.C. 4702 ); (D) the term Indian Tribe has the meaning given the term Indian tribe in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4103 ); (E) the term Native community development financial institution means an entity\u2014 (i) that has been certified as a community development financial institution by the Secretary of the Treasury; (ii) that is not less than 51 percent owned or controlled by members of Indian Tribes, Alaska Native communities, or Native Hawaiian communities; and (iii) for which not less than 51 percent of the activities of the entity serve Indian Tribes, Alaska Native communities, or Native Hawaiian communities; (F) the term Native Hawaiian has the meaning given the term in section 801 of the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4221 ); and (G) the term priority Tribal land means\u2014 (i) any land located within the boundaries of\u2014 (I) an Indian reservation, pueblo, or rancheria; or (II) a former reservation within Oklahoma; (ii) any land not located within the boundaries of an Indian reservation, pueblo, or rancheria, the title to which is held\u2014 (I) in trust by the United States for the benefit of an Indian Tribe or an individual Indian; (II) by an Indian Tribe or an individual Indian, subject to restriction against alienation under laws of the United States; or (III) by a dependent Indian community; (iii) any land located within a region established pursuant to section 7(a) of the Alaska Native Claims Settlement Act ( 43 U.S.C. 1606(a) ); (iv) Hawaiian Home Lands, as defined in section 801 of the Native American Housing Assistance and Self-Determination Act of 1996 ( 25 U.S.C. 4221 ); or (v) those areas or communities designated by the Assistant Secretary of Indian Affairs of the Department of the Interior that are near, adjacent, or contiguous to reservations where financial assistance and social service programs are provided to Indians because of their status as Indians. (2) Purpose The purpose of this subsection is to\u2014 (A) increase homeownership opportunities for Indian Tribes, Alaska Native Communities, and Native Hawaiian communities in rural areas; and (B) provide capital to Native community development financial institutions to increase the number of mortgage transactions carried out by those institutions. (3) Set aside for Native CDFIs Of amounts appropriated to make direct loans under this section for each fiscal year, the Secretary may use not more than $50,000,000 to make direct loans to Native community development financial institutions in accordance with this subsection. (4) Application requirements A Native community development financial institution desiring a loan under this subsection shall demonstrate that the institution\u2014 (A) can provide the non-Federal cost share required under paragraph (6); and (B) is able to originate and service loans for single family homes. (5) Lending requirements A Native community development financial institution that receives a loan pursuant to this subsection shall\u2014 (A) use those amounts to make loans to borrowers\u2014 (i) who otherwise meet the requirements for a loan under this section; and (ii) who\u2014 (I) are members of an Indian Tribe, an Alaska Native community, or a Native Hawaiian community; or (II) maintain a household in which not less than 1 member is a member of an Indian Tribe, an Alaska Native community, or a Native Hawaiian community; and (B) in making loans under subparagraph (A), give priority to borrowers described in that subparagraph who are residing on priority Tribal land. (6) Non-Federal cost share (A) In general A Native community development financial institution that receives a loan under this section shall be required to match not less than 20 percent of the amount received. (B) Waiver In the case of a loan for which amounts are used to make loans to borrowers described in paragraph (5)(B), the Secretary shall waive the non-Federal cost share requirement described in subparagraph (A) with respect to those loan amounts. (7) Reporting (A) Annual report by Native CDFIs Each Native community development financial institution that receives a loan pursuant to this subsection shall submit an annual report to the Secretary on the lending activities of the institution using the loan amounts, which shall include\u2014 (i) a description of the outreach efforts of the institution in local communities to identify eligible borrowers; (ii) a description of how the institution leveraged additional capital to reach prospective borrowers; (iii) the number of loan applications received, approved, and deployed; (iv) the average loan amount; (v) the number of finalized loans that were made on Tribal trust lands and not on Tribal trust lands; and (vi) the number of finalized loans that were made on priority Tribal land and not priority Tribal land. (B) Annual report to Congress Not later than 1 year after the date of enactment of this subsection, and every year thereafter, the Secretary shall submit to the appropriate congressional communities a report that includes\u2014 (i) a list of loans made to Native community development financial institutions pursuant to this subsection, including the name of the institution and the loan amount; (ii) the percentage of loans made under this section to members of Indian Tribes, Alaska Native communities, and Native Hawaiian communities, respectively, including a breakdown of loans made to households residing on and not on Tribal trust lands; and (iii) the average loan amount made by Native community development financial institutions pursuant to this subsection. (C) Evaluation of program Not later than 3 years after the date of enactment of this subsection, the Secretary and the Secretary of the Treasury shall conduct an evaluation of and submit to the appropriate congressional committees a report on the program under this subsection, which shall\u2014 (i) evaluate the effectiveness of the program, including an evaluation of the demand for loans under the program; and (ii) include recommendations relating to the program, including whether\u2014 (I) the program should be expanded to such that all community development financial institutions may make loans under the program to the borrowers described in paragraph (5); and (II) the set aside amount paragraph (3) should be modified in order to match demand under the program. (8) Grants for operational support (A) In general The Secretary shall make grants to Native community development financial institutions that receive a loan under this section to provide operational support and other related services to those institutions, subject to\u2014 (i) the satisfactory performance, as determined by the Secretary, of a Native community development financial institution in carrying out this section; and (ii) the availability of funding. (B) Amount A Native community development financial institution that receives a loan under this section shall be eligible to receive a grant described in subparagraph (A) in an amount equal to 20 percent of the direct loan amount received by the Native community development financial institution under the program under this section as of the date on which the direct loan is awarded. (9) Outreach and technical assistance There is authorized to be appropriated to the Secretary $1,000,000 for each of fiscal years 2025, 2026, and 2027\u2014 (A) to provide technical assistance to Native community development financial institutions\u2014 (i) relating to homeownership and other housing-related assistance provided by the Secretary; and (ii) to assist those institutions to perform outreach to eligible homebuyers relating to the loan program under this section; or (B) to provide funding to a national organization representing Native American housing interests to perform outreach and provide technical assistance as described in clauses (i) and (ii), respectively, of subparagraph (A). (10) Administrative costs In addition to other available funds, the Secretary may use not more than 3 percent of the amounts made available to carry out this subsection for administration of the programs established under this subsection. .\nIV\nSection 504 loans and grants\n#### 401. Modifications to loans and grants for minor improvements to farm housing and buildings; income eligibility\nSection 504(a) of the Housing Act of 1949 ( 42 U.S.C. 1474(a) ) is amended\u2014\n**(1)**\nin the first sentence, by inserting and may make a loan to an eligible low-income applicant after applicant ;\n**(2)**\nby inserting Not less than 60 percent of loan funds made available under this section shall be reserved and made available for very low-income applicants. after the first sentence; and\n**(3)**\nby striking $7,500 and inserting $15,000 .\nV\nRural community development initiative grants\n#### 501. Rural community development initiative\nSubtitle E of the Consolidated Farm and Rural Development Act ( 7 U.S.C. 2009 et seq. ) is amended by adding at the end the following:\n381O. Rural community development initiative (a) Definitions In this section: (1) Eligible entity The term eligible entity means\u2014 (A) a private, nonprofit community-based housing or community development organization; (B) a rural community; or (C) a federally recognized Indian Tribe. (2) Eligible intermediary The term eligible intermediary means a qualified\u2014 (A) private, nonprofit organization; or (B) public organization. (b) Establishment The Secretary shall establish a Rural Community Development Initiative, under which the Secretary shall provide grants to eligible intermediaries to carry out programs to provide financial and technical assistance to eligible entities to develop the capacity and ability of eligible entities to carry out projects to improve housing, community facilities, and community and economic development projects in rural areas. (c) Amount of grants The amount of a grant provided to an eligible intermediary under this section shall be not more than $250,000. (d) Matching funds (1) In general An eligible intermediary receiving a grant under this section shall provide matching funds from other sources, including Federal funds for related activities, in an amount not less than the amount of the grant. (2) Waiver The Secretary may waive paragraph (1) with respect to a project that would be carried out in a persistently poor rural region, as determined by the Secretary. .\nVI\nReports\n#### 601. Annual report on rural housing programs\nTitle V of the Housing Act of 1949 ( 42 U.S.C. 1471 et seq. ), as amended by this Act, is amended by adding at the end the following:\n546. Annual report (a) In general The Secretary shall submit to the appropriate committees of Congress and publish on the website of the Department of Agriculture an annual report on rural housing programs carried out under this title, which shall include significant details on the health of Rural Housing Service programs, including\u2014 (1) raw data sortable by programs and by region regarding loan performance; (2) the housing stock of those programs, including information on why properties end participation in those programs, such as for maturation, prepayment, foreclosure, or other servicing issues; and (3) risk ratings for properties assisted under those programs. (b) Protection of information The data included in each report required under subsection (a) may be aggregated or anonymized to protect participant financial or personal information. .\n#### 602. GAO report on Rural Housing Service technology\nNot later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report that includes\u2014\n**(1)**\nan analysis of how the outdated technology used by the Rural Housing Service impacts participants in the programs of the Rural Housing Service;\n**(2)**\nan estimate of the amount of funding that is needed to modernize the technology used by the Rural Housing Service; and\n**(3)**\nan estimate of the number and type of new employees the Rural Housing Service needs to modernize the technology used by the Rural Housing Service.\nVII\nRural housing voucher program\n#### 701. Adjustment to rural development voucher amount\n##### (a) In general\nNot later than 2 years after the date of enactment of this Act, the Secretary of Agriculture shall issue regulations to establish a process for adjusting the voucher amount provided under section 542 of the Housing Act of 1949 ( 42 U.S.C. 1490r ) after the issuance of the voucher following an interim or annual review of the amount of the voucher.\n##### (b) Interim review\nThe interim review described in subsection (a) shall, at the request of a tenant, allow for a recalculation of the voucher amount when the tenant experiences a reduction in income, change in family composition, or change in rental rate.\n##### (c) Annual review\n**(1) In general**\nThe annual review described in subsection (a) shall require tenants to annually recertify the family composition of the household and that the family income of the household does not exceed 80 percent of the area median income at a time determined by the Secretary of Agriculture.\n**(2) Considerations**\nIf a tenant does not recertify the family composition and family income of the household within the time frame required under paragraph (1), the Secretary of Agriculture\u2014\n**(A)**\nshall consider whether extenuating circumstances caused the delay in recertification; and\n**(B)**\nmay alter associated consequences for the failure to recertify based on those circumstances.\n**(3) Effective date**\nFollowing the annual review of a voucher under subsection (a), the updated voucher amount shall be effective on the 1st day of the month following the expiration of the voucher.\n##### (d) Deadline\nThe process established under subsection (a) shall require the Secretary of Agriculture to review and update the voucher amount described in subsection (a) for a tenant not later than 60 days before the end of the voucher term.\n#### 702. Eligibility for rural housing vouchers\nSection 542 of the Housing Act of 1949 ( 42 U.S.C. 1490r ) is amended by adding at the end the following:\n(c) Eligibility of households in sections 514, 515, and 516 projects The Secretary may provide rural housing vouchers under this section for any low-income household (including those not receiving rental assistance) residing for a term longer than the remaining term of their lease that is in effect on the date of prepayment, foreclosure, or mortgage maturity, in a property financed with a loan under section 514 or 515 or a grant under section 516 that has\u2014 (1) been prepaid with or without restrictions imposed by the Secretary pursuant to section 502(c)(5)(G)(ii)(I); (2) been foreclosed; or (3) matured after September 30, 2005. .\n#### 703. Amount of voucher assistance\nNotwithstanding any other provision of law, in the case of any rural housing voucher provided pursuant to section 542 of the Housing Act of 1949 ( 42 U.S.C. 1490r ), the amount of the monthly assistance payment for the household on whose behalf the assistance is provided shall be determined as provided in subsection (a) of such section 542, including providing for interim and annual review of the voucher amount in the event of a change in household composition or income or rental rate.\nVIII\nTransfers to nonprofit organizations\n#### 801. Transfer of multifamily rural housing projects\nSection 515 of the Housing Act of 1949 ( 42 U.S.C. 1485 ) is amended\u2014\n**(1)**\nin subsection (h), by adding at the end the following:\n(3) Transfer to nonprofit organizations A nonprofit or public body purchaser, including a limited partnership with a general partner with the principal purpose of providing affordable housing, may purchase a property for which a loan is made or insured under this section that has received a market value appraisal, without addressing rehabilitation needs at the time of purchase, if the purchaser\u2014 (A) makes a commitment to address rehabilitation needs during ownership and long-term use restrictions on the property; and (B) at the time of purchase, accepts long-term use restrictions on the property. ; and\n**(2)**\nin subsection (w)(1), in the first sentence in the matter preceding subparagraph (A), by striking 9 percent and inserting 50 percent .\nIX\nSection 502 loans and guarantees\n#### 901. Extension of loan term\n##### (a) In general\nSection 502(a)(2) of the Housing Act of 1949 ( 42 U.S.C. 1472(a)(2) ) is amended\u2014\n**(1)**\nby inserting (A) before The Secretary ;\n**(2)**\nin subparagraph (A), as so designated, by striking paragraph and inserting subparagraph ; and\n**(3)**\nby adding at the end the following:\n(B) The Secretary may refinance or modify the period of any loan, including any refinanced loan, made under this section in accordance with terms and conditions as the Secretary shall prescribe, but in no event shall the total term of the loan from the date of the refinance or modification exceed 40 years. .\n##### (b) Application\nThe amendment made under subsection (a) shall apply with respect to loans made under section 502 of the Housing Act of 1949 ( 42 U.S.C. 1472 ) before, on, or after the date of enactment of this Act.\n#### 902. Release of liability for section 502 guaranteed borrower upon assumption of original loan by new borrower\nSection 502(h)(10) of the Housing Act of 1949 ( 42 U.S.C. 1472(h)(10) ) is amended to read as follows:\n(10) Transfer and assumption Upon the transfer of property for which a guaranteed loan under this subsection was made and the assumption of the guaranteed loan by an approved eligible borrower, the original borrower of a guaranteed loan under this subsection shall be relieved of liability with respect to the loan. .\n#### 903. Department of Agriculture loan restrictions\n##### (a) Definitions\nIn this section, the terms State and Tribal organization have the meanings given those terms in section 658P of the Child Care and Development Block Grant Act of 1990 ( 42 U.S.C. 9858n ).\n##### (b) Revision\nThe Secretary of Agriculture shall revise section 3555.102(c) of title 7, Code of Federal Regulations, to exclude from the restriction under that section\u2014\n**(1)**\na home-based business that is a licensed, registered, or regulated child care provider under State law or by a Tribal organization; and\n**(2)**\nan applicant that has applied to become a licensed, registered or regulated child care provider under State law or by a Tribal organization.\nX\nAccessory dwelling units\n#### 1001. Loan guarantees\nSection 502(h)(4) of the Housing Act of 1949 ( 42 U.S.C. 1472(h)(4) ) is amended\u2014\n**(1)**\nby redesignating subparagraphs (A), (B), and (C) as clauses (i), (ii), and (iii), respectively;\n**(2)**\nby striking Loans may be guaranteed and inserting the following:\n(A) Definition In this paragraph, the term accessory dwelling unit means a single, habitable living unit\u2014 (i) with means of separate ingress and egress; (ii) that is usually subordinate in size; (iii) that can be added to, created within, or detached from a primary 1-unit, single-family dwelling; and (iv) in combination with a primary 1-unit, single family dwelling, constitutes a single interest in real estate. (B) Single family requirement Loans may be guaranteed ; and\n**(3)**\nby adding at the end the following:\n(C) Rule of construction Nothing in this paragraph shall be construed to prohibit the leasing of an accessory dwelling unit or the use of rental income derived from such a lease to qualify for a loan guaranteed under this subsection\u2014 (i) after the date of enactment of the Rural Housing Service Reform Act of 2025 ; and (ii) if the property that is the subject of the loan was constructed before the date of enactment of the Rural Housing Service Reform Act of 2025 . .\nXI\nTime frame for completing application review\n#### 1101. Application review\n##### (a) Sense of Congress\nIt is the sense of Congress, not later than 90 days after the date on which the Secretary of Agriculture receives an application for a loan, grant or combined loan and grant under section 502 or 504 of the Housing Act of 1949 ( 42 U.S.C. 1472 , 1474), the Secretary of Agriculture should\u2014\n**(1)**\nreview the application;\n**(2)**\ncomplete the underwriting;\n**(3)**\nmake a determination of eligibility with respect to the application; and\n**(4)**\nnotify the applicant of determination.\n##### (b) Report\n**(1) In general**\nNot later than 90 days after the date of enactment of this Act, and annually thereafter until the date described in paragraph (2), the Secretary of Agriculture shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report\u2014\n**(A)**\ndetailing the timeliness of eligibility determinations and final determinations with respect to applications under section 502 and 504 of the Housing Act of 1949 ( 42 U.S.C. 1472 , 1474), including justifications for any eligibility determinations taking longer than 90 days;\n**(B)**\nthat includes recommendations to shorten the timeline for notifications of eligibility determinations described in paragraph (1) to not more than 90 days.\n**(2) Date described**\nThe date described in this paragraph is the date on which, during the preceding 5-year period, the Secretary of Agriculture provides each eligibility determination described in paragraph (1) during the 90-day period beginning on the date on which each application is received.",
+      "versionDate": "2025-04-02",
+      "versionType": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-08-12",
+        "text": "Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "4957",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "Rural Housing Service Reform Act of 2025",
+      "type": "HR"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Housing and Community Development",
+        "updateDate": "2025-05-13T15:55:41Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-04-02",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1260is.xml"
+        }
+      ],
+      "type": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Rural Housing Service Reform Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-03-05T12:03:19Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "Rural Housing Service Reform Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-04-11T02:53:17Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A bill to reform rural housing programs, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-04-11T02:48:37Z"
+    }
+  ]
+}
+```

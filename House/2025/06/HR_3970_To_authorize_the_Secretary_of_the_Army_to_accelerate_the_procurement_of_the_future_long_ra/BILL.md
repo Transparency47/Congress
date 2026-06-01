@@ -1,0 +1,72 @@
+# HR 3970: FLRAA Production Acceleration Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-06-12
+- Latest action: 2025-06-12 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Jackson, Ronny [R-TX-13]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/3970
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-06-12
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3970ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-06-12
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3970ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3970
+IN THE HOUSE OF REPRESENTATIVES
+June 12, 2025 Mr. Jackson of Texas introduced the following bill; which was referred to the Committee on Armed Services
+A BILL
+To authorize the Secretary of the Army to accelerate the procurement of the future long range assault aircraft by initiating early production of not more than 24 such aircraft, and for other purposes.
+#### 1. Short title
+This Act may be cited as the FLRAA Production Acceleration Act of 2025 .
+#### 2. Authorization to initiate early production of future long range assault aircraft
+##### (a) Authorization
+The Secretary of the Army may enter into contracts, in advance of full-rate production, for the procurement of not more than 24 future long range assault aircraft as part of an accelerated low-rate early production effort.
+##### (b) Objectives
+In carrying out the early production effort described in subsection (a), the Secretary of the Army shall pursue the following objectives:
+**(1)**
+To expedite delivery of future long range assault aircraft operational capability to the warfighter.
+**(2)**
+To maintain momentum and learning continuity between test article completion and full production ramp-up.
+**(3)**
+To stabilize and retain the specialized workforce and industrial base supporting future long range assault aircraft, including critical suppliers and production facilities in Texas, Kansas, and other States.
+**(4)**
+To mitigate cost escalation risks and improve program affordability across the life cycle.
+##### (c) Considerations
+In executing the authority provided by subsection (a), the Secretary shall—
+**(1)**
+prioritize program continuity, cost-efficiency, and workforce retention across the supply chain for tiltrotor aircraft;
+**(2)**
+ensure that aircraft procured as part of the early production effort described in subsection (a) incorporate lessons learned from test article evaluations; and
+**(3)**
+maintain flexibility in design to accommodate future upgrades through the modular open systems architecture and digital backbone.
+#### 3. Report to Congress
+Not later than 180 days after the date of the enactment of this Act, the Secretary of the Army shall submit to the congressional defense committees a report detailing—
+**(1)**
+the implementation plan and timeline for the procurement and early production effort described in subsection (a);
+**(2)**
+the status of industrial base readiness and supply chain coordination; and
+**(3)**
+estimated long-term cost savings and operational benefits derived from such early production effort.
+
+
+## Timeline
+
+- 2025-06-12: Introduced in House
+- 2025-06-12 - IntroReferral: Introduced in House
+- 2025-06-12 - IntroReferral: Introduced in House
+- 2025-06-12 - IntroReferral: Referred to the House Committee on Armed Services.
+- Latest action: 2025-06-12: Introduced in House

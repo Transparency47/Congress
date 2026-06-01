@@ -1,0 +1,51 @@
+# HR 8057: To amend title 38, United States Code, to modify the rate of pay for care or services provided under the Community Care Program of the Department of Veterans Affairs based on the location at which such care or services were provided, and for other purposes.
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-03-24
+- Latest action: 2026-03-24 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Miller-Meeks, Mariannette [R-IA-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/8057
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-03-24
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8057ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-03-24
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8057ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 8057
+IN THE HOUSE OF REPRESENTATIVES
+March 24, 2026 Mrs. Miller-Meeks (for herself and Mr. McCormick ) introduced the following bill; which was referred to the Committee on Veterans' Affairs
+A BILL
+To amend title 38, United States Code, to modify the rate of pay for care or services provided under the Community Care Program of the Department of Veterans Affairs based on the location at which such care or services were provided, and for other purposes.
+#### 1. Rates of pay for a provider of care or services furnished to a veteran under the Community Care Program of the Department of Veterans Affairs
+##### (a) Rates
+Section 1703(i)(1) of title 38, United States Code, is amended—
+**(1)**
+by striking Except as provided in paragraph (2), and inserting (A) Except as provided in paragraph (2), ; and
+**(2)**
+by adding at the end the following new subparagraphs:
+(B) Not later than January 1, 2027, the Secretary shall establish rates for payments to providers of care or services under subparagraph (A) that are specific with respect to the following sites of service at which the care or service is actually provided (regardless of the physical location of the headquarters of the provider): (i) A hospital outpatient department. (ii) An ambulatory surgical center. (iii) The office of a physician. (iv) Such other sites as the Secretary determines appropriate in carrying out this paragraph. (C) The Secretary shall ensure that— (i) each site specified in subparagraph (B) obtains a National Provider Identifier under section 6225 of the Consolidated Appropriations Act, 2026 ( Public Law 119–75 ) that is separate and unique from such identifier for such provider; and (ii) no payment for care or services under any provision in this title may be made unless the claim for such payment includes the National Provider Identifier for the site at which such hospital care, medical services, or extended care services were furnished. (D) In the case of covered OPD services (as defined in section 1833(t)(1)(B) of the Social Security Act ( 42 U.S.C. 1395l(t)(1)(B) ) that are provided on or after January 1, 2027, by a provider that is an off-campus outpatient department of a provider (as defined in section 1833(t)(21)(B) of the Social Security Act (42 U.S.C. 1395l(t)(21(B)), disregarding clauses (ii) and (iv) thereof, as if such clauses did not exist), the Secretary shall ensure that such department is treated as a subpart of such provider and assigned a unique health identifier pursuant to subparagraph (C) of this paragraph, and that such provider includes such identifier on any claim form it submits under this subsection, and that such provider may not hold a veteran liable for such item or service unless such care or services are billed using the separate unique health identifier established for such department under this paragraph. (E) Nothing in this paragraph may be construed to— (i) prevent the Secretary from determining the appropriate amount of a facility fee; (ii) require the Secretary to pay, for the same item or service— (I) an independent physician the same amount as the Secretary would pay a hospital-based physician; or (II) a hospital-based physician less than the Secretary would pay an independent physician; or (iii) affect the authority of the Secretary under paragraph (2). .
+##### (b) Effective date
+The amendments made by subsection (a) shall take effect on January 1 of the first calendar year beginning after the date of the enactment of this Act.
+
+
+## Timeline
+
+- 2026-03-24: Introduced in House
+- 2026-03-24 - IntroReferral: Introduced in House
+- 2026-03-24 - IntroReferral: Introduced in House
+- 2026-03-24 - IntroReferral: Referred to the House Committee on Veterans' Affairs.
+- Latest action: 2026-03-24: Introduced in House

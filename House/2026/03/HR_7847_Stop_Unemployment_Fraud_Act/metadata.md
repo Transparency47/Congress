@@ -1,0 +1,420 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/7847?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/7847
+- Title: Stop Unemployment Fraud Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 7847
+- Origin chamber: House
+- Introduced date: 2026-03-05
+- Update date: 2026-03-31T21:26:06Z
+- Update date including text: 2026-04-15T16:27:19Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2026-03-05: Introduced in House
+- 2026-03-05 - IntroReferral: Introduced in House
+- 2026-03-05 - IntroReferral: Introduced in House
+- 2026-03-05 - IntroReferral: Referred to the House Committee on Ways and Means.
+- Latest action: 2026-03-05: Introduced in House
+
+## Actions
+
+- 2026-03-05 - IntroReferral: Introduced in House
+- 2026-03-05 - IntroReferral: Introduced in House
+- 2026-03-05 - IntroReferral: Referred to the House Committee on Ways and Means.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-03-05",
+    "latestAction": {
+      "actionDate": "2026-03-05",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7847",
+    "number": "7847",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001199",
+        "district": "11",
+        "firstName": "Lloyd",
+        "fullName": "Rep. Smucker, Lloyd [R-PA-11]",
+        "lastName": "Smucker",
+        "party": "R",
+        "state": "PA"
+      }
+    ],
+    "title": "Stop Unemployment Fraud Act",
+    "type": "HR",
+    "updateDate": "2026-03-31T21:26:06Z",
+    "updateDateIncludingText": "2026-04-15T16:27:19Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-03-05",
+      "committees": {
+        "item": {
+          "name": "Ways and Means Committee",
+          "systemCode": "hswm00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Ways and Means.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2026-03-05",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2026-03-05",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-03-05T15:00:35Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "S001172",
+      "district": "3",
+      "firstName": "Adrian",
+      "fullName": "Rep. Smith, Adrian [R-NE-3]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Smith",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "NE"
+    },
+    {
+      "bioguideId": "B001260",
+      "district": "16",
+      "firstName": "Vern",
+      "fullName": "Rep. Buchanan, Vern [R-FL-16]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Buchanan",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "F000480",
+      "district": "20",
+      "firstName": "Vince",
+      "fullName": "Rep. Fong, Vince [R-CA-20]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Fong",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "V000134",
+      "district": "24",
+      "firstName": "Beth",
+      "fullName": "Rep. Van Duyne, Beth [R-TX-24]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Van Duyne",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "F000446",
+      "district": "4",
+      "firstName": "Randy",
+      "fullName": "Rep. Feenstra, Randy [R-IA-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Feenstra",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "IA"
+    },
+    {
+      "bioguideId": "M001222",
+      "district": "7",
+      "firstName": "Max",
+      "fullName": "Rep. Miller, Max L. [R-OH-7]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Miller",
+      "middleName": "L.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "OH"
+    },
+    {
+      "bioguideId": "T000478",
+      "district": "24",
+      "firstName": "Claudia",
+      "fullName": "Rep. Tenney, Claudia [R-NY-24]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Tenney",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "K000376",
+      "district": "16",
+      "firstName": "Mike",
+      "fullName": "Rep. Kelly, Mike [R-PA-16]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Kelly",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "A000375",
+      "district": "19",
+      "firstName": "Jodey",
+      "fullName": "Rep. Arrington, Jodey C. [R-TX-19]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Arrington",
+      "middleName": "C.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "M001213",
+      "district": "1",
+      "firstName": "Blake",
+      "fullName": "Rep. Moore, Blake D. [R-UT-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Moore",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "UT"
+    },
+    {
+      "bioguideId": "M001224",
+      "district": "1",
+      "firstName": "Nathaniel",
+      "fullName": "Rep. Moran, Nathaniel [R-TX-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "M001205",
+      "district": "1",
+      "firstName": "Carol",
+      "fullName": "Rep. Miller, Carol D. [R-WV-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Miller",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "WV"
+    },
+    {
+      "bioguideId": "B001314",
+      "district": "4",
+      "firstName": "Aaron",
+      "fullName": "Rep. Bean, Aaron [R-FL-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Bean",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "Y000067",
+      "district": "2",
+      "firstName": "Rudy",
+      "fullName": "Rep. Yakym, Rudy [R-IN-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Yakym",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "IN"
+    },
+    {
+      "bioguideId": "E000298",
+      "district": "4",
+      "firstName": "Ron",
+      "fullName": "Rep. Estes, Ron [R-KS-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Estes",
+      "party": "R",
+      "sponsorshipDate": "2026-03-05",
+      "state": "KS"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7847ih.xml",
+      "text": "I\n119th CONGRESS\n2d Session\nH. R. 7847\nIN THE HOUSE OF REPRESENTATIVES\nMarch 5, 2026 Mr. Smucker (for himself, Mr. Smith of Nebraska , Mr. Buchanan , Mr. Fong , Ms. Van Duyne , Mr. Feenstra , Mr. Miller of Ohio , Ms. Tenney , Mr. Kelly of Pennsylvania , Mr. Arrington , Mr. Moore of Utah , Mr. Moran , Mrs. Miller of West Virginia , Mr. Bean of Florida , Mr. Yakym , and Mr. Estes ) introduced the following bill; which was referred to the Committee on Ways and Means\nA BILL\nTo amend title III of the Social Security Act and the Federal Unemployment Tax Act to require identity verification procedures and data matching, to prevent unemployment fraud, and to strengthen work search requirements, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Stop Unemployment Fraud Act .\n#### 2. Verification of applicant identity\n##### (a) In general\nSection 303 of the Social Security Act ( 42 U.S.C. 503 ) is amended by adding at the end the following:\n(n) (1) The State agency charged with the administration of the State law shall certify that the State has procedures in place to verify the identity of claimants of unemployment compensation, including requiring the claimant to provide documentation of their identity, which shall consist of\u2014 (A) at least one currently valid Federal or State government-issued identification document; and (B) one or more supporting documents, which may include utility bills, lease agreements, voter registration cards, vehicle registration, insurance documents, or other reliable documents, so long as such documents are\u2014 (i) determined by the State to be sufficient to verify the identity of the claimant; or (ii) approved by the Secretary for such purpose. (2) Not later than 12 months after the date of enactment of this subsection, the Secretary of Labor shall promulgate regulations governing identity verification procedures for claimants of unemployment compensation used by State agencies. Such regulations shall\u2014 (A) take into account\u2014 (i) administrative costs, including for technology and cybersecurity systems; and (ii) any other factors the Secretary determines appropriate; (B) provide due process protections for claimants; (C) specify methods to ensure that the documentation required under paragraph (1)(A)\u2014 (i) is accurate, current, and reliable; and (ii) does not produce systematic mismatches that unfairly deny or delay the payment of unemployment compensation; (D) require safeguards to ensure that the procedures\u2014 (i) minimize false positive or negative rates; (ii) do not result in the flagging, denial, or delay of claims based on the personal characteristics of an individual, including race, color, religion, sex, national origin, age, disability, or political affiliation or belief; and (iii) comply with applicable civil rights laws; (E) require that such procedures comply with best practices for privacy and cybersecurity, as determined by the Secretary of Labor; (F) any other factors the Secretary determines appropriate; and (G) include any other provisions necessary to ensure the proper implementation, oversight, and continuous improvement of data-matching practices under this subsection. (3) In this subsection, the term unemployment compensation has the meaning given the term in subsection (d)(2)(A). .\n##### (b) Effective date\nThe amendments made by this Act shall apply, with respect to a State, to initial applications for unemployment compensation received by such State on or after the date that is 2 years after the date of enactment of this Act.\n#### 3. Preventing unemployment compensation fraud through data matching\n##### (a) In general\nSection 3304 of the Internal Revenue Code of 1986 is amended\u2014\n**(1)**\nby redesignating subsection (f) as subsection (g); and\n**(2)**\nby inserting after subsection (e) the following:\n(f) Preventing unemployment compensation fraud through data matching As a condition of eligibility of a State to implement the exceptions to the withdrawal standard described in subparagraphs (H) and (I) of subsection (a)(4), the State shall certify to the Secretary of Labor each of the following: (1) Integrity data hub The State uses the system designated by the Secretary of Labor (or another system at the discretion of the State) for cross-matching claimants of unemployment compensation to prevent and detect fraud and improper payments. (2) Use of fraud prevention and detection The State has established procedures to do the following: (A) National directory of new hires Use the National Directory of New Hires established under section 453(i) of the Social Security Act\u2014 (i) to compare information in such Directory against information about claimants of unemployment compensation to identify any such individuals who may have become employed; (ii) to take timely action to verify whether the individuals identified pursuant to subparagraph (A) are employed; and (iii) upon making a verification described in clause (ii), to take appropriate action to deny or reduce unemployment compensation payments, and to initiate recovery of any overpayments that have been made. (B) State information data exchange system Use the State Information Data Exchange System (or another system at the discretion of the State) to facilitate employer responses to request for information from the State workforce agencies. (C) Incarcerated individuals Request information from the Commissioner of Social Security under sections 202(x)(3)(B)(iv) and 1611(e)(1)(I)(iii) of the Social Security Act, or from such other sources as the State agency determines appropriate, to obtain the information necessary to carry out the provisions of a State law under which an individual who is confined in a jail, prison, or other penal institution or correctional facility is ineligible for unemployment compensation on account of such individuals inability to satisfy the requirement under section 303(a)(12) of such Act. (D) Deceased individuals Compare information of individuals claiming unemployment compensation against the information regarding deceased individuals furnished to or maintained by the Commissioner of Social Security under section 205(r) of the Social Security Act. .\n#### 4. Stopping the pay and chase model; prohibition on self-attestation\n##### (a) Payments due when eligibility is confirmed\nSection 303 of the Social Security Act ( 42 U.S.C. 503 ) is amended\u2014\n**(1)**\nin subsection (a)(1), by inserting (as described in subsection (n)) after when due ; and\n**(2)**\nby adding at the end the following:\n(o) (1) When payments are due For the purposes of subsection (a)(1), a payment is due on the date that an individual has established eligibility for a benefit year or period, filed a weekly claim for unemployment compensation (as defined in subsection (d)(2)(A)), and has been determined to have met the requirements of weekly eligibility described in paragraphs (10) and (12) of subsection (a), and any additional requirements pursuant to State law. Such a payment shall be made to the individual after payment is due, and such a payment shall not be made prior to the determination that an individual is eligible to receive such payment, including through the identification verification required under subsection (n)(1). (2) Promulgation of regulation Not later than 180 days after the date of enactment of the Stop Unemployment Fraud Act, the Secretary of Labor shall promulgate a regulation, for the purposes of carrying out paragraph (1), that establishes maximum time frames for benefit payment following an initial eligibility determination, including standards for periods in which there is a high volume of claims. .\n##### (b) Self-Attestation prohibition\nSection 303 of the Social Security Act ( 42 U.S.C. 503 ) is further amended by adding at the end the following:\n(p) Self-Attestation prohibition For the purpose of determining whether a claimant is eligible for unemployment compensation (as defined under subsection (d)(2)(A)) for any week, a claimant\u2019s self-attestation or self-certification shall not be sufficient on its own to prove the claimant is eligible for such compensation. .\n##### (c) Effective date\nThe amendments made by this section shall apply to certifications for payment made after the date that is 2 years after the date of enactment of this Act.\n#### 5. Secretarial monitoring\nSection 303 of the Social Security Act ( 42 U.S.C. 503 ) is further amended by adding at the end the following:\n(q) Monitoring required (1) In general The Secretary of Labor shall monitor each State\u2019s compliance with subsection (r). (2) Withholding of funds In the case that the Secretary identifies a State that is not in compliance with subsection (n) or (o), the Secretary may, after reasonable notice and hearing\u2014 (A) withhold 5 percent of the funds appropriated pursuant to section 901(c)(1)(A) for such State; and (B) implement for the State a corrective action plan to bring the State into compliance with such subsections. .\n#### 6. Strengthening work search requirements\n##### (a) In general\nSection 303 of the Social Security Act ( 42 U.S.C. 503(a)(12) ) is further amended\u2014\n**(1)**\nin subsection (a)(12), by striking and actively and inserting and, subject to subsection (r), actively ; and\n**(2)**\nby adding at the end the following:\n(r) (1) Actively seeking work For the purposes of subsection (a)(12), subject to paragraph (2), a claimant of unemployment compensation (as defined in subsection (d)(2)(A)) shall only be considered to be actively seeking work if the individual\u2014 (A) is registered for employment services in such a manner and to such extent as prescribed by the State agency; (B) maintains a record of such work search, including employers contacted, method of contact, and date contacted; and (C) provides such record to the State agency each week the individual receives unemployment benefits. (2) Verification of work search record The State shall verify the work search records received pursuant to paragraph (1)(C). (3) Regulation Not later than 6 months after the date of enactment of the Stop Unemployment Fraud Act, the Secretary shall issue guidance outlining standards for\u2014 (A) employment service registration; and (B) verifying work search records. .\n##### (b) Effective date\nThe amendments made by this section shall apply to claimants who receive regular unemployment compensation beginning on the date that is 2 years after the date of enactment of this Act.\n#### 7. Permissible uses of unemployment fund for program administration\n##### (a) Withdrawal standard in the Internal Revenue Code\nSection 3304(a)(4) of the Internal Revenue Code of 1986 is amended\u2014\n**(1)**\nin subparagraph (F), by striking and after the semicolon;\n**(2)**\nin subparagraph (G), by adding and at the end; and\n**(3)**\nby adding at the end the following:\n(H) provided the certifications made by the State as described in section 3304(f) of the Internal Revenue Code of 1986 are in effect at the time of approval of the State law under this subsection, an amount, not to exceed 5 percent, of any overpayment of compensation recovered by the State (other than an overpayment made as the result of agency error) may, immediately following the State\u2019s receipt of such recovered amount, be deposited in a State fund from which money may be used for\u2014 (1) the payment of costs of deterring, detecting, and preventing improper payments; (2) purposes related to the proper classification of individuals as being in employment (as defined in section 3306(c) of the Internal Revenue Code of 1986), an independent contract, or as an employer (as defined in section 3306(a) of such Code), and the provisions of State law implementing section 303(k) of the Social Security Act; (3) the payment to the Secretary of the Treasury to the credit of the account of the State in the Unemployment Trust Fund; (4) modernizing the State\u2019s unemployment insurance technology infrastructure; or (5) otherwise assisting the State in improving the timely and accurate administration of the State\u2019s unemployment compensation law; and (I) provided the certifications made by the State as described in section 4 of the Stop Unemployment Fraud Act are in effect at the time of approval of the State law under this subsection, an amount, not to exceed 5 percent, of any payments of contributions, or payments in lieu of contributions, that are collected as a result of an investigation and assessment by the State agency may, immediately following receipt of such payments, be deposited in a State fund from which moneys may be withdrawn for the purposes specified in subparagraph (H). .\n##### (b) Definition of unemployment fund\nSection 3306(f) of the Internal Revenue Code of 1986 is amended by striking and for refunds of sums and all that follows and inserting the following: , except as otherwise provided in section 3304(a)(4), section 303(a)(5) of the Social Security Act, or any other provision of Federal unemployment compensation law. .\n##### (c) Withdrawal standard in Social Security Act\nSection 303(a)(5) of the Social Security Act ( 42 U.S.C. 503(a)(5) ) is amended by striking and for refunds of sums and all that follows and inserting the following: except as otherwise provided in this section, section 3304(a)(4) of the Internal Revenue Code of 1986, or any other provisions of Federal unemployment compensation law; and .\n##### (d) Immediate deposit requirements in the Internal Revenue Code\nSection 3304(a)(3) of the Internal Revenue Code of 1986 is amended to read as follows:\n(3) all money received in the unemployment fund shall immediately upon receipt be paid over to the Secretary of the Treasury to the credit of the Unemployment Trust Fund established under section 904 of the Social Security Act ( 42 U.S.C. 1104 ), except for\u2014 (A) refunds of sums improperly paid into such fund; (B) refunds paid in accordance with the provisions of section 3305(b); and (C) amounts deposited in a State fund in accordance with subparagraph (H) or (I) of paragraph (4); .\n##### (e) Immediate deposit requirement in Social Security Act\nSection 303(a)(4) of the Social Security Act ( 42 U.S.C. 503(a)(4) ) is amended by striking (except for refunds of sums erroneously paid into such fund and except for refunds paid in accordance with the provisions of 3305(b) of the Federal Unemployment Tax Act) and inserting (except as otherwise provided in this section, section 3304(a)(3) of the Internal Revenue Code of 1986, or any other provisions of Federal unemployment compensation law) .\n##### (f) Application to Federal payments\nWhen administering any Federal program providing compensation (as defined in section 3306 of the Internal Revenue Code of 1986), the State shall use the authority provided under subparagraphs (H) and (I) of section 3304(a)(4) of such Code in the same manner as such authority is used with respect to the State unemployment compensation law. With respect to improper Federal payments recovered consistent with the authority under subparagraphs (H) and (I) of such section, the State shall immediately deposit the same percentage of the recovered payments into the same State fund as provided in the State law implementing that section.\n##### (g) Effective date\nThe amendments made by this section shall apply to overpayments or payments or contributions (or payments in lieu of contributions) that are collected as a result of an investigation and assessment by the State agency after the end of the 2-year period beginning on the date of the enactment of this Act, except that nothing in this section shall be interpreted to prevent a State from amending its law before the end of the 2-year period beginning on the date of the enactment of this Act.",
+      "versionDate": "2026-03-05",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2026-03-05",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "4016",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "Stop Unemployment Fraud Act",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Taxation",
+        "updateDate": "2026-03-31T21:26:06Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-03-05",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7847ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Stop Unemployment Fraud Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-03-28T04:53:23Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Stop Unemployment Fraud Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-03-28T04:53:22Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend title III of the Social Security Act and the Federal Unemployment Tax Act to require identity verification procedures and data matching, to prevent unemployment fraud, and to strengthen work search requirements, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-03-28T04:48:25Z"
+    }
+  ]
+}
+```

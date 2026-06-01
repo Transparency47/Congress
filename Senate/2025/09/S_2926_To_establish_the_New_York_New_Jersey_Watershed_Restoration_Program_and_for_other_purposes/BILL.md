@@ -1,0 +1,239 @@
+# S 2926: New York-New Jersey Watershed Protection Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-09-29
+- Latest action: 2025-09-29 - Introduced in Senate
+- Policy area: Environmental Protection
+- Sponsor: Sen. Booker, Cory A. [D-NJ]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/2926
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**New York-New Jersey Watershed Protection Act**
+
+This bill establishes programs to restore and protect the New York-New Jersey Watershed. The watershed is composed of all land area the surface water of which drains into the New York-New Jersey Harbor, the waters contained within that land area, and associated estuaries.
+
+Specifically, the bill requires the U.S. Fish and Wildlife Service to establish the New York-New Jersey Watershed Restoration Program, a nonregulatory program, to coordinate restoration and protection activities among government entities and conservation partners throughout the watershed.
+
+The bill also establishes the New York-New Jersey Watershed Restoration Grant Program, a voluntary grant and technical assistance program, to provide competitive matching grants to certain entities to implement restoration and protection activities for the watershed. The federal government may not maintain ownership of any land acquired under the bill except for the purpose of promptly transferring ownership to grant recipients.
+
+The bill ceases to have force or effect on October 1, 2031.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-09-29
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2926is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-09-29
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2926is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 2926
+IN THE SENATE OF THE UNITED STATES
+September 29, 2025 Mr. Booker (for himself, Mrs. Gillibrand , Mr. Kim , and Mr. Schumer ) introduced the following bill; which was read twice and referred to the Committee on Environment and Public Works
+A BILL
+To establish the New York-New Jersey Watershed Restoration Program, and for other purposes.
+#### 1. Short title
+This Act may be cited as the New York-New Jersey Watershed Protection Act .
+#### 2. Definitions
+In this Act:
+**(1) Approved plan**
+**(A) In general**
+The term approved plan means any plan for management of the Watershed—
+**(i)**
+that has been approved by a Federal, regional, State, Tribal, or local governmental entity, including State Wildlife Action Plans, Comprehensive Conservation Management Plans, and Watershed Improvement Plans; or
+**(ii)**
+that is determined by the Secretary, in consultation with the entities described in clause (i), to contribute to the achievement of the purposes of this Act.
+**(B) Inclusions**
+The term approved plan includes—
+**(i)**
+the New York-New Jersey Harbor & Estuary Program (HEP) Action Agenda;
+**(ii)**
+the Hudson Raritan Comprehensive Restoration Plan;
+**(iii)**
+the Hudson River Comprehensive Restoration Plan;
+**(iv)**
+the Hudson River Estuary Program Action Agenda;
+**(v)**
+the Mohawk River Action Agenda;
+**(vi)**
+the Sustainable Raritan River Initiative Action Plan;
+**(vii)**
+the Lower Passaic and Bronx & Harlem Federal Urban Waters Partnership Workplans;
+**(viii)**
+the New Jersey Sports and Exhibition Authority Meadowlands Restoration Plan; and
+**(ix)**
+such other conservation projects in the region that achieve the purposes of this Act, as determined by the Secretary.
+**(2) Environmental justice**
+The term environmental justice , with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies, means the fair treatment and meaningful involvement of all people, regardless of race, color, national origin, or income.
+**(3) Foundation**
+The term Foundation means the National Fish and Wildlife Foundation.
+**(4) Grant program**
+The term grant program means the voluntary New York-New Jersey Watershed Restoration Grant Program established under section 4(a).
+**(5) Program**
+The term program means the New York-New Jersey Watershed Restoration Program established under section 3(a).
+**(6) Restoration and protection**
+The term restoration and protection means the conservation, stewardship, and enhancement of habitat for fish and wildlife, including water quality—
+**(A)**
+to preserve and improve ecosystems and ecological processes on which those fish and wildlife depend; and
+**(B)**
+for use and enjoyment by the public.
+**(7) Secretary**
+The term Secretary means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
+**(8) Watershed**
+The term Watershed means the New York-New Jersey Watershed, which is composed of—
+**(A)**
+all land area the surface water of which drains into the New York-New Jersey Harbor;
+**(B)**
+the waters contained within that land area; and
+**(C)**
+the estuaries associated with those watersheds.
+#### 3. New York-New Jersey Watershed Restoration Program
+##### (a) Establishment
+Not later than 180 days after the date of enactment of this Act, the Secretary shall establish a nonregulatory program, to be known as the New York-New Jersey Watershed Restoration Program .
+##### (b) Purposes
+The purposes of the program shall include—
+**(1)**
+coordinating restoration and protection activities among Federal, State, Tribal, local, and regional entities and conservation partners throughout the Watershed;
+**(2)**
+carrying out coordinated restoration and protection activities, and providing for technical assistance for those activities, throughout the Watershed—
+**(A)**
+to sustain and enhance fish and wildlife habitat;
+**(B)**
+to improve and maintain water quality to support fish, wildlife, and their habitats, as well as to improve opportunities for public access and recreation in the Watershed consistent with the ecological needs of fish and wildlife habitats;
+**(C)**
+to advance the use of natural climate solutions and natural infrastructure, including living shorelines and other green infrastructure techniques, to maximize the resilience of communities, natural systems, and habitats experiencing the impacts of climate change;
+**(D)**
+to engage the public, particularly communities experiencing environmental injustice, through outreach, education, and community involvement to increase capacity, support, and workforce development for coordinated restoration and protection activities in the Watershed;
+**(E)**
+to increase scientific capacity to support the planning, monitoring, and research activities necessary to carry out coordinated restoration and protection activities in the Watershed;
+**(F)**
+to provide for feasibility and planning studies for green infrastructure projects that achieve habitat restoration and stormwater management goals;
+**(G)**
+to support land conservation and management activities necessary to fulfill the Watershed-wide strategy adopted under subsection (c)(3);
+**(H)**
+to monitor environmental quality to assess progress toward the purposes of this Act; and
+**(I)**
+to improve fish and wildlife habitats, as well as opportunities for personal recreation, along rivers and shore fronts within communities experiencing environmental injustice; and
+**(3)**
+carrying out restoration and protection activities necessary, as determined by the Secretary, for the implementation of approved plans.
+##### (c) Duties
+In carrying out the program, the Secretary shall—
+**(1)**
+draw on existing and new approved plans for the Watershed, or portions of the Watershed;
+**(2)**
+work in consultation with applicable management entities, including representatives of the New York-New Jersey Harbor and Estuary Program (HEP), the Hudson River Estuary Program, the Mohawk River Basin Program, the Sustainable Raritan River Initiative, the Federal Government, other State and local governments, and regional and nonprofit organizations, including environmental justice organizations, as appropriate, to identify, prioritize, and implement restoration and protection activities within the Watershed; and
+**(3)**
+adopt a Watershed-wide strategy that—
+**(A)**
+supports the implementation of a shared set of science-based restoration and protection activities developed in accordance with paragraph (2);
+**(B)**
+targets cost-effective projects with measurable results;
+**(C)**
+maximizes conservation outcomes;
+**(D)**
+prioritizes the needs of communities experiencing environmental injustice; and
+**(E)**
+implements the grant program.
+##### (d) Consultation
+In establishing the program, the Secretary shall consult with, as appropriate—
+**(1)**
+the heads of Federal agencies, including—
+**(A)**
+the Administrator of the Environmental Protection Agency;
+**(B)**
+the Administrator of the National Oceanic and Atmospheric Administration;
+**(C)**
+the Secretary of Agriculture;
+**(D)**
+the Director of the National Park Service; and
+**(E)**
+the heads of such other Federal agencies as the Secretary determines to be appropriate;
+**(2)**
+the Governor of New York;
+**(3)**
+the Governor of New Jersey;
+**(4)**
+the Commissioner of the New York State Department of Environmental Conservation;
+**(5)**
+the Director of the New Jersey Division of Fish and Wildlife;
+**(6)**
+the New York-New Jersey Harbor & Estuary Program; and
+**(7)**
+other public agencies, Indian Tribes, and organizations with authority for the planning and implementation of conservation strategies in the Watershed, as determined appropriate by the Secretary.
+#### 4. New York-New Jersey watershed restoration grant program
+##### (a) Establishment
+Not later than 180 days after the date of enactment of this Act, the Secretary shall establish a voluntary grant and technical assistance program, to be known as the New York-New Jersey Watershed Restoration Grant Program , to provide competitive matching grants to State, Tribal, and local governments, nonprofit organizations, institutions of higher education, and other eligible entities, as determined by the Secretary, to carry out the coordinated restoration and protection activities described in section 3(b)(2).
+##### (b) Criteria
+The Secretary, in consultation with the individuals and entities referred to in section 3(d), shall develop criteria for the grant program to ensure that activities funded under the grant program—
+**(1)**
+accomplish 1 or more of the purposes identified in section 3(b)(2); and
+**(2)**
+advance the implementation of priority actions or needs identified in the Watershed-wide strategy adopted under section 3(c)(3).
+##### (c) Capacity building
+In carrying out the grant program, the Secretary shall seek to increase the effectiveness of organizations that carry out restoration and protection activities described in section 3(b)(2) within the Watershed by addressing organizational capacity needs.
+##### (d) Cost-Share
+**(1) Federal share**
+**(A) In general**
+Except as provided in subparagraph (B), the Federal share of the total cost of a restoration and protection activity carried out under the grant program shall be not more than 50 percent, as determined by the Secretary.
+**(B) Small, rural, and disadvantaged communities**
+**(i) In general**
+Subject to clause (ii) the Federal share of the total cost of a restoration and protection activity carried out under the grant program that serves a small, rural, or disadvantaged community shall be 90 percent, as determined by the Secretary.
+**(ii) Waiver**
+The Secretary may increase the Federal share under clause (i) to 100 percent of the total cost of the restoration and protection activity if the Secretary determines that the grant recipient is unable to pay, or would experience significant financial hardship if required to pay, the non-Federal share.
+**(2) Non-Federal share**
+**(A) In general**
+The non-Federal share of the total cost of a restoration and protection activity carried out under the grant program shall be not more than 50 percent, as determined by the Secretary.
+**(B) Form of payment**
+The non-Federal share described in subparagraph (A) may be provided—
+**(i)**
+in cash; or
+**(ii)**
+in the form of an in-kind contribution of services or materials.
+##### (e) Administration
+**(1) In general**
+The Secretary may enter into an agreement to manage the grant program with—
+**(A)**
+the Foundation; or
+**(B)**
+a similar organization that offers grant management services.
+**(2) Funding**
+If the Secretary enters into an agreement under paragraph (1), the Foundation or similar organization selected, as applicable, shall—
+**(A)**
+receive the amounts made available to carry out the grant program under section 7 for each applicable fiscal year in an advance payment of the entire amount on October 1 of that fiscal year, or as soon as practicable thereafter;
+**(B)**
+invest and reinvest those amounts for the benefit of the grant program; and
+**(C)**
+administer the grant program to support partnerships between the public and private sectors in accordance with this Act.
+**(3) Requirements**
+If the Secretary enters into an agreement with the Foundation under paragraph (1), any amounts received by the Foundation under this section shall be subject to the National Fish and Wildlife Foundation Establishment Act ( 16 U.S.C. 3701 et seq. ), excluding section 10(a) of that Act ( 16 U.S.C. 3709(a) ).
+#### 5. Annual reports
+Not later than 180 days after the date of enactment of this Act, and annually thereafter, the Secretary shall submit to Congress a report on the implementation of this Act, including a description of each activity that has received funding under this Act in the preceding fiscal year.
+#### 6. Prohibition on Federal land holdings
+The Federal Government may not maintain ownership of any land acquired under this Act except for the purpose of promptly transferring ownership to an entity described in section 4(a).
+#### 7. Authorization of appropriations
+##### (a) In general
+There is authorized to be appropriated to the Secretary to carry out this Act $20,000,000 for each of fiscal years 2026 through 2031, of which not more than 5 percent shall be used for administrative costs of carrying out this Act.
+##### (b) Grant program
+Of the amounts made available to carry out this Act for each fiscal year, the Secretary shall use not less than 75 percent to carry out the grant program, including for technical assistance relating to the grant program.
+##### (c) Supplement, not supplant
+Amounts made available to carry out this Act for each fiscal year shall supplement, and not supplant, funding for other activities conducted by the Secretary in the Watershed.
+#### 8. Sunset
+This Act shall cease to have force or effect on October 1, 2031.
+
+
+## Timeline
+
+- 2025-09-29: Introduced in Senate
+- 2025-09-29 - IntroReferral: Introduced in Senate
+- 2025-09-29 - IntroReferral: Read twice and referred to the Committee on Environment and Public Works.
+- Latest action: 2025-09-29: Introduced in Senate

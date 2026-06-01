@@ -1,0 +1,67 @@
+# S 2410: Medicaid Bump Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-07-23
+- Latest action: 2025-07-23 - Introduced in Senate
+- Policy area: Health
+- Sponsor: Sen. Smith, Tina [D-MN]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/2410
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Medicaid Bump Act**
+
+This bill increases the Medicaid federal matching rate, also known as the Federal Medical Assistance Percentage (FMAP), for behavioral health expenses that exceed prior levels (i.e., as of March 31, 2019). The Centers for Medicare & Medicaid Services must specify which services are eligible for the increased FMAP. States must use funds to supplement state funding for programs in effect as of April 1, 2021, and to increase the capacity, efficiency, and quality of services.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-07-23
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2410is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-07-23
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2410is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 2410
+IN THE SENATE OF THE UNITED STATES
+July 23, 2025 Ms. Smith introduced the following bill; which was read twice and referred to the Committee on Finance
+A BILL
+To amend title XIX of the Social Security Act to provide a higher Federal matching rate for increased expenditures under Medicaid for behavioral health services (including those related to mental health and substance use), and for other purposes.
+#### 1. Short title
+This Act may be cited as the Medicaid Bump Act .
+#### 2. Higher Federal match for increased expenditures under Medicaid for behavioral health services
+##### (a) In general
+Section 1903 of the Social Security Act ( 42 U.S.C. 1396b ) is amended—
+**(1)**
+in subsection (a)(5)—
+**(A)**
+by striking an amount equal and inserting (A) an amount equal ; and
+**(B)**
+by adding at the end the following:
+and (B) subject to subsection (b)(6), an amount equal to 90 percent of the amount by which— (i) the sum of the amounts expended during such quarter which are attributable to the offering, arranging, and furnishing (directly or on a contract basis) under the State plan (or under a waiver of the plan) of behavioral health services (including those related to mental health and substance use), exceeds (ii) the sum of the amounts expended during the corresponding quarter in the 4-quarter period ending on March 31, 2019, which are attributable to the offering, arranging, and furnishing (directly or on a contract basis) under the State plan (or under a waiver of the plan) of such services, plus ; and
+**(2)**
+in subsection (b), by adding at the end the following new paragraph:
+(6) Accountability and maintenance of effort requirements for additional Federal funding for increased expenditures for behavioral health services As a condition for receiving the funds the Secretary is otherwise obligated to pay to a State under subsection (a)(5)(B), a State shall meet the following requirements: (A) Supplement, not supplant The State shall use the funds received under such subsection to supplement, not supplant, the level of State funds expended for the offering, arranging, and furnishing (directly or on a contract basis) under the State plan (or under a waiver of the plan) of behavioral health services (including those related to mental health and substance use) through programs and activities in effect as of April 1, 2021. (B) Use of funds for activities that improve delivery of behavioral health services The State shall use the funds received under such subsection for activities that increase the capacity, efficiency, and quality in the provision of behavioral health services (including those related to mental health and substance use) delivered by providers, including through increases in payment rates for providers of those services and the adoption of other measures that ensure a reduction in staff turnover. .
+##### (b) Sub-Regulatory guidance
+Not later than 180 days after the date of enactment of this Act, the Secretary of Health and Human Services shall issue sub-regulatory guidance to States specifying the services that are behavioral health services for purposes of subparagraph (B) of section 1903(a)(5) of the Social Security Act ( 42 U.S.C. 1396b(a)(5) ), as added by subsection (a).
+##### (c) Effective date
+The amendments made by this section shall apply with respect to calendar quarters beginning on or after January 1 of the year beginning 1 year after the date of the enactment of this Act.
+#### 3. Report regarding behavioral health service
+Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Secretary of Health and Human Services shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report regarding behavioral health services (including those related to mental health and substance use) provided under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq. ) in each State (as such term is defined in section 1101(a) of such Act ( 42 U.S.C. 1301(a) ) for purposes of such title), specifying the payment rates for such services, the rationale for deriving such payment rates, and utilization of such services, as such data are available.
+
+
+## Timeline
+
+- 2025-07-23: Introduced in Senate
+- 2025-07-23 - IntroReferral: Introduced in Senate
+- 2025-07-23 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2025-07-23: Introduced in Senate

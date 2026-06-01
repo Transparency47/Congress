@@ -1,0 +1,353 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/4035?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/4035
+- Title: Wall Street Tax Act of 2025
+- Congress: 119
+- Bill type: HR
+- Bill number: 4035
+- Origin chamber: House
+- Introduced date: 2025-06-17
+- Update date: 2026-03-25T08:05:33Z
+- Update date including text: 2026-03-25T08:05:33Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-06-17: Introduced in House
+- 2025-06-17 - IntroReferral: Introduced in House
+- 2025-06-17 - IntroReferral: Introduced in House
+- 2025-06-17 - IntroReferral: Referred to the House Committee on Ways and Means.
+- Latest action: 2025-06-17: Introduced in House
+
+## Actions
+
+- 2025-06-17 - IntroReferral: Introduced in House
+- 2025-06-17 - IntroReferral: Introduced in House
+- 2025-06-17 - IntroReferral: Referred to the House Committee on Ways and Means.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-06-17",
+    "latestAction": {
+      "actionDate": "2025-06-17",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4035",
+    "number": "4035",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Taxation"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "H001094",
+        "district": "4",
+        "firstName": "Val",
+        "fullName": "Rep. Hoyle, Val T. [D-OR-4]",
+        "lastName": "Hoyle",
+        "party": "D",
+        "state": "OR"
+      }
+    ],
+    "title": "Wall Street Tax Act of 2025",
+    "type": "HR",
+    "updateDate": "2026-03-25T08:05:33Z",
+    "updateDateIncludingText": "2026-03-25T08:05:33Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-06-17",
+      "committees": {
+        "item": {
+          "name": "Ways and Means Committee",
+          "systemCode": "hswm00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Ways and Means.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-06-17",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-06-17",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-06-17T15:04:25Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "S000510",
+      "district": "9",
+      "firstName": "Adam",
+      "fullName": "Rep. Smith, Adam [D-WA-9]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Smith",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "WA"
+    },
+    {
+      "bioguideId": "J000298",
+      "district": "7",
+      "firstName": "Pramila",
+      "fullName": "Rep. Jayapal, Pramila [D-WA-7]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Jayapal",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "WA"
+    },
+    {
+      "bioguideId": "M000312",
+      "district": "2",
+      "firstName": "James",
+      "fullName": "Rep. McGovern, James P. [D-MA-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "McGovern",
+      "middleName": "P.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "MA"
+    },
+    {
+      "bioguideId": "P000597",
+      "district": "1",
+      "firstName": "Chellie",
+      "fullName": "Rep. Pingree, Chellie [D-ME-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Pingree",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "ME"
+    },
+    {
+      "bioguideId": "S001145",
+      "district": "9",
+      "firstName": "Janice",
+      "fullName": "Rep. Schakowsky, Janice D. [D-IL-9]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Schakowsky",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "T000481",
+      "district": "12",
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "MI"
+    },
+    {
+      "bioguideId": "W000822",
+      "district": "12",
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2025-06-17",
+      "state": "NJ"
+    },
+    {
+      "bioguideId": "F000476",
+      "district": "10",
+      "firstName": "Maxwell",
+      "fullName": "Rep. Frost, Maxwell [D-FL-10]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Frost",
+      "party": "D",
+      "sponsorshipDate": "2025-06-26",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": "0",
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-03-24",
+      "state": "DC"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4035ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 4035\nIN THE HOUSE OF REPRESENTATIVES\nJune 17, 2025 Ms. Hoyle of Oregon (for herself, Mr. Smith of Washington , Ms. Jayapal , Mr. McGovern , Ms. Pingree , Ms. Schakowsky , Ms. Tlaib , and Mrs. Watson Coleman ) introduced the following bill; which was referred to the Committee on Ways and Means\nA BILL\nTo amend the Internal Revenue Code of 1986 to impose a tax on certain trading transactions.\n#### 1. Short title\nThis Act may be cited as the Wall Street Tax Act of 2025 .\n#### 2. Transaction tax\n##### (a) In general\nChapter 36 of the Internal Revenue Code of 1986 is amended by inserting after subchapter B the following new subchapter:\nC Tax on Trading Transactions Sec. 4475. Tax on trading transactions. Sec. 4476. Derivative defined. 4475. Tax on trading transactions (a) Imposition of tax There is hereby imposed a tax on each covered transaction with respect to any security. (b) Rate of tax (1) In general The tax imposed under subsection (a) with respect to any covered transaction shall be the applicable percentage of the specified base amount with respect to such covered transaction. (2) Applicable percentage For purposes of this subsection, the applicable percentage shall be\u2014 (A) in the case of a covered transaction after December 31, 2025, and before January 1, 2027, 0.02 percent, (B) in the case of a covered transaction after December 31, 2026, and before January 1, 2028, 0.04 percent, (C) in the case of a covered transaction after December 31, 2027, and before January 1, 2029, 0.06 percent, (D) in the case of a covered transaction after December 31, 2028, and before January 1, 2030, 0.08 percent, and (E) in the case of a covered transaction after December 31, 2029, 0.1 percent. (c) Specified base amount For purposes of this section, the term specified base amount means\u2014 (1) except as provided in paragraph (2), the fair market value of a security (determined as of the time of the covered transaction), and (2) in the case of any payment with respect to a derivative, the amount of such payment. (d) Covered transaction For purposes of this section\u2014 (1) In general The term covered transaction means\u2014 (A) except as provided in subparagraph (B), any purchase if\u2014 (i) such purchase occurs on, or is subject to the rules of, a qualified board or exchange located in the United States, or (ii) the purchaser or seller is a United States person, and (B) any transaction with respect to a derivative if\u2014 (i) such derivative is traded on, or is subject to the rules of, a qualified board or exchange located in the United States, or (ii) any party with rights under such derivative is a United States person. (2) Exception for initial issues No tax shall be imposed under subsection (a) on any covered transaction with respect to the initial issuance of any security described in subparagraph (A), (B), or (C) of subsection (e)(1). (e) Definitions and special rules For purposes of this section\u2014 (1) Security For purposes of this section, the term security means\u2014 (A) any share of stock in a corporation, (B) any partnership or beneficial ownership interest in a partnership or trust, (C) except as provided in paragraph (2), any note, bond, debenture, or other evidence of indebtedness, and (D) any derivative (as defined in section 4476). (2) Exception for certain traded short-term indebtedness A note, bond, debenture, or other evidence of indebtedness which\u2014 (A) is traded on, or is subject to the rules of, a qualified board or exchange located in the United States, and (B) has a fixed maturity of not more than 100 days, shall not be treated as described in paragraph (1)(C). (3) Qualified board or exchange The term qualified board or exchange has the meaning given such term by section 1256(g)(7). (f) By whom paid (1) In general The tax imposed by this section shall be paid by\u2014 (A) in the case of a transaction which occurs on, or is subject to the rules of, a qualified board or exchange located in the United States, such qualified board or exchange, and (B) in the case of a purchase not described in subparagraph (A) which is executed by a broker (as defined in section 6045(c)(1)) which is a United States person, such broker. (2) Special rules for direct, etc., transactions In the case of any transaction to which paragraph (1) does not apply, the tax imposed by this section shall be paid by\u2014 (A) in the case of a transaction described in subsection (d)(1)(A)\u2014 (i) the purchaser if the purchaser is a United States person, and (ii) the seller if the purchaser is not a United States person, and (B) in the case of a transaction described in subsection (d)(1)(B)\u2014 (i) the payor if the payor is a United States person, and (ii) the payee if the payor is not a United States person. (g) Treatment of exchanges and payments with respect to derivatives For purposes of this section\u2014 (1) Treatment of exchanges (A) In general An exchange shall be treated as the sale of the property transferred and a purchase of the property received by each party to the exchange. (B) Certain deemed exchanges In the case of a distribution treated as an exchange for stock under section 302 or 331, the corporation making such distribution shall be treated as having purchased such stock for purposes of this section. (2) Payments with respect to derivatives treated as separate transactions Except as otherwise provided by the Secretary, any payment with respect to any derivative shall be treated as a separate transaction for purposes of this section. (h) Application to transactions by controlled foreign corporations (1) In general For purposes of this section, a controlled foreign corporation shall be treated as a United States person. (2) Special rules for payment of tax on direct, etc., transactions In the case of any transaction which is a covered transaction solely by reason of paragraph (1) and which is not described in subsection (f)(1)\u2014 (A) Payment by United States shareholders Any tax which would (but for this paragraph) be payable under subsection (f)(2) by the controlled foreign corporation shall, in lieu thereof, be paid by the United States shareholders of such controlled foreign corporation as provided in subparagraph (B). (B) Pro rata shares Each such United States shareholder shall pay the same proportion of such tax as\u2014 (i) the stock which such United States shareholder owns (within the meaning of section 958(a)) in such controlled foreign corporation, bears to (ii) the stock so owned by all United States shareholders in such controlled foreign corporation. (C) Definitions For purposes of this subsection, the terms United States shareholder and controlled foreign corporation have the meanings given such terms in sections 951(b) and 957(a), respectively. (i) Administration The Secretary shall carry out this section in consultation with the Securities and Exchange Commission and the Commodity Futures Trading Commission. (j) Guidance; regulations The Secretary shall\u2014 (1) provide guidance regarding such information reporting concerning covered transactions as the Secretary deems appropriate, and (2) prescribe such regulations as are necessary or appropriate to prevent avoidance of the purposes of this section, including the use of non-United States persons in such transactions. 4476. Derivative defined (a) In general For purposes of this subchapter, except as otherwise provided in this section, the term derivative means any contract (including any option, forward contract, futures contract, short position, swap, or similar contract) the value of which, or any payment or other transfer with respect to which, is (directly or indirectly) determined by reference to one or more of the following: (1) Any share of stock in a corporation. (2) Any partnership or beneficial ownership interest in a partnership or trust. (3) Any evidence of indebtedness. (4) Except as provided in subsection (b)(1), any real property. (5) Any commodity which is actively traded (within the meaning of section 1092(d)(1)). (6) Any currency. (7) Any rate, price, amount, index, formula, or algorithm. (8) Any other item as the Secretary may prescribe. Except as provided in regulations prescribed by the Secretary to prevent the avoidance of the purposes of this subchapter, such term shall not include any item described in paragraphs (1) through (8). (b) Exceptions (1) Certain real property (A) In general For purposes of this subchapter, the term derivative shall not include any contract with respect to interests in real property (as defined in section 856(c)(5)(C)) if such contract requires physical delivery of such real property. (B) Options to settle in cash (i) In general For purposes of subparagraph (A), a contract which provides for an option of cash settlement shall not be treated as requiring physical delivery of real property unless the option is\u2014 (I) not exercisable unconditionally, and (II) exercisable only in unusual and exceptional circumstances. (ii) Option of cash settlement For purposes of clause (i), a contract provides an option of cash settlement if the contract settles in (or could be settled in) cash or property other than the underlying real property. (2) Securities lending, sale-repurchase, and similar financing transactions To the extent provided by the Secretary, for purposes of this subchapter, the term derivative shall not include the right to the return of the same or substantially identical securities transferred in a securities lending transaction, sale-repurchase transaction, or similar financing transaction. (3) Options received in connection with the performance of services For purposes of this subchapter, the term derivative shall not include any option described in section 83(e)(3) received in connection with the performance of services. (4) Insurance contracts, annuities, and endowments For purposes of this subchapter, the term derivative shall not include any insurance, annuity, or endowment contract issued by an insurance company to which subchapter L applies (or issued by any foreign corporation to which such subchapter would apply if such foreign corporation were a domestic corporation). (5) Derivatives with respect to stock of members of same worldwide affiliated group For purposes of this subchapter, the term derivative shall not include any derivative (determined without regard to this paragraph) with respect to stock issued by any member of the same worldwide affiliated group (as defined in section 864(f)) in which the taxpayer is a member. (6) Commodities used in normal course of trade or business For purposes of this subchapter, the term derivative shall not include any contract with respect to any commodity if\u2014 (A) such contract requires physical delivery with the option of cash settlement only in unusual and exceptional circumstances, and (B) such commodity is used (and is used in quantities with respect to which such derivative relates) in the normal course of the taxpayer\u2019s trade or business (or, in the case of an individual, for personal consumption). (c) Contracts with embedded derivative components (1) In general If a contract has derivative and nonderivative components, then each derivative component shall be treated as a derivative for purposes of this subchapter. If the derivative component cannot be separately valued, then the entire contract shall be treated as a derivative for purposes of this subchapter. (2) Exception for certain embedded derivative components of debt instruments A debt instrument shall not be treated as having a derivative component merely because\u2014 (A) such debt instrument is denominated in a nonfunctional currency (as defined in section 988(c)(1)(C)(ii)), or (B) payments with respect to such debt instrument are determined by reference to the value of a nonfunctional currency (as so defined). (d) Treatment of American Depository Receipts and similar instruments Except as otherwise provided by the Secretary, for purposes of this subchapter, American depository receipts (and similar instruments) with respect to shares of stock in foreign corporations shall be treated as shares of stock in such foreign corporations. .\n##### (b) Information reporting with respect to controlled foreign corporations\nSection 6038(a)(1)(B) of such Code is amended by inserting and transactions which are covered transactions for purposes of section 4475 by reason of the application of section 4475(h)(1) to such corporation before the semicolon at the end.\n##### (c) Conforming amendment\nThe table of subchapters for chapter 36 of such Code is amended by inserting after the item relating to subchapter B the following new item:\nSubchapter C. Tax on trading transactions .\n##### (d) Effective date\nThe amendments made by this section shall apply to transactions after December 31, 2025.",
+      "versionDate": "2025-06-17",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-06-18",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "2127",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "Wall Street Tax Act of 2025",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Taxation",
+        "updateDate": "2025-06-30T18:08:05Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-06-17",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4035ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Wall Street Tax Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-06-27T11:23:18Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Wall Street Tax Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-06-27T11:23:18Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend the Internal Revenue Code of 1986 to impose a tax on certain trading transactions.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-06-27T11:18:22Z"
+    }
+  ]
+}
+```

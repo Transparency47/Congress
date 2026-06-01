@@ -1,0 +1,257 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/6983?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/6983
+- Title: PRICE Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 6983
+- Origin chamber: House
+- Introduced date: 2026-01-08
+- Update date: 2026-05-27T08:06:20Z
+- Update date including text: 2026-05-27T08:06:20Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2026-01-08: Introduced in House
+- 2026-01-08 - IntroReferral: Introduced in House
+- 2026-01-08 - IntroReferral: Introduced in House
+- 2026-01-08 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2026-01-08: Introduced in House
+
+## Actions
+
+- 2026-01-08 - IntroReferral: Introduced in House
+- 2026-01-08 - IntroReferral: Introduced in House
+- 2026-01-08 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-01-08",
+    "latestAction": {
+      "actionDate": "2026-01-08",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6983",
+    "number": "6983",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001226",
+        "district": "8",
+        "firstName": "Robert",
+        "fullName": "Rep. Menendez, Robert [D-NJ-8]",
+        "lastName": "Menendez",
+        "party": "D",
+        "state": "NJ"
+      }
+    ],
+    "title": "PRICE Act",
+    "type": "HR",
+    "updateDate": "2026-05-27T08:06:20Z",
+    "updateDateIncludingText": "2026-05-27T08:06:20Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-01-08",
+      "committees": {
+        "item": {
+          "name": "Energy and Commerce Committee",
+          "systemCode": "hsif00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2026-01-08",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2026-01-08",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-01-08T15:02:25Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "C001131",
+      "district": "35",
+      "firstName": "Greg",
+      "fullName": "Rep. Casar, Greg [D-TX-35]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Casar",
+      "party": "D",
+      "sponsorshipDate": "2026-01-08",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "G000606",
+      "district": "7",
+      "firstName": "Adelita",
+      "fullName": "Rep. Grijalva, Adelita S. [D-AZ-7]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Grijalva",
+      "middleName": "S.",
+      "party": "D",
+      "sponsorshipDate": "2026-05-26",
+      "state": "AZ"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr6983ih.xml",
+      "text": "I\n119th CONGRESS\n2d Session\nH. R. 6983\nIN THE HOUSE OF REPRESENTATIVES\nJanuary 8, 2026 Mr. Menendez (for himself and Mr. Casar ) introduced the following bill; which was referred to the Committee on Energy and Commerce\nA BILL\nTo require data centers to generate electricity, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Preventing Rate Inflation in Consumer Energy Act or the PRICE Act .\n#### 2. Requirement for data centers to generate electricity\n##### (a) Requirement\nEach data center located in the United States shall generate all of the electricity the data center consumes each year.\n##### (b) Use of clean energy sources\n**(1) 75 percent**\nDuring the period beginning on January 1, 2035, and ending on the date described in paragraph (2), not less than 75 percent of the electricity generated by a data center for purposes of subsection (a) shall be from a clean energy source.\n**(2) 100 percent**\nBeginning on January 1, 2040, 100 percent of the electricity generated by a data center for purposes of subsection (a) shall be from a clean energy source.\n##### (c) Enforcement\n**(1) Civil penalty**\nAny data center that violates any provision of this section shall be subject to a civil penalty of not more than $100,000 per day until the violation is rectified.\n**(2) Establishment of administrative process**\nNot later than 30 days after the date of enactment of this Act, the Secretary of Energy shall establish an administrative process for the issuance of civil penalties for violations of this section.\n##### (d) Definitions\nIn this section:\n**(1) Clean energy source**\nThe term clean energy source includes a solar, wind, battery, green hydrogen, hydropower, and geothermal source.\n**(2) Data center**\nThe term data center means a facility that\u2014\n**(A)**\nis described in section 453(a)(1) of the Energy Independence and Security Act of 2007 ( 42 U.S.C. 17112(a)(1) ); and\n**(B)**\nconsumes at least 50 megawatts each day.",
+      "versionDate": "2026-01-08",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Energy",
+        "updateDate": "2026-01-26T14:46:30Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-01-08",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr6983ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "PRICE Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-01-22T07:38:16Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "PRICE Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-01-22T07:38:15Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Preventing Rate Inflation in Consumer Energy Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-01-22T07:38:15Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To require data centers to generate electricity, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-01-22T05:33:49Z"
+    }
+  ]
+}
+```

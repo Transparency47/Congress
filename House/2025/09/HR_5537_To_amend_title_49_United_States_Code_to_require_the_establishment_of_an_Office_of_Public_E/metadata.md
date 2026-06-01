@@ -1,0 +1,321 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/5537?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/5537
+- Title: Pipeline Accountability Act of 2025
+- Congress: 119
+- Bill type: HR
+- Bill number: 5537
+- Origin chamber: House
+- Introduced date: 2025-09-19
+- Update date: 2026-02-04T05:06:22Z
+- Update date including text: 2026-02-04T05:06:22Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-09-19: Introduced in House
+- 2025-09-19 - IntroReferral: Introduced in House
+- 2025-09-19 - IntroReferral: Introduced in House
+- 2025-09-19 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-09-19 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-09-20 - Committee: Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+- Latest action: 2025-09-19: Introduced in House
+
+## Actions
+
+- 2025-09-19 - IntroReferral: Introduced in House
+- 2025-09-19 - IntroReferral: Introduced in House
+- 2025-09-19 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-09-19 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-09-20 - Committee: Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-09-19",
+    "latestAction": {
+      "actionDate": "2025-09-19",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5537",
+    "number": "5537",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000482",
+        "district": "3",
+        "firstName": "Lori",
+        "fullName": "Rep. Trahan, Lori [D-MA-3]",
+        "lastName": "Trahan",
+        "party": "D",
+        "state": "MA"
+      }
+    ],
+    "title": "Pipeline Accountability Act of 2025",
+    "type": "HR",
+    "updateDate": "2026-02-04T05:06:22Z",
+    "updateDateIncludingText": "2026-02-04T05:06:22Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2025-09-20",
+      "committees": {
+        "item": {
+          "name": "Railroads, Pipelines, and Hazardous Materials Subcommittee",
+          "systemCode": "hspw14"
+        }
+      },
+      "sourceSystem": {
+        "code": "1",
+        "name": "House committee actions"
+      },
+      "text": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.",
+      "type": "Committee"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-09-19",
+      "committees": {
+        "item": {
+          "name": "Energy and Commerce Committee",
+          "systemCode": "hsif00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-09-19",
+      "committees": {
+        "item": {
+          "name": "Transportation and Infrastructure Committee",
+          "systemCode": "hspw00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-09-19",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-09-19",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-09-19T13:01:40Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": {
+        "item": {
+          "activities": {
+            "item": {
+              "date": "2025-09-20T21:48:01Z",
+              "name": "Referred to"
+            }
+          },
+          "name": "Railroads, Pipelines, and Hazardous Materials Subcommittee",
+          "systemCode": "hspw14"
+        }
+      },
+      "systemCode": "hspw00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-09-19T13:01:45Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "T000481",
+      "district": "12",
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2025-09-19",
+      "state": "MI"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5537ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 5537\nIN THE HOUSE OF REPRESENTATIVES\nSeptember 19, 2025 Mrs. Trahan (for herself and Ms. Tlaib ) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure , and in addition to the Committee on Energy and Commerce , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned\nA BILL\nTo amend title 49, United States Code, to require the establishment of an Office of Public Engagement in the Pipeline and Hazardous Materials Safety Administration, and for other purposes.\n#### 1. Short title; table of contents\n##### (a) Short title\nThis Act may be cited as the Pipeline Accountability Act of 2025 .\n##### (b) Table of contents\nThe table of contents for this Act is as follows:\nSec. 1. Short title; table of contents.\nSec. 2. Definitions.\nTITLE I\u2014Safety and environmental protections\nSec. 101. Factors for consideration in prescribing standards.\nSec. 102. Cost-benefit analyses.\nSec. 103. Technical safety standards committees.\nSec. 104. Application of regulations to existing pipelines.\nSec. 105. Rupture-mitigation valves on pipelines in high consequence areas.\nSec. 106. Safety of carbon dioxide pipelines.\nSec. 107. Blending in natural gas systems.\nSec. 108. Extension and modification of Natural Gas Distribution Infrastructure Safety and Modernization Grant Program.\nSec. 109. Rulemaking on underground natural gas storage.\nTITLE II\u2014Public engagement and transparency\nSec. 201. Office of Public Engagement.\nSec. 202. Public hearings on proposed rules.\nSec. 203. Disclosure of safety data.\nSec. 204. Reporting of blended products.\nSec. 205. Incident reporting for gas pipelines.\nTITLE III\u2014Accountability\nSec. 301. Prohibition against releases.\nSec. 302. Actions by private persons.\nSec. 303. Penalties.\n#### 2. Definitions\nIn this Act:\n**(1) Administration**\nThe term Administration means the Pipeline and Hazardous Materials Safety Administration.\n**(2) Appropriate committees of Congress**\nThe term appropriate committees of Congress means\u2014\n**(A)**\nthe Committee on Commerce, Science, and Transportation of the Senate;\n**(B)**\nthe Committee on Transportation and Infrastructure of the House of Representatives; and\n**(C)**\nthe Committee on Energy and Commerce of the House of Representatives.\n**(3) Environment**\nThe term environment includes\u2014\n**(A)**\nwater, air, and land; and\n**(B)**\nthe interrelationship that exists among and between water, air, and land and all present and future generations of living beings.\n**(4) Environmental**\nThe term environmental means relating to or concerning the environment.\n**(5) Incident**\nThe term incident has the meaning given the term in section 191.3 of title 49, Code of Federal Regulations (or a successor regulation).\n**(6) Natural gas**\nThe term natural gas has the meaning given the term in section 2 of the Natural Gas Act ( 15 U.S.C. 717a ).\n**(7) Secretary**\nThe term Secretary means the Secretary of Transportation, acting through the Administrator of the Administration.\nI\nSafety and environmental protections\n#### 101. Factors for consideration in prescribing standards\n##### (a) In general\nSection 60102(b)(2) of title 49, United States Code, is amended\u2014\n**(1)**\nin subparagraph (F), by striking and at the end;\n**(2)**\nin subparagraph (G), by striking the period at the end and inserting a semicolon; and\n**(3)**\nby adding at the end the following:\n(H) the need to mitigate negative impacts to the global climate and avoid unnecessarily prolonging the life span of fossil fuel infrastructure; and (I) transition plans toward non-emitting alternatives. .\n##### (b) Definition\n**(1) In general**\nSection 60101(a) of title 49, United States Code, is amended\u2014\n**(A)**\nin paragraph (25), by striking and at the end;\n**(B)**\nin paragraph (22)(B)(iii), by inserting and after the semicolon at the end;\n**(C)**\nby redesignating paragraphs (17) through (26) as paragraphs (18), (19), (20), (24), (25), (26), (21), (22), (23), and (27), respectively, and moving the paragraphs so as to appear in numerical order; and\n**(D)**\nby inserting after paragraph (16) the following:\n(17) non-emitting alternative means a technological or efficiency-related energy solution that does not entail the use of fossil fuels that are directly or indirectly related to the greenhouse effect, including electrification, renewable energy sources, networked geothermal systems, storage, efficiency, and behavior change; .\n**(2) Conforming amendments**\n**(A)**\nSection 70012(c) of title 46, United States Code, is amended by striking section 60101(a)(18) and inserting section 60101(a) .\n**(B)**\nSection 60102(q)(1) of title 49, United States Code, is amended, in the matter preceding subparagraph (A), by striking subsection (a)(21) and inserting subsection (a)(25) .\n#### 102. Cost-benefit analyses\nSection 60102(b) of title 49, United States Code (as amended by section 101), is amended\u2014\n**(1)**\nin paragraph (2)\u2014\n**(A)**\nby striking subparagraphs (D) and (E); and\n**(B)**\nby redesignating subparagraphs (F) through (I) as subparagraphs (D) through (G), respectively; and\n**(2)**\nby striking paragraphs (3) through (7).\n#### 103. Technical safety standards committees\n##### (a) In general\nSection 60115 of title 49, United States Code, is amended\u2014\n**(1)**\nin subsection (a), by striking the third sentence;\n**(2)**\nin subsection (b)(4)\u2014\n**(A)**\nin subparagraph (C)\u2014\n**(i)**\nby striking the second and third sentences and inserting the following:\n(ii) None of the individuals selected for a committee under paragraph (3)(C) may have a financial interest in the pipeline, petroleum, ethanol, or gas industries, including through direct ownership, consulting fees, wages, or research funding provided directly to the individual, but not including any compensation for a pipeline easement on the property of the individual. ; and\n**(ii)**\nby striking (C) Two and inserting the following:\n(C) (i) Two ; and\n**(B)**\nby striking subparagraph (D) and inserting the following:\n(iii) All individuals under consideration for selection for a committee under paragraph (3)(C) shall submit to the Secretary such financial records for the previous year as the Secretary determines necessary to evaluate compliance with clause (ii). All individuals selected for a committee under paragraph (3)(C) shall submit to the Secretary, prior to appointment and annually thereafter for so long as the individual is a member of the committee, such financial records for the previous year as the Secretary determines necessary to evaluate compliance with clause (ii). (iv) The Secretary shall provide reasonable compensation for members of each committee that are appointed under paragraph (3)(C). Such compensation shall not make a member of a committee an officer or employee of the Federal Government in determining eligibility for membership on the applicable committee. ; and\n**(3)**\nin subsection (c)\u2014\n**(A)**\nin paragraph (1)\u2014\n**(i)**\nin subparagraph (A), by striking Committee each standard proposed under this chapter for transporting gas and for gas pipeline facilities including the risk assessment information and other analyses supporting each proposed standard; and inserting the following: \u201cCommittee\u2014\n(i) each standard proposed under this chapter for\u2014 (I) transporting gas; or (II) gas pipeline facilities; and (ii) analyses supporting each proposed standard described in clause (i); ; and\n**(ii)**\nin subparagraph (B), by striking Committee each standard proposed under this chapter for transporting hazardous liquid and for hazardous liquid pipeline facilities including the risk assessment information and other analyses supporting each proposed standard. and inserting the following: \u201cCommittee\u2014\n(i) each standard proposed under this chapter for\u2014 (I) transporting hazardous liquid; or (II) hazardous liquid pipeline facilities; and (ii) analyses supporting each proposed standard described in clause (i). ; and\n**(B)**\nin paragraph (2), in the first sentence\u2014\n**(i)**\nby striking cost-effectiveness, ; and\n**(ii)**\nby inserting , and the strength of the proposed standard to promote safety and protect the environment (as defined in section 2 of the Pipeline Accountability Act of 2025 ), before and include .\n##### (b) Authorization of appropriations\nThere are authorized to be appropriated such sums as are necessary to carry out this section and the amendments made by this section.\n#### 104. Application of regulations to existing pipelines\n##### (a) In general\nSection 60104(b) of title 49, United States Code, is amended\u2014\n**(1)**\nin the subsection heading, by striking Nonapplication and inserting Application ;\n**(2)**\nby striking does not apply and inserting shall be applied ; and\n**(3)**\nby adding at the end the following: The authority of the Secretary to apply any standard promulgated pursuant to this chapter (including any standard promulgated prior to the date of enactment of the Pipeline Accountability Act of 2025 ) shall not be limited by virtue of a pipeline preexisting the issuance of that standard. .\n##### (b) Conforming amendment\nSection 60109(c) of title 49, United States Code, is amended\u2014\n**(1)**\nby striking paragraph (11); and\n**(2)**\nby redesignating paragraph (12) as paragraph (11).\n#### 105. Rupture-mitigation valves on pipelines in high consequence areas\nSection 60109(c) of title 49, United States Code (as amended by section 104(b)(2)), is amended by adding at the end the following:\n(12) Rupture-mitigation valves on pipelines in high consequence areas (A) Definitions (i) Class 3 or 4 location The term Class 3 or 4 location , with respect to a gas pipeline facility, means, as applicable\u2014 (I) a Class 3 location (as defined in section 192.5(b) of title 49, Code of Federal Regulations (or a successor regulation)); or (II) a Class 4 location (as defined in that section). (ii) Covered location The term covered location means\u2014 (I) a high consequence area; and (II) a location where a rupture could affect\u2014 (aa) a high consequence area; or (bb) a Class 3 or 4 location. (iii) Covered pipeline The term covered pipeline means an existing or newly constructed pipeline, 6 inches or greater in diameter, that is\u2014 (I) a gas transmission pipeline; (II) a type A onshore gathering pipeline (as described in section 192.8(c) of title 49, Code of Federal Regulations (or a successor regulation)); (III) a hazardous liquid pipeline; or (IV) a carbon dioxide pipeline. (iv) High consequence area The term high consequence area means\u2014 (I) with respect to a gas pipeline facility, a high consequence area (as defined in section 192.903 of title 49, Code of Federal Regulations (or a successor regulation)); and (II) with respect to a hazardous liquid pipeline facility or relevant carbon dioxide pipeline facility, a high consequence area (as defined in section 195.450 of title 49, Code of Federal Regulations (or a successor regulation)). (B) Isolation of pipeline segments Beginning on the date that is 5 years after the date of enactment of the Pipeline Accountability Act of 2025 , an operator of a covered pipeline any portion of which is in a covered location shall, as soon as practicable, but not later than 30 minutes after rupture identification, fully isolate any ruptured pipeline segment that is in a covered location, in order to minimize the volume of product released from the pipeline and mitigate the consequences of the rupture. (C) Demonstration of compliance (i) Existing pipelines in covered locations Not later than 5 years after the date of enactment of the Pipeline Accountability Act of 2025 , each operator of a covered pipeline any portion of which is in a covered location as of that date of enactment shall demonstrate the ability of the operator to comply with the requirements of subparagraph (B). (ii) Subsequent determinations Beginning on the date of enactment of the Pipeline Accountability Act of 2025 , not later than 5 years after an existing covered pipeline is determined to be in a covered location, the operator of that covered pipeline shall demonstrate the ability of the operator to isolate the applicable segment of the covered pipeline not later than 30 minutes after rupture identification, in accordance with subparagraph (B), unless the operator has received a waiver in accordance with subparagraph (D) with respect to the applicable segment that is in effect on the expiration of that 5-year period. (D) Waiver on request The Secretary may approve a waiver of the requirements of subparagraphs (B) and (C) on the request of an operator of a covered pipeline if the request\u2014 (i) (I) demonstrates, in the determination of the Secretary, that meeting the 30-minute standard described in subparagraph (B) is operationally, technologically, or economically infeasible; and (II) describes the methodology used to reach, and the results of studies supporting, that conclusion; (ii) (I) includes the estimated\u2014 (aa) isolation time; and (bb) consequences of a worst-case scenario failure on the impacted high consequence area or Class 3 or 4 location; and (II) demonstrates that the operator has involved the local emergency services in developing those estimates; (iii) demonstrates that the public within the impacted area and the immediately surrounding areas has been informed of the consequences of a rupture and consulted with respect to a waiver, including by providing the estimated isolation time; and (iv) for a pipeline segment for which a rupture could affect a high consequence area that is an unusually sensitive area (as defined in section 195.6 of title 49, Code of Federal Regulations (or a successor regulation)), demonstrates that relevant environmental and public safety groups have been informed of, and consulted with respect to, the consequences of a rupture and the request for a waiver. (E) Expiration, renewal, and required review (i) Expiration A waiver granted by the Secretary under subparagraph (D) shall expire 5 years after the date on which the waiver was granted. (ii) Renewal A waiver granted by the Secretary under subparagraph (D) may be renewed on the submission by the operator of a new request in accordance with that subparagraph, subject to such revision as the Secretary determines to be appropriate based on a review of the request. (iii) Required review (I) In general Not later than 180 days after the occurrence of an event described in subclause (II), an operator receiving a waiver under subparagraph (D) shall\u2014 (aa) review the waiver; and (bb) submit to the Secretary a new request for a waiver in accordance with that subparagraph, including such revisions as the operator determines appropriate based on a review of the applicable event described in that subclause. (II) Events described An event referred to in subclause (I) is any of the following: (aa) A significant incident anywhere on the network of pipelines of the operator. (bb) A change in the operational status of the applicable pipeline segment that may impact the safe operation of the pipeline facility or the consequences of a rupture. (cc) A change in the built or natural environment that may impact the safe operation of the pipeline facility or the consequences of a rupture. (dd) A change in the organizational structure of the operator, including a change in staffing levels or locations, that would affect the ability of the operator to isolate the applicable pipeline segment within the required time. (III) Review by the Secretary On receipt of a request under subclause (I)(bb), the Secretary shall\u2014 (aa) review the request; and (bb) as the Secretary determines to be appropriate\u2014 (AA) grant a new waiver under subparagraph (D) with such revisions as the Secretary determines to be appropriate; (BB) revoke the existing waiver and require compliance with subparagraphs (B) and (C); or (CC) require the submission of a revised request by a date determined by the Secretary, addressing such matters as the Secretary determines to be appropriate. (IV) Expiration due to inaction If an operator has not submitted to the Secretary a request in accordance with item (bb) of subclause (I) by the date described in that subclause, the existing waiver shall expire as of that date. (F) Rulemaking Not later than 2 years after the date of enactment of the Pipeline Accountability Act of 2025 , the Secretary shall promulgate new, or revise existing, regulations to carry out this paragraph. .\n#### 106. Safety of carbon dioxide pipelines\n##### (a) Definitions\nIn this section:\n**(1) High consequence area**\nThe term high consequence area has the meaning given the term in section 192.903 of title 49, Code of Federal Regulations (or a successor regulation).\n**(2) Potential impact area**\nThe term potential impact area means the area in which the potential failure of a pipeline transporting carbon dioxide may be expected to have significant impact on persons, property, or the environment.\n**(3) Report**\nThe term report means the report of the Accident Investigation Division of the Office of Pipeline Safety of the Administration entitled Failure Investigation Report\u2014Denbury Gulf Coast Pipelines LLC\u2014Pipeline Rupture/Natural Force Damage and dated May 26, 2022.\n##### (b) Completion of rulemaking\n**(1) In general**\nNot later than 18 months after the date of enactment of this Act, the Secretary shall\u2014\n**(A)**\ncomplete the rulemaking proceeding relating to the notice of proposed rulemaking issued on January 10, 2025, entitled Pipeline Safety: Safety of Carbon Dioxide and Hazardous Liquid Pipelines (Docket No. PHMSA\u20132022\u20130125; RIN 2137\u2013AF60); and\n**(B)**\nissue a final rule pursuant to that rulemaking proceeding, subject to the conditions that\u2014\n**(i)**\nin completing the rulemaking proceeding and issuing the final rule, the Secretary shall take into consideration the measures described in paragraph (2); and\n**(ii)**\nany substantive differences between the final rule and the proposed rule, as published by the Administration on January 10, 2025\u2014\n**(I)**\neffectuate a measure described in paragraph (2); and\n**(II)**\nare responsive to the findings and recommendations in the report.\n**(2) Measures for consideration**\nIn carrying out paragraph (1), the Secretary shall consider, and may effectuate, the following measures:\n**(A)**\nThe establishment of minimum safety standards for all phases of carbon dioxide pipeline transportation.\n**(B)**\nThe development of appropriate standards for the determination of\u2014\n**(i)**\na potential impact area, which may include the use of plume dispersion models and consideration of the impacts of local weather and topography;\n**(ii)**\nthe area in which a rupture may cause a sufficient concentration of carbon dioxide to create a risk of fatality;\n**(iii)**\nhigh consequence areas;\n**(iv)**\npipeline segments that could affect high consequence areas; and\n**(v)**\nthe acceptable level of contaminants in the pipeline.\n**(C)**\nThe development and required use of an effective, appropriate, and unique odorant, or other effective and appropriate means of leak detection, as determined through research and development.\n**(D)**\nThe establishment of measures to ensure effective fracture propagation protection, including requirements relating to\u2014\n**(i)**\nmaterial toughness; and\n**(ii)**\nthe use of fracture arrestors.\n**(E)**\nThe establishment of detailed safety standards for the conversion of existing pipelines for use in transporting carbon dioxide.\n**(F)**\nThe establishment of guidelines for emergency response plans and emergency responder training for carbon dioxide pipeline leaks, ensuring that the relevant portions of emergency response plans are available to relevant emergency responders.\n**(3) Other considerations**\nIn carrying out paragraph (1), including with respect to the matters described in paragraph (2), the Secretary shall consider\u2014\n**(A)**\nwhich measures will ensure the maximum protection of\u2014\n**(i)**\npublic health;\n**(ii)**\npipeline integrity; and\n**(iii)**\nthe environment and public safety, consistent with section 60102 of title 49, United States Code; and\n**(B)**\nwhether the measures are responsive to the findings and recommendations in the report.\n##### (c) Other regulations\nNot later than 2 years after the date of enactment of this Act, the Secretary shall promulgate regulations\u2014\n**(1)**\nrequiring operators of carbon dioxide pipelines\u2014\n**(A)**\nto identify and assess geohazards during initial pipeline siting;\n**(B)**\nto monitor for changes in hazardous conditions that could impact pipeline safety; and\n**(C)**\nto take preventive and mitigative measures as appropriate;\n**(2)**\nestablishing reporting requirements relating to\u2014\n**(A)**\nthe location of carbon dioxide pipelines and related facilities;\n**(B)**\nthe phase and material being transported through those pipelines, including the type and quantity of contaminants; and\n**(C)**\nhow those pipelines and contents are inspected;\n**(3)**\nestablishing standards and notification requirements for cases in which the material being transported by a carbon dioxide pipeline is not pure carbon dioxide;\n**(4)**\nrequiring operators of carbon dioxide pipelines to notify and coordinate with relevant Federal, State, local, and Tribal officials and responders when there is an incident or accident; and\n**(5)**\nrequiring operators of carbon dioxide pipelines to notify individuals within the relevant potential impact area of the hazards posed by carbon dioxide pipelines and measures to take in the event of a pipeline rupture.\n##### (d) Training and other resources\nThe Secretary shall provide training and other resources to relevant local emergency responders that is tailored specifically to carbon dioxide pipeline ruptures, including information on the potential impact area, any relevant odorants, the health implications of exposure to high concentrations of carbon dioxide, and the impact of high concentrations of carbon dioxide on vehicle functioning.\n#### 107. Blending in natural gas systems\n##### (a) Study\nThe Comptroller General of the United States shall\u2014\n**(1)**\nconduct a study of the short- and long-term safety, health, environmental, and climate change impacts and risks of blending hydrogen into existing natural gas systems; and\n**(2)**\nnot later than 3 years after the date of enactment of this Act, submit to the Secretary and the appropriate committees of Congress a report describing the results of the study, including\u2014\n**(A)**\na description of any remaining knowledge gaps relating to safely moving hydrogen-methane blends through existing natural gas systems;\n**(B)**\na description of the safety risks of hydrogen-methane blends in existing natural gas systems, including\u2014\n**(i)**\nleak rates of hydrogen-methane blends and associated environmental impacts;\n**(ii)**\nthe performance of hydrogen-methane blends in existing residential, commercial, and industrial infrastructure; and\n**(iii)**\nunderground migration of leaked hydrogen-methane blends;\n**(C)**\na lifecycle analysis of hydrogen, including environmental and climate impacts and risks of blending hydrogen into existing natural gas systems, as compared to\u2014\n**(i)**\nthe status quo; and\n**(ii)**\nother pathways for greenhouse gas emissions reduction; and\n**(D)**\nrecommendations to the Secretary for how to avoid or minimize risks determined under paragraph (1).\n##### (b) Considerations\nIn conducting the study under subsection (a)(1), the Comptroller General of the United States shall take into consideration, at a minimum, the findings of the study on hydrogen blending commissioned by the California Public Utilities Commission and carried out by the University of California, Riverside, entitled Hydrogen Blending Impacts Study and dated July 18, 2022.\n##### (c) Prohibition\n**(1) In general**\nNo pipeline operator may transport any quantity of hydrogen, other than trace amounts present as a contaminant, through a natural gas distribution pipeline system under the jurisdiction of the Secretary unless and until Congress expressly provides, by statute, for the safe regulation of blending hydrogen into natural gas distribution pipeline systems.\n**(2) Application**\nThe prohibition described in paragraph (1) shall not apply to natural gas distribution pipelines that\u2014\n**(A)**\nhave been specifically designed to transport hydrogen above trace levels; and\n**(B)**\nhave been transporting hydrogen above trace levels for at least 10 years as of the date of enactment of this Act.\n#### 108. Extension and modification of Natural Gas Distribution Infrastructure Safety and Modernization Grant Program\n##### (a) Modification\nThe matter under the heading natural gas distribution infrastructure safety and modernization grant program under the heading Pipeline and Hazardous Materials Safety Administration under the heading Department of Transportation in title VIII of division J of the Infrastructure Investment and Jobs Act ( Public Law 117\u201358 ; 135 Stat. 1443) is amended\u2014\n**(1)**\nin the matter preceding the first proviso, by inserting (referred to under this heading in this Act as the Secretary ) after Secretary of Transportation ;\n**(2)**\nin the second proviso, by striking to repair, rehabilitate, or replace its natural gas distribution pipeline system or portions thereof or to acquire equipment to (1) reduce incidents and fatalities and (2) avoid economic losses and inserting to repair, rehabilitate, replace, or retire its natural gas distribution pipeline system or portions thereof or to acquire equipment to (1) reduce incidents and fatalities, (2) avoid economic losses, and (3) encourage non-emitting alternatives ; and\n**(3)**\nby inserting after the second proviso the following: Provided further , That for purposes of the preceding proviso, the term non-emitting alternative means a technological or efficiency-related energy solution that does not entail the use of fossil fuels that are directly or indirectly related to the greenhouse effect, including electrification, renewable energy sources, networked geothermal systems, storage, efficiency, and behavior change: Provided further , That the promotion or encouragement of non-emitting alternatives (as defined in the preceding proviso) may include workforce training programs: Provided further , That in making grants from funds made available under this heading in this Act, the Secretary shall give additional consideration to an applicant if all workers employed or contracted by the applicant are paid wages at rates not less than those prevailing on projects of a similar character in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, United States Code, and to workforce training programs that comply with apprenticeship requirements similar to the apprenticeship requirements described in section 45(b)(8) of the Internal Revenue Code of 1986, as determined or established by the Secretary for purposes of making those grants: .\n##### (b) Requirement\nOf the amounts made available by subsection (c) each fiscal year, not less than 20 percent shall be used for non-emitting alternatives (as defined in the third proviso under the heading natural gas distribution infrastructure safety and modernization grant program under the heading Pipeline and Hazardous Materials Safety Administration under the heading Department of Transportation in title VIII of division J of the Infrastructure Investment and Jobs Act ( Public Law 117\u201358 ; 135 Stat. 1443)).\n##### (c) Authorization of additional funding\nThere are authorized to be appropriated to carry out the Natural Gas Distribution Infrastructure Safety and Modernization Grant Program described under the heading natural gas distribution infrastructure safety and modernization grant program under the heading Pipeline and Hazardous Materials Safety Administration under the heading Department of Transportation in title VIII of division J of the Infrastructure Investment and Jobs Act ( Public Law 117\u201358 ; 135 Stat. 1443)\u2014\n**(1)**\n$200,000,000 for fiscal year 2027, to remain available until September 30, 2036;\n**(2)**\n$200,000,000 for fiscal year 2028, to remain available until September 30, 2037;\n**(3)**\n$200,000,000 for fiscal year 2029, to remain available until September 30, 2038;\n**(4)**\n$200,000,000 for fiscal year 2030, to remain available until September 30, 2039; and\n**(5)**\n$200,000,000 for fiscal year 2031, to remain available until September 30, 2040.\n#### 109. Rulemaking on underground natural gas storage\n##### (a) In general\nNot later than 2 years after the date of enactment of this Act, the Secretary shall promulgate new, or revise existing, regulations to address underground natural gas storage.\n##### (b) Requirement\nIn carrying out subsection (a), the Secretary shall review and consider relevant technical and scientific information on the safety of underground natural gas storage, including the most recently updated version of each of the following:\n**(1)**\nThe standard of the American Petroleum Institute entitled Design and Operation of Solution-mined Salt Caverns used for Natural Gas Storage and numbered API Recommended Practice 1170.\n**(2)**\nThe standard of the American Petroleum Institute entitled Functional Integrity of Natural Gas Storage in Depleted Hydrocarbon Reservoirs and Aquifer Reservoirs and numbered API Recommended Practice 1171.\n##### (c) Topics\nIn carrying out subsection (a), the Secretary shall review and consider updates to existing regulations relating to risk management, emergency response, and ensuring that underground natural gas storage wells do not pose undue risks from single points of failure.\nII\nPublic engagement and transparency\n#### 201. Office of Public Engagement\n##### (a) In general\nSection 108 of title 49, United States Code, is amended\u2014\n**(1)**\nin subsection (a), by inserting (referred to in this section as the Administration ) after Safety Administration ;\n**(2)**\nin subsection (c), in the first sentence, by inserting (referred to in this section as the Administrator ), after shall be the Administrator ; and\n**(3)**\nby adding at the end the following:\n(h) Office of Public Engagement (1) Definitions In this subsection: (A) Appropriate committees of Congress The term appropriate committees of Congress has the meaning given the term in section 2 of the Pipeline Accountability Act of 2025 . (B) Covered facility The term covered facility means\u2014 (i) a covered pipeline (as defined in section 60109(c)(12)(A)); (ii) a liquefied natural gas pipeline facility (as defined in section 60101(a)); and (iii) an underground natural gas storage facility (as defined in section 60101(a)). (C) Director The term Director means the Director of the Office appointed under paragraph (3). (D) Environmental justice community The term environmental justice community means a community with significant representation of communities of color, low-income communities, or Tribal and Indigenous communities, that experiences, or is at risk of experiencing, higher or more adverse human health or environmental effects. (E) Incident The term incident has the meaning given the term in section 191.3 of title 49, Code of Federal Regulations (or a successor regulation). (F) Low-income community The term low-income community means a census block group in which 30 percent or more of the population are individuals with an annual household income equal to, or less than, the greatest of\u2014 (i) an amount equal to 80 percent of the median income of the area in which the household is located, as reported by the Department of Housing and Urban Development; (ii) 200 percent of the Federal poverty line; and (iii) a level of income higher than the levels described in clauses (i) and (ii), as determined by the Secretary. (G) Office The term Office means the Office of Public Engagement of the Administration established under paragraph (2). (2) Establishment (A) In general Not later than 1 year after the date of enactment of this subsection, the Administrator shall establish within the Administration an office, to be known as the Office of Public Engagement . (B) Process Before establishing the Office under subparagraph (A), the Administrator shall\u2014 (i) seek and incorporate public input regarding the responsibilities of the Office, including through in-person public meetings, prioritizing input from individuals without financial interests in the pipeline, petroleum, ethanol, or gas industries, including environmental justice communities and experts in community engagement; and (ii) submit to the appropriate committees of Congress a summary of the input received pursuant to clause (i) and an explanation of how that input will be integrated into the establishment of the Office. (C) Compensation The Administrator may provide reasonable compensation for those providing input pursuant to subparagraph (B) in order to facilitate the participation of environmental justice communities. (3) Director The Office shall be headed by a Director, who shall\u2014 (A) be appointed by the Administrator; (B) report to the Associate Administrator for Pipeline Safety; and (C) be responsible for the discharge of the functions and duties of the Office. (4) Employees The Director may appoint, and assign the duties of, employees of the Office. (5) Duties and functions of the Office (A) Coordination of assistance The Director shall coordinate the provision of assistance, including financial assistance, technical assistance, and educational assistance to the public, with respect to the authorities exercised by the Administration, including by proactive and targeted community outreach that incorporates\u2014 (i) accessible communications; (ii) the provision of in-person and online communications; and (iii) translations to languages spoken by impacted populations. (B) Public engagement The Director shall coordinate active and ongoing engagement with the public with respect to the authority and activities of the Administration, including by\u2014 (i) conducting\u2014 (I) proactive outreach, which may include public postings, signage at relevant physical locations, newspaper publications, utility bill inserts, mailings, phone calls, canvassing, and door hangers, to communities, especially environmental justice communities, using varied media; and (II) meetings, set at times and places to maximize the number of community members who can conveniently attend, with appropriate services, including, if the Director determines it would have a meaningful impact on participation by members of affected environmental justice communities\u2014 (aa) translation and interpreting services; (bb) virtual attendance; and (cc) reasonable funding for transportation to and from meetings, food, and caregiving; (ii) establishing an independent, neutral, accessible, confidential, and standardized process to receive, review, process, and follow up on inquiries, complaints, and allegations with respect to the activities of the Administration and entities regulated by the Administration, including with respect to cracks and leaks in pipeline infrastructure identified by workers and community members; (iii) assisting individuals in responding to and resolving inquiries, complaints, and allegations described in clause (ii); (iv) making publicly available, and proactively disseminating, information on the manner in which members of the public may file inquiries, complaints, and allegations; (v) coordinating with the Federal Energy Regulatory Commission, State agencies, and, as necessary, other agencies to direct public inquiries that are not within the jurisdiction of the Administration to the relevant agency; (vi) preparing, and making publicly available in accessible formats, educational materials about the Administration, the responsibilities of the Administration, and how those responsibilities interact with entities under the jurisdiction of the Administration and other Federal, State, local, or Tribal government agencies; (vii) assisting local first responders, local officials, and community members\u2014 (I) to develop their own emergency management plans; and (II) to prepare to respond to all potential adverse scenarios relating to covered facility malfunctions, including to evacuate on short notice if necessary; and (viii) making publicly available, and proactively disseminating, information on local evacuation plans to the surrounding community. (C) Post-incident support The Director shall facilitate, including by directing impacted individuals to the appropriate agency and coordinating with relevant counterparts at other agencies, appropriate remediation, environmental testing, and assistance with compensation in the case of leaks, incidents, accidents, or other relevant events. .\n##### (b) Authorization of appropriations\nThere is authorized to be appropriated to the Secretary to carry out section 108(h) of title 49, United States Code, $12,000,000 for each of fiscal years 2025 through 2028.\n#### 202. Public hearings on proposed rules\nSection 60104 of title 49, United States Code, is amended\u2014\n**(1)**\nin subsection (a)\u2014\n**(A)**\nby striking The Secretary of Transportation and inserting the following:\n(1) In general The Secretary ; and\n**(B)**\nby adding at the end the following:\n(2) Public hearings In proposing rules under this chapter, including revisions to those rules, the Secretary shall hold at least 1 public hearing to address each proposed rule or revision. ; and\n**(2)**\nin each of subsections (d)(1) and (e), by striking Secretary of Transportation each place it appears and inserting Secretary .\n#### 203. Disclosure of safety data\nSection 60132 of title 49, United States Code, is amended\u2014\n**(1)**\nin subsection (b), by striking subsection (a) and inserting subparagraph (A) ;\n**(2)**\nby redesignating subsection (b) as subparagraph (C) and indenting appropriately;\n**(3)**\nin subsection (a)\u2014\n**(A)**\nin paragraph (4), in the second sentence, by striking The Secretary and inserting the following:\n(B) Notice requirement With respect to data requested from operators under subparagraph (A)(vi), the Secretary ;\n**(B)**\nby redesignating paragraphs (1) through (4) as clauses (i), (ii), (v), and (vi), respectively, and indenting appropriately;\n**(C)**\nby inserting after clause (ii) (as so redesignated) the following:\n(iii) Information on the matters described in paragraph (2)(E). (iv) The location and type of any valves installed on the pipeline. ; and\n**(D)**\nin the matter preceding clause (i) (as so redesignated)\u2014\n**(i)**\nby striking and gathering lines ;\n**(ii)**\nby striking of Transportation ; and\n**(iii)**\nby striking the subsection designation and heading and all that follows through this section, the and inserting the following:\n(a) Definitions In this section: (1) Class location The term class location means a class location described in section 192.5 of title 49, Code of Federal Regulations (or a successor regulation). (2) Covered facility The term covered facility means\u2014 (A) a covered pipeline (as defined in section 60109(c)(12)(A)); (B) a liquefied natural gas pipeline facility; and (C) an underground natural gas storage facility. (3) High consequence area The term high consequence area means\u2014 (A) with respect to a gas pipeline facility, a high consequence area (as defined in section 192.903 of title 49, Code of Federal Regulations (or a successor regulation)); and (B) with respect to a hazardous liquid pipeline facility or relevant carbon dioxide pipeline facility, a high consequence area (as defined in section 195.450 of title 49, Code of Federal Regulations (or a successor regulation)). (4) Maximum allowable operating pressure The term maximum allowable operating pressure has the meaning given the term in section 192.3 of title 49, Code of Federal Regulations (or a successor regulation). (5) Maximum operating pressure The term maximum operating pressure has the meaning given the term in section 195.2 of title 49, Code of Federal Regulations (or a successor regulation). (6) Moderate consequence area The term moderate consequence area has the meaning given the term in section 192.3 of title 49, Code of Federal Regulations (or a successor regulation). (7) Potential impact area The term potential impact area means the area in which the potential failure of a pipeline may be expected to have a significant impact on persons, property, or the environment (as defined in section 2 of the Pipeline Accountability Act of 2025 ). (8) Potential impact radius The term potential impact radius has the meaning given the term in section 192.903 of title 49, Code of Federal Regulations (or a successor regulation). (b) Information To be provided (1) Information to be provided to the Secretary (A) In general The ;\n**(4)**\nin subsection (b) (as so designated), by adding at the end the following:\n(2) Information to be provided to the public (A) In general Not later than 1 year after the date of enactment of the Pipeline Accountability Act of 2025 , each operator of a covered facility shall provide to the public, free of charge, on a publicly accessible website, in a simple and consolidated form\u2014 (i) information about the substances being transported by pipelines managed by the operator, including any blended products, any relevant odorants, and any contaminants; (ii) the plans that have been made for the decommissioning of\u2014 (I) each abandoned pipeline of the operator; and (II) each removed or remediated pipeline of the operator; (iii) contact information for the operator and the Pipeline and Hazardous Materials Safety Administration; (iv) relevant portions of operator emergency response plans needed by the public to prepare State, local, commercial, nonprofit, and personal emergency response plans; (v) information about how far buildings are required to be set back from a pipeline; and (vi) for carbon dioxide pipelines\u2014 (I) the results of any dispersion modeling performed; and (II) any estimates of the zone in which carbon dioxide concentrations could be fatal in the event of a pipeline rupture. (B) Updates The information provided under subparagraph (A) shall be updated as necessary, but not less frequently than once each year. (C) Annual notification (i) In general Each operator of a covered facility shall, not less frequently than annually, provide to the recipients described in clause (ii) a notification that includes all information described in subparagraph (A) with respect to the covered facility. (ii) Recipients described The recipients referred to in clause (i) are\u2014 (I) the Secretary; (II) the owners of all occupied residences and operational commercial structures that, in the determination of the Secretary, could be impacted by a rupture or explosion of the applicable covered facility; (III) any tenants of those structures; and (IV) relevant first responders. (iii) Requirement A notification under clause (i) shall include\u2014 (I) a description of the changes from the previous notification provided under that clause, if applicable; (II) a statement of the relevant\u2014 (aa) legal duties of the operator; and (bb) legal rights of, as applicable\u2014 (AA) the owners and residents of the occupied residences; or (BB) the owners, tenants, and manager of the operational commercial structure; and (III) a statement informing the recipient of the additional information that the recipient may request under subparagraph (D). (D) Additional information On the request of any person, an operator of a pipeline facility shall provide to that person\u2014 (i) the information described in subparagraph (A) with respect to all pipeline facilities of the operator; and (ii) pipeline safety information, including\u2014 (I) information on the matters described in subparagraph (E) with respect to each pipeline facility operated by the operator; (II) educational material relating to the matters described in that subparagraph to better inform the public about the information disclosed under subclause (I), provided in a simple and consolidated form; and (III) a description of how the information described in subclause (I) was acquired or determined, including any formulas used and any tests carried out. (E) Matters described The matters referred to in subparagraph (D)(ii)(I) and paragraph (1)(A)(iii) include\u2014 (i) high consequence areas; (ii) moderate consequence areas; (iii) potential impact radii and potential impact areas; (iv) class locations; (v) pipe size; (vi) the date of pipeline construction; (vii) the history of incidents, accidents, and repairs on the pipeline; (viii) geohazards that may impact pipeline safety; (ix) pressure information, including\u2014 (I) maximum operating pressure; and (II) maximum allowable operating pressure; (x) with respect to gathering lines, the types of gathering lines, including Type A, Type B, Type C, and Type R pipelines; (xi) the health, safety, and environment management programs of the operator; and (xii) any other matter that\u2014 (I) relates to the safety and reliability of a pipeline facility under the jurisdiction of the Secretary; and (II) in the determination of the Secretary, is in the public interest to be disclosed. (F) Deadline Not later than 90 days after receiving a request under subparagraph (D), an operator of a pipeline facility shall provide the information required to be disclosed under that subparagraph to the person making the request. (3) Rulemaking Not later than 2 years after the date of enactment of the Pipeline Accountability Act of 2025 , the Secretary shall promulgate regulations to carry out this subsection, including providing for standardized formats for operators to release information to the public. ;\n**(5)**\nin subsection (d)\u2014\n**(A)**\nin the subsection heading, by striking high-consequence and inserting high consequence ;\n**(B)**\nin paragraph (1)\u2014\n**(i)**\nby striking high-consequence areas (as described in section 60109(a)) and inserting high consequence areas ; and\n**(ii)**\nby striking and at the end;\n**(C)**\nin paragraph (2), by striking the period at the end and inserting ; and ; and\n**(D)**\nby adding at the end the following:\n(3) make the map available to the public on an internet website, in a machine-readable format, as part of the National Pipeline Mapping System Public Map Viewer or at an alternative location. ; and\n**(6)**\nin subsection (f), by striking subsection (a) and inserting subsection (b)(1) .\n#### 204. Reporting of blended products\n##### (a) In general\nAll operators of natural gas pipelines shall report to the Secretary blended, non-predominant products that exceed, at any point in time, 1 percent by volume of the product transported by the pipeline.\n##### (b) Rulemaking\nThe Secretary may promulgate new, or revise existing, regulations to implement the requirements of subsection (a).\n#### 205. Incident reporting for gas pipelines\n##### (a) Definition of gas\nIn this section, the term gas has the meaning given the term in section 60101(a) of title 49, United States Code.\n##### (b) Rulemaking\nNot later than 1 year after the date of enactment of this Act, the Secretary shall promulgate new, or revise existing, regulations to require operators of gas pipelines\u2014\n**(1)**\nto meet incident reporting standards that require those operators to report all gas releases of 50,000 cubic feet or more, regardless of any intent of the operator or any other person with respect to the release; and\n**(2)**\nto report\u2014\n**(A)**\nall incidents resulting in fire or explosion;\n**(B)**\nall incidents resulting in property damage of $50,000 or more in value; and\n**(C)**\nall incidents resulting in bodily harm to any person resulting in\u2014\n**(i)**\nloss of consciousness;\n**(ii)**\nnecessity to carry a person from the scene;\n**(iii)**\nnecessity for medical treatment; or\n**(iv)**\ndisability that prevents the discharge of normal duties or the pursuit of normal duties beyond the day of the incident.\nIII\nAccountability\n#### 301. Prohibition against releases\nSection 60118(a) of title 49, United States Code, is amended\u2014\n**(1)**\nin paragraph (4), by striking the period at the end and inserting ; and ;\n**(2)**\nby redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and indenting appropriately;\n**(3)**\nin the matter preceding subparagraph (A) (as so redesignated), by striking facility shall\u2014 and inserting the following: \u201cfacility\u2014\n(1) shall\u2014 ; and\n**(4)**\nby adding at the end the following:\n(2) shall not release gas or hazardous liquid from a pipeline facility in a quantity that would require the reporting of an incident or accident under a regulation prescribed under this chapter. .\n#### 302. Actions by private persons\nSection 60121 of title 49, United States Code, is amended\u2014\n**(1)**\nin subsection (a)\u2014\n**(A)**\nby redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively;\n**(B)**\nin paragraph (1), by striking (1) A person and all that follows through However, the person in the second sentence and inserting the following:\n(1) Civil action A person may bring a civil action in an appropriate district court of the United States for all appropriate relief, including civil penalties and injunctive relief, against\u2014 (A) another person (including the United States Government and other governmental authorities to the extent permitted under the Eleventh Amendment to the Constitution of the United States) for a violation of this chapter or a regulation prescribed or order issued under this chapter; or (B) the Secretary where there is alleged a failure of the Secretary to perform any act or duty under this chapter that is nondiscretionary. (2) Requirements and limitations With respect to a civil action described in paragraph (1), a person ;\n**(C)**\nin paragraph (2) (as so designated), by indenting subparagraphs (A) through (C) appropriately;\n**(D)**\nin paragraph (3) (as so redesignated), by striking the paragraph designation and all that follows through The Secretary shall and inserting the following:\n(3) Notice The Secretary shall ;\n**(E)**\nin paragraph (4) (as so redesignated), by striking the paragraph designation and all that follows through The Secretary, with and inserting the following:\n(4) Intervention The Secretary, with ; and\n**(F)**\nby adding at the end the following:\n(5) Jurisdiction The district courts of the United States shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties\u2014 (A) to enforce a pipeline safety standard or limitation established under this chapter; (B) to enforce a regulation prescribed or order issued under this chapter; (C) to order the Secretary to perform any act or duty under this chapter; and (D) to impose any appropriate civil penalties under section 60122. ;\n**(2)**\nin subsection (b)\u2014\n**(A)**\nby redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting appropriately;\n**(B)**\nin the matter preceding subparagraph (A) (as so redesignated), in the first sentence, by striking The court and inserting the following:\n(1) In general The court ; and\n**(C)**\nin paragraph (1) (as so designated), in the matter preceding subparagraph (A) (as so redesignated), by striking, The court may award costs to in the second sentence and all that follows through In this subsection in the third sentence and inserting the following:\n(2) Reasonable attorney\u2019s fee For purposes of paragraph (1) ; and\n**(3)**\nby adding at the end the following:\n(e) Venue; intervention by the S ecretary (1) Venue Any action under this section may be brought in\u2014 (A) the district court of the United States for the judicial district in which the violation occurred; or (B) the United States District Court for the District of Columbia. (2) Intervention by the S ecretary If the Secretary is not a party to an action described in paragraph (1), the Secretary may intervene in that action as a matter of right. (f) Nonrestriction of other rights (1) In general Except as otherwise limited by section 60104(c), nothing in this section restricts any right that any person (or class of persons) may have under any statute or the common law\u2014 (A) to seek enforcement of any standard or limitation; or (B) to seek any other relief (including relief against the Secretary or a State agency). (2) State, local, and interstate authority Except as otherwise limited by section 60104(c), nothing in this section shall be construed to prohibit, exclude, or restrict any State, local, or interstate authority from\u2014 (A) bringing any enforcement action or obtaining any judicial remedy or sanction in any State or local court; or (B) bringing any administrative enforcement action or obtaining any administrative remedy or sanction in any State or local administrative agency, department, or instrumentality under any State or local law relating to pipeline safety against\u2014 (i) the United States; (ii) any department, agency, or instrumentality of the United States; or (iii) any officer, agent, or employee of the United States. .\n#### 303. Penalties\n##### (a) Maximum civil penalty for a related series of violations\nSection 60122(a)(1) of title 49, United States Code, is amended by striking the third sentence.\n##### (b) Rulemaking\nNot later than 180 days after the date of enactment of this Act, the Secretary shall revise subpart B of part 190 of title 49, Code of Federal Regulations, in accordance with the amendment made by subsection (a).",
+      "versionDate": "2025-09-19",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-09-18",
+        "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+      },
+      "number": "2905",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "Pipeline Accountability Act of 2025",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Transportation and Public Works",
+        "updateDate": "2025-12-16T17:34:03Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-09-19",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5537ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Pipeline Accountability Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-10-07T05:38:19Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Pipeline Accountability Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-10-07T05:38:18Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend title 49, United States Code, to require the establishment of an Office of Public Engagement in the Pipeline and Hazardous Materials Safety Administration, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-10-07T05:33:28Z"
+    }
+  ]
+}
+```

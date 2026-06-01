@@ -1,0 +1,59 @@
+# HR 1757: EMPSA Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-02-27
+- Latest action: 2025-02-27 - Introduced in House
+- Policy area: Social Welfare
+- Sponsor: Rep. Valadao, David G. [R-CA-22]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/1757
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Eliminating the Marriage Penalty in SSI Act or the EMPSA Act**
+
+This bill excludes a spouse's income and resources when determining eligibility for Supplemental Security Income (SSI), and disregards marital status when calculating the SSI benefit amount, for an adult who has a diagnosed intellectual or developmental disability. (SSI is a federal income supplement program designed to help aged, blind, and disabled individuals with limited income and resources meet basic needs.)
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-02-27
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1757ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-02-27
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1757ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 1757
+IN THE HOUSE OF REPRESENTATIVES
+February 27, 2025 Mr. Valadao (for himself and Ms. Lee of Nevada ) introduced the following bill; which was referred to the Committee on Ways and Means
+A BILL
+To amend title XVI of the Social Security Act to provide that the supplemental security income benefits of adults with intellectual or developmental disabilities shall not be reduced by reason of marriage.
+#### 1. Short title
+This Act may be cited as the Eliminating the Marriage Penalty in SSI Act or the EMPSA Act .
+#### 2. Supplemental security income benefits
+##### (a) Eligibility for benefits
+Section 1611(a) of the Social Security Act ( 42 U.S.C. 1382(a) ) is amended by adding at the end the following:
+(4) Notwithstanding paragraphs (1) and (2) of this subsection, each individual who has attained 18 years of age, who is diagnosed with an intellectual or developmental disability, whose income, other than income excluded pursuant to section 1612(b), is at not more than the rate in effect for purposes of paragraph (1)(A) of this subsection, and whose resources, other than resources excluded pursuant to section 1613(a), are not more than the applicable amount in effect for purposes of paragraph (3)(B) of this subsection, shall be an eligible individual for purposes of this title. .
+##### (b) Amount of benefit
+Section 1611(b) of such Act ( 42 U.S.C. 1382(b) ) is amended by adding at the end the following:
+(3) Notwithstanding paragraphs (1) and (2) of this subsection, the benefit under this title for an individual described in subsection (a)(4) of this section, whether or not the individual has an eligible spouse, shall be payable at the rate in effect for purposes of such paragraph (1), reduced by the amount of income, not excluded pursuant to section 1612(b), of the individual. .
+##### (c) Income and resource deeming rules
+Section 1614(f) of such Act ( 42 U.S.C. 1382c(f) ) is amended by adding at the end the following:
+(5) Notwithstanding paragraph (1) of this subsection, for purposes of determining eligibility for, and the amount of, benefits for an individual described in section 1611(a)(4) who is married, the income and resources of the individual is deemed to not include any income or resources of the spouse. .
+
+
+## Timeline
+
+- 2025-02-27: Introduced in House
+- 2025-02-27 - IntroReferral: Introduced in House
+- 2025-02-27 - IntroReferral: Introduced in House
+- 2025-02-27 - IntroReferral: Referred to the House Committee on Ways and Means.
+- Latest action: 2025-02-27: Introduced in House

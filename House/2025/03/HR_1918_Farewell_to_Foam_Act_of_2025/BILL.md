@@ -1,0 +1,145 @@
+# HR 1918: Farewell to Foam Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-03-06
+- Latest action: 2025-03-06 - Introduced in House
+- Policy area: Environmental Protection
+- Sponsor: Rep. Doggett, Lloyd [D-TX-37]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/1918
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-03-06
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1918ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-03-06
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1918ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 1918
+IN THE HOUSE OF REPRESENTATIVES
+March 6, 2025 Mr. Doggett (for himself, Ms. Balint , Ms. Barragán , Mr. Beyer , Ms. Bonamici , Ms. Brownley , Mr. Carson , Mr. Carter of Louisiana , Mr. Casar , Mr. Casten , Ms. Castor of Florida , Ms. Chu , Ms. Clarke of New York , Mr. Cleaver , Mr. Cohen , Mr. Connolly , Mrs. McClain Delaney , Ms. Dexter , Ms. Elfreth , Mr. Espaillat , Mr. Evans of Pennsylvania , Ms. Friedman , Mr. Frost , Mr. Garamendi , Mr. García of Illinois , Mr. Garcia of California , Mr. Goldman of New York , Mr. Green of Texas , Mr. Grijalva , Mr. Hoyer , Mr. Huffman , Ms. Jacobs , Ms. Jayapal , Mr. Johnson of Georgia , Ms. Kamlager-Dove , Mr. Krishnamoorthi , Mr. Latimer , Mr. Levin , Mr. Lieu , Mr. Magaziner , Ms. Matsui , Ms. McCollum , Mrs. Cherfilus-McCormick , Mr. Mfume , Mr. Min , Mr. Mullin , Mr. Nadler , Ms. Norton , Ms. Ocasio-Cortez , Mr. Olszewski , Ms. Pingree , Mr. Pocan , Ms. Pressley , Mr. Quigley , Mrs. Ramirez , Mr. Raskin , Ms. Salinas , Ms. Sánchez , Ms. Scanlon , Ms. Schakowsky , Mr. Smith of Washington , Ms. Stansbury , Mr. Takano , Mr. Thompson of California , Ms. Tlaib , Ms. Tokuda , Mr. Torres of New York , Mrs. Trahan , Mr. Vargas , Ms. Velázquez , Ms. Waters , Mrs. Watson Coleman , Ms. Wilson of Florida , Mr. Khanna , and Mr. McGovern ) introduced the following bill; which was referred to the Committee on Energy and Commerce
+A BILL
+To prohibit the sale and distribution of expanded polystyrene food service ware, expanded polystyrene loose fill, and expanded polystyrene coolers, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Farewell to Foam Act of 2025 .
+#### 2. Definitions
+In this Act:
+**(1) Administrator**
+The term Administrator means the Administrator of the Environmental Protection Agency.
+**(2) Biological product**
+The term biological product has the meaning given the term in section 351(i) of the Public Health Service Act ( 42 U.S.C. 262(i) ).
+**(3) Covered polystyrene foam ware**
+The term covered polystyrene foam ware means—
+**(A)**
+an expanded polystyrene cooler;
+**(B)**
+an expanded polystyrene food service ware; and
+**(C)**
+expanded polystyrene loose fill.
+**(4) Distributor**
+The term distributor means any person that distributes covered polystyrene foam ware that is sold or offered for sale in the United States.
+**(5) Drug**
+The term drug has the meaning given the term in section 201 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 321 ).
+**(6) Expanded polystyrene**
+The term expanded polystyrene means blown polystyrene and expanded or extruded foams that are thermoplastic petrochemical materials utilizing a styrene monomer and processed by any technique or combination of techniques, including fusion of polymer spheres (expandable bead polystyrene), injection molding, foam molding, and extrusion-blow molding (extruded foam polystyrene).
+**(7) Expanded polystyrene cooler**
+**(A) In general**
+The term expanded polystyrene cooler means a portable container made entirely or partially of expanded polystyrene that is designed or intended to be used for cold storage.
+**(B) Exclusion**
+The term expanded polystyrene cooler excludes portable containers intended to be used for drugs, medical devices, or biological products.
+**(8) Expanded polystyrene food service ware**
+**(A) In general**
+The term expanded polystyrene food service ware means a product made of expanded polystyrene that is—
+**(i)**
+used for selling or providing food or beverages; and
+**(ii)**
+**(I)**
+intended by the manufacturer to be used once for eating or drinking; or
+**(II)**
+generally recognized by the public as an item to be discarded after 1 use.
+**(B) Inclusions**
+The term expanded polystyrene food service ware includes any product described in subparagraph (A) consisting of a bowl, plate, hot or cold beverage cup, lid, clamshell, tray, carton for eggs or other food, or any other item used for serving or containing prepared food, including takeout food and leftovers from partially consumed meals prepared by food vendors.
+**(9) Expanded polystyrene loose fill**
+The term expanded polystyrene loose fill means a void-filling packaging product made of expanded polystyrene foam that is used as a packaging fill (commonly referred to as packing peanuts ).
+**(10) Food service provider**
+The term food service provider means a person engaged in the business of selling or distributing prepared food or beverages for on-premise or off-premise consumption, including any—
+**(A)**
+food service establishment, caterer, temporary food service establishment, mobile food service establishment, and pushcart;
+**(B)**
+retail food store;
+**(C)**
+delicatessen;
+**(D)**
+grocery store;
+**(E)**
+restaurant;
+**(F)**
+cafeteria;
+**(G)**
+coffee shop;
+**(H)**
+hospital, adult care facility, and nursing home; and
+**(I)**
+elementary or secondary school, college, and university.
+**(11) Manufacturer**
+The term manufacturer means any person that manufactures or imports covered polystyrene foam ware that is sold, offered for sale, or distributed in the United States.
+**(12) Medical device**
+The term medical device has the meaning given the term device in section 201 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 321 ).
+**(13) Prepared food**
+**(A) In general**
+The term prepared food means food or beverages that—
+**(i)**
+are cooked, chopped, sliced, mixed, brewed, frozen, heated, squeezed, combined, or otherwise prepared on the premises of a food service provider for immediate consumption; and
+**(ii)**
+require no further preparation to be consumed.
+**(B) Inclusion**
+The term prepared food includes ready-to-eat takeout foods and beverages described in subparagraph (A).
+**(14) Retailer**
+The term retailer means any person that sells, supplies, or offers to consumers covered polystyrene foam ware.
+#### 3. Ban on expanded polystyrene food service ware, loose fill, and coolers
+##### (a) Expanded polystyrene food service ware
+Beginning on January 1, 2028, no food service provider, manufacturer, distributor, or retailer shall sell, offer for sale, or distribute expanded polystyrene food service ware.
+##### (b) Expanded polystyrene loose fill and expanded polystyrene coolers
+Beginning on January 1, 2028, no manufacturer, distributor, or retailer shall sell, offer for sale, or distribute expanded polystyrene loose fill or expanded polystyrene coolers.
+#### 4. Enforcement
+##### (a) Written notification for first violation
+If a food service provider, manufacturer, distributor, or retailer violates section 3, the Administrator shall provide that food service provider, manufacturer, distributor, or retailer with written notification regarding the violation.
+##### (b) Subsequent violations
+**(1) In general**
+If a food service provider, manufacturer, distributor, or retailer, subsequent to receiving a written notification under subsection (a), violates section 3 again, the Administrator shall impose a civil penalty on the food service provider, manufacturer, distributor, or retailer in accordance with this subsection.
+**(2) Amount of penalty**
+For each violation described in paragraph (1), the amount of the civil penalty under that paragraph shall be—
+**(A)**
+in the case of the second violation, $250;
+**(B)**
+in the case of the third violation, $500; and
+**(C)**
+in the case of the fourth, and any subsequent, violation, $1,000.
+**(3) Limitations**
+**(A) Food service providers; retailers**
+In the case of a food service provider or retailer the annual revenue of which is less than $1,000,000, a penalty shall not be imposed under this subsection more than once during any 7-day period.
+**(B) Manufacturer; distributors**
+In the case of a manufacturer or distributor the annual revenue of which is less than $5,000,000, a penalty shall not be imposed under this subsection more than once during any 7-day period.
+##### (c) State enforcement
+The Administrator may permit a State to carry out enforcement under this section if the Administrator determines that the State meets such requirements as the Administrator may establish.
+#### 5. Regulations
+The Administrator may promulgate such regulations as the Administrator determines necessary to carry out this Act.
+
+
+## Timeline
+
+- 2025-03-06: Introduced in House
+- 2025-03-06 - IntroReferral: Introduced in House
+- 2025-03-06 - IntroReferral: Introduced in House
+- 2025-03-06 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2025-03-06: Introduced in House

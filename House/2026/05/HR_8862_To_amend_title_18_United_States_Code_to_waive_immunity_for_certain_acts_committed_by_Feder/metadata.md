@@ -1,0 +1,185 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/8862?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/8862
+- Title: To amend title 18, United States Code, to waive immunity for certain acts committed by Federal law enforcement officers.
+- Congress: 119
+- Bill type: HR
+- Bill number: 8862
+- Origin chamber: House
+- Introduced date: 2026-05-15
+- Update date: 2026-05-16T08:06:56Z
+- Update date including text: 2026-05-16T10:58:24Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, titles
+
+## Timeline
+
+- 2026-05-15: Introduced in House
+- 2026-05-15 - IntroReferral: Introduced in House
+- 2026-05-15 - IntroReferral: Introduced in House
+- 2026-05-15 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2026-05-15: Introduced in House
+
+## Actions
+
+- 2026-05-15 - IntroReferral: Introduced in House
+- 2026-05-15 - IntroReferral: Introduced in House
+- 2026-05-15 - IntroReferral: Referred to the House Committee on the Judiciary.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-05-15",
+    "latestAction": {
+      "actionDate": "2026-05-15",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8862",
+    "number": "8862",
+    "originChamber": "House",
+    "policyArea": {},
+    "sponsors": [
+      {
+        "bioguideId": "S001205",
+        "district": "5",
+        "firstName": "Mary Gay",
+        "fullName": "Rep. Scanlon, Mary Gay [D-PA-5]",
+        "lastName": "Scanlon",
+        "party": "D",
+        "state": "PA"
+      }
+    ],
+    "title": "To amend title 18, United States Code, to waive immunity for certain acts committed by Federal law enforcement officers.",
+    "type": "HR",
+    "updateDate": "2026-05-16T08:06:56Z",
+    "updateDateIncludingText": "2026-05-16T10:58:24Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-05-15",
+      "committees": {
+        "item": {
+          "name": "Judiciary Committee",
+          "systemCode": "hsju00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on the Judiciary.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2026-05-15",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2026-05-15",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-05-15T13:02:50Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "T000481",
+      "district": "12",
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2026-05-15",
+      "state": "MI"
+    },
+    {
+      "bioguideId": "J000288",
+      "district": "4",
+      "firstName": "Henry",
+      "fullName": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Johnson",
+      "middleName": "C. \"Hank\"",
+      "party": "D",
+      "sponsorshipDate": "2026-05-15",
+      "state": "GA"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "To amend title 18, United States Code, to waive immunity for certain acts committed by Federal law enforcement officers.",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-05-16T08:06:56Z"
+    },
+    {
+      "title": "To amend title 18, United States Code, to waive immunity for certain acts committed by Federal law enforcement officers.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-05-16T08:06:56Z"
+    }
+  ]
+}
+```

@@ -1,0 +1,264 @@
+# S 281: TICKET Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-01-28
+- Latest action: 2025-01-28 - Introduced in Senate
+- Policy area: Commerce
+- Sponsor: Sen. Schmitt, Eric [R-MO]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/281
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Transparency In Charges for Key Events Ticketing Act or the TICKET Act**
+
+This bill requires ticket sellers (including sellers on the secondary market) for concerts, performances, sporting events, and similar activities to clearly and prominently disclose the total ticket price for the event at the time the ticket is first displayed to an individual (and anytime thereafter during the purchasing process). Prior to completing a purchase, ticket sellers also must provide an itemized list of the base ticket price and each fee (e.g., service fee, processing fee, or other charge). The total ticket price must also be disclosed in any advertisement, marketing, or price list.
+
+Additionally, a ticket seller, secondary market seller, or ticket exchange that does not have actual or constructive possession of an event ticket is prohibited from selling or advertising a ticket for the event. However, a secondary market seller or exchange may sell or advertise a service to obtain an event ticket for an individual if the seller or exchange (1) does not market the service as an event ticket, (2) maintains a clear separation between the provided service and the event tickets throughout the entire purchasing process, and (3) clearly discloses that the service is not an event ticket.
+
+The bill establishes additional disclosure requirements for ticket sellers, secondary market sellers, and ticket exchanges, and requires such entities to issue a refund for the total ticket price if an event is canceled or postponed.
+
+The Federal Trade Commission must enforce these requirements.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-01-28
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s281is.xml
+
+### Reported in Senate
+- Date: 2025-04-29
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s281rs.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-01-28
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s281is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 281
+IN THE SENATE OF THE UNITED STATES
+January 28, 2025 Mr. Schmitt (for himself and Mr. Markey ) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+A BILL
+To require sellers of event tickets to disclose comprehensive information to consumers about ticket prices and related fees, to prohibit speculative ticketing, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Transparency In Charges for Key Events Ticketing Act or the TICKET Act .
+#### 2. All inclusive ticket price disclosure
+Beginning 180 days after the date of the enactment of this Act, it shall be unlawful for a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange to offer for sale an event ticket unless the ticket issuer, secondary market ticket issuer, or secondary market ticket exchange—
+**(1)**
+clearly and conspicuously displays the total event ticket price, if a price is displayed, in any advertisement, marketing, or price list wherever the ticket is offered for sale;
+**(2)**
+clearly and conspicuously discloses to any individual who seeks to purchase an event ticket the total event ticket price at the time the ticket is first displayed to the individual and anytime thereafter throughout the ticket purchasing process; and
+**(3)**
+provides an itemized list of the base event ticket price and each event ticket fee prior to the completion of the ticket purchasing process.
+#### 3. Speculative ticketing ban
+##### (a) Prohibition
+Beginning 180 days after the date of the enactment of this Act, a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange that does not have actual or constructive possession of an event ticket shall not sell, offer for sale, or advertise for sale such event ticket.
+##### (b) Services permitted
+Notwithstanding subsection (a), a secondary market ticket issuer or secondary market ticket exchange may sell, offer for sale, or advertise for sale a service to an individual to obtain an event ticket on behalf of such individual if the secondary market ticket issuer or secondary market ticket exchange complies with the following:
+**(1)**
+Does not market or list the service as an event ticket.
+**(2)**
+Maintains a clear, distinct, and easily discernible separation between the service and event tickets that persists throughout the entire service selection and purchasing process.
+**(3)**
+Clearly and conspicuously discloses before selection of the service that the service is not an event ticket and that the purchase of the service does not guarantee an event ticket.
+#### 4. Disclosures
+A ticket issuer, secondary market ticket issuer, or secondary market ticket exchange—
+**(1)**
+if offering an event ticket for resale, shall provide a clear and conspicuous statement, before a consumer purchases the event ticket from the ticket issuer, secondary market ticket issuer, or secondary market ticket exchange, that the issuer or exchange is engaged in the secondary sale of event tickets; and
+**(2)**
+shall not state that the ticket issuer, secondary market ticket issuer, or secondary market ticket exchange is affiliated with or endorsed by a venue, team, or artist, as applicable, including by using words like official in promotional materials, social media promotions, or paid advertising, unless a partnership agreement has been executed or the issuer or exchange has the express written consent of the venue, team, or artist, as applicable.
+#### 5. Refund requirements
+##### (a) Cancellation
+Beginning 180 days after the date of the enactment of this Act, if an event is canceled or postponed (except for a case in which an event is canceled or postponed due to a cause beyond the reasonable control of the issuer, including a natural disaster, civil disturbance, or otherwise unforeseeable impediment), a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange shall provide the purchaser of an event ticket from the issuer or exchange for the canceled or postponed event, at a minimum—
+**(1)**
+if the event is cancelled, a full refund for the total event ticket price;
+**(2)**
+subject to availability, if the event is postponed for not more than 6 months and the original event ticket is no longer valid for entry to the rescheduled event, a replacement event ticket for the rescheduled event in the same or a comparable location once the event has been rescheduled; or
+**(3)**
+if the event is postponed for more than 6 months, at the option of the purchaser—
+**(A)**
+a full refund for the total event ticket price; or
+**(B)**
+if the original event ticket is no longer valid for entry to the rescheduled event, a replacement event ticket for the rescheduled event in the same or a comparable location once the event has been rescheduled.
+##### (b) Disclosure of guarantee and refund policy required
+Beginning 180 days after the date of the enactment of this Act, a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange shall disclose clearly and conspicuously to a purchaser before the completion of an event ticket sale the guarantee or refund policy of such ticket issuer, secondary market ticket issuer, or secondary market ticket exchange, including under what circumstances any refund issued will include a refund of any event ticket fee.
+##### (c) Disclosure of how To obtain a refund required
+Beginning 180 days after the date of the enactment of this Act, a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange shall provide a clear and conspicuous explanation of how to obtain a refund of the total event ticket price.
+#### 6. Report by the Federal Trade Commission on BOTS Act of 2016 enforcement
+Not later than 6 months after the date of the enactment of this Act, the Commission shall submit to Congress a report on enforcement of the Better Online Ticket Sales Act of 2016 ( Public Law 114–274 ; 15 U.S.C. 45c ), including any enforcement action taken, challenges with enforcement and coordination with State Attorneys General, and recommendations on how to improve enforcement and industry compliance.
+#### 7. Enforcement
+##### (a) Unfair or deceptive act or practice
+A violation of this Act shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act ( 15 U.S.C. 57a(a)(1)(B) ).
+##### (b) Powers of commission
+**(1) In general**
+The Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ( 15 U.S.C. 41 et seq. ) were incorporated into and made a part of this Act.
+**(2) Privileges and immunities**
+Any person who violates this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act ( 15 U.S.C. 41 et seq. ).
+**(3) Authority preserved**
+Nothing in this Act shall be construed to limit the authority of the Commission under any other provision of law.
+#### 8. Definitions
+In this Act:
+**(1) Artist**
+The term artist means any performer, musician, comedian, producer, ensemble or production entity of a theatrical production, sports team owner, or similar person.
+**(2) Base event ticket price**
+The term base event ticket price means, with respect to an event ticket, the price of the event ticket excluding the cost of any event ticket fees.
+**(3) Commission**
+The term Commission means the Federal Trade Commission.
+**(4) Event**
+The term event means any live concert, theatrical performance, sporting event, show, or similarly scheduled live activity, that is—
+**(A)**
+taking place in a venue with a seating or attendance capacity exceeding 200 persons;
+**(B)**
+open to the general public; and
+**(C)**
+promoted, advertised, or marketed in interstate commerce, or for which event tickets are generally sold or distributed in interstate commerce.
+**(5) Event ticket; ticket issuer**
+The terms event ticket and ticket issuer have the meaning given those terms in the Better Online Ticket Sales Act of 2016 ( Public Law 114–274 ).
+**(6) Event ticket fee**
+The term event ticket fee —
+**(A)**
+means a charge for an event ticket that must be paid in addition to the base event ticket price in order to obtain an event ticket from a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange, including any service fee, charge and order processing fee, delivery fee, facility charge fee, tax, and any other charge; and
+**(B)**
+does not include any charge or fee for an optional product or service associated with the event that may be selected by a purchaser of an event ticket.
+**(7) Optional product or service**
+The term optional product or service means a product or service that an individual does not need to purchase to use or take possession of an event ticket.
+**(8) Resale; secondary sale**
+The terms resale and secondary sale mean any sale of an event ticket that occurs after the initial sale of the event ticket by a ticket issuer.
+**(9) Secondary market ticket exchange**
+The term secondary market ticket exchange means any person that in the regular course of trade or business of that person operates a platform or exchange for advertising, listing, or selling resale tickets, on behalf of itself, vendors, or a secondary market ticket issuer.
+**(10) Secondary market ticket issuer**
+The term secondary market ticket issuer means any person, including a ticket issuer, that resells or makes a secondary sale of an event ticket to the general public in the regular course of the trade or business of the person.
+**(11) Total event ticket price**
+The term total event ticket price means, with respect to an event ticket, the total cost of the event ticket, including the base event ticket price and any event ticket fee.
+**(12) Venue**
+The term venue means a physical space at which an event takes place.
+
+### Reported in Senate
+- Date: 2025-04-29
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s281rs.xml
+
+II
+Calendar No. 63
+119th CONGRESS
+1st Session
+S. 281
+[Report No. 119–17]
+IN THE SENATE OF THE UNITED STATES
+January 28, 2025 Mr. Schmitt (for himself and Mr. Markey ) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+April 29, 2025 Reported by Mr. Cruz , with amendments Omit the part struck through and insert the parts printed in italic
+A BILL
+To require sellers of event tickets to disclose comprehensive information to consumers about ticket prices and related fees, to prohibit speculative ticketing, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Transparency In Charges for Key Events Ticketing Act or the TICKET Act .
+#### 2. All inclusive ticket price disclosure
+Beginning 180 days after the date of the enactment of this Act, it shall be unlawful for a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange to offer for sale an event ticket unless the ticket issuer, secondary market ticket issuer, or secondary market ticket exchange—
+**(1)**
+clearly and conspicuously displays the total event ticket price, if a price is displayed, in any advertisement, marketing, or price list wherever the ticket is offered for sale;
+**(2)**
+clearly and conspicuously discloses to any individual who seeks to purchase an event ticket the total event ticket price at the time the ticket is first displayed to the individual and anytime thereafter throughout the ticket purchasing process; and
+**(3)**
+provides an itemized list of the base event ticket price and each event ticket fee prior to the completion of the ticket purchasing process.
+#### 3. Speculative ticketing ban
+##### (a) Prohibition
+Beginning 180 days after the date of the enactment of this Act, a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange that does not have actual or constructive possession of an event ticket shall not sell, offer for sale, or advertise for sale such event ticket.
+##### (b) Services permitted
+Notwithstanding subsection (a), a secondary market ticket issuer or secondary market ticket exchange may sell, offer for sale, or advertise for sale a service to an individual to obtain an event ticket on behalf of such individual if the secondary market ticket issuer or secondary market ticket exchange complies with the following:
+**(1)**
+Does not market or list the service as an event ticket.
+**(2)**
+Maintains a clear, distinct, and easily discernible separation between the service and event tickets that persists throughout the entire service selection and purchasing process.
+**(3)**
+Clearly and conspicuously discloses before selection of the service that the service is not an event ticket and that the purchase of the service does not guarantee an event ticket.
+#### 4. Disclosures
+A ticket issuer, secondary market ticket issuer, or secondary market ticket exchange—
+**(1)**
+if offering an event ticket for resale, shall provide a clear and conspicuous statement, before a consumer purchases the event ticket from the ticket issuer, secondary market ticket issuer, or secondary market ticket exchange, that the issuer or exchange is engaged in the secondary sale of event tickets; and
+**(2)**
+shall not state that the ticket issuer, secondary market ticket issuer, or secondary market ticket exchange is affiliated with or endorsed by a venue, team, or artist, as applicable, including by using words like official in promotional materials, social media promotions, or paid advertising, unless a partnership agreement has been executed or the issuer or exchange has the express written consent of the venue, team, or artist, as applicable . ; and
+**(3)**
+shall not include the name of the venue, including any misspellings of any such name, in a domain name, or any subdomain thereof, in the URL of the secondary market ticket issuer or secondary market ticket exchange unless authorized by the owner of the venue.
+#### 5. Refund requirements
+##### (a) Cancellation
+Beginning 180 days after the date of the enactment of this Act, if an event is canceled or postponed (except for a case in which an event is canceled or postponed due to a cause beyond the reasonable control of the issuer, including a natural disaster, civil disturbance, or otherwise unforeseeable impediment), a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange shall provide the purchaser of an event ticket from the issuer or exchange for the canceled or postponed event, at a minimum—
+**(1)**
+if the event is cancelled, a full refund for the total event ticket price;
+**(2)**
+subject to availability, if the event is postponed for not more than 6 months and the original event ticket is no longer valid for entry to the rescheduled event, a replacement event ticket for the rescheduled event in the same or a comparable location once the event has been rescheduled; or
+**(3)**
+if the event is postponed for more than 6 months, at the option of the purchaser—
+**(A)**
+a full refund for the total event ticket price; or
+**(B)**
+if the original event ticket is no longer valid for entry to the rescheduled event, a replacement event ticket for the rescheduled event in the same or a comparable location once the event has been rescheduled.
+##### (b) Disclosure of guarantee and refund policy required
+Beginning 180 days after the date of the enactment of this Act, a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange shall disclose clearly and conspicuously to a purchaser before the completion of an event ticket sale the guarantee or refund policy of such ticket issuer, secondary market ticket issuer, or secondary market ticket exchange, including under what circumstances any refund issued will include a refund of any event ticket fee.
+##### (c) Disclosure of how To obtain a refund required
+Beginning 180 days after the date of the enactment of this Act, a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange shall provide a clear and conspicuous explanation of how to obtain a refund of the total event ticket price.
+#### 6. Report by the Federal Trade Commission on BOTS Act of 2016 enforcement
+Not later than 6 months after the date of the enactment of this Act, the Commission shall submit to Congress a report on enforcement of the Better Online Ticket Sales Act of 2016 ( Public Law 114–274 ; 15 U.S.C. 45c ), including any enforcement action taken, challenges with enforcement and coordination with State Attorneys General, and recommendations on how to improve enforcement and industry compliance.
+#### 7. Enforcement
+##### (a) Unfair or deceptive act or practice
+A violation of this Act shall be treated as a violation of a rule defining an unfair or deceptive act or practice under section 18(a)(1)(B) of the Federal Trade Commission Act ( 15 U.S.C. 57a(a)(1)(B) ).
+##### (b) Powers of commission
+**(1) In general**
+The Commission shall enforce this Act in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ( 15 U.S.C. 41 et seq. ) were incorporated into and made a part of this Act.
+**(2) Privileges and immunities**
+Any person who violates this Act shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act ( 15 U.S.C. 41 et seq. ).
+**(3) Authority preserved**
+Nothing in this Act shall be construed to limit the authority of the Commission under any other provision of law.
+#### 8. Definitions
+In this Act:
+**(1) Artist**
+The term artist means any performer, musician, comedian, producer, ensemble or production entity of a theatrical production, sports team owner, or similar person.
+**(2) Base event ticket price**
+The term base event ticket price means, with respect to an event ticket, the price of the event ticket excluding the cost of any event ticket fees.
+**(3) Commission**
+The term Commission means the Federal Trade Commission.
+**(4) Event**
+The term event means any live concert, theatrical performance, sporting event, show, or similarly scheduled live activity, that is—
+**(A)**
+taking place in a venue with a seating or attendance capacity exceeding 200 persons;
+**(B)**
+open to the general public; and
+**(C)**
+promoted, advertised, or marketed in interstate commerce, or for which event tickets are generally sold or distributed in interstate commerce.
+**(5) Event ticket; ticket issuer**
+The terms event ticket and ticket issuer have the meaning given those terms in the Better Online Ticket Sales Act of 2016 ( Public Law 114–274 ).
+**(6) Event ticket fee**
+The term event ticket fee —
+**(A)**
+means a charge for an event ticket that must be paid in addition to the base event ticket price in order to obtain an event ticket from a ticket issuer, secondary market ticket issuer, or secondary market ticket exchange, including any service fee, charge and order processing fee, delivery fee, facility charge fee, tax, and any other charge; and
+**(B)**
+does not include any charge or fee for an optional product or service associated with the event that may be selected by a purchaser of an event ticket.
+**(7) Optional product or service**
+The term optional product or service means a product or service that an individual does not need to purchase to use or take possession of an event ticket.
+**(8) Resale; secondary sale**
+The terms resale and secondary sale mean any sale of an event ticket that occurs after the initial sale of the event ticket by a ticket issuer.
+**(9) Secondary market ticket exchange**
+The term secondary market ticket exchange means any person that in the regular course of trade or business of that person operates a platform or exchange for advertising, listing, or selling resale tickets, on behalf of itself, vendors, or a secondary market ticket issuer.
+**(10) Secondary market ticket issuer**
+The term secondary market ticket issuer means any person, including a ticket issuer, that resells or makes a secondary sale of an event ticket to the general public in the regular course of the trade or business of the person.
+**(11) Total event ticket price**
+The term total event ticket price means, with respect to an event ticket, the total cost of the event ticket, including the base event ticket price and any event ticket fee.
+**(12) URL**
+The term URL means the uniform resource locator associated with an internet website.
+**(13) Venue**
+The term venue means a physical space at which an event takes place.
+
+
+## Timeline
+
+- 2025-01-28: Introduced in Senate
+- 2025-01-28 - IntroReferral: Introduced in Senate
+- 2025-01-28 - IntroReferral: Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-02-05 - Committee: Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.
+- 2025-04-29 - Committee: Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-17.
+- 2025-04-29 - Committee: Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-17.
+- 2025-04-29 - Calendars: Placed on Senate Legislative Calendar under General Orders. Calendar No. 63.
+- Latest action: 2025-01-28: Introduced in Senate

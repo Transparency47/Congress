@@ -1,0 +1,46 @@
+# HR 7186: American Family Housing Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-01-21
+- Latest action: 2026-01-21 - Introduced in House
+- Policy area: Housing and Community Development
+- Sponsor: Rep. Miller, Mary E. [R-IL-15]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7186
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-01-21
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7186ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-01-21
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7186ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7186
+IN THE HOUSE OF REPRESENTATIVES
+January 21, 2026 Mrs. Miller of Illinois (for herself and Ms. Boebert ) introduced the following bill; which was referred to the Committee on Financial Services
+A BILL
+To amend the Investment Company Act of 1940 to prohibit certain large-scale companies from purchasing single family residences.
+#### 1. Short title
+This Act may be cited as the American Family Housing Act .
+#### 2. Restrictions on purchasing single family residences
+The Investment Company Act of 1940 ( 15 U.S.C. 80a–1 et seq. ) is amended by inserting after section 12 the following:
+12A. Restrictions on purchasing single family residences (a) In general Beginning on the date that is 100 days after the date of the enactment of this section, a large-scale company may not— (1) purchase (including from the Federal Government) any single family residence; or (2) purchase the equity securities of a qualified issuer if such purchase would result in holding more than 49 percent of the equity securities of such qualified issuer. (b) Definitions In this section: (1) Large-scale company The term large-scale company means a registered investment company or private fund with more than $100,000,000,000 in assets under management. (2) Private fund The term private fund means an issuer that would be an investment company, but for paragraph (1) or (7) of section 3(c). (3) Qualified issuer The term qualified issuer means an issuer that holds, as assets, more than 100 single family residences. (4) Single family residence The term single family residence — (A) means a residence— (i) consisting of 1 dwelling unit built for one household to live in; and (ii) that functions as an independent living space without shared walls or shared utilities; and (B) does not include a dwelling unit in a condominium or cooperative housing project. .
+
+
+## Timeline
+
+- 2026-01-21: Introduced in House
+- 2026-01-21 - IntroReferral: Introduced in House
+- 2026-01-21 - IntroReferral: Introduced in House
+- 2026-01-21 - IntroReferral: Referred to the House Committee on Financial Services.
+- Latest action: 2026-01-21: Introduced in House

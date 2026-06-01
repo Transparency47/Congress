@@ -1,0 +1,431 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/4325?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/4325
+- Title: Clean Shipping Act of 2025
+- Congress: 119
+- Bill type: HR
+- Bill number: 4325
+- Origin chamber: House
+- Introduced date: 2025-07-10
+- Update date: 2025-12-16T09:05:18Z
+- Update date including text: 2025-12-16T09:05:18Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-07-10: Introduced in House
+- 2025-07-10 - IntroReferral: Introduced in House
+- 2025-07-10 - IntroReferral: Introduced in House
+- 2025-07-10 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2025-07-10: Introduced in House
+
+## Actions
+
+- 2025-07-10 - IntroReferral: Introduced in House
+- 2025-07-10 - IntroReferral: Introduced in House
+- 2025-07-10 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-07-10",
+    "latestAction": {
+      "actionDate": "2025-07-10",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4325",
+    "number": "4325",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000598",
+        "district": "42",
+        "firstName": "Robert",
+        "fullName": "Rep. Garcia, Robert [D-CA-42]",
+        "lastName": "Garcia",
+        "party": "D",
+        "state": "CA"
+      }
+    ],
+    "title": "Clean Shipping Act of 2025",
+    "type": "HR",
+    "updateDate": "2025-12-16T09:05:18Z",
+    "updateDateIncludingText": "2025-12-16T09:05:18Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-07-10",
+      "committees": {
+        "item": {
+          "name": "Energy and Commerce Committee",
+          "systemCode": "hsif00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Energy and Commerce.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-07-10",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-07-10",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-10T15:00:30Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "B001300",
+      "district": "44",
+      "firstName": "Nanette",
+      "fullName": "Rep. Barrag\u00e1n, Nanette Diaz [D-CA-44]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Barrag\u00e1n",
+      "middleName": "Diaz",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "M001163",
+      "district": "7",
+      "firstName": "Doris",
+      "fullName": "Rep. Matsui, Doris O. [D-CA-7]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Matsui",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "B001278",
+      "district": "1",
+      "firstName": "Suzanne",
+      "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Bonamici",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "OR"
+    },
+    {
+      "bioguideId": "T000481",
+      "district": "12",
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "MI"
+    },
+    {
+      "bioguideId": "C001061",
+      "district": "5",
+      "firstName": "Emanuel",
+      "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Cleaver",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "MO"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": "0",
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "DC"
+    },
+    {
+      "bioguideId": "E000297",
+      "district": "13",
+      "firstName": "Adriano",
+      "fullName": "Rep. Espaillat, Adriano [D-NY-13]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Espaillat",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "L000582",
+      "district": "36",
+      "firstName": "Ted",
+      "fullName": "Rep. Lieu, Ted [D-CA-36]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Lieu",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "T000193",
+      "district": "2",
+      "firstName": "Bennie",
+      "fullName": "Rep. Thompson, Bennie G. [D-MS-2]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Thompson",
+      "middleName": "G.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "MS"
+    },
+    {
+      "bioguideId": "N000002",
+      "district": "12",
+      "firstName": "Jerrold",
+      "fullName": "Rep. Nadler, Jerrold [D-NY-12]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Nadler",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "H001068",
+      "district": "2",
+      "firstName": "Jared",
+      "fullName": "Rep. Huffman, Jared [D-CA-2]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Huffman",
+      "party": "D",
+      "sponsorshipDate": "2025-07-15",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "C001066",
+      "district": "14",
+      "firstName": "Kathy",
+      "fullName": "Rep. Castor, Kathy [D-FL-14]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Castor",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "D000623",
+      "district": "10",
+      "firstName": "Mark",
+      "fullName": "Rep. DeSaulnier, Mark [D-CA-10]",
+      "isOriginalCosponsor": "False",
+      "lastName": "DeSaulnier",
+      "party": "D",
+      "sponsorshipDate": "2025-07-23",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "L000593",
+      "district": "49",
+      "firstName": "Mike",
+      "fullName": "Rep. Levin, Mike [D-CA-49]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Levin",
+      "party": "D",
+      "sponsorshipDate": "2025-08-15",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "G000559",
+      "district": "8",
+      "firstName": "John",
+      "fullName": "Rep. Garamendi, John [D-CA-8]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Garamendi",
+      "party": "D",
+      "sponsorshipDate": "2025-10-17",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "C001117",
+      "district": "6",
+      "firstName": "Sean",
+      "fullName": "Rep. Casten, Sean [D-IL-6]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Casten",
+      "party": "D",
+      "sponsorshipDate": "2025-12-15",
+      "state": "IL"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4325ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 4325\nIN THE HOUSE OF REPRESENTATIVES\nJuly 10, 2025 Mr. Garcia of California (for himself, Ms. Barrag\u00e1n , Ms. Matsui , Ms. Bonamici , Ms. Tlaib , and Mr. Cleaver ) introduced the following bill; which was referred to the Committee on Energy and Commerce\nA BILL\nTo amend the Clean Air Act to provide for the establishment of standards to limit the carbon intensity of the fuel used by certain vessels, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Clean Shipping Act of 2025 .\n#### 2. Marine greenhouse gas fuel standard\nThe Clean Air Act is amended by inserting after section 212 ( 42 U.S.C. 7546 ) the following:\n212A. Marine greenhouse gas fuel standard (a) Definitions (1) Carbon dioxide-equivalent The term carbon dioxide-equivalent means the number of metric tons of carbon dioxide emissions with the same global warming potential as 1 metric ton of another greenhouse gas, as calculated using Equation A\u20131 in section 98.2(b) of title 40, Code of Federal Regulations (as in effect on the date of enactment of this section). (2) Carbon intensity The term carbon intensity means the quantity of lifecycle greenhouse gas emissions per unit of fuel energy, expressed in grams of carbon dioxide-equivalent per megajoule. (3) Carbon intensity baseline The term carbon intensity baseline means the average carbon intensity of the fuel used by all vessels on covered voyages in calendar year 2027. (4) Covered voyage The term covered voyage means any voyage of a vessel for the purpose of transporting passengers or cargo for commercial purposes\u2014 (A) that is between any ports of call under the jurisdiction of the United States; or (B) that is between a port of call under the jurisdiction of the United States and a port of call under the jurisdiction of a foreign country. (5) Greenhouse gas The term greenhouse gas means carbon dioxide, methane, nitrous oxide, hydrofluorocarbons, perfluorocarbons, and sulfur hexafluoride. (6) Lifecycle greenhouse gas emissions The term lifecycle greenhouse gas emissions has the meaning given the term in section 211(o)(1). (7) Port of call The term port of call means the port where a vessel stops to load or unload cargo or to embark or disembark passengers. (8) Vessel The term vessel means a vessel of 400 gross tonnage or more. (b) Marine vessel fuel carbon intensity standards (1) Standards The Administrator shall, by regulation and except as provided in paragraph (3), require each vessel on a covered voyage to comply with standards for the carbon intensity of the fuel used by the vessel for propulsion and for the operation of any onboard equipment so that the carbon intensity is\u2014 (A) in each of calendar years 2030 through 2034, at least 30 percent less than the carbon intensity baseline; (B) in each of calendar years 2034 through 2039, at least 58 percent less than the carbon intensity baseline; (C) in each of calendar years 2040 through 2044, at least 83 percent less than the carbon intensity baseline; (D) in each of calendar years 2045 through 2049, at least 92 percent less than the carbon intensity baseline; and (E) in calendar year 2050 and each calendar year thereafter, 100 percent less than the carbon intensity baseline. (2) Promulgation of standards The Administrator shall finalize\u2014 (A) the standard required by paragraph (1)(A) by not later than January 1, 2029; and (B) the standards required by each of subparagraphs (B) through (E) of paragraph (1) by not later than 2 years before the respective standard goes into effect. (3) Technological or economic feasibility (A) In general If the Administrator determines that a reduction in carbon intensity required under paragraph (1) is not technologically or economically feasible by the applicable deadline under that paragraph, the Administrator, in lieu of promulgating the standard otherwise required by that paragraph, shall promulgate a standard that will achieve the maximum reduction in the carbon intensity of the fuel used by vessels on covered voyages that is technologically and economically feasible by the applicable deadline. (B) Considerations In determining technological and economic feasibility for purposes of subparagraph (A), the Administrator shall take into account the net reduction of emissions of greenhouse gases and the potential adverse impacts on public health, safety, and the environment, including with respect to air quality, water quality, and the generation and disposal of solid waste. (4) Harmonization with international standards If the Administrator determines that standards mandated by the International Maritime Organization for reduction of the carbon intensity of fuel used by vessels for a calendar year are equal to or more stringent than the standards under paragraph (1) for that calendar year, the Administrator may adopt the standards of the International Maritime Organization. (5) Exemption Any vessel that is on covered voyages for 30 days or fewer during a calendar year shall be exempt from the standards promulgated under this subsection for that calendar year. (6) Common ownership or control For purposes of determining compliance with any standard established under this subsection, the Administrator may allow the carbon intensity of the fuels used by vessels under common ownership or control to be averaged. (7) Overcompliance The Administrator may allow vessels to credit overcompliance with any standard established under this subsection towards demonstrating compliance with any future standard under this subsection. (c) Monitoring and reporting (1) List of methods (A) In general The Administrator shall develop a list of acceptable methods for monitoring and reporting compliance with the standards established under subsection (b). (B) Consistency of methods The Administrator, to the maximum extent practicable, shall ensure the consistency of the methods included in the list required under subparagraph (A) with similar reporting schemes developed by the European Union and the International Maritime Organization. (2) Annual reporting requirements For each calendar year, the owner or operator of a vessel shall report to the Administrator\u2014 (A) the carbon intensity of the fuel used for each covered voyage of the vessel; (B) the amount of fuel used for each covered voyage of the vessel; and (C) the total greenhouse gas emissions for all covered voyages of the vessel, measured in carbon dioxide-equivalent. (3) Annual report (A) In general Not later than 180 days after the end of each annual reporting period under paragraph (2), the Administrator, in consultation with the Secretary of Transportation and the Commandant of the Coast Guard, shall publish on the website of the Environmental Protection Agency a publicly accessible report that\u2014 (i) compiles the data reported under paragraph (2); and (ii) includes an explanation intended to facilitate public understanding of\u2014 (I) the carbon dioxide-equivalent emissions of vessels on covered voyages; and (II) the carbon intensity of fuels used by those vessels. (B) Republication Not later than 30 days after the date on which the Administrator publishes the publicly accessible report on the website of the Environmental Protection Agency under subparagraph (A) each year, the Secretary of Transportation shall publish a publicly accessible copy of that report on the website of the Department of Transportation. (d) Enforcement The standards established under subsection (b) and the annual reporting requirements under subsection (c)(2) shall be considered an emission standard or limitation for purposes of section 304(a)(1). .\n#### 3. In-port marine vessel zero emission standards\nSection 213 of the Clean Air Act ( 42 U.S.C. 7547 ) is amended by adding at the end the following:\n(e) In-Port marine vessel zero emission standards (1) Standards Except as provided in paragraph (2) and not later than January 1, 2029, the Administrator shall promulgate (and from time to time revise) standards to eliminate, by not later than January 1, 2035, emissions of greenhouse gases and air pollutants for which air quality criteria have been issued under section 108 from vessels at anchorage or at berth in the contiguous zone of the United States (as described in Presidential Proclamation 7219 ( 43 U.S.C. 1331 note; 64 Fed. Reg. 48701, 49844)). (2) Exception If the Administrator determines that standards required by paragraph (1) are not technologically or economically feasible, the Administrator shall promulgate standards that achieve the maximum reduction of the emissions described in that paragraph from the vessels described in that paragraph that is technologically and economically feasible. (3) Considerations In determining technological and economic feasibility under paragraph (2), the Administrator shall take into account the net reduction of emissions of greenhouse gases, the net reduction of emissions of air pollutants for which air quality criteria have been issued under section 108, and the potential adverse impacts on public health, safety, and the environment, including with respect to air quality, water quality, and the generation and disposal of solid waste. .",
+      "versionDate": "2025-07-10",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-07-10",
+        "text": "Read twice and referred to the Committee on Environment and Public Works. (Sponsor introductory remarks on measure: CR S4317)"
+      },
+      "number": "2261",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "Clean Shipping Act of 2025",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Environmental Protection",
+        "updateDate": "2025-09-04T15:37:04Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-07-10",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4325ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Clean Shipping Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-07-24T07:53:23Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Clean Shipping Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-07-24T07:53:21Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend the Clean Air Act to provide for the establishment of standards to limit the carbon intensity of the fuel used by certain vessels, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-07-24T07:48:22Z"
+    }
+  ]
+}
+```

@@ -1,0 +1,106 @@
+# S 411: Flight 293 Remembrance Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-02-05
+- Latest action: 2025-02-05 - Introduced in Senate
+- Policy area: Armed Forces and National Security
+- Sponsor: Sen. Murray, Patty [D-WA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/411
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Flight 293 Remembrance Act**
+
+This bill requires the Department of Defense (DOD) to identify and publish information related to non-combat military plane crashes and provide support to families of members of the Armed Forces who die in such crashes.
+
+Specifically, DOD must identify and document all non-combat military plane crashes categorized as Operational Loss/Non-War Loss. Further, DOD must develop and maintain a public database of the names, ranks, and service details of all members of the Armed Forces who died in such crashes.
+
+DOD must also provide assistance to the families of members of the Armed Forces who have died in non-combat crashes by (1) ensuring the families are aware of and have access to DOD benefits, resources, and support services; (2) offering personalized guidance on navigating and applying for such benefits, resources, and support services; and (3) connecting those families with community and peer support networks.
+
+Additionally, DOD must establish a designated point of contact for such families to guide them through the benefits process, provide certain updates, and liaise with relevant agencies or organizations to ensure coordinated assistance.
+
+The bill prohibits discrimination on the basis of disability, sex, race, color, or national origin in the provision of assistance and services under this bill.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-02-05
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s411is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-02-05
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s411is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 411
+IN THE SENATE OF THE UNITED STATES
+February 5, 2025 Mrs. Murray (for herself and Mr. Sullivan ) introduced the following bill; which was read twice and referred to the Committee on Armed Services
+A BILL
+To develop a database of members of the Armed Forces who died in non-combat military plane crashes and to provide support to the families of such members, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Flight 293 Remembrance Act .
+#### 2. Program to support families of members of the Armed Forces who died in non-combat military plane crashes
+##### (a) Identification
+Not later than one year after the date of the enactment of this Act, the Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall—
+**(1)**
+identify and document all non-combat military plane crashes categorized as Operational Loss/Non-War Loss —
+**(A)**
+based on a thorough review of records of the Department of Defense starting with calendar year 1984; and
+**(B)**
+for such crashes that occurred before calendar year 1984, using information obtained from other organizations; and
+**(2)**
+develop and maintain a publicly accessible database of the names, ranks, and service details of all members of the Armed Forces who died in such crashes.
+##### (b) Assistance to families
+The Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall provide assistance to the families of members of the Armed Forces who died in crashes described in subsection (a)(1)—
+**(1)**
+to ensure that those families are aware of and have full access to the benefits, resources, and support services available from the Department of Defense;
+**(2)**
+to offer personalized guidance on navigating and applying for those benefits, resources, and services, including financial assistance, counseling services, and survivor benefits tailored to non-combat losses; and
+**(3)**
+to connect those families with community and peer support networks that allow them to meet and share experiences with others who have faced similar losses.
+##### (c) Designated point of contact
+The Secretary of Defense shall establish a designated point of contact within the Department of Defense—
+**(1)**
+to be responsible for guiding families of members of the Armed Forces who died in crashes described in subsection (a)(1) through the benefits process;
+**(2)**
+to provide those families with updates on—
+**(A)**
+the availability of new programs, services, and benefits;
+**(B)**
+changes to law that may affect the eligibility of those families for support; and
+**(C)**
+advancements in efforts to recover members who died in crashes described in subsection (a)(1); and
+**(3)**
+to liaise with relevant agencies, such as the Department of Veterans Affairs, and local support organizations to ensure those families receive coordinated, streamlined assistance.
+##### (d) Consultations
+In carrying out this section, the Secretary of Defense may consult with organizations with knowledge of and expertise relating to crashes described in subsection (a)(1).
+##### (e) Report required
+Not later than 2 years after the date of the enactment of this Act, the Secretary of Defense shall submit to Congress a report on efforts carried out under this section that includes—
+**(1)**
+the number of families receiving support under subsection (b) and a description of the types of support those families received;
+**(2)**
+an assessment of progress made in developing the database required by subsection (a)(2) that includes an estimate of the percentage of crashes described in subsection (a)(1) that have been included in the database as of the date of the report;
+**(3)**
+an assessment of the effectiveness of efforts carried out under this section and the satisfaction of the families of members of the Armed Forces who died in crashes described in subsection (a)(1); and
+**(4)**
+any recommendations for legislative changes to improve efforts carried out under this section.
+##### (f) Nondiscrimination provisions
+**(1) In general**
+For the purpose of applying the prohibitions against discrimination on the basis of disability under section 504 of the Rehabilitation Act of 1973 ( 29 U.S.C. 794 ), on the basis of sex under title IX of the Education Amendments of 1972 ( 20 U.S.C. 1681 et seq. ), or on the basis of race, color, or national origin under title VI of the Civil Rights Act of 1964 ( 42 U.S.C. 2000d et seq. ), programs and activities funded or otherwise financially assisted in whole or in part under this section to provide assistance to families under this section, even if carried out directly by the Department of Defense or the Department of Veterans Affairs, are considered to be education programs and activities receiving Federal financial assistance.
+**(2) Enforcement**
+The Secretary of Defense and the Secretary of Veterans Affairs shall effectuate the provisions of paragraph (1) by issuing regulations, applicable to officers or employees of the Department of Defense or Department of Veterans Affairs, respectively, who provide assistance under this section directly, including provisions specifying how the corresponding Secretary shall enforce the regulations.
+
+
+## Timeline
+
+- 2025-02-05: Introduced in Senate
+- 2025-02-05 - IntroReferral: Introduced in Senate
+- 2025-02-05 - IntroReferral: Read twice and referred to the Committee on Armed Services.
+- Latest action: 2025-02-05: Introduced in Senate

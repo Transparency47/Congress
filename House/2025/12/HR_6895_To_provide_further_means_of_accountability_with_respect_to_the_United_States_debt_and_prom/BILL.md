@@ -1,0 +1,58 @@
+# HR 6895: Debt Solution and Accountability Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-12-18
+- Latest action: 2025-12-18 - Introduced in House
+- Policy area: Economics and Public Finance
+- Sponsor: Rep. Smucker, Lloyd [R-PA-11]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6895
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-12-18
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6895ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-12-18
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6895ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 6895
+IN THE HOUSE OF REPRESENTATIVES
+December 18, 2025 Mr. Smucker (for himself and Mr. Suozzi ) introduced the following bill; which was referred to the Committee on Ways and Means
+A BILL
+To provide further means of accountability with respect to the United States debt and promote fiscal responsibility.
+#### 1. Short title
+This Act may be cited as the Debt Solution and Accountability Act .
+#### 2. Secretary of the Treasury report to Congress before debt limit is increased
+##### (a) In general
+Subchapter II of chapter 31 of title 31, United States Code, is amended by adding at the end the following:
+3131. Report before debt limit is increased (a) In general On each specified reporting date, the Secretary of the Treasury shall submit a report to the Committee on Ways and Means of the House of Representatives, the Committee on Appropriations of the House of Representatives, the Committee on the Budget of the House of Representatives, the Committee on Finance of the Senate, the Committee on Appropriations of the Senate, and the Committee on the Budget of the Senate consisting of the following: (1) Debt Report A report on the state of the public debt, including— (A) the historical levels of the debt, current amount and composition of the debt, and future projections of the debt; (B) the drivers and composition of future debt; and (C) how the United States will meet debt obligations, including principal and interest. (2) Statement of intent A detailed explanation of— (A) proposals of the President to reduce or slow the growth of the public debt in the short term (the current and following three fiscal years), medium term (approximately five to nine fiscal years), and long term (approximately ten to twenty-five fiscal years), and proposals of the President to lower the debt-to-gross domestic product ratio; (B) the impact (including the impact on future Government spending, debt service, and the position of the United States dollar as the international reserve currency) of increasing the debt limit and of leaving the debt limit unchanged; and (C) projections of fiscal health and sustainability of major direct-spending entitlement programs (including Social Security, Medicare, and Medicaid). (b) Progress report Not more than 180 days after any date on which any increase, or suspension, of the limitation imposed under section 3101 takes effect, the Secretary of the Treasury shall submit a detailed report on the progress of implementing all proposals of the President described under subsection (a)(2)(A). (c) Specified reporting date For purposes of this section, the term specified reporting date means— (1) any date on which the debt subject to limit under section 3101 reaches 99.5 percent of the limitation imposed under such section; and (2) with respect to any period for which the limitation imposed under section 3101 is suspended, the date which is 1 month before the expiration of such suspension. (d) Public access to information The Secretary of the Treasury shall furnish publicly accessible links on the web page of the Department of the Treasury to each report submitted under this section. Such links shall be available for not less than the 6-month period following the date of such submission. .
+##### (b) Clerical amendment
+The table of analysis for chapter 31 of title 31, United States Code, is amended by inserting after the item relating to section 3130 the following:
+3131. Report after debt limit is increased. .
+#### 3. Access to certain Treasury Department data
+Not later than thirty days after receipt of a written request from the Chairman of the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, the Secretary of the Treasury shall provide to the requesting Chairman financial and economic data relevant to determining the amount of the public debt of the United States, including—
+**(1)**
+cash flow and debt transaction information used in preparing the Daily Treasury Statement, including current balances, receipts, and payments;
+**(2)**
+operating cash balance projections; and
+**(3)**
+relevant information regarding any extraordinary measures taken to prevent the public debt from exceeding the limitation imposed by section 3101 of title 31, United States Code.
+
+
+## Timeline
+
+- 2025-12-18: Introduced in House
+- 2025-12-18 - IntroReferral: Introduced in House
+- 2025-12-18 - IntroReferral: Introduced in House
+- 2025-12-18 - IntroReferral: Referred to the House Committee on Ways and Means.
+- Latest action: 2025-12-18: Introduced in House

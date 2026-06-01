@@ -1,0 +1,71 @@
+# S 3446: A bill to require the Secretary of Defense to submit a strategy to accelerate the response efforts of the Department of Defense with respect to releases of perfluoroalkyl substances or polyfluoroalkyl substances from the activities of the Department.
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-12-11
+- Latest action: 2025-12-11 - Introduced in Senate
+- Policy area: Armed Forces and National Security
+- Sponsor: Sen. Peters, Gary C. [D-MI]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/3446
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-12-11
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s3446is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-12-11
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s3446is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 3446
+IN THE SENATE OF THE UNITED STATES
+December 11, 2025 Mr. Peters introduced the following bill; which was read twice and referred to the Committee on Armed Services
+A BILL
+To require the Secretary of Defense to submit a strategy to accelerate the response efforts of the Department of Defense with respect to releases of perfluoroalkyl substances or polyfluoroalkyl substances from the activities of the Department.
+#### 1. Strategy to accelerate remediation of contamination from perfluoroalkyl substances and polyfluoroalkyl substances
+##### (a) Strategy
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a strategy to accelerate the response efforts of the Department of Defense with respect to releases of perfluoroalkyl substances or polyfluoroalkyl substances from the activities of the Department. Consistent with CERCLA, the strategy shall include—
+**(1)**
+criteria that the Department uses to prioritize response actions on military installations and National Guard facilities based on relative risk to human health and the environment, including concentrations of releases of perfluoroalkyl substances or polyfluoroalkyl substances, migration pathways, and proximity to receptors;
+**(2)**
+timelines for completing each phase of the cleanup process under CERCLA with respect to such releases for each such military installation or National Guard facility;
+**(3)**
+a plan for deploying additional technologies, personnel, or other resources to reduce delays to remediation efforts, including an identification of—
+**(A)**
+the number of laboratories accredited by the environmental laboratory accreditation program of the Department to test for the presence of perfluoroalkyl substances and polyfluoroalkyl substances; and
+**(B)**
+the number of laboratories in the process of being so accredited; and
+**(4)**
+benchmarks for evaluating the performance of each military department or Defense Agency in reducing the relative risk with respect to response efforts to address releases of perfluoroalkyl substances and polyfluoroalkyl substances.
+##### (b) Public dashboard
+Not later than one year after the date of the enactment of this Act, the Secretary shall publish on a publicly accessible website of the Department, an online dashboard that provides information on the actions of the Department, including each military department, addressing releases of perfluoroalkyl substances and polyfluoroalkyl substances from activities of the Department. The dashboard shall be updated on a semiannual basis and shall include a summary of—
+**(1)**
+funding that has been obligated or expended address such releases, dissagregated by each military installation or National Guard facility with respect to which efforts are planned or underway;
+**(2)**
+the status of response efforts to address such releases under the applicable phase of the cleanup process under CERCLA, including the status of any interim removal actions, at each such site;
+**(3)**
+projected and actual timelines for the completion of response actions with respect to such releases at each such site; and
+**(4)**
+points of contact for community engagement.
+##### (c) Definitions
+In this section:
+**(1)**
+The terms CERCLA , National Guard facility , removal , and response have the meanings given those terms in section 2700 of title 10, United States Code.
+**(2)**
+The term Defense Agency has the meaning given such term in section 101(a) of title 10, United States Code.
+
+
+## Timeline
+
+- 2025-12-11: Introduced in Senate
+- 2025-12-11 - IntroReferral: Introduced in Senate
+- 2025-12-11 - IntroReferral: Read twice and referred to the Committee on Armed Services.
+- Latest action: 2025-12-11: Introduced in Senate

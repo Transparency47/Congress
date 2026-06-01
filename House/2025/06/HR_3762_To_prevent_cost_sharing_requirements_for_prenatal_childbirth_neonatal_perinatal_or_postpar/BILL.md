@@ -1,0 +1,77 @@
+# HR 3762: Supporting Healthy Moms and Babies Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-06-05
+- Latest action: 2025-06-05 - Introduced in House
+- Policy area: Health
+- Sponsor: Rep. Golden, Jared F. [D-ME-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/3762
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-06-05
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3762ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-06-05
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3762ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3762
+IN THE HOUSE OF REPRESENTATIVES
+June 5, 2025 Mr. Golden of Maine (for himself, Mrs. Kim , Ms. McClellan , and Mr. Valadao ) introduced the following bill; which was referred to the Committee on Energy and Commerce , and in addition to the Committees on Ways and Means , and Education and Workforce , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To prevent cost-sharing requirements for prenatal, childbirth, neonatal, perinatal, or postpartum health care.
+#### 1. Short title
+This Act may be cited as the Supporting Healthy Moms and Babies Act .
+#### 2. Essential health benefits to include prenatal, childbirth, neonatal, perinatal, and postpartum health care
+##### (a) In general
+Section 1302(b) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 18022(b) ) is amended—
+**(1)**
+by redesignating paragraph (5) as paragraph (6); and
+**(2)**
+by inserting after paragraph (4) the following:
+(5) Maternity and newborn care requirements (A) In general The benefits referred to in paragraph (1)(D) shall include comprehensive prenatal, labor and delivery, neonatal, perinatal, and postpartum care and screenings. (B) Requirement At a minimum, the care and screenings described in subparagraph (A) shall include— (i) ultrasounds by a licensed provider; (ii) services caring for the individual relating to spontaneous pregnancy loss or spontaneous miscarriage; (iii) delivery services, including services rendered during delivery, such as anesthesiology, fetal monitoring, consultations with specialists, and services relating to postpartum health; (iv) the services required to be covered under section 2725 of the Public Health Service Act, section 711 of the Employee Retirement Income Security Act of 1974, and section 9811 of the Internal Revenue Code of 1986; (v) postpartum care services that are not preventive, including behavioral health services, for conditions that may have been exacerbated by pregnancy or conditions as a result of pregnancy, such as diabetes, hypertension, and obesity; and (vi) for legal parents of a new child who do not physically give birth to the child, behavioral health services relating to new parenthood for the 1-year period beginning on the day of the birth of the child. (C) Definition of postpartum In this paragraph, the term postpartum means the 1-year period beginning immediately after the pregnancy ends. .
+##### (b) Application
+The amendment made by subsection (a) shall be considered as if included in the enactment of the Patient Protection and Affordable Care Act ( Public Law 111–148 ).
+##### (c) Plan years
+The amendment made by subsection (a) shall apply with respect to plan years beginning on or after the date of enactment of this Act.
+#### 3. No cost-sharing for prenatal, childbirth, neonatal, perinatal, or postpartum health care
+##### (a) In general
+Part D of title XXVII of the Public Health Service Act ( 42 U.S.C. 300gg–111 et seq. ) is amended by adding at the end the following:
+2799A–11. No cost-sharing for prenatal, childbirth, neonatal, perinatal, or postpartum health care (a) In general For plan years beginning on or after the date of enactment of the Supporting Healthy Moms and Babies Act , a group health plan and a health insurance issuer offering group or individual health insurance coverage shall provide coverage for the benefits described in section 1302(b)(1)(D) of the Patient Protection and Affordable Care Act, to the same extent that qualified health plans (as defined in section 1301 of such Act) are required to provide coverage for such benefits, and shall not impose any cost-sharing requirements for such benefits. (b) Definition of cost-Sharing In this section, the term cost-sharing has the meaning given the term in section 1302(c)(3) of the Patient Protection and Affordable Care Act. .
+##### (b) ERISA
+**(1) In general**
+Subpart B of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 ( 29 U.S.C. 1185 et seq. ) is amended by adding at the end the following:
+726. No cost-sharing for prenatal, childbirth, neonatal, perinatal, or postpartum health care (a) In general For plan years beginning on or after the date of enactment of the Supporting Healthy Moms and Babies Act , a group health plan and a health insurance issuer offering group health insurance coverage shall provide coverage for the benefits described in section 1302(b)(1)(D) of the Patient Protection and Affordable Care Act, to the same extent that qualified health plans (as defined in section 1301 of such Act) are required to provide coverage for such benefits, and shall not impose any cost-sharing requirements for such benefits. (b) Definition of cost-Sharing In this section, the term cost-sharing has the meaning given the term in section 1302(c)(3) of the Patient Protection and Affordable Care Act. .
+**(2) Clerical amendment**
+The table of contents in section 1 of the Employee Retirement Income Security Act of 1974 ( 29 U.S.C. 1001 et seq. ) is amended by inserting after the item relating to section 725 the following:
+Sec. 726. No cost-sharing for prenatal, childbirth, neonatal, perinatal, or postpartum health care. .
+##### (c) Internal Revenue Code of 1986
+**(1) In general**
+Subchapter B of chapter 100 of the Internal Revenue Code of 1986 is amended by adding at the end the following:
+9826. No cost-sharing for prenatal, childbirth, neonatal, perinatal, or postpartum health care (a) In general For plan years beginning on or after the date of enactment of the Supporting Healthy Moms and Babies Act , a group health plan shall provide coverage for the benefits described in section 1302(b)(1)(D) of the Patient Protection and Affordable Care Act, to the same extent that qualified health plans (as defined in section 1301 of such Act) are required to provide coverage for such benefits, and shall not impose any cost-sharing requirements for such benefits. (b) Definition of cost-Sharing In this section, the term cost-sharing has the meaning given the term in section 1302(c)(3) of the Patient Protection and Affordable Care Act. .
+**(2) Clerical amendment**
+The table of sections for subchapter B of chapter 100 of the Internal Revenue Code of 1986 is amended by adding at the end the following new item:
+Sec. 9826. No cost-sharing for prenatal, childbirth, neonatal, perinatal, or postpartum health care. .
+##### (d) Application
+This section shall be considered as if included in the enactment of the Patient Protection and Affordable Care Act ( Public Law 111–148 ).
+
+
+## Timeline
+
+- 2025-06-05: Introduced in House
+- 2025-06-05 - IntroReferral: Introduced in House
+- 2025-06-05 - IntroReferral: Introduced in House
+- 2025-06-05 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-06-05 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-06-05 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-06-05: Introduced in House

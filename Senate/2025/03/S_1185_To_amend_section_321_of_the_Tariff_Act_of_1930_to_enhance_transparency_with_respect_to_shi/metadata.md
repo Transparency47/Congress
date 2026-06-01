@@ -1,0 +1,271 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/s/1185?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-bill/1185
+- Title: FIGHTING for America Act of 2025
+- Congress: 119
+- Bill type: S
+- Bill number: 1185
+- Origin chamber: Senate
+- Introduced date: 2025-03-27
+- Update date: 2026-03-05T16:46:55Z
+- Update date including text: 2026-03-05T16:46:55Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, subjects, summaries, text, titles
+
+## Timeline
+
+- 2025-03-27: Introduced in Senate
+- 2025-03-27 - IntroReferral: Introduced in Senate
+- 2025-03-27 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2025-03-27: Introduced in Senate
+
+## Actions
+
+- 2025-03-27 - IntroReferral: Introduced in Senate
+- 2025-03-27 - IntroReferral: Read twice and referred to the Committee on Finance.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-03-27",
+    "latestAction": {
+      "actionDate": "2025-03-27",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1185",
+    "number": "1185",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Foreign Trade and International Finance"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000779",
+        "district": "",
+        "firstName": "Ron",
+        "fullName": "Sen. Wyden, Ron [D-OR]",
+        "lastName": "Wyden",
+        "party": "D",
+        "state": "OR"
+      }
+    ],
+    "title": "FIGHTING for America Act of 2025",
+    "type": "S",
+    "updateDate": "2026-03-05T16:46:55Z",
+    "updateDateIncludingText": "2026-03-05T16:46:55Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2025-03-27",
+      "committees": {
+        "item": {
+          "name": "Finance Committee",
+          "systemCode": "ssfi00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Finance.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2025-03-27",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-03-27T19:25:24Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1185is.xml",
+      "text": "II\n119th CONGRESS\n1st Session\nS. 1185\nIN THE SENATE OF THE UNITED STATES\nMarch 27, 2025 Mr. Wyden introduced the following bill; which was read twice and referred to the Committee on Finance\nA BILL\nTo amend section 321 of the Tariff Act of 1930 to enhance transparency with respect to shipments seeking an administrative exemption from duties for low-value entries, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Fighting Illicit Goods, Helping Trustworthy Importers, and Netting Gains for America Act of 2025 or the FIGHTING for America Act of 2025 .\n#### 2. Sense of Congress\nIt is the sense of Congress that\u2014\n**(1)**\ndriven by the COVID\u201319 pandemic and other global factors, the volume of low-value imports into the United States that are eligible for an administrative exemption from duties under section 321 of the Tariff Act of 1930 ( 19 U.S.C. 1321 ), known as the de minimis exemption, has accelerated in recent years;\n**(2)**\nas the patterns of trade change, it is necessary to periodically review customs procedures to ensure that those procedures are sufficient to protect the revenue of the United States, provide for the interdiction of illicit goods, and otherwise facilitate legitimate trade and the appropriate use of customs resources;\n**(3)**\nsince the amendment to section 321 of the Tariff Act of 1930 made by section 901 of the Trade Facilitation and Trade Enforcement Act of 2015 ( Public Law 114\u2013125 ; 130 Stat. 223), growth in the direct-to-consumer model of business has accelerated attempts to ship illicit drugs and other unauthorized products through low-value shipments and tariff-based remedies seeking to ensure a level playing field for United States workers have increased; and\n**(4)**\nas such, the conditions of trade require Congress to reevaluate the purpose and intent of the powers delegated to the Secretary of the Treasury under section 321 of the Tariff Act of 1930, as so amended, to both protect the revenue of the United States and properly scrutinize shipments subject to an administrative exemption established under that section.\n#### 3. Designation of priority trade issue\nSection 117(a) of the Trade Facilitation and Trade Enforcement Act of 2015 ( 19 U.S.C. 4322(a) ) is amended by adding at the end the following:\n(8) The smuggling of fentanyl, other illicit drugs, and related material by abusing entry procedures for merchandise qualifying for an administrative exemption pursuant to section 321 of the Tariff Act of 1930 ( 19 U.S.C. 1321 ). .\n#### 4. Enhanced transparency for shipments\nSection 321 of the Tariff Act of 1930 ( 19 U.S.C. 1321 ) is amended by adding at the end the following:\n(c) Documentation and information supporting eligibility for exemption (1) In general Not later than 180 days after the date of the enactment of this subsection, the Secretary of the Treasury, in consultation with the Postmaster General, shall prescribe regulations to require the provision to U.S. Customs and Border Protection, separate from any entry filing, of such documentation or information with respect to an article that may qualify for an administrative exemption under subsection (a)(2)(C) as the Secretary determines is reasonably necessary for U.S. Customs and Border Protection to determine the admissibility of the article and the eligibility of the article for the exemption when in a postal or other shipment. (2) Included documentation or information Pursuant to paragraph (1), the Secretary may require, with respect to an article that may qualify for an administrative exemption under subsection (a)(2)(C), documentation or information regarding\u2014 (A) the offer for sale or purchase, or the subsequent sale, purchase, transportation, importation, or warehousing of, the article, including documentation or information related to the offering of the article for sale or purchase within the United States through a commercial or marketing platform, including an electronic commerce platform or marketplace, if applicable; (B) the identity of the seller, the shipper, the carrier, the final delivery party, or the purchaser of the article, as applicable; (C) the fair retail value in the country of shipment; and (D) other information determined to be necessary to protect the revenue and prevent unlawful importations. (3) Identification of Harmonized Tariff Schedule classification Notwithstanding any other provision of law, the Secretary, in consultation with the Postmaster General, shall require, with respect to an article claimed as qualifying for an administrative exemption under subsection (a)(2)(C), the submission of the following information as part of the entry filing: (A) The identification of the 10-digit statistical reporting number of the Harmonized Tariff Schedule of the United States under which the article is classifiable. (B) A description of the article with sufficient specificity to allow U.S. Customs and Border Protection to evaluate the correctness of the statistical reporting number for the article identified under subparagraph (A). (C) The country of origin of the article. (4) Parties providing documentation and information The documentation or information required pursuant to paragraph (1) with respect to an article that may qualify for an administrative exemption under subsection (a)(2)(C) may be provided by a party or parties other than one of the parties qualifying to make entry, as specified by the Secretary by regulations prescribed under section 498. (5) Veracity of documentation and information A person providing documentation or information to U.S. Customs and Border Protection pursuant to paragraph (1) shall ensure that the documentation or information is true and correct to the best of the person\u2019s knowledge and belief, subject to any penalties authorized by law. (6) Use of information U.S. Customs and Border Protection may use documentation or information provided pursuant to paragraph (1) for any lawful purpose necessary to fulfill the mission of U.S. Customs and Border Protection. (7) Penalties (A) Violation of regulations (i) Civil penalty Any person that violates the regulations prescribed under this subsection is liable for a civil penalty in an amount not to exceed\u2014 (I) $1,000 for the first violation; and (II) $5,000 for each subsequent violation. (ii) Additional penalties A penalty imposed under this subparagraph shall be in addition to any other penalty provided by law. (iii) Remission; mitigation (I) In general Except as provided by subclause (II), a penalty imposed under this subparagraph may be remitted or mitigated on a per package or shipment basis, as appropriate, under section 618. (II) Exception If a penalty is being considered with respect to a fourth or subsequent violation described in clause (i) by the same person, the maximum penalty under clause (i)(II) shall be imposed with respect to the violation. (B) Additional violations (i) In general A person commits fraud if the person provides a false statement to U.S. Customs and Border Protection with respect to an article and U.S. Customs and Border Protection\u2014 (I) permits the entry of that article at less than the proper rate of duty; or (II) improperly treats that article as qualifying for an administrative exemption under subsection (a)(2)(C). (ii) Civil penalty A person that engages in conduct described in clause (i) is liable for a civil penalty in an amount not to exceed\u2014 (I) $5,000 for the first instance of such conduct; and (II) $10,000 for each subsequent instance of such conduct. (iii) Additional penalties A penalty imposed under this subparagraph shall be in addition to any other penalty provided by section 592 or any other provision of law. (iv) Remission; mitigation (I) In general Except as provided by subclause (II), a penalty imposed under this subparagraph may be remitted or mitigated on a per package or shipment basis, as appropriate, under section 618. (II) Exception If a penalty is being considered with respect to a fourth or subsequent violation described in clause (i) by the same person, the maximum penalty under clause (ii)(II) shall be imposed with respect to the violation. (8) Definition In this subsection, the terms provide , providing , and provision , with respect to documentation or information provided to U.S. Customs and Border Protection, include the submission, transmission, or otherwise making available of the documentation or information to U.S. Customs and Border Protection. .\n#### 5. Limitations on exemption from duties\nSection 321 of the Tariff Act of 1930 ( 19 U.S.C. 1321 ) is amended by striking (b) The Secretary of the Treasury and inserting the following:\n(b) Exceptions (1) In general The Secretary of the Treasury may not exempt from duties and taxes under subsection (a)(2)(C)\u2014 (A) any article that is\u2014 (i) subject to an antidumping or countervailing duty determination, instruction, or order under title VII of this Act; (ii) subject to a tariff-rate quota or other quota; (iii) subject to a tax imposed under the Internal Revenue Code of 1986 that is collected by U.S. Customs and Border Protection; (iv) subject to an action taken under\u2014 (I) section 201(a) or 301(c) of the Trade Act of 1974 ( 19 U.S.C. 2251(a) and 2411(c)); or (II) section 232(c) of the Trade Expansion Act of 1962 ( 19 U.S.C. 1862(c) ); or (v) as of January 1, 2025, not designated by the President under section 503 of the Trade Act of 1974 ( 19 U.S.C. 2463 ) as an eligible article for purposes of the Generalized System of Preferences under title V of that Act ( 19 U.S.C. 2461 et seq. ), as reflected in the Harmonized Tariff Schedule of the United States, without regard to whether the Generalized System of Preferences otherwise applies to the article, including for reasons of country of origin of the article or expiration of the Generalized System of Preferences; or (B) any article of a type or class that the Secretary determines is not able to be exempted from duties and taxes under subsection (a) in a manner that will protect the revenue and prevent unlawful importations because the type or class is subject to\u2014 (i) a significant increase in imports over the trend for a recent representative base period; or (ii) persistent and significant evidence of hiding the shipment of illicit goods, fraud, counterfeiting, or other malfeasance. (2) List of articles determined unable to be exempted The Secretary shall identify any article of a type or class that the Secretary determines under paragraph (1)(B) is not able to be exempted from duties and taxes under subsection (a) on a list maintained on a publicly accessible website and reviewed not less frequently than annually by the Secretary. (3) Other exceptions The Secretary .\n#### 6. Disposition of detained merchandise\nSection 499 of the Tariff Act of 1930 ( 19 U.S.C. 1499 ) is amended\u2014\n**(1)**\nin subsection (c)\u2014\n**(A)**\nin paragraph (2)\u2014\n**(i)**\nby redesignating subparagraphs (A) through (E) as clauses (i) through (v), respectively, and by moving such clauses, as so redesignated, 2 ems to the right;\n**(ii)**\nby striking The Customs Service shall and inserting the following:\n(A) In general U.S. Customs and Border Protection shall ; and\n**(iii)**\nby adding at the end the following:\n(B) Merchandise for which entry sought under administrative exemption from duties In the case of detained merchandise for which entry under an administrative exemption under section 321(a)(2)(C) is claimed\u2014 (i) U.S. Customs and Border Protection shall provide the notice required by subparagraph (A) to each party that appears to have an interest in the merchandise, based on information reasonably available to U.S. Customs and Border Protection, in such form and manner as the Secretary shall by regulation prescribe; (ii) in addition to the matter required by clauses (i) through (v) of subparagraph (A), the notice shall advise the interested party that, instead of providing information in response to subparagraph (A)(v), the interested party may voluntarily abandon the merchandise; and (iii) if U.S. Customs and Border Protection does not receive a response from an interested party by the date that is 15 days after the date of the notice\u2014 (I) the merchandise shall be deemed abandoned; and (II) title to the merchandise shall be vested in the United States and disposed of in accordance with law. ; and\n**(B)**\nin paragraph (5), by adding at the end the following:\n(D) Subparagraphs (A), (B), and (C) do not apply with respect to merchandise for which entry under an administrative exemption under section 321(a)(2)(C) is claimed. ;\n**(2)**\nby striking The Customs Service each place it appears and inserting U.S. Customs and Border Protection ; and\n**(3)**\nby striking the Customs Service each place it appears and inserting U.S. Customs and Border Protection .\n#### 7. Report on review of merchandise by partner government agencies\nNot later than 270 days after the date of the enactment of this Act, the Secretary of the Treasury shall submit to Congress a report on the engagement of partner government agencies of U.S. Customs and Border Protection in the review and detention of merchandise for which an administrative exemption under section 321 of the Tariff Act of 1930 ( 19 U.S.C. 1321 ) is claimed that includes recommendations for improving such engagement and the interdiction of merchandise inconsistent with the requirements of such agencies.\n#### 8. Summary forfeiture of certain merchandise imported contrary to law\nSection 596 of the Tariff Act of 1930 ( 19 U.S.C. 1595a ) is amended by adding at the end the following:\n(e) Summary forfeiture (1) In general Merchandise described in paragraph (2) may be summarily forfeited to the United States and title shall vest immediately in the United States. (2) Merchandise described Merchandise described in this paragraph is merchandise being imported or attempted to be imported\u2014 (A) for which an administrative exemption under section 321(a)(2)(C) is claimed; and (B) that is described in paragraph (1), (2), or (3) of section 596(c). (3) Notice In any case in which merchandise is summarily forfeited pursuant to this subsection, U.S. Customs and Border Protection shall notify the carrier of the merchandise, and may notify a customs broker involved in the importation or attempted importation of the merchandise, in such form and manner as the Secretary shall prescribe by regulation, which may include communication through an authorized electronic data interchange system. .\n#### 9. Modification of penalty for aiding unlawful importation\nSection 596(b) of the Tariff Act of 1930 ( 19 U.S.C. 1595a(b) ) is amended by striking the preceding subsection and all that follows and inserting the following: \u201csubsection (a) shall be liable, without regard to whether the article or articles introduced or attempted to be introduced were seized, for a penalty equal to the greater of\u2014\n(1) the domestic value of the article or articles; or (2) $5,000. .\n#### 10. Sharing of information with respect to suspected violations of intellectual property rights\nSection 628A(a) of the Tariff Act of 1930 ( 19 U.S.C. 1628a(a) ) is amended\u2014\n**(1)**\nin the matter preceding paragraph (1)\u2014\n**(A)**\nby striking suspects and inserting has a reasonable suspicion ; and\n**(B)**\nby striking testing\u2014 and inserting testing, may\u2014 ;\n**(2)**\nin paragraph (1)\u2014\n**(A)**\nby striking shall ; and\n**(B)**\nby striking ; and and inserting a semicolon;\n**(3)**\nin paragraph (2)\u2014\n**(A)**\nby striking may, ; and\n**(B)**\nby striking the period at the end and inserting ; and ; and\n**(4)**\nby adding at the end the following:\n(3) provide to the person nonpublic information about the merchandise that was\u2014 (A) generated by an online marketplace or other similar market platform, an express consignment operator, a freight forwarder, or any other entity that plays a role in the sale or importation of merchandise into the United States or the facilitation of such sale or importation, including copies or images of packaging, materials, labeling, or containers; and (B) provided to, shared with, or obtained by, U.S. Customs and Border Protection. .\n#### 11. Customs user fee for processing shipments\n##### (a) In general\nSection 13031(a)(10) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ( 19 U.S.C. 58c(a)(10) ) is amended\u2014\n**(1)**\nin subparagraph (C)\u2014\n**(A)**\nin clause (ii), by striking ; or and inserting a semicolon;\n**(B)**\nin clause (iii), by striking the period at the end and inserting ; or ; and\n**(C)**\nby inserting after clause (iii) the following:\n(iv) $2 for each shipment, to be paid by the party making entry, if the entry or release of that shipment, whether automated or manual, is made under section 321(a)(2)(C) of the Tariff Act of 1930 ( 19 U.S.C. 1321(a)(2)(C) ). ; and\n**(2)**\nin the flush text at the end, by adding at the end the following: In the case of shipments the entry or release of which is made under section 321(a)(2)(C) of the Tariff Act of 1930 ( 19 U.S.C. 1321(a)(2)(C) ) that are sent to the United States through the international postal network, the Secretary, in consultation with the Postmaster General, shall determine whether it is appropriate to impose fees that are the same or similar as the fees applicable to shipments under subparagraph (C)(iv) on shipments by the United States Postal Service. If the Secretary determines that such requirements are appropriate, such requirements shall be prescribed by regulation. .\n##### (b) Payment\nSection 13031(b)(8)(D)(i) of the Consolidated Omnibus Budget Reconciliation Act of 1985 ( 19 U.S.C. 58c(b)(8)(D)(i) ) is amended by inserting after merchandise the following: , except in the case of fees charged under subsection (a)(10)(C)(iv), in which case such fees shall be paid by the party making entry .\n#### 12. Report on use of administrative exemptions and enforcement actions\n##### (a) In general\nNot later than one year after the date of the enactment of this Act, and annually thereafter, the Secretary of the Treasury, in consultation with the Commissioner of U.S. Customs and Border Protection, shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report, followed by a briefing, on the use of administrative exemptions under section 321 of the Tariff Act of 1930 ( 19 U.S.C. 1321 ).\n##### (b) Elements\nEach report required by subsection (a) shall include, for the year preceding submission of the report, the following:\n**(1)**\nAn assessment of the volume of imports claiming an administrative exemption under section 321(a)(2)(C) of the Tariff Act of 1930 ( 19 U.S.C. 1321(a)(2)(C) ), including\u2014\n**(A)**\nthe total number of shipments of imports claiming such an exemption; and\n**(B)**\nthe volume of merchandise claiming such an exemption, identified by\u2014\n**(i)**\nthe 4-digit heading of the Harmonized Tariff Schedule of the United States under which the merchandise was classified; and\n**(ii)**\nthe country of origin of the merchandise.\n**(2)**\nAn assessment of the total revenue forgone by the United States Government as a result of permitting the entry of merchandise free of duty pursuant to that section.\n**(3)**\nThe number and a description of the type of violations of the regulations prescribed under subsection (c) of section 321 of the Tariff Act of 1930, as added by section 4, identified in shipments claiming an administrative exemption under that section, and penalties applied to such shipments, including a description of the type and frequency of mitigation actions applicable to such shipments.\n**(4)**\nA detailed description of shipments, disaggregated by port of entry, for which an administrative exemption under section 321(a)(2)(C) of the Tariff Act of 1930 ( 19 U.S.C. 1321(a)(2)(C) ) was claimed that were subject to detention or forfeiture and the reasons for the detention or forfeiture.\n**(5)**\nA description of any merchandise or shipments under evaluation as ineligible, under subsection (b)(1)(B) of section 321 of the Tariff Act of 1930, as amended by section 5, for such an administrative exemption.\n**(6)**\nThe average number of referrals of criminal matters to the Department of Justice or Homeland Security Investigations made on a monthly basis for merchandise for which such an administrative exemption was claimed.\n**(7)**\nA description of the use of administrative exemptions under section 321 of the Tariff Act of 1930 ( 19 U.S.C. 1321 ) for merchandise shipped from Mexico or Canada to the United States, including the volume and type of such merchandise for which such an exemption was claimed, and any trends in the use of such exemptions.\n**(8)**\nA description of current staffing, risk mitigation, and other actions to ensure that administrative exemptions under section 321 of the Tariff Act of 1930 ( 19 U.S.C. 1321 ) are used in compliance with United States law.\n#### 13. Effective date; applicability\nThe amendments made by this Act shall\u2014\n**(1)**\ntake effect on the date that is 60 days after the date of the enactment of this Act; and\n**(2)**\napply with respect to articles entered on or after the date that is 30 days after the effective date of the regulations prescribed under subsection (c) of section 321 of the Tariff Act of 1930, as added by section 4.",
+      "versionDate": "2025-03-27",
+      "versionType": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Foreign Trade and International Finance",
+        "updateDate": "2025-05-12T18:16:18Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: summaries
+
+```json
+{
+  "govinfoBulk": {
+    "introducedDate": "2025-03-27",
+    "originChamber": "Senate",
+    "payload": {
+      "dublinCore": {
+        "contributor": "Congressional Research Service, Library of Congress",
+        "description": "This file contains bill summaries for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is \"to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives\". For more information, refer to the User Guide that accompanies this file.",
+        "format": "text/xml",
+        "language": "EN",
+        "rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      },
+      "item": {
+        "@attributes": {
+          "congress": "119",
+          "measure-id": "id119s1185",
+          "measure-number": "1185",
+          "measure-type": "s",
+          "orig-publish-date": "2025-03-27",
+          "originChamber": "SENATE",
+          "update-date": "2026-03-05"
+        },
+        "summary": {
+          "@attributes": {
+            "currentChamber": "SENATE",
+            "summary-id": "id119s1185v00",
+            "update-date": "2026-03-05"
+          },
+          "action-date": "2025-03-27",
+          "action-desc": "Introduced in Senate",
+          "summary-text": "<p><strong>Fighting Illicit Goods, Helping Trustworthy Importers, and Netting Gains for America Act of 2025 or the FIGHTING for America Act of 2025</strong></p><p>This bill makes changes to the de minimis exemption, including by eliminating the exemption for certain U.S. imports. (Section 321 of the Tariff Act of 1930 allows for U.S. imports under a de minimis threshold of $800 per shipment to enter free of tariffs, fees, and taxes.)</p><p>The bill prohibits U.S. Customs and Border Protection (CBP) from applying the de minimis exemption to certain goods, such as goods that are\u00a0</p><ul><li>subject to specified trade remedies, such as\u00a0safeguard measures (Section 201 of the Trade Act of 1974), actions in response to unfair trade practices (Section 301 of the Trade Act of 1974), or actions for national security purposes (Section 232 of the Trade Expansion Act of 1962);</li><li>designated as import sensitive under the Generalized System of Preferences (e.g., textiles and apparel); or</li><li>identified as presenting persistent and significant evidence of illegal importation.</li></ul><p>The bill directs CBP to collect additional information\u00a0on goods\u00a0that may qualify for the de minimis exemption. The bill establishes penalties for related violations, including a civil penalty for providing a false statement to CBP and a minimum penalty for aiding unlawful importation.</p><p>The bill establishes a specific fee for each shipment entering under the de minimis exemption.\u00a0</p><p>CBP must designate as a priority trade issue the smuggling of\u00a0fentanyl and other drugs by abusing entry procedures for goods qualifying for the de minimis exemption.</p>"
+        },
+        "title": "FIGHTING for America Act of 2025"
+      }
+    },
+    "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSUM/119/s/BILLSUM-119s1185.xml",
+    "summary": {
+      "actionDate": "2025-03-27",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Fighting Illicit Goods, Helping Trustworthy Importers, and Netting Gains for America Act of 2025 or the FIGHTING for America Act of 2025</strong></p><p>This bill makes changes to the de minimis exemption, including by eliminating the exemption for certain U.S. imports. (Section 321 of the Tariff Act of 1930 allows for U.S. imports under a de minimis threshold of $800 per shipment to enter free of tariffs, fees, and taxes.)</p><p>The bill prohibits U.S. Customs and Border Protection (CBP) from applying the de minimis exemption to certain goods, such as goods that are\u00a0</p><ul><li>subject to specified trade remedies, such as\u00a0safeguard measures (Section 201 of the Trade Act of 1974), actions in response to unfair trade practices (Section 301 of the Trade Act of 1974), or actions for national security purposes (Section 232 of the Trade Expansion Act of 1962);</li><li>designated as import sensitive under the Generalized System of Preferences (e.g., textiles and apparel); or</li><li>identified as presenting persistent and significant evidence of illegal importation.</li></ul><p>The bill directs CBP to collect additional information\u00a0on goods\u00a0that may qualify for the de minimis exemption. The bill establishes penalties for related violations, including a civil penalty for providing a false statement to CBP and a minimum penalty for aiding unlawful importation.</p><p>The bill establishes a specific fee for each shipment entering under the de minimis exemption.\u00a0</p><p>CBP must designate as a priority trade issue the smuggling of\u00a0fentanyl and other drugs by abusing entry procedures for goods qualifying for the de minimis exemption.</p>",
+      "updateDate": "2026-03-05",
+      "versionCode": "id119s1185"
+    },
+    "title": "FIGHTING for America Act of 2025"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-03-27",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Fighting Illicit Goods, Helping Trustworthy Importers, and Netting Gains for America Act of 2025 or the FIGHTING for America Act of 2025</strong></p><p>This bill makes changes to the de minimis exemption, including by eliminating the exemption for certain U.S. imports. (Section 321 of the Tariff Act of 1930 allows for U.S. imports under a de minimis threshold of $800 per shipment to enter free of tariffs, fees, and taxes.)</p><p>The bill prohibits U.S. Customs and Border Protection (CBP) from applying the de minimis exemption to certain goods, such as goods that are\u00a0</p><ul><li>subject to specified trade remedies, such as\u00a0safeguard measures (Section 201 of the Trade Act of 1974), actions in response to unfair trade practices (Section 301 of the Trade Act of 1974), or actions for national security purposes (Section 232 of the Trade Expansion Act of 1962);</li><li>designated as import sensitive under the Generalized System of Preferences (e.g., textiles and apparel); or</li><li>identified as presenting persistent and significant evidence of illegal importation.</li></ul><p>The bill directs CBP to collect additional information\u00a0on goods\u00a0that may qualify for the de minimis exemption. The bill establishes penalties for related violations, including a civil penalty for providing a false statement to CBP and a minimum penalty for aiding unlawful importation.</p><p>The bill establishes a specific fee for each shipment entering under the de minimis exemption.\u00a0</p><p>CBP must designate as a priority trade issue the smuggling of\u00a0fentanyl and other drugs by abusing entry procedures for goods qualifying for the de minimis exemption.</p>",
+      "updateDate": "2026-03-05",
+      "versionCode": "id119s1185"
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-03-27",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1185is.xml"
+        }
+      ],
+      "type": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "FIGHTING for America Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-04-10T01:53:18Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "FIGHTING for America Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-04-10T01:53:17Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "Fighting Illicit Goods, Helping Trustworthy Importers, and Netting Gains for America Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-04-10T01:53:17Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A bill to amend section 321 of the Tariff Act of 1930 to enhance transparency with respect to shipments seeking an administrative exemption from duties for low-value entries, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-04-10T01:48:26Z"
+    }
+  ]
+}
+```

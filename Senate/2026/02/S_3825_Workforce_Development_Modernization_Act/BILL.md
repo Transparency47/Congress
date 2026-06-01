@@ -1,0 +1,64 @@
+# S 3825: Workforce Development Modernization Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2026-02-10
+- Latest action: 2026-02-10 - Introduced in Senate
+- Policy area: Labor and Employment
+- Sponsor: Sen. Budd, Ted [R-NC]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/3825
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2026-02-10
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s3825is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2026-02-10
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s3825is.xml
+
+II
+119th CONGRESS
+2d Session
+S. 3825
+IN THE SENATE OF THE UNITED STATES
+February 10, 2026 Mr. Budd (for himself, Mr. Cassidy , Mr. Ricketts , and Mr. Tillis ) introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions
+A BILL
+To amend the Workforce Innovation and Opportunity Act to expand the types of one-stop centers used to provide services.
+#### 1. Short title
+This Act may be cited as the Workforce Development Modernization Act .
+#### 2. One-stop centers
+Section 121(e) of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3151(e) ) is amended—
+**(1)**
+in paragraph (2)—
+**(A)**
+in subparagraph (A), by striking 1 physical center in each local area of the State; and and inserting 1 physical or virtual center in each local area of the State, or at 1 or more physical or virtual centers shared by adjacent local areas and not less than 1 such center in each other local area of the State; ;
+**(B)**
+in subparagraph (C), by striking and at the end;
+**(C)**
+in subparagraph (D), by striking the period at the end and inserting ; and ; and
+**(D)**
+by adding at the end the following:
+(E) may locate a physical or virtual center described in subparagraph (A) at a public institution of higher education. ;
+**(2)**
+in paragraph (3), by striking , the employment service and all that follows and inserting , in each State that has a physical one-stop center, the employment service offices in that State shall be colocated with the physical one-stop centers in that State. ;
+**(3)**
+by redesignating paragraph (4) as paragraph (3); and
+**(4)**
+by adding at the end the following:
+(5) Relationships with local areas and States For purposes of applying this Act in a situation in which 2 adjacent local areas share a physical or virtual one-stop center, a reference in this Act to a one-stop center that is in a local area or State shall be considered to be a reference to a one-stop center for that local area or State, respectively. (6) Virtual center In this subsection, the term virtual , used with respect to a one-stop center, means a terminal or other equipment that provides access to each of the programs, services, and activities described in paragraph (1). .
+#### 3. Conforming amendment
+Section 3(d) of the Wagner-Peyser Act ( 29 U.S.C. 49b(d) ) is amended by striking , employment service and all that follows and inserting , in each State that has a physical one-stop center, the employment service offices in that State shall be colocated with the physical one-stop centers in that State. .
+
+
+## Timeline
+
+- 2026-02-10: Introduced in Senate
+- 2026-02-10 - IntroReferral: Introduced in Senate
+- 2026-02-10 - IntroReferral: Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- Latest action: 2026-02-10: Introduced in Senate

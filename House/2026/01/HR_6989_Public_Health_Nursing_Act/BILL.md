@@ -1,0 +1,46 @@
+# HR 6989: Public Health Nursing Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-01-08
+- Latest action: 2026-01-08 - Introduced in House
+- Policy area: Health
+- Sponsor: Rep. Stansbury, Melanie A. [D-NM-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6989
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-01-08
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr6989ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-01-08
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr6989ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 6989
+IN THE HOUSE OF REPRESENTATIVES
+January 8, 2026 Ms. Stansbury (for herself and Ms. Moore of Wisconsin ) introduced the following bill; which was referred to the Committee on Energy and Commerce
+A BILL
+To amend the Public Health Service Act to require the Secretary of Health and Human Services to carry out activities to establish, expand, and sustain a public health nursing workforce, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Public Health Nursing Act .
+#### 2. Public health nursing workforce
+Part E of title VII of the Public Health Service Act ( 42 U.S.C. 294n et seq. ) is amended by adding at the end the following:
+4 Public health nursing workforce 780. Public health nursing workforce (a) In general The Secretary shall carry out activities relating to establishing, expanding, and sustaining a public health nursing workforce, including by making grants to State, local, and territorial public health departments. (b) Use of funds for public health departments (1) In general The recipient of a grant under subsection (a) shall use the grant funds for the following: (A) Costs (including wages and benefits) relating to the recruiting, hiring, and training of licensed registered nurses to serve as public health nurses— (i) who are employed by the State, territorial, or local public health department involved, particularly in medically underserved areas; and (ii) who work in public health facilities, including mobile health clinics and acute care hospitals, or who provide home visitation. (B) Costs of medical supplies, including personal protective equipment, necessary to carry out the activities described in subparagraph (A). (C) Administrative costs and activities relating to grant activities. (2) Subgrants The recipient of a grant under subsection (a) may make subgrants to local health departments to be used for the activities described in paragraph (1). (c) Priority In selecting recipients of grants under subsection (a), the Secretary shall give priority to applicants that— (1) propose to serve— (A) areas with populations that have a high rate of chronic disease, infant mortality, or maternal morbidity and mortality; (B) low-income populations, including medically underserved populations (as defined in section 330(b)); (C) populations residing in health professional shortage areas (as defined in section 332(a)); (D) populations residing in maternity care health professional target areas identified under section 332(k); or (E) rural or traditionally underserved populations; (2) demonstrate a plan for providing services, to the maximum extent practicable, in the language and cultural context more appropriate to individuals expected to be served by the program; and (3) have a documented collective bargaining agreement with 1 or more labor organizations representing employees of the applicant or have an explicit policy not to interfere with the rights of employees of the applicant under section 7 of the National Labor Relations Act. (d) Maintenance of effort The recipient of a grant under subsection (a) shall agree to maintain expenditures of non-Federal amounts for activities described in subsection (b) at a level that is not less than the level of such expenditures maintained by the recipient for the fiscal year preceding the fiscal year for which the recipient receives such a grant. (e) Public health nurse defined In this section, the term public health nurse means a nurse providing health care services and education regarding preventive health, nutrition, infectious diseases, chronic disease management, and maternal health, prenatal, and postpartum care in order to improve maternal and infant health outcomes. (f) Authorization of appropriations There is authorized to be appropriated to the Secretary to carry out this section $5,000,000,000 for each of fiscal years 2026 through 2035. .
+
+
+## Timeline
+
+- 2026-01-08: Introduced in House
+- 2026-01-08 - IntroReferral: Introduced in House
+- 2026-01-08 - IntroReferral: Introduced in House
+- 2026-01-08 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2026-01-08: Introduced in House

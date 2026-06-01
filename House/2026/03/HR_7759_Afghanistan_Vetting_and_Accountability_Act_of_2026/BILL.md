@@ -1,0 +1,105 @@
+# HR 7759: Afghanistan Vetting and Accountability Act of 2026
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-03-03
+- Latest action: 2026-03-03 - Introduced in House
+- Policy area: Immigration
+- Sponsor: Rep. Barr, Andy [R-KY-6]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7759
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-03-03
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7759ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-03-03
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7759ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7759
+IN THE HOUSE OF REPRESENTATIVES
+March 3, 2026 Mr. Barr (for himself, Mr. Biggs of Arizona , and Mr. Pfluger ) introduced the following bill; which was referred to the Committee on the Judiciary
+A BILL
+To require verification of the personal and biometric information of all individuals evacuated from Afghanistan, to require in-person interviews of such individuals, and to prohibit Afghan evacuees who do not provide such information or submit to such interviews from receiving Federal assistance, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Afghanistan Vetting and Accountability Act of 2026 .
+#### 2. Verification and vetting requirements with respect to individuals evacuated from Afghanistan
+##### (a) Definitions
+In this section:
+**(1) Federal means-tested public benefit**
+The term Federal means-tested public benefit means a Federal means-tested public benefit within the meaning of section 403 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ( 8 U.S.C. 1613 ).
+**(2) Individual evacuated from Afghanistan**
+The term individual evacuated from Afghanistan —
+**(A)**
+means any individual, other than a United States citizen or a member of the United States Armed Forces, conveyed out of Afghanistan into the United States in coordination with the Government of the United States during the period beginning on January 20, 2021, and ending on January 20, 2022; and
+**(B)**
+includes each individual, other than a United States citizen or a member of the United States Armed Forces, evacuated from Afghanistan as part of Operation Allies Welcome.
+**(3) Secretary**
+The term Secretary means the Secretary of Homeland Security.
+**(4) Unemployment compensation**
+The term unemployment compensation has the meaning given the term in section 85(b) of the Internal Revenue Code of 1986.
+##### (b) Verification and vetting requirements
+**(1) In general**
+The Secretary shall verify the personal and biometric information and conduct in-person vetting of each individual evacuated from Afghanistan.
+**(2) Vetting database**
+The Secretary shall develop and maintain a database that contains, for each individual evacuated from Afghanistan, the following:
+**(A)**
+Personal information, including name and date of birth.
+**(B)**
+Biometric information.
+**(C)**
+Any criminal record since the date on which the individual entered the United States.
+**(D)**
+Any application for, or receipt of, unemployment compensation or a Federal means-tested public benefit.
+**(E)**
+The vetting status of the individual, including whether the individual has undergone in-person vetting.
+##### (c) Quarterly report
+**(1) In general**
+Not less frequently than quarterly until the date on which the Secretary submits the certification under subsection (d), the Secretary shall submit to Congress a report detailing the compliance of the Secretary with subsection (b).
+**(2) Elements**
+Each report required by paragraph (1) shall include the following:
+**(A)**
+A list of all individuals evacuated from Afghanistan.
+**(B)**
+With respect to each such individual—
+**(i)**
+vetting status, including whether the individual has undergone in-person vetting;
+**(ii)**
+an assessment as to whether the individual has received unemployment compensation or a Federal means-tested benefit;
+**(iii)**
+a description of any arrest or criminal record for conduct that occurred in Afghanistan, if available; and
+**(iv)**
+a description of any arrest or criminal record for conduct that occurred in the United States.
+**(C)**
+The estimated number of days remaining until the Secretary completes the verification and vetting of each individual evacuated from Afghanistan as required by subsection (b)(1).
+##### (d) Certification
+Not later than 30 days after the date on which the Secretary completes the verification and vetting required by subsection (b)(1), the Secretary shall submit to Congress a certification that such verification and vetting has been completed.
+##### (e) GAO Audits and Reports
+**(1) Audits**
+The Comptroller General of the United States shall conduct an audit and investigation with respect to the compliance of the Secretary with this Act—
+**(A)**
+not later than 2 years after the date of the enactment of this Act; and
+**(B)**
+not later than 1 year after the date on which the Secretary makes the certification under subsection (d).
+**(2) Reports**
+Not later than 30 days after the completion of each audit and investigation required by paragraph (1), the Comptroller General shall submit to Congress a report on the results of the audit and investigation.
+##### (f) Restriction on Federal assistance
+An individual evacuated from Afghanistan who has not provided personal information and biometric information to the Secretary, and undergone in-person vetting, shall not be eligible to receive unemployment compensation or any Federal means-tested public benefit.
+
+
+## Timeline
+
+- 2026-03-03: Introduced in House
+- 2026-03-03 - IntroReferral: Introduced in House
+- 2026-03-03 - IntroReferral: Introduced in House
+- 2026-03-03 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2026-03-03: Introduced in House

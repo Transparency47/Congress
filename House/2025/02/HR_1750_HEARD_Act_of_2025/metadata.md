@@ -1,0 +1,413 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/1750?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/1750
+- Title: HEARD Act of 2025
+- Congress: 119
+- Bill type: HR
+- Bill number: 1750
+- Origin chamber: House
+- Introduced date: 2025-02-27
+- Update date: 2025-09-03T08:05:23Z
+- Update date including text: 2025-09-03T08:05:23Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, subjects, summaries, text, titles
+
+## Timeline
+
+- 2025-02-27: Introduced in House
+- 2025-02-27 - IntroReferral: Introduced in House
+- 2025-02-27 - IntroReferral: Introduced in House
+- 2025-02-27 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-02-27 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-02-27 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-02-27: Introduced in House
+
+## Actions
+
+- 2025-02-27 - IntroReferral: Introduced in House
+- 2025-02-27 - IntroReferral: Introduced in House
+- 2025-02-27 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-02-27 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-02-27 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-02-27",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/1750",
+    "number": "1750",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "S001159",
+        "district": "10",
+        "firstName": "Marilyn",
+        "fullName": "Rep. Strickland, Marilyn [D-WA-10]",
+        "lastName": "Strickland",
+        "party": "D",
+        "state": "WA"
+      }
+    ],
+    "title": "HEARD Act of 2025",
+    "type": "HR",
+    "updateDate": "2025-09-03T08:05:23Z",
+    "updateDateIncludingText": "2025-09-03T08:05:23Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-02-27",
+      "committees": {
+        "item": {
+          "name": "Natural Resources Committee",
+          "systemCode": "hsii00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-02-27",
+      "committees": {
+        "item": {
+          "name": "Ways and Means Committee",
+          "systemCode": "hswm00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-02-27",
+      "committees": {
+        "item": {
+          "name": "Energy and Commerce Committee",
+          "systemCode": "hsif00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-02-27",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-02-27",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-02-27T14:08:05Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-02-27T14:08:00Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-02-27T14:07:50Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "J000288",
+      "district": "4",
+      "firstName": "Henry",
+      "fullName": "Rep. Johnson, Henry C. \"Hank\" [D-GA-4]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Johnson",
+      "middleName": "C. \"Hank\"",
+      "party": "D",
+      "sponsorshipDate": "2025-03-26",
+      "state": "GA"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": "0",
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-03-26",
+      "state": "DC"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": "13",
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2025-03-26",
+      "state": "MI"
+    },
+    {
+      "bioguideId": "C001067",
+      "district": "9",
+      "firstName": "Yvette",
+      "fullName": "Rep. Clarke, Yvette D. [D-NY-9]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Clarke",
+      "middleName": "D.",
+      "party": "D",
+      "sponsorshipDate": "2025-08-29",
+      "state": "NY"
+    },
+    {
+      "bioguideId": "S001185",
+      "district": "7",
+      "firstName": "Terri",
+      "fullName": "Rep. Sewell, Terri A. [D-AL-7]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Sewell",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-09-02",
+      "state": "AL"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1750ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 1750\nIN THE HOUSE OF REPRESENTATIVES\nFebruary 27, 2025 Ms. Strickland introduced the following bill; which was referred to the Committee on Energy and Commerce , and in addition to the Committees on Ways and Means , and Natural Resources , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned\nA BILL\nTo amend the Public Health Service Act to provide for greater investments in research on rare diseases and conditions disproportionately affecting minority populations, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Health Equity and Rare Disease Act of 2025 or the HEARD Act of 2025 .\n#### 2. NIH expansion, intensification, and coordination of research on rare diseases health equity\nPart B of title IV of the Public Health Service Act ( 42 U.S.C. 284 et seq. ) is amended by adding at the end the following:\n409K. Rare diseases health equity (a) Expansion, intensification, and coordination of activities (1) In general The Director of NIH shall expand, intensify, and coordinate research and other activities of the National Institutes of Health with respect to rare diseases health equity. (2) Allocations by Director of NIH With respect to amounts appropriated to carry out this section for a fiscal year, the Director of NIH shall allocate the amounts among the national research institutes that are carrying out paragraph (1). (b) Coordinating Committee (1) In general The Secretary shall maintain a coordinating committee with respect to rare diseases health equity (referred to in this section as the Coordinating Committee ) to coordinate activities across the National Institutes and with other Federal health programs and activities relating to rare diseases health equity. (2) Composition The Coordinating Committee shall be composed of\u2014 (A) the directors (or their designees) of each of the national research institutes involved in research with respect to rare diseases and minority health or health equity; and (B) representatives of all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such rare diseases, including the Centers for Disease Control and Prevention and the Food and Drug Administration. (3) Chair (A) In general With respect to rare diseases health equity, the Chair of the Coordinating Committee shall serve as the principal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and other relevant agencies. (B) Director of NIH The Chair of the Coordinating Committee shall be directly responsible to the Director of NIH. (c) Plan for NIH Activities (1) In general Not later than 1 year after the date of the enactment of this section, the Coordinating Committee shall develop a plan for conducting and supporting research and education on rare diseases health equity, and rare diseases or conditions in minority populations, through the national research institutes. The Coordinating Committee shall periodically review and revise the plan. The plan shall\u2014 (A) provide for a broad range of research and education activities relating to biomedical, psychosocial, and rehabilitative issues, including studies of the disproportionate impact of such diseases or conditions on minority populations; (B) identify priorities among the programs and activities of the National Institutes of Health regarding such diseases or conditions; and (C) reflect input from a broad range of scientists, patients, and advocacy groups. (2) Certain elements of plan The plan under paragraph (1) shall, with respect to rare diseases or conditions in minority populations, provide for the following as appropriate: (A) Research to determine the reasons underlying the incidence and prevalence of the diseases or conditions, including among subpopulations. (B) Basic research concerning the etiology and causes of the diseases or conditions. (C) Epidemiological studies to address the frequency and natural history of the diseases or conditions, including any differences among the sexes and among racial and ethnic groups. (D) The development of improved screening techniques. (E) Clinical research for the development and evaluation of new treatments, including new biological agents. (F) Information and education programs for health care professionals and the public. (3) Implementation of plan The Director of NIH shall ensure that programs and activities of the National Institutes of Health regarding rare diseases or conditions in minority populations are implemented in accordance with the plan under paragraph (1). (d) Definitions In this section: (1) The term minority has the meaning given such term in section 464z\u20133. (2) The term rare disease or condition has the meaning given such term in section 526 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 360bb ). .\n#### 3. Collaborative comprehensive plan to address rare diseases and conditions in minority populations\nSubpart 20 of part C of title IV of the Public Health Service Act ( 42 U.S.C. 285t et seq. ) is amended by adding at the end the following:\n464z\u20137. Collaborative comprehensive plan to address rare diseases and conditions in minority populations Not later than 180 days after the date of enactment of this section, the Director of NIH, the Director of the Institute, the Director of the National Center for Advancing Translational Sciences, the Director of the National Heart, Lung, and Blood Institute, and the directors of the other agencies of the National Institutes of Health in collaboration (and in consultation with the advisory council for the Institute) shall\u2014 (1) develop a comprehensive Federal plan to address rare diseases and conditions in minority populations (as those terms are defined in section 409K), including a strategy to increase diversity in genetic programs at the program for Therapeutics for Rare and Neglected Diseases at the National Institutes of Health; (2) conduct or support through grants or cooperative agreements basic, clinical, and translational research on rare diseases and conditions in minority populations, including research on\u2014 (A) early detection, diagnosis, and treatment of such diseases and conditions in such populations; and (B) improving the quality of life for individuals with rare diseases or conditions and their families; (3) conduct or support clinical training programs for physicians and other health care practitioners with respect to detecting, diagnosing, and treating such diseases and conditions in such populations; and (4) develop guidance for increasing participation of health professionals who are members of minority groups (as defined in section 464z\u20133) in research conducted or supported by the National Institutes of Health on such diseases and conditions in such populations. .\n#### 4. Grants to collect and analyze data on rare diseases and conditions in minority populations\nSection 1707(b) of the Public Health Service Act ( 42 U.S.C. 300u\u20136(b) ) is amended by adding at the end the following:\n(11) In coordination with the Director of the Centers for Disease Control and Prevention, award grants to public and private nonprofit entities to\u2014 (A) collect, analyze, and report data on rare diseases and conditions in minority populations, including on epidemiological data with respect to incidence of such diseases and conditions in such populations; (B) conduct outreach and engagement activities with the minority populations impacted by such rare diseases and conditions by\u2014 (i) improving health literacy with respect to rare diseases and conditions; (ii) disseminating information on health and community services related to rare diseases and conditions; and (iii) providing information regarding the maintenance of rare diseases and conditions. (12) Submit to Congress, on a biannual basis (beginning not later than 2 years after the date of the enactment of the HEARD Act of 2025 ), a report describing the activities carried out pursuant to paragraph (11). .\n#### 5. Physician training programs with respect to rare diseases\nSubpart II of part C of title VII of the Public Health Service Act is amended by adding at the end the following:\n749C. Physician training programs with respect to rare diseases (a) In general The Secretary shall establish a program to award grants to accredited schools of allopathic medicine, osteopathic medicine, and nursing, and other health professional training programs for the training of health care professionals\u2014 (1) to improve the provision of care to individuals who have rare diseases or conditions (as defined in section 526 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 360bb )); (2) to improve the provision of care to such individuals via telehealth; and (3) to conduct research relevant to rare diseases and conditions. (b) Eligibility To be eligible for a grant under subsection (a), an entity described in such subsection shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require. (c) Reporting requirements (1) Periodic reports Each entity awarded a grant under this section shall periodically submit to the Secretary a report on the status of activities conducted using the grant, including a description of the impact of such training on patient outcomes, as applicable. (2) Report to Congress Not later than 2 years after the date of enactment of this section, the Secretary shall submit a report to Congress on the activities conducted using grants under subsection (a) and any best practices identified and disseminated under subsection (d). (d) Best practices The Secretary may identify and disseminate best practices for the training described in subsection (a). 749D. Health professionals education on rare diseases and conditions in minority populations (a) In general The Secretary may award grants, cooperative agreements, and contracts to accredited schools of medicine and nursing, and other health professional training programs, for the development and implementation of programs to provide education and training to health care professionals on the causes and effects of rare diseases and conditions in minority populations. (b) Definitions In this section: (1) The term minority has the meaning given such term in section 464z\u20133. (2) The term rare disease or condition has the meaning given such term in section 526 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 360bb ). 749E. Mentoring program for health care professionals seeking to work in rare diseases and conditions The Secretary, acting through the Administrator of the Health Resources and Services Administration, may award grants, contracts, or cooperative agreements to public and nonprofit private entities (including Tribal entities) for the establishment of a mentoring program for health care professionals seeking to treat patients with rare diseases and conditions. 749F. Scholarship and loan repayment program for physicians and genetic counselors serving populations with rare diseases and conditions (a) Loan repayment program (1) In general The Secretary shall establish a program of entering into contracts with eligible individuals under which the individuals agree to serve as health care professionals serving populations with rare diseases or conditions in consideration of the Federal Government agreeing to pay, for each year of such service, up to $50,000 (plus an amount determined by the Secretary on an annual basis to reflect inflation) of the principal and interest of the educational loans of such individuals. (2) Determination of amount In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination\u2014 (A) affects the ability of the Secretary to maximize the number of contracts that can be provided under the program from the amounts appropriated for such contracts; (B) provides an incentive to serve as health care professionals serving populations with rare diseases or conditions; and (C) provides an incentive with respect to the health professional involved to remain serving populations with rare diseases or conditions, including after the completion of the period of obligated service under the program. (3) Eligible individuals In this subsection, the term eligible individual means an individual who is enrolled or accepted for enrollment as a full-time or part-time student in a school of medicine. (4) Applicability of certain provisions With respect to the National Health Service Corps Loan Repayment Program established in subpart III of part D of title III of this Act, the provisions of such subpart shall, except as inconsistent with paragraph (1), apply to the program established in this section in the same manner and to the same extent as such provisions apply to the National Health Service Corps Loan Repayment Program. (b) Scholarship program (1) In general The Secretary shall carry out a program of entering into contracts with eligible individuals under which each such individual agrees to serve, for a period of not less than 5 years, as a health care professional primarily serving populations with rare diseases or conditions, in consideration of the Federal Government agreeing to provide to the individual a scholarship for attendance at a school of medicine. (2) Eligible individuals In this subsection, the term eligible individual means an individual who is enrolled or accepted for enrollment as a full-time or part-time student in a school of medicine. (3) Applicability of certain provisions The provisions of subpart III of part D of title III shall, except as inconsistent with this section, apply to the program established in paragraph (1) in the same manner and to the same extent as such provisions apply to the National Health Service Corps Scholarship Program established in such subpart. .\n#### 6. Increasing minority representation in research on rare diseases and conditions\nPart G of title IV of the Public Health Service Act ( 42 U.S.C. 288 et seq. ) is amended by adding at the end the following:\n487E. Increasing minority representation in research on rare diseases and conditions (a) Grant program In carrying out section 487, the Secretary may award grants to eligible entities involved in research on rare diseases and minority health to establish programs to increase the recruitment and retention of members of minority groups to conduct research in matters relating to the cause, diagnosis, prevention, and treatment of rare diseases or conditions, including by expanding the number of internships and mentoring opportunities. (b) Eligible entities In subsection (a), the term eligible entities means accredited schools of allopathic medicine, osteopathic medicine, and nursing, and other health professional training programs. .\n#### 7. Report to Congress on Federal efforts on rare diseases and conditions in minority populations\nNot later than 2 years after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the Director of the National Institutes of Health and in consultation with the Director of the Centers for Disease Control and Prevention, shall submit to Congress\u2014\n**(1)**\na report on research and public health activities carried out by the Federal Government with respect to rare diseases or conditions in minority populations (as those terms are defined in section 409K of the Public Health Service Act, as added by section 2 of this Act);\n**(2)**\na comprehensive list of known rare diseases and conditions that impact minority populations heavily or disproportionately; and\n**(3)**\nan analysis of data gaps with respect to rare diseases and conditions and the effect of such diseases and conditions on minority populations.\n#### 8. Research and awareness campaigns with respect to rare diseases and conditions in minority populations\nPart B of title III of the Public Health Service Act ( 42 U.S.C. 243 et seq. ) is amended by inserting after section 317V ( 42 U.S.C. 247b\u201324 ) the following:\n317W. Research and awareness campaigns with respect to rare diseases and conditions in minority populations (a) Research The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall conduct or support research and carry out public health awareness campaigns with respect to rare diseases and conditions in minority populations (as defined in section 409K). (b) Awareness campaign The Secretary shall, directly or through grants or contracts, establish a public education program in cooperation with existing national public awareness campaigns to increase awareness about rare diseases and conditions in minority populations through culturally and linguistically appropriate information campaigns about prevention and management of rare diseases and conditions. .\n#### 9. FDA survey and report on clinical trial diversity\nNot later than 2 years after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall\u2014\n**(1)**\nconduct a survey of policies and programs of the Food and Drug Administration to support an increase the availability of clinical trial data on minority populations, with an emphasis on minority populations with rare diseases and conditions; and\n**(2)**\nsubmit to Congress a report containing\u2014\n**(A)**\nthe findings of such survey;\n**(B)**\nthe Secretary\u2019s recommendations for statutory or regulatory changes to increase the availability of such data;\n**(C)**\nthe Secretary\u2019s recommendations for strategies to encourage drug manufacturers to address racial equity and inclusion in research and development of treatments of rare diseases or conditions that disproportionately impact minority populations; and\n**(D)**\nthe Secretary's recommendations for strategies to address research and development of treatments of rare diseases or conditions that disproportionately impact minority populations.\n#### 10. Tribal epidemiology center grant program\nTitle II of the Indian Health Care Improvement Act ( 25 U.S.C. 1621 et seq. ) is amended by adding at the end the following:\n227. Tribal epidemiology center grant program (a) In general The Secretary, acting through the Service, shall award grants to Tribal Epidemiology Centers and Tribal and Urban Indian Health Centers to support clinically and culturally appropriate research and other activities with respect to rare diseases and conditions in Native American or Tribal communities. (b) Permissible activities The activities funded through a grant under subsection (a) may include coordination of data collection on the prevention, diagnosis, treatment, and care of rare diseases and conditions by health care professionals serving American Indian and Alaska Native populations. .\n#### 11. Medicare review and report\nNot later than 180 days after the date of enactment of this Act, the Secretary of Health and Human Service shall conduct a review of and submit to Congress a report on the following:\n**(1)**\nRegulatory barriers under the Medicare program under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq. ) that inhibit access to the treatment of rare diseases for Medicare beneficiaries of color, including barriers that inhibit health care providers from improving care related to such diseases for such beneficiaries.\n**(2)**\nRequirements relating to the furnishing of telehealth services under such title insofar as such services relate to the treatment of rare diseases.\nSuch report shall include any recommendations determined appropriate by the Secretary based on such review.",
+      "versionDate": "2025-02-27",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Health",
+        "updateDate": "2025-03-19T15:17:02Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: summaries
+
+```json
+{
+  "govinfoBulk": {
+    "introducedDate": "2025-02-27",
+    "originChamber": "House",
+    "payload": {
+      "dublinCore": {
+        "contributor": "Congressional Research Service, Library of Congress",
+        "description": "This file contains bill summaries for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is \"to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives\". For more information, refer to the User Guide that accompanies this file.",
+        "format": "text/xml",
+        "language": "EN",
+        "rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      },
+      "item": {
+        "@attributes": {
+          "congress": "119",
+          "measure-id": "id119hr1750",
+          "measure-number": "1750",
+          "measure-type": "hr",
+          "orig-publish-date": "2025-02-27",
+          "originChamber": "HOUSE",
+          "update-date": "2025-08-26"
+        },
+        "summary": {
+          "@attributes": {
+            "currentChamber": "HOUSE",
+            "summary-id": "id119hr1750v00",
+            "update-date": "2025-08-26"
+          },
+          "action-date": "2025-02-27",
+          "action-desc": "Introduced in House",
+          "summary-text": "<p><strong>Health Equity and Rare Disease Act of 2025 or the HEARD Act of 2025</strong></p><p>This bill establishes Department of Health and Human Services (HHS) grants and other initiatives to address rare diseases or conditions (e.g., those affecting less than 200,000 people in the United States) in racial and ethnic minority populations.\u00a0</p><p>For example, to advance such purposes, the bill establishes within\u00a0HHS</p><ul><li>grants to public and private nonprofit entities for data collection and public outreach,</li><li>grants to health professions schools to improve health care and minority representation in research regarding rare diseases and conditions,</li><li>grants to tribal epidemiology centers and tribal and urban Indian health centers for research regarding rare diseases and conditions in tribal communities,</li><li>scholarships and educational loan repayment for medical school students who agree to work as health care professionals serving populations with rare diseases or conditions,</li><li>initiatives to coordinate research and other activities across the National Institutes of Health, and</li><li>public health awareness and education campaigns.</li></ul><p>Also, the bill requires\u00a0HHS to submit various reports to Congress on topics including (1) the federal government\u2019s research and public health activities regarding rare diseases or conditions in minority populations, (2) regulatory barriers to treating rare diseases in Medicare beneficiaries of color, and (3) strategies for research and development of treatments for rare diseases or conditions that disproportionately impact minority populations.</p>"
+        },
+        "title": "HEARD Act of 2025"
+      }
+    },
+    "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSUM/119/hr/BILLSUM-119hr1750.xml",
+    "summary": {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Health Equity and Rare Disease Act of 2025 or the HEARD Act of 2025</strong></p><p>This bill establishes Department of Health and Human Services (HHS) grants and other initiatives to address rare diseases or conditions (e.g., those affecting less than 200,000 people in the United States) in racial and ethnic minority populations.\u00a0</p><p>For example, to advance such purposes, the bill establishes within\u00a0HHS</p><ul><li>grants to public and private nonprofit entities for data collection and public outreach,</li><li>grants to health professions schools to improve health care and minority representation in research regarding rare diseases and conditions,</li><li>grants to tribal epidemiology centers and tribal and urban Indian health centers for research regarding rare diseases and conditions in tribal communities,</li><li>scholarships and educational loan repayment for medical school students who agree to work as health care professionals serving populations with rare diseases or conditions,</li><li>initiatives to coordinate research and other activities across the National Institutes of Health, and</li><li>public health awareness and education campaigns.</li></ul><p>Also, the bill requires\u00a0HHS to submit various reports to Congress on topics including (1) the federal government\u2019s research and public health activities regarding rare diseases or conditions in minority populations, (2) regulatory barriers to treating rare diseases in Medicare beneficiaries of color, and (3) strategies for research and development of treatments for rare diseases or conditions that disproportionately impact minority populations.</p>",
+      "updateDate": "2025-08-26",
+      "versionCode": "id119hr1750"
+    },
+    "title": "HEARD Act of 2025"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Health Equity and Rare Disease Act of 2025 or the HEARD Act of 2025</strong></p><p>This bill establishes Department of Health and Human Services (HHS) grants and other initiatives to address rare diseases or conditions (e.g., those affecting less than 200,000 people in the United States) in racial and ethnic minority populations.\u00a0</p><p>For example, to advance such purposes, the bill establishes within\u00a0HHS</p><ul><li>grants to public and private nonprofit entities for data collection and public outreach,</li><li>grants to health professions schools to improve health care and minority representation in research regarding rare diseases and conditions,</li><li>grants to tribal epidemiology centers and tribal and urban Indian health centers for research regarding rare diseases and conditions in tribal communities,</li><li>scholarships and educational loan repayment for medical school students who agree to work as health care professionals serving populations with rare diseases or conditions,</li><li>initiatives to coordinate research and other activities across the National Institutes of Health, and</li><li>public health awareness and education campaigns.</li></ul><p>Also, the bill requires\u00a0HHS to submit various reports to Congress on topics including (1) the federal government\u2019s research and public health activities regarding rare diseases or conditions in minority populations, (2) regulatory barriers to treating rare diseases in Medicare beneficiaries of color, and (3) strategies for research and development of treatments for rare diseases or conditions that disproportionately impact minority populations.</p>",
+      "updateDate": "2025-08-26",
+      "versionCode": "id119hr1750"
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-02-27",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1750ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "HEARD Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-03-19T03:08:21Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "HEARD Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-03-19T03:08:19Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Health Equity and Rare Disease Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-03-19T03:08:19Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend the Public Health Service Act to provide for greater investments in research on rare diseases and conditions disproportionately affecting minority populations, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-03-19T03:03:32Z"
+    }
+  ]
+}
+```

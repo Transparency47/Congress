@@ -1,0 +1,53 @@
+# HR 7462: Farmers’ AID Relief Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-02-10
+- Latest action: 2026-02-10 - Introduced in House
+- Policy area: Agriculture and Food
+- Sponsor: Rep. Carter, Earl L. "Buddy" [R-GA-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7462
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-02-10
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7462ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-02-10
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7462ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7462
+IN THE HOUSE OF REPRESENTATIVES
+February 10, 2026 Mr. Carter of Georgia (for himself, Mr. Bishop , and Mr. Allen ) introduced the following bill; which was referred to the Committee on Agriculture
+A BILL
+To amend the Federal Crop Insurance Act to direct the Secretary of Agriculture to use certain data sets when determining eligibility related to indemnity payments under the Hurricane Insurance Protection-Wind Index endorsement, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Farmers’ Assistance and Immediate Disaster Relief Act or the Farmers’ AID Relief Act .
+#### 2. Hurricane Insurance Protection-Wind Index endorsement
+##### (a) In general
+Section 508 of the Federal Crop Insurance Act ( 7 U.S.C. 1508 ) is amended by adding at the end the following:
+(q) Hurricane Insurance Protection-Wind Index endorsement (1) Determination of payment eligibility (A) In general Beginning with crop year 2027, in determining whether a county is eligible with respect to a hurricane weather event for an indemnity payment under HIP–WI, the Secretary shall— (i) use the IBTrACS data set; or (ii) subject to subparagraph (B), use the alternative data set compiled pursuant to paragraph (2). (B) Condition for use of alternative data set For purposes of subparagraph (A)(ii), the Secretary may only use the alternative data set compiled pursuant to paragraph (2) if— (i) the data set specified in subparagraph (A)(i) is incomplete, as determined by the Secretary; and (ii) one of the following conditions is met: (I) A weather station operated by National Weather Service in the county subject to the determination of eligibility in subparagraph (A), or an adjacent county, was damaged. (II) Any other source of data for making such determination in such county or an adjacent county was damaged. (III) Any such station or other source provided incomplete data, as determined by the Secretary. (2) Compilation of alternative data set For purposes of determining eligibility under paragraph (1)(A)(ii), the Secretary shall compile, and make available to the public on the website of the Department related to HIP–WI, an alternative data set for the hurricane weather event prompting such determination using data that— (A) is collected for a specified time period during such weather event, as determined by the Secretary; (B) contains the same types of data contained in the IBTrACS data set; and (C) is consistent with the form of such types of data, as determined by the Secretary. (3) Definitions In this subsection: (A) HIP–WI The term HIP–WI means the Hurricane Insurance Protection-Wind Index endorsement established in 2020 by the Risk Management Agency of the Department. (B) IBTrACS data set The term IBTrACS data set means the International Best Track Archive for Climate Stewardship data set from the National Oceanic and Atmospheric Administration, including the season, name, time, location in latitude and longitude, maximum sustained winds, hurricane category, and wind extents data associated with a hurricane weather event. (C) Alternative data set The term alternative data set means data collected by a weather station that is— (i) operated by a land-grant college or university (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3103 )); and (ii) certified, at the time data is collected for purposes of paragraph (2), as compliant with standards issued by the National Weather Service, including the standards described in the directive issued on November 9, 2023, entitled National Weather Service Instruction 10–1302 (or successor directives). .
+##### (b) Regulations
+Not later than 180 days after the date of enactment of this Act, the Secretary of Agriculture shall—
+**(1)**
+issue such rules as may be necessary to implement the amendment made by this section; and
+**(2)**
+revise any guidance relating to the Hurricane Insurance Protection-Wind Index endorsement established in 2020 by the Risk Management Agency of the Department of Agriculture.
+
+
+## Timeline
+
+- 2026-02-10: Introduced in House
+- 2026-02-10 - IntroReferral: Introduced in House
+- 2026-02-10 - IntroReferral: Introduced in House
+- 2026-02-10 - IntroReferral: Referred to the House Committee on Agriculture.
+- Latest action: 2026-02-10: Introduced in House

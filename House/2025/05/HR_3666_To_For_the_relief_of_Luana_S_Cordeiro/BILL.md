@@ -1,0 +1,64 @@
+# HR 3666: To For the relief of Luana S. Cordeiro.
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-05-29
+- Latest action: 2025-05-29 - Introduced in House
+- Policy area: 
+- Sponsor: Rep. Van Drew, Jefferson [R-NJ-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/3666
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+To This bill provides for the relief of Luana S. Cordeiro.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-05-29
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3666ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-05-29
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3666ih.xml
+
+V
+119th CONGRESS
+1st Session
+H. R. 3666
+IN THE HOUSE OF REPRESENTATIVES
+May 29, 2025 Mr. Van Drew introduced the following bill; which was referred to the Committee on the Judiciary , and in addition to the Committee on the Budget , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To For the relief of Luana S. Cordeiro.
+#### 1. Permanent resident status for Luana S. Cordeiro
+##### (a) In general
+Notwithstanding subsections (a) and (b) of section 201 of the Immigration and Nationality Act ( 8 U.S.C. 1151 ), Luana S. Cordeiro shall be eligible for issuance of an immigrant visa or for adjustment of status to that of an alien lawfully admitted for permanent residence upon filing an application for issuance of an immigrant visa under section 204 of such Act ( 8 U.S.C. 1154 ) or for adjustment of status to lawful permanent resident.
+##### (b) Adjustment of status
+If Luana S. Cordeiro enters the United States before the filing deadline specified in subsection (d), she shall be considered to have entered and remained lawfully and shall, if otherwise eligible, be eligible for adjustment of status under section 245 of the Immigration and Nationality Act ( 8 U.S.C. 1255 ) as of the date of enactment of this Act.
+##### (c) Waiver of grounds for removal or denial of admission
+**(1) In general**
+Notwithstanding sections 212(a) and 237(a) of the Immigration and Nationality Act ( 8 U.S.C. 1182(a) ) ( 8 U.S.C. 1227(a) ), Luana S. Cordeiro may not be removed from the United States, denied admission to the United States, or considered ineligible for lawful permanent residence in the United States by reason of any ground for removal or denial of admission that is reflected in the records of the Department of Homeland Security or the Visa Office of the Department of State on the date of enactment of this Act.
+**(2) Rescission of outstanding order of removal**
+The Secretary of Homeland Security shall rescind any outstanding order of removal or deportation, or any finding of inadmissibility or deportability, that has been entered against Luana S. Cordeiro by reason of any ground described in paragraph (1).
+##### (d) Deadline for applicacion and payment of fees
+Subsections (a) and (b) shall apply only if the application for issuance of an immigrant visa or the application for adjustment of status is filed with appropriate fees within 2 years after the date of enactment of this Act.
+##### (e) Reduction on immigrant visa number
+Upon the granting of an immigrant visa or permanent residence to Luana S. Cordeiro, the Secretary of State shall instruct the proper officer to reduce by 1, during the current or next following fiscal year, the total number of immigrant visas that are made available to natives of the country of the alien’s birth under section 203(a) of the Immigration and Nationality Act ( 8 U.S.C. 1153(a) ) or, if applicable, the total number of immigrant visas that are made available to natives of the country of the alien’s birth under section 202(e) of such Act ( 8 U.S.C. 1152(e) ).
+##### (f) Denial of preferential immigration treatment for certain relatives
+The natural parents, brothers, and sisters of Luana S. Cordeiro shall not, by virtue of such relationship, be accorded any right, privilege, or status under the Immigration and Nationality Act.
+#### 2. Determination of budgetary effects
+The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010, shall be determined by reference to the latest statement titled Budgetary Effects of PAYGO Legislation for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.
+
+
+## Timeline
+
+- 2025-05-29: Introduced in House
+- 2025-05-29 - IntroReferral: Introduced in House
+- 2025-05-29 - IntroReferral: Introduced in House
+- 2025-05-29 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-05-29 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-05-29: Introduced in House

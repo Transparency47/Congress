@@ -1,0 +1,78 @@
+# HR 8925: Job Corps and Skilled Defense Workforce Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-05-20
+- Latest action: 2026-05-20 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Courtney, Joe [D-CT-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/8925
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-05-20
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8925ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-05-20
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8925ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 8925
+IN THE HOUSE OF REPRESENTATIVES
+May 20, 2026 Mr. Courtney (for himself, Mr. Ezell , Mrs. Kiggans of Virginia , Mr. Bishop , Mr. Lawler , Mr. Deluzio , Ms. Tenney , Ms. Goodlander , Mr. Rutherford , Mr. Bacon , Mr. Wilson of South Carolina , Mr. Guthrie , Mr. Moore of Utah , Mr. Grothman , and Mr. Fitzpatrick ) introduced the following bill; which was referred to the Committee on Armed Services , and in addition to the Committee on Education and Workforce , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To require the Secretary of Defense to align the Job Corps program with the defense industrial base, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Job Corps and Skilled Defense Workforce Act .
+#### 2. Alignment of Job Corps with the defense industrial base
+##### (a) In general
+The Secretary of Defense, acting through the National Imperative for Industrial Skills program of the Department of Defense (or a successor program), shall—
+**(1)**
+ensure that military recruits who are ineligible for enlistment as a result of the requirements of section 520 of title 10, United States Code, are made aware of opportunities to enroll in the Job Corps program authorized under subtitle C of title I of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3191 et seq. ) to receive training that—
+**(A)**
+prepares enrollees for employment as skilled industrial workers in the defense industrial base in the State or local area in which a Job Corps center is located and, to the extent practicable, in the State or local area in which enrollees intend to seek employment after graduation; and
+**(B)**
+includes programs of advanced career training described in section 148(c) of the Workforce Innovation and Opportunity Act ( 20 U.S.C. 3198(c) ) at existing Job Corps centers or at new Job Corps centers in close proximity to a shipyard or other defense industrial base suppliers; and
+**(2)**
+address shortages of skilled industrial workers in the defense industrial base by supporting the Job Corps program in offering training that aligns with the needs of the defense industrial base, including through investments in curricula development, equipment, and facilities.
+##### (b) Extension of shipbuilding workforce development special incentive to job corps
+**(1)**
+Section 8696(b)(2) of title 10, United States Code is amended by adding at the end the following:
+(G) The Job Corps program authorized under subtitle C of title I of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3191 et seq. ) or an operator of a Job Corps center described in section 147 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3197 ). .
+**(2)**
+Section 8696(c)(2) of title 10, United States Code, is amended by adding at the end the following:
+(H) The Job Corps program authorized under subtitle C of title I of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3191 et seq. ). .
+##### (c) Job corps conforming reforms
+Section 158(f) of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3208 ) is amended—
+**(1)**
+by striking may accept on behalf of the Job Corps or individual Job Corps centers charitable donations of cash and inserting (or the Secretary of Agriculture, as appropriate) on behalf of the Job Corps, or individual Job Corps Center, on behalf of such center, may accept grants, charitable donations of cash , ; and
+**(2)**
+by inserting at the end the following: Notwithstanding sections 501(b) and 522 of title 40, United States Code, any property acquired by a Job Corps center shall be directly transferred, on a nonreimbursable basis, to the Secretary. .
+##### (d) Operations
+**(1) Local authority to realign trades**
+Section 151 of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3201 ) is amended by adding at the end the following:
+(d) Local authority Subject to the limitations of the budget approved by the Secretary for a Job Corps center, the operator of a Job Corps center shall have the authority, without prior approval from the Secretary, to— (1) hire staff and provide staff professional development; (2) set terms and enter into agreements with Federal, State, or local educational partners, such as secondary schools, institutions of higher education, child development centers, units of Junior Reserve Officer Training Corps programs established under section 2031 of title 10, United States Code, or employers; and (3) engage with and educate stakeholders (including eligible applicants for the Job Corps) about Job Corps operations, selection procedures, and activities. .
+**(2) Streamlined enrollment of veterans and military recruits into the defense industrial base**
+Section 144(b) of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3194(b) ) is amended—
+**(A)**
+in the heading, by inserting and certain other armed forces members after veterans ; and
+**(B)**
+by inserting or a member of the Armed Forces eligible for preseparation counseling under section 1142 of title 10, United States Code after a veteran .
+
+
+## Timeline
+
+- 2026-05-20: Introduced in House
+- 2026-05-20 - IntroReferral: Introduced in House
+- 2026-05-20 - IntroReferral: Introduced in House
+- 2026-05-20 - IntroReferral: Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-05-20 - IntroReferral: Referred to the Committee on Armed Services, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2026-05-20: Introduced in House

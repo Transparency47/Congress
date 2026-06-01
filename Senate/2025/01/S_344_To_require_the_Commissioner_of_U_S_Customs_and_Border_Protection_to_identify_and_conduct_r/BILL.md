@@ -1,0 +1,99 @@
+# S 344: A bill to require the Commissioner of U.S. Customs and Border Protection to identify and conduct recurrent vetting of evacuees from Afghanistan found not to be properly vetted before entering the United States.
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-01-30
+- Latest action: 2025-01-30 - Introduced in Senate
+- Policy area: Immigration
+- Sponsor: Sen. Scott, Rick [R-FL]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/s/344
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+This bill requires U.S. Customs and Border Protection to conduct recurrent and periodic screening and vetting of all evacuees from Afghanistan who were paroled into the United States under certain operations. The screening and vetting must include consulting all law enforcement and international terrorist screening databases.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-01-30
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s344is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-01-30
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s344is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 344
+IN THE SENATE OF THE UNITED STATES
+January 30, 2025 Mr. Scott of Florida (for himself and Ms. Ernst ) introduced the following bill; which was read twice and referred to the Committee on the Judiciary
+A BILL
+To require the Commissioner of U.S. Customs and Border Protection to identify and conduct recurrent vetting of evacuees from Afghanistan found not to be properly vetted before entering the United States.
+#### 1. Afghan vetting and accountability
+##### (a) Findings
+Congress makes the following findings:
+**(1)**
+In the report entitled DHS Encountered Obstacles to Screen, Vet, and Inspect All Evacuees during the Recent Afghanistan Crisis issued on September 6, 2022, the Inspector General of the Department of Homeland Security found that—
+**(A)**
+the United States welcomed more than 79,000 Afghan evacuees between July 2021, and January 2022, as part of Operation Allies Refuge and Operation Allies Welcome; and
+**(B)**
+the President directed the Secretary of Homeland Security to lead the coordination across the Federal Government to resettle vulnerable Afghans arriving as part of Operation Allies Refuge and Operation Allies Welcome.
+**(2)**
+The Office of the Inspector General of the Department of Homeland Security conducted an audit to determine the extent to which the Department of Homeland Security screened, vetted, and inspected evacuees arriving as part of Operation Allies Refuge and Operation Allies Welcome.
+**(3)**
+After meeting with more than 130 individuals from the Department of Homeland Security, the Office of the Inspector General of the Department of Homeland Security determined that—
+**(A)**
+the Department of Homeland Security encountered obstacles to screening, vetting, and inspecting all Afghan evacuees arriving as part of Operation Allies Refuge and Operation Allies Welcome;
+**(B)**
+U.S. Customs and Border Protection did not always have critical data to properly screen, vet, or inspect the evacuees;
+**(C)**
+some information used to vet evacuees through United States Government databases, such as name, date of birth, identification number, and travel document data, was inaccurate, incomplete, or missing; and
+**(D)**
+U.S. Customs and Border Protection admitted or paroled into the United States evacuees who were not fully vetted.
+**(4)**
+The Office of the Inspector General of the Department of Homeland Security attributed the Department of Homeland Security’s challenges with respect to properly screening, vetting, and inspecting such evacuees to not having—
+**(A)**
+a list of evacuees from Afghanistan who were unable to provide sufficient identification documents;
+**(B)**
+a contingency plan to support similar emergency situations; and
+**(C)**
+standardized policies.
+**(5)**
+As a result, the Department of Homeland Security may have admitted or paroled individuals into the United States who pose a risk to the national security of the United States and the safety of local communities.
+##### (b) Identification and recurrent vetting of evacuees from Afghanistan
+Not later than 30 days after the date of the enactment of this Act, the Commissioner of U.S. Customs and Border Protection shall—
+**(1)**
+identify all evacuees from Afghanistan who—
+**(A)**
+were paroled into the United States during the period beginning on July 1, 2021, and ending on January 31, 2022, as part of Operation Allies Refuge or Operation Allies Welcome; and
+**(B)**
+remain in the United States;
+**(2)**
+for each such evacuee, conduct a full screening and vetting, including by consulting all law enforcement and international terrorist screening databases, based on the confirmed identity of the evacuee;
+**(3)**
+prioritize the screening and vetting described in paragraph (2) for such evacuees who did not have documentation of their identity on arrival in the United States;
+**(4)**
+establish recurrent and periodic vetting processes for all such evacuees, including in-person interviews as necessary;
+**(5)**
+ensure that such vetting processes are carried out for each such evacuee for the duration of the authorized period of parole of the evacuee; and
+**(6)**
+provide to the Director of National Intelligence, the Secretary of Defense, the Secretary of State, the Secretary of Homeland Security, the Attorney General, and the law enforcement agencies of the State and locality in which each such evacuee is located evidence that the full screening and vetting described in paragraph (2), and the recurrent and periodic vetting processes described in paragraph (4), have been carried out.
+##### (c) Report
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Homeland Security and the Inspector General of the Department of Homeland Security shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on—
+**(1)**
+the findings and results of the screening and vetting carried out under subsection (b); and
+**(2)**
+the number of evacuees who were ineligible for admission to the United States and, for each such evacuee, the specific reason the evacuee was found ineligible.
+
+
+## Timeline
+
+- 2025-01-30: Introduced in Senate
+- 2025-01-30 - IntroReferral: Introduced in Senate
+- 2025-01-30 - IntroReferral: Read twice and referred to the Committee on the Judiciary.
+- Latest action: 2025-01-30: Introduced in Senate

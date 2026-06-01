@@ -1,0 +1,56 @@
+# HRES 997: Enabling the House of Representatives to be responsive to its membership.
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-01-14
+- Latest action: 2026-01-14 - Submitted in House
+- Policy area: Congress
+- Sponsor: Rep. McGovern, James P. [D-MA-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-resolution/997
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### IH
+- Date: 2026-01-14
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hres/BILLS-119hres997ih.xml
+
+
+## Full Bill Text
+
+### IH
+- Date: 2026-01-14
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hres/BILLS-119hres997ih.xml
+
+IV
+119th CONGRESS
+2d Session
+H. RES. 997
+IN THE HOUSE OF REPRESENTATIVES
+January 14, 2026 Mr. McGovern submitted the following resolution; which was referred to the Committee on House Administration , and in addition to the Committees on Rules , and Ethics , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+RESOLUTION
+Enabling the House of Representatives to be responsive to its membership.
+I
+#### 101. Code of Official Conduct
+In rule XXIII of the Rules of the House of Representatives, strike clause 2 and insert the following:
+2. A Member, Delegate, Resident Commissioner, officer, or employee of the House shall adhere to the spirit and the letter of the Rules of the House and to the rules of duly constituted committees thereof. .
+#### 102. Suspension of the rules
+In rule XV of the Rules of the House of Representatives, strike clause 1 and insert the following:
+1. (a) A rule may not be suspended except by a vote of two-thirds of the Members voting, a quorum being present. The Speaker may not entertain a motion that the House suspend the rules except on Mondays, Tuesdays, and Wednesdays and during the last six days of a session of Congress. (b) Pending a motion that the House suspend the rules, the Speaker may entertain one motion that the House adjourn but may not entertain any other motion until the vote is taken on the suspension. (c) A motion that the House suspend the rules is debatable for 40 minutes, one-half in favor of the motion and one-half in opposition thereto. .
+II
+#### 201. Placement of U.S. time zone clocks in House chamber
+##### (a) Responsibilities of Clerk
+The Clerk of the House of Representatives shall place clocks displaying each United States time zone in real time in the House Chamber in clear view of the Members.
+##### (b) Regulations
+The Clerk shall carry out this resolution in accordance with regulations promulgated by the Committee on House Administration.
+
+
+## Timeline
+
+- 2026-01-14: Introduced in House
+- 2026-01-14 - IntroReferral: Referred to the Committee on House Administration, and in addition to the Committees on Rules, and Ethics, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-01-14 - IntroReferral: Referred to the Committee on House Administration, and in addition to the Committees on Rules, and Ethics, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-01-14 - IntroReferral: Referred to the Committee on House Administration, and in addition to the Committees on Rules, and Ethics, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-01-14 - IntroReferral: Submitted in House
+- 2026-01-14 - IntroReferral: Submitted in House
+- Latest action: 2026-01-14: Submitted in House

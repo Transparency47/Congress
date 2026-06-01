@@ -1,0 +1,45 @@
+# HR 8017: Defeat Sharia Law in America Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-03-19
+- Latest action: 2026-03-19 - Introduced in House
+- Policy area: Civil Rights and Liberties, Minority Issues
+- Sponsor: Rep. Moore, Barry [R-AL-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/8017
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-03-19
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8017ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-03-19
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8017ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 8017
+IN THE HOUSE OF REPRESENTATIVES
+March 19, 2026 Mr. Moore of Alabama (for himself, Mr. Self , and Mr. Gooden ) introduced the following bill; which was referred to the Committee on the Judiciary
+A BILL
+To amend the Civil Rights Act of 1964 to improve prohibitions on discrimination by public accommodations.
+#### 1. Short title
+This Act may be cited as the Defeat Sharia Law in America Act .
+#### 2. Discrimination
+Section 201(a) of the Civil Rights Act of 1964 ( 42 U.S.C. 2000a(a) ) is amended by adding at the end the following: An establishment covered by this section that provides goods, services, facilities, privileges, advantages, or accommodations by implementing Sharia law shall be considered to be discriminating or segregating on the ground of religion under this subsection. .
+
+
+## Timeline
+
+- 2026-03-19: Introduced in House
+- 2026-03-19 - IntroReferral: Introduced in House
+- 2026-03-19 - IntroReferral: Introduced in House
+- 2026-03-19 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2026-03-19: Introduced in House

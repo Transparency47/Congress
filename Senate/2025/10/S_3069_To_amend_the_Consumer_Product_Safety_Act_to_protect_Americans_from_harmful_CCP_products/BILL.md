@@ -1,0 +1,49 @@
+# S 3069: Protecting Americans from Harmful CCP Products Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-10-29
+- Latest action: 2025-10-29 - Introduced in Senate
+- Policy area: Commerce
+- Sponsor: Sen. Scott, Rick [R-FL]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/3069
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-10-29
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s3069is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-10-29
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s3069is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 3069
+IN THE SENATE OF THE UNITED STATES
+October 29, 2025 Mr. Scott of Florida introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+A BILL
+To amend the Consumer Product Safety Act to protect Americans from harmful CCP products.
+#### 1. Short title
+This Act may be cited as the Protecting Americans from Harmful CCP Products Act .
+#### 2. Amendments to the Consumer Product Safety Act
+##### (a) Recall of Chinese products
+Section 15 of the Consumer Product Safety Act ( 15 U.S.C. 2064 ) is amended by adding at the end the following:
+(k) Recall of Chinese Products (1) In general Notwithstanding subsection (f), the Commission may issue an order under subsection (c) or (d), including a mandatory recall, without the consent of the manufacturer or retailer of a consumer product distributed in commerce that presents a substantial product hazard if— (A) the manufacturer or retailer of the product is located in the People’s Republic of China, including in any of its Special Administrative Regions such as Hong Kong and Macao; (B) the product is offered for sale directly to United States consumers, including via online platforms; (C) the Commission has requested information or action related to the potential hazard from the manufacturer or retailer and has not received a timely or adequate response; and (D) if the Commission determines that a product distributed in commerce presents a substantial product hazard. (2) Rebuttable presumption There shall be a rebuttable presumption in favor of the Commission’s claim that a product poses a substantial product hazard under this subsection. (3) Notice The Commission shall publish notice of any mandatory recall order under this subsection, not later than 30 days before the order shall take effect, on its website and transmit such notice to all known distributors, importers, and platforms offering the product for sale within the United States. .
+##### (b) Definition
+Section 3(a) of the Consumer Product Safety Act ( 15 U.S.C. 2052(a) ) is amended by striking paragraph (8) and inserting the following:
+(8) Distributor (A) In general The term distributor means a person to whom a consumer product is delivered or sold for purposes of distribution in commerce, except that such term shall not include a manufacturer or retailer of the product. (B) Certain e-commerce platforms Notwithstanding any limitation described in subparagraph (A), an operator of an e-commerce platform that is headquartered in or primarily operates from the People’s Republic of China, including any of its Special Administrative regions such as Hong Kong and Macao, and that facilitates the sale of consumer products to United States consumers, shall be considered a distributor under this Act. (C) Rule of construction Nothing in this paragraph shall be construed as having any bearing on whether any non-Chinese persons or entities are distributors for purposes of this Act. .
+
+
+## Timeline
+
+- 2025-10-29: Introduced in Senate
+- 2025-10-29 - IntroReferral: Introduced in Senate
+- 2025-10-29 - IntroReferral: Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- Latest action: 2025-10-29: Introduced in Senate

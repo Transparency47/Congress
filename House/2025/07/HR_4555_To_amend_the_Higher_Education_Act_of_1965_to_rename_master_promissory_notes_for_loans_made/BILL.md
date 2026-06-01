@@ -1,0 +1,49 @@
+# HR 4555: Student Loan Contract Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-07-21
+- Latest action: 2025-07-21 - Introduced in House
+- Policy area: Education
+- Sponsor: Rep. Underwood, Lauren [D-IL-14]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/4555
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-07-21
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4555ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-07-21
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4555ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 4555
+IN THE HOUSE OF REPRESENTATIVES
+July 21, 2025 Ms. Underwood (for herself, Ms. Adams , Mr. Davis of North Carolina , Mr. Jackson of Illinois , Mr. Davis of Illinois , and Mr. Thanedar ) introduced the following bill; which was referred to the Committee on Education and Workforce
+A BILL
+To amend the Higher Education Act of 1965 to rename master promissory notes for loans made under part D of title IV of such Act to student loan contracts.
+#### 1. Short title
+This Act may be cited as the Student Loan Contract Act of 2025 .
+#### 2. Student loan contract and loan disclosures
+##### (a) Student loan contract
+Section 432(m)(1)(D) of the Higher Education Act of 1965 ( 20 U.S.C. 1082(m)(1)(D) ) is amended by adding at the end the following:
+(iv) Student loan contract (I) In general Any master promissory note form described in this subparagraph that is developed or used for loans made under part D for periods of enrollment beginning on or after the date of enactment of the Student Loan Contract Act of 2025 shall be referred to as a student loan contract . (II) Clarification on use A student loan contract for loans made under part D for a student shall only be used with respect to loans made under part D for the periods of enrollment that are in the same award year for which the initial loans for which the contract is used were made. .
+##### (b) Conforming amendments
+Section 485(l)(2)(B) of the Higher Education Act of 1965 ( 20 U.S.C. 1092(l)(2)(B) ) is amended by inserting before the period at the end the following: or the student loan contract .
+
+
+## Timeline
+
+- 2025-07-21: Introduced in House
+- 2025-07-21 - IntroReferral: Introduced in House
+- 2025-07-21 - IntroReferral: Introduced in House
+- 2025-07-21 - IntroReferral: Referred to the House Committee on Education and Workforce.
+- Latest action: 2025-07-21: Introduced in House

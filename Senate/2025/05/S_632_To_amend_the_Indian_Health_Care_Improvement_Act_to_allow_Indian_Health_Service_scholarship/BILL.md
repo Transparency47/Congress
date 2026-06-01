@@ -1,0 +1,96 @@
+# S 632: IHS Workforce Parity Act of 2025
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-02-19
+- Latest action: 2025-02-19 - Introduced in Senate
+- Policy area: Native Americans
+- Sponsor: Sen. Cortez Masto, Catherine [D-NV]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/632
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**IHS Workforce Parity Act of 2025**
+
+This bill allows recipients of Indian Health Professions Scholarships or participants in the Indian Health Service Loan Repayment Program to fulfill their service obligations through half-time clinical practice.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-02-19
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s632is.xml
+
+### Reported in Senate
+- Date: 2025-05-12
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s632rs.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-02-19
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s632is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 632
+IN THE SENATE OF THE UNITED STATES
+February 19, 2025 Ms. Cortez Masto (for herself and Mr. Mullin ) introduced the following bill; which was read twice and referred to the Committee on Indian Affairs
+A BILL
+To amend the Indian Health Care Improvement Act to allow Indian Health Service scholarship and loan recipients to fulfill service obligations through half-time clinical practice, and for other purposes.
+#### 1. Short title
+This Act may be cited as the IHS Workforce Parity Act of 2025 .
+#### 2. Indian Health Service scholarship and loan recipients
+##### (a) Indian health professions scholarships
+Section 104(b)(3) of the Indian Health Care Improvement Act ( 25 U.S.C. 1613a(b)(3) ) is amended by striking the paragraph designation and all that follows through the end of subparagraph (A) and inserting the following:
+(3) (A) The active duty service obligation under a written contract with the Secretary under section 338A of the Public Health Service Act ( 42 U.S.C. 254l ) that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship— (i) be met by full-time (as defined in section 331(j) of the Public Health Service Act ( 42 U.S.C. 254d(j) )) practice— (I) in the Service; (II) in a program conducted under a contract entered into under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5301 et seq. ); (III) in a program assisted under title V; or (IV) in the private practice of the applicable profession if, as determined by the Secretary, in accordance with guidelines issued by the Secretary, the practice— (aa) is situated in a physician or other health professional shortage area; and (bb) addresses the health care needs of a substantial number of Indians; or (ii) be met by half-time (as defined in section 331(j) of the Public Health Service Act ( 42 U.S.C. 254d(j) )) practice in a program described in any of subclauses (I) through (IV) of clause (i) if the individual agrees, in writing— (I) to double the period of obligated service that would otherwise be required if the individual were satisfying the period of obligated service through full-time (as so defined) practice; and (II) that if the individual fails to begin or complete the period of obligated service described in subclause (I), the procedures described in section 108(l)(2) for determining damages for breach of contract will be used after converting that period of obligated service or service performed into its full-time equivalent. .
+##### (b) Indian Health Service loan repayment program
+Section 108 of the Indian Health Care Improvement Act ( 25 U.S.C. 1616a ) is amended—
+**(1)**
+in subsection (f)(1)(B), by striking clause (iii) and inserting the following:
+(iii) to serve for a period of time (referred to in this section as the period of obligated service ) equal to— (I) 2 years, or a longer period of time as the individual may agree to serve, in the full-time (as defined in section 331(j) of the Public Health Service Act ( 42 U.S.C. 254d(j) )) clinical practice of the profession of the individual in an Indian health program to which the individual may be assigned by the Secretary; (II) 4 years, or a longer period of time as the individual may agree to serve, in the half-time (as defined in that section) clinical practice of the profession of the individual in an Indian health program to which the individual may be assigned by the Secretary, subject to the condition that if the individual has agreed to serve for a period longer than 2 years of full-time (as so defined) service, as described in subclause (I), the half-time (as so defined) service obligation shall be the amount of time required for the individual to complete an equivalent amount of service on a half-time (as so defined) basis; or (III) 2 years in the half-time (as so defined) clinical practice of the profession of the individual in an Indian health program to which the individual may be assigned by the Secretary with a loan payment amount equal to 50 percent of the amount that would otherwise be payable for full-time (as so defined) service for that same period of obligated service; and (iv) in the case of an individual completing a period of obligated service through half-time (as so defined) clinical practice, that if the individual fails to begin or complete that period of obligated service, the procedures described in subsection (l)(2) for determining damages for breach of contract under this section will be used after converting the period of obligated service or service performed into its full-time (as so defined) equivalent; ; and
+**(2)**
+in subsection (l)(2), in the undesignated matter following subparagraph (D), by inserting the following before Amounts : Periods of obligated service completed in half-time (as defined in section 331(j) of the Public Health Service Act ( 42 U.S.C. 254d(j) )) clinical practice shall be converted to their full-time (as defined in that section) equivalents for purposes of determining damages for breach of contract under this paragraph. .
+
+### Reported in Senate
+- Date: 2025-05-12
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s632rs.xml
+
+II
+Calendar No. 74
+119th CONGRESS
+1st Session
+S. 632
+[Report No. 119–21]
+IN THE SENATE OF THE UNITED STATES
+February 19, 2025 Ms. Cortez Masto (for herself and Mr. Mullin ) introduced the following bill; which was read twice and referred to the Committee on Indian Affairs
+May 12, 2025 Reported by Ms. Murkowski without amendment
+A BILL
+To amend the Indian Health Care Improvement Act to allow Indian Health Service scholarship and loan recipients to fulfill service obligations through half-time clinical practice, and for other purposes.
+#### 1. Short title
+This Act may be cited as the IHS Workforce Parity Act of 2025 .
+#### 2. Indian Health Service scholarship and loan recipients
+##### (a) Indian health professions scholarships
+Section 104(b)(3) of the Indian Health Care Improvement Act ( 25 U.S.C. 1613a(b)(3) ) is amended by striking the paragraph designation and all that follows through the end of subparagraph (A) and inserting the following:
+(3) (A) The active duty service obligation under a written contract with the Secretary under section 338A of the Public Health Service Act ( 42 U.S.C. 254l ) that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship— (i) be met by full-time (as defined in section 331(j) of the Public Health Service Act ( 42 U.S.C. 254d(j) )) practice— (I) in the Service; (II) in a program conducted under a contract entered into under the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5301 et seq. ); (III) in a program assisted under title V; or (IV) in the private practice of the applicable profession if, as determined by the Secretary, in accordance with guidelines issued by the Secretary, the practice— (aa) is situated in a physician or other health professional shortage area; and (bb) addresses the health care needs of a substantial number of Indians; or (ii) be met by half-time (as defined in section 331(j) of the Public Health Service Act ( 42 U.S.C. 254d(j) )) practice in a program described in any of subclauses (I) through (IV) of clause (i) if the individual agrees, in writing— (I) to double the period of obligated service that would otherwise be required if the individual were satisfying the period of obligated service through full-time (as so defined) practice; and (II) that if the individual fails to begin or complete the period of obligated service described in subclause (I), the procedures described in section 108(l)(2) for determining damages for breach of contract will be used after converting that period of obligated service or service performed into its full-time equivalent. .
+##### (b) Indian Health Service loan repayment program
+Section 108 of the Indian Health Care Improvement Act ( 25 U.S.C. 1616a ) is amended—
+**(1)**
+in subsection (f)(1)(B), by striking clause (iii) and inserting the following:
+(iii) to serve for a period of time (referred to in this section as the period of obligated service ) equal to— (I) 2 years, or a longer period of time as the individual may agree to serve, in the full-time (as defined in section 331(j) of the Public Health Service Act ( 42 U.S.C. 254d(j) )) clinical practice of the profession of the individual in an Indian health program to which the individual may be assigned by the Secretary; (II) 4 years, or a longer period of time as the individual may agree to serve, in the half-time (as defined in that section) clinical practice of the profession of the individual in an Indian health program to which the individual may be assigned by the Secretary, subject to the condition that if the individual has agreed to serve for a period longer than 2 years of full-time (as so defined) service, as described in subclause (I), the half-time (as so defined) service obligation shall be the amount of time required for the individual to complete an equivalent amount of service on a half-time (as so defined) basis; or (III) 2 years in the half-time (as so defined) clinical practice of the profession of the individual in an Indian health program to which the individual may be assigned by the Secretary with a loan payment amount equal to 50 percent of the amount that would otherwise be payable for full-time (as so defined) service for that same period of obligated service; and (iv) in the case of an individual completing a period of obligated service through half-time (as so defined) clinical practice, that if the individual fails to begin or complete that period of obligated service, the procedures described in subsection (l)(2) for determining damages for breach of contract under this section will be used after converting the period of obligated service or service performed into its full-time (as so defined) equivalent; ; and
+**(2)**
+in subsection (l)(2), in the undesignated matter following subparagraph (D), by inserting the following before Amounts : Periods of obligated service completed in half-time (as defined in section 331(j) of the Public Health Service Act ( 42 U.S.C. 254d(j) )) clinical practice shall be converted to their full-time (as defined in that section) equivalents for purposes of determining damages for breach of contract under this paragraph. .
+
+
+## Timeline
+
+- 2025-02-19: Introduced in Senate
+- 2025-02-19 - IntroReferral: Introduced in Senate
+- 2025-02-19 - IntroReferral: Read twice and referred to the Committee on Indian Affairs.
+- 2025-03-05 - Committee: Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2025-05-12 - Committee: Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-21.
+- 2025-05-12 - Committee: Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-21.
+- 2025-05-12 - Calendars: Placed on Senate Legislative Calendar under General Orders. Calendar No. 74.
+- Latest action: 2025-02-19: Introduced in Senate

@@ -1,0 +1,124 @@
+# HR 782: Reignite Hope Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-01-28
+- Latest action: 2025-01-28 - Introduced in House
+- Policy area: Taxation
+- Sponsor: Rep. James, John [R-MI-10]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hr/782
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Reignite Hope Act of 2025**
+
+This bill establishes a new nonrefundable personal tax credit (for three years) of $3,500 for critical employees. The bill also increases and makes other changes to the child tax credit.
+
+Under the bill, a *critical employee* is defined as an individual who works full-time for at least 75% of the tax year (as certified by such individual’s employer) as a
+
+- healthcare professional,
+
+- law enforcement officer,
+
+- member of a rescue squad or ambulance crew,
+
+- firefighter,
+
+- eligible child care provider,
+
+- family child care provider, or
+
+- personal or homecare aid.
+
+Further, under the bill, such individual’s primary place of employment for the majority of hours worked during the tax year must be in a qualified opportunity zone. (A qualified opportunity zone is an economically distressed community where new investments may be eligible for certain tax preferences.)
+
+This bill increases the child tax credit from $2,000 per qualifying child to $3,500 per qualifying child (or $4,500 per qualifying child under six years old).
+
+The bill also
+
+- increases the age limit of a qualifying child to 17 years old (from 16 years old),
+
+- extends the threshold at which the child tax credit begins to phase out ($200,000 for single taxpayers or $400,000 for married taxpayers filing jointly),
+
+- extends the child tax credit identification requirements applicable to qualifying children, and
+
+- increases the refundable portion of the child tax credit for certain taxpayers with fewer than three qualifying children.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-01-28
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr782ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-01-28
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr782ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 782
+IN THE HOUSE OF REPRESENTATIVES
+January 28, 2025 Mr. James (for himself and Mr. Ciscomani ) introduced the following bill; which was referred to the Committee on Ways and Means
+A BILL
+To amend the Internal Revenue Code of 1986 to establish a credit for hired critical employees and to make permanent certain expiring provisions relating to the child tax credit.
+#### 1. Short title
+This Act may be cited as the Reignite Hope Act of 2025 .
+#### 2. Credit for hired critical employees
+##### (a) In general
+Subpart A of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 25E the following new section:
+25F. Credit for hired critical employees (a) Allowance of credit In the case of a critical employee, there shall be allowed $3,500 as a credit against the tax imposed by this chapter. (b) Critical employee For purposes of this section: (1) In general The term critical employee means any of the following individuals whose employer certifies that such individual worked full-time for not less than 75 percent of the taxable year in such professional capacity and that such individual’s primary place of employment for the majority of hours worked during such taxable year is located in a qualified opportunity zone: (A) A healthcare professional. (B) A law enforcement officer (as such term is defined in section 806 of title I of the Omnibus Crime Control and Safe Streets Act of 1968). (C) A member of a rescue squad or ambulance crew (as such term is defined in section 806 of title I of the Omnibus Crime Control and Safe Streets Act of 1968). (D) A firefighter (as such term is defined in section 806 of title I of the Omnibus Crime Control and Safe Streets Act of 1968). (E) an eligible child care provider or family child care provider (as such terms are defined in section 658P of the Child Care and Development Block Grant Act of 1990). (F) personal or home care aide (as such term is defined in section 2008 of the Social Security Act). (2) Healthcare professional The term healthcare professional means— (A) a certified nursing assistant, or (B) a licensed practical nurse or registered professional nurse. (3) The term qualified opportunity zone means a census tract designated as a qualified opportunity zone under section 1400z–1(b)(1) as of the date of the enactment of this section. (c) Sunset No credit shall be allowed under subsection (a) for any taxable year beginning after the date that is 3 years after the date of the enactment of this section. .
+##### (b) Clerical amendment
+The table of section for subpart A of part IV of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 25E the following new item:
+Sec. 25F. Credit for hired critical employees. .
+##### (c) Effective date
+The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this section.
+#### 3. Permanent extension and modification of special rules for child tax credit
+##### (a) In general
+Section 24 of the Internal Revenue Code of 1986 is amended by striking subsections (a), (b), and (c) and inserting the following new subsections:
+(a) Allowance of credit There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of— (1) $3,500 for each qualifying child of the taxpayer ($4,500 in the case of a qualifying child who has not attained age 6 as of the close of the calendar year in which the taxable year of the taxpayer begins), and (2) in the case of any taxable year beginning before January 1, 2026, $500 for each qualifying dependent (other than a qualifying child) of the taxpayer. (b) Limitation based on adjusted gross income The amount of the credit allowable under subsection (a) shall be reduced (but not below zero) by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income exceeds $400,000 in the case of a joint return ($200,000 in any other case). For purposes of the preceding sentence, the term “modified adjusted gross income” means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933. (c) Qualifying child; qualifying dependent For purposes of this section— (1) Qualifying child The term qualifying child means any qualifying dependent of the taxpayer— (A) who is a qualifying child (as defined in section 152(c)) of the taxpayer, (B) who has not attained age 18 at the close of the calendar year in which the taxable year of the taxpayer begins, and (C) whose name and social security number are included on the taxpayer’s return of tax for the taxable year. (2) Qualifying dependent The term qualifying dependent means any dependent of the taxpayer (as defined in section 152 without regard to all that follows resident of the United States in section 152(b)(3)(A)) whose name and TIN are included on the taxpayer’s return of tax for the taxable year. (3) Social security number defined For purposes of this subsection, the term social security number means, with respect to a return of tax, a social security number issued to an individual by the Social Security Administration, but only if the social security number is issued— (A) to a citizen of the United States or pursuant to subclause (I) (or that portion of subclause (III) that relates to subclause (I)) of section 205(c)(2)(B)(i) of the Social Security Act, and (B) on or before the due date of filing such return. .
+##### (b) Portion of credit refundable
+Section 24(d)(1) of such Code is amended—
+**(1)**
+by striking subparagraph (A) and inserting the following:
+(A) the credit which would be allowed under this section determined— (i) without regard to subsection (a)(2), and (ii) without regard to this subsection (other than this subparagraph) and the limitation under section 26(a), or , and
+**(2)**
+in subparagraph (B)(i), by striking 15 percent of so much of the taxpayer's earned income (within the meaning of section 32) which is taken into account in computing taxable income for the taxable year as exceeds $3,000 and inserting 15.3 percent of the taxpayer's earned income (within the meaning of section 32) which is taken into account in computing taxable income .
+##### (c) Conforming amendments
+**(1)**
+Section 24(e) of such Code is amended to read as follows:
+(e) Taxpayer identification requirement No credit shall be allowed under this section if the identifying number of the taxpayer was issued after the due date for filing the return of tax for the taxable year. .
+**(2)**
+Section 24 of such Code is amended by striking subsection (h).
+##### (d) Removal of deadwood
+**(1)**
+Section 24 of such Code is amended by striking subsections (i), (j), and (k).
+**(2)**
+Chapter 77 of such Code is amended by striking section 7527A (and by striking the item relating to section 7527A in the table of sections for such chapter).
+**(3)**
+Section 26(b)(2) of such Code is amended by inserting and at the end of subparagraph (X), by striking , and at the end of subparagraph (Y) and inserting a period, and by striking subparagraph (Z).
+**(4)**
+Section 3402(f)(1)(C) of such Code is amended by striking section 24 (determined after application of subsection (j) thereof) and inserting section 24(a) .
+**(5)**
+Section 6211(b)(4)(A) of such Code is amended—
+**(A)**
+by striking 24 by reason of subsections (d) and (i)(1) thereof and inserting 24(d) , and
+**(B)**
+by striking 6428B, and 7527A and inserting and 6428B .
+**(6)**
+Section 1324(b)(2) of title 31, United States Code, is amended by striking 6431, or 7527A and inserting or 6431 .
+##### (e) Effective date
+The amendments made by this section shall apply to taxable years beginning after December 31, 2024.
+
+
+## Timeline
+
+- 2025-01-28: Introduced in House
+- 2025-01-28 - IntroReferral: Introduced in House
+- 2025-01-28 - IntroReferral: Introduced in House
+- 2025-01-28 - IntroReferral: Referred to the House Committee on Ways and Means.
+- Latest action: 2025-01-28: Introduced in House

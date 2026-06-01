@@ -1,0 +1,53 @@
+# S 4584: Norma Ruth Criswell Carpenter & Clovis C. Criswell Grant Parish Restoration Act of 2026
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2026-05-20
+- Latest action: 2026-05-20 - Introduced in Senate
+- Policy area: 
+- Sponsor: Sen. Cassidy, Bill [R-LA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/4584
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2026-05-20
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4584is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2026-05-20
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4584is.xml
+
+II
+119th CONGRESS
+2d Session
+S. 4584
+IN THE SENATE OF THE UNITED STATES
+May 20, 2026 Mr. Cassidy introduced the following bill; which was read twice and referred to the Committee on Finance
+A BILL
+To amend the Internal Revenue Code of 1986 to expand the new markets tax credit, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Norma Ruth Criswell Carpenter & Clovis C. Criswell Grant Parish Restoration Act of 2026 .
+#### 2. Modification of rules for high migration rural counties under new markets tax credit
+##### (a) In general
+Section 45D(e)(5)(B) of the Internal Revenue Code of 1986 is amended by inserting, determined without regard to individuals included in the institutionalized group quarters population (as defined by the Bureau of the Census in such census) before the period at the end.
+##### (b) Effective date
+The amendment made by this section shall apply to investments made after the date of the enactment of this Act.
+#### 3. Special new markets tax credit rule for counties in which the Federal government owns a large portion of land
+##### (a) In general
+Section 45D(e) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+(6) Low-income communities with population densities suppressed by uninhabited Federal lands (A) In general In the case of any population census tract located in a county in which not less than 30 percent of the land is owned by the Federal Government on December 31, 2025, paragraph (1)(A) shall be applied by substituting 15 percent for 20 percent . (B) Treatment of military installations For purposes of this paragraph, land used as a military installation shall not be treated as land owned by the Federal Government. (C) Treatment of Federal lands held in trust for tribes For purposes of this paragraph, land owned by the Federal Government and held in trust for Native Americans shall not be treated as land owned by the Federal Government. .
+##### (b) Effective date
+The amendment made by this section shall apply to investments made after December 31, 2025.
+
+
+## Timeline
+
+- 2026-05-20: Introduced in Senate
+- 2026-05-20 - IntroReferral: Introduced in Senate
+- 2026-05-20 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2026-05-20: Introduced in Senate

@@ -1,0 +1,176 @@
+# HRES 605: Establishing the Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021.
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-07-23
+- Latest action: 2025-07-23 - Submitted in House
+- Policy area: Congress
+- Sponsor: Rep. Loudermilk, Barry [R-GA-11]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-resolution/605
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+This resolution establishes a select investigative subcommittee of the Committee on the Judiciary called the Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021.
+
+The select subcommittee shall be composed of not more than eight Members, Delegates, or the Resident Commissioner appointed by the Speaker of the House, of whom not more than three shall be appointed in consultation with the minority leader.
+
+The resolution authorizes and directs the select subcommittee to conduct a full and complete investigation and study and issue a final report of the events surrounding January 6, 2021.
+
+The resolution authorizes the chair of the select subcommittee to receive information available to the Permanent Select Committee on Intelligence; to extend certain periods for questioning witnesses; and to use depositions, subpoenas, and interrogatories to collect information. The select subcommittee may not hold a markup of legislation.
+
+The select subcommittee's final report shall be submitted to the Committee on the Judiciary by December 31, 2026. The select subcommittee terminates 30 days after filing the final report or on the last day of the 119th Congress, whichever comes first.
+
+## Text Versions
+
+### IH
+- Date: 2025-07-23
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres605ih.xml
+
+### EH
+- Date: 2025-09-03
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres605eh.xml
+
+
+## Full Bill Text
+
+### IH
+- Date: 2025-07-23
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres605ih.xml
+
+IV
+119th CONGRESS
+1st Session
+H. RES. 605
+IN THE HOUSE OF REPRESENTATIVES
+July 23, 2025 Mr. Loudermilk submitted the following resolution; which was referred to the Committee on Rules
+RESOLUTION
+Establishing the Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021.
+#### 1. Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021
+##### (a) Establishment; composition
+**(1) Establishment**
+There is hereby established for the One Hundred Nineteenth Congress a select investigative subcommittee of the Committee on the Judiciary called the Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021 (hereinafter referred to as the “select subcommittee”).
+**(2) Composition**
+**(A)**
+The select subcommittee shall be composed of not more than 8 Members, Delegates, or the Resident Commissioner appointed by the Speaker, of whom not more than 3 shall be appointed in consultation with the minority leader. The Speaker shall designate one member of the select subcommittee as its chair. Any vacancy in the select subcommittee shall be filled in the same manner as the original appointment.
+**(B)**
+Each member appointed to the select subcommittee shall be treated as though a member of the Committee on the Judiciary for purposes of the select subcommittee.
+**(C)**
+The chair and ranking minority member of the Committee on the Judiciary shall be ex officio members of the select subcommittee but shall have no vote in the select subcommittee and may not be counted for purposes of determining a quorum thereof.
+**(3) Service**
+Service on the select subcommittee shall not count against the limitations in clause 5(b)(2)(A) of rule X of the Rules of the House of Representatives.
+##### (b) Investigative functions and authority
+The select subcommittee is authorized and directed to conduct a full and complete investigation and study and issue a final report of the events surrounding January 6, 2021 regarding matters within the jurisdiction of the Committee on the Judiciary under clause 1(l) of rule X of the Rules of the House of Representatives. The select subcommittee may not hold a markup of legislation.
+##### (c) Procedure
+**(1)**
+Rule XI of the Rules of the House of Representatives and the rules of the Committee on the Judiciary shall apply to the select subcommittee in the same manner as a subcommittee except as follows:
+**(A)**
+The chair of the select subcommittee may, after consultation with the ranking minority member, recognize—
+**(i)**
+members of the select subcommittee to question a witness for periods longer than five minutes as though pursuant to clause 2(j)(2)(B) of such rule XI; and
+**(ii)**
+staff of the select subcommittee or staff of the Committee on the Judiciary to question a witness as though pursuant to clause 2(j)(2)(C) of such rule XI.
+**(B)**
+The chair of the select subcommittee may authorize and issue subpoenas pursuant to clause 2(m) of rule XI in the investigation, study, and report conducted pursuant to subsection (b), including for the purpose of taking depositions.
+**(C)**
+With regard to the full scope of investigative authority under subsection (b), the select subcommittee shall be authorized to receive information available to the Permanent Select Committee on Intelligence, consistent with congressional reporting requirements for intelligence and intelligence-related activities, and any such information received shall be subject to the terms and conditions applicable under clause 11 of rule X.
+**(2)**
+The chair of the select subcommittee is authorized to compel by subpoena the furnishing of information by interrogatory.
+**(3)**
+**(A)**
+The chair of the select subcommittee, upon consultation with the ranking minority member, may order the taking of depositions, including pursuant to subpoena, by a Member, counsel of the select subcommittee, or counsel of the Committee on the Judiciary, in the same manner as a standing committee pursuant to section 3(t) of House Resolution 5, One Hundred Nineteenth Congress.
+**(B)**
+Depositions taken under the authority prescribed in this paragraph shall be governed by the procedures submitted by the chair of the Committee on Rules for printing in the Congressional Record on January 14, 2025.
+**(4)**
+Subpoenas authorized pursuant to this resolution may be signed by the chair of the select subcommittee or a designee.
+**(5)**
+The provisions of this resolution shall govern the proceedings of the select subcommittee in the event of any conflict with the rules of the House or of the Committee on the Judiciary.
+##### (d) Transfer of records
+The Committee on House Administration is directed to transfer any records in any form relating to the matters described in subsection (b) to the select subcommittee not later than seven days after adoption of the resolution by the House. Such records shall become the records of the select subcommittee.
+##### (e) Successor
+The Committee on the Judiciary is the “successor in interest” to the select subcommittee for purposes of clause 8(c) of rule II of the Rules of the House of Representatives.
+##### (f) Final report
+The final report of the select subcommittee shall be submitted to the Committee on the Judiciary by December 31, 2026.
+##### (g) Termination
+The select subcommittee shall terminate—
+**(1)**
+30 days after filing the final report under subsection (f); or
+**(2)**
+on the last day of the One Hundred Nineteenth Congress,
+whichever occurs earlier.
+
+### EH
+- Date: 2025-09-03
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres605eh.xml
+
+IV
+119th CONGRESS
+1st Session
+H. RES. 605
+In the House of Representatives, U. S.,
+September 3, 2025
+RESOLUTION
+Establishing the Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021.
+#### 1. Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021
+##### (a) Establishment; composition
+**(1) Establishment**
+There is hereby established for the One Hundred Nineteenth Congress a select investigative subcommittee of the Committee on the Judiciary called the Select Subcommittee to Investigate the Remaining Questions Surrounding January 6, 2021 (hereinafter referred to as the “select subcommittee”).
+**(2) Composition**
+**(A)**
+The select subcommittee shall be composed of not more than 8 Members, Delegates, or the Resident Commissioner appointed by the Speaker, of whom not more than 3 shall be appointed in consultation with the minority leader. The Speaker shall designate one member of the select subcommittee as its chair. Any vacancy in the select subcommittee shall be filled in the same manner as the original appointment.
+**(B)**
+Each member appointed to the select subcommittee shall be treated as though a member of the Committee on the Judiciary for purposes of the select subcommittee.
+**(C)**
+The chair and ranking minority member of the Committee on the Judiciary shall be ex officio members of the select subcommittee but shall have no vote in the select subcommittee and may not be counted for purposes of determining a quorum thereof.
+**(3) Service**
+Service on the select subcommittee shall not count against the limitations in clause 5(b)(2)(A) of rule X of the Rules of the House of Representatives.
+##### (b) Investigative functions and authority
+The select subcommittee is authorized and directed to conduct a full and complete investigation and study and issue a final report of the events surrounding January 6, 2021 regarding matters within the jurisdiction of the Committee on the Judiciary under clause 1(l) of rule X of the Rules of the House of Representatives. The select subcommittee may not hold a markup of legislation.
+##### (c) Procedure
+**(1)**
+Rule XI of the Rules of the House of Representatives and the rules of the Committee on the Judiciary shall apply to the select subcommittee in the same manner as a subcommittee except as follows:
+**(A)**
+The chair of the select subcommittee may, after consultation with the ranking minority member, recognize—
+**(i)**
+members of the select subcommittee to question a witness for periods longer than five minutes as though pursuant to clause 2(j)(2)(B) of such rule XI; and
+**(ii)**
+staff of the select subcommittee or staff of the Committee on the Judiciary to question a witness as though pursuant to clause 2(j)(2)(C) of such rule XI.
+**(B)**
+The chair of the select subcommittee may authorize and issue subpoenas pursuant to clause 2(m) of rule XI in the investigation, study, and report conducted pursuant to subsection (b), including for the purpose of taking depositions.
+**(C)**
+With regard to the full scope of investigative authority under subsection (b), the select subcommittee shall be authorized to receive information available to the Permanent Select Committee on Intelligence, consistent with congressional reporting requirements for intelligence and intelligence-related activities, and any such information received shall be subject to the terms and conditions applicable under clause 11 of rule X.
+**(2)**
+The chair of the select subcommittee is authorized to compel by subpoena the furnishing of information by interrogatory.
+**(3)**
+**(A)**
+The chair of the select subcommittee, upon consultation with the ranking minority member, may order the taking of depositions, including pursuant to subpoena, by a Member, counsel of the select subcommittee, or counsel of the Committee on the Judiciary, in the same manner as a standing committee pursuant to section 3(t) of House Resolution 5, One Hundred Nineteenth Congress.
+**(B)**
+Depositions taken under the authority prescribed in this paragraph shall be governed by the procedures submitted by the chair of the Committee on Rules for printing in the Congressional Record on January 14, 2025.
+**(4)**
+Subpoenas authorized pursuant to this resolution may be signed by the chair of the select subcommittee or a designee.
+**(5)**
+The provisions of this resolution shall govern the proceedings of the select subcommittee in the event of any conflict with the rules of the House or of the Committee on the Judiciary.
+##### (d) Transfer of records
+The Committee on House Administration is directed to transfer any records in any form relating to the matters described in subsection (b) to the select subcommittee not later than seven days after adoption of the resolution by the House. Such records shall become the records of the select subcommittee.
+##### (e) Successor
+The Committee on the Judiciary is the “successor in interest” to the select subcommittee for purposes of clause 8(c) of rule II of the Rules of the House of Representatives.
+##### (f) Final report
+The final report of the select subcommittee shall be submitted to the Committee on the Judiciary by December 31, 2026.
+##### (g) Termination
+The select subcommittee shall terminate—
+**(1)**
+30 days after filing the final report under subsection (f); or
+**(2)**
+on the last day of the One Hundred Nineteenth Congress,
+whichever occurs earlier.
+
+
+## Timeline
+
+- 2025-07-23: Introduced in House
+- 2025-07-23 - IntroReferral: Referred to the House Committee on Rules.
+- 2025-07-23 - IntroReferral: Submitted in House
+- 2025-07-23 - IntroReferral: Submitted in House
+- 2025-09-03 14:07:30 - Floor: Pursuant to the provisions of H. Res. 672, H. Res. 605 is considered passed House.
+- 2025-09-03 14:07:30 - Floor: Pursuant to the provisions of H. Res. 672, H. Res. 605 is considered passed House. (consideration: CR H3780; text: CR H3780)
+- Latest action: 2025-07-23: Submitted in House

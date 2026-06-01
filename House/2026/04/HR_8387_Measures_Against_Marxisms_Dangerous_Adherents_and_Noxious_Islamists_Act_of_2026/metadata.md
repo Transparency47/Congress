@@ -1,0 +1,326 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/8387?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/8387
+- Title: Measures Against Marxism’s Dangerous Adherents and Noxious Islamists Act of 2026
+- Congress: 119
+- Bill type: HR
+- Bill number: 8387
+- Origin chamber: House
+- Introduced date: 2026-04-20
+- Update date: 2026-05-01T19:19:53Z
+- Update date including text: 2026-05-01T19:19:53Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2026-04-20: Introduced in House
+- 2026-04-20 - IntroReferral: Introduced in House
+- 2026-04-20 - IntroReferral: Introduced in House
+- 2026-04-20 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2026-04-20: Introduced in House
+
+## Actions
+
+- 2026-04-20 - IntroReferral: Introduced in House
+- 2026-04-20 - IntroReferral: Introduced in House
+- 2026-04-20 - IntroReferral: Referred to the House Committee on the Judiciary.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-04-20",
+    "latestAction": {
+      "actionDate": "2026-04-20",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8387",
+    "number": "8387",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Immigration"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000614",
+        "district": "21",
+        "firstName": "Chip",
+        "fullName": "Rep. Roy, Chip [R-TX-21]",
+        "lastName": "Roy",
+        "party": "R",
+        "state": "TX"
+      }
+    ],
+    "title": "Measures Against Marxism\u2019s Dangerous Adherents and Noxious Islamists Act of 2026",
+    "type": "HR",
+    "updateDate": "2026-05-01T19:19:53Z",
+    "updateDateIncludingText": "2026-05-01T19:19:53Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-04-20",
+      "committees": {
+        "item": {
+          "name": "Judiciary Committee",
+          "systemCode": "hsju00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on the Judiciary.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2026-04-20",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2026-04-20",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-04-20T16:02:25Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "M001212",
+      "district": "1",
+      "firstName": "Barry",
+      "fullName": "Rep. Moore, Barry [R-AL-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "AL"
+    },
+    {
+      "bioguideId": "S001224",
+      "district": "3",
+      "firstName": "Keith",
+      "fullName": "Rep. Self, Keith [R-TX-3]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Self",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "O000175",
+      "district": "5",
+      "firstName": "Andrew",
+      "fullName": "Rep. Ogles, Andrew [R-TN-5]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Ogles",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "TN"
+    },
+    {
+      "bioguideId": "F000484",
+      "district": "6",
+      "firstName": "Randy",
+      "fullName": "Rep. Fine, Randy [R-FL-6]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Fine",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "FL"
+    },
+    {
+      "bioguideId": "B001317",
+      "district": "2",
+      "firstName": "Josh",
+      "fullName": "Rep. Brecheen, Josh [R-OK-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Brecheen",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "OK"
+    },
+    {
+      "bioguideId": "M001211",
+      "district": "15",
+      "firstName": "Mary",
+      "fullName": "Rep. Miller, Mary E. [R-IL-15]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Miller",
+      "middleName": "E.",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "G000603",
+      "district": "26",
+      "firstName": "Brandon",
+      "fullName": "Rep. Gill, Brandon [R-TX-26]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Gill",
+      "party": "R",
+      "sponsorshipDate": "2026-04-20",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "H001086",
+      "district": "1",
+      "firstName": "Diana",
+      "fullName": "Rep. Harshbarger, Diana [R-TN-1]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Harshbarger",
+      "party": "R",
+      "sponsorshipDate": "2026-04-21",
+      "state": "TN"
+    },
+    {
+      "bioguideId": "N000190",
+      "district": "5",
+      "firstName": "Ralph",
+      "fullName": "Rep. Norman, Ralph [R-SC-5]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Norman",
+      "party": "R",
+      "sponsorshipDate": "2026-04-27",
+      "state": "SC"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8387ih.xml",
+      "text": "I\n119th CONGRESS\n2d Session\nH. R. 8387\nIN THE HOUSE OF REPRESENTATIVES\nApril 20, 2026 Mr. Roy (for himself, Mr. Moore of Alabama , Mr. Self , Mr. Ogles , Mr. Fine , Mr. Brecheen , Mrs. Miller of Illinois , and Mr. Gill of Texas ) introduced the following bill; which was referred to the Committee on the Judiciary\nA BILL\nTo amend the Immigration and Nationality Act to limit alien eligibility for admission and naturalization and enable deportation and denaturalization for any membership, affiliation, or advocacy of socialist, communist, Chinese communist, Marxist, or Islamic fundamentalist doctrines, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Measures Against Marxism\u2019s Dangerous Adherents and Noxious Islamists Act of 2026 .\n#### 2. Limitation on alien eligibility for admission and naturalization\n##### (a) Immigrant alien membership in totalitarian party\nSection 212(a)(3)(D) of the Immigration and Nationality Act ( 8 U.S.C. 1182(a)(3)(D) ) is amended\u2014\n**(1)**\nin the heading, by striking Immigrant and inserting Alien ;\n**(2)**\nin clause (i)\u2014\n**(A)**\nby striking immigrant and inserting alien ; and\n**(B)**\nby striking with the Communist or any other totalitarian party (or subdivision or affiliate thereof), domestic or foreign, and inserting\nwith\u2014 (I) a Chinese communist party, (II) a communist party, (III) a socialist party, (IV) an Islamic fundamentalist party, or (V) or any other totalitarian party (or subdivision or affiliate thereof), domestic or foreign, ;\n**(3)**\nin clause (ii)\u2014\n**(A)**\nin the heading by striking for involuntary membership ;\n**(B)**\nby striking is or was involuntary, or ;\n**(C)**\nby striking 16 and inserting 14 ; and\n**(D)**\nby striking , by operation of law, or for purposes of obtaining employment, food rations, or other essentials of living and whether necessary for such purposes ;\n**(4)**\nby striking clauses (iii) and (iv); and\n**(5)**\nby adding at the end the following:\n(iii) Alien advocacy for socialist, communist, Chinese communist, Marxist, or Islamic fundamentalist forms of governments (I) In general Any alien who advocates or advocated for, or who is or was affiliated with, any organization that advocates or advocated for the economic, international, or governmental doctrines of socialism, communism, Chinese communism, Marxism, or Islamic fundamentalism is inadmissible. (II) Exception Subclause (I) shall not apply to an alien because of advocacy if the alien establishes to the satisfaction of the consular officer when applying for a visa (or to the satisfaction of the Attorney General when applying for admission) that the advocacy is or was solely when under 14 years of age. (iv) Nonreviewability Notwithstanding any other provision of law, any determination made under this subparagraph shall be final and shall not be subject to review by any court. .\n##### (b) Classes of deportable aliens\nSection 237(a)(4) of the Immigration and Nationality Act ( 8 U.S.C. 1227(a)(4) ) is amended by adding at the end the following:\n(G) Furtherance of socialism, communism, Chinese communist, Marxism, or Islamic fundamentalism (i) In general Any alien who\u2014 (I) has engaged, is engaged, or at any time after admission engages in\u2014 (aa) advocacy for communism, Chinese communism, socialism, Marxism, or Islamic fundamentalism; (bb) writing, distributing, circulating, printing, displaying, possessing, or publishing any written, electronic, or printed matter that advocates for communism, Chinese communism, socialism, Marxism, or Islamic fundamentalism; or (cc) writing, distributing, circulating, printing, displaying, possessing, or publishing any written, electronic, or printed matter on behalf of or that advocates for a Chinese communist party, a communist party, a socialist party, or an Islamic fundamentalist party; or (II) has been a member of or affiliated with, is a member of or affiliated with, or at any time after admission becomes a member of or affiliated with\u2014 (aa) a Chinese communist party, a communist party, a socialist Party, or an Islamic fundamentalist party; or (bb) an organization that advocates communism, Chinese communism, socialism, Marxism, or Islamic fundamentalism, or a predecessor, successor, or front for such organization, is deportable and shall be removed from the United States. (ii) Nonreviewability Notwithstanding any other provision of law, any determination made under this subparagraph shall be final and shall not be subject to review by any court. .\n##### (c) Nationality through naturalization\nSection 313 of the Immigration and Nationality Act ( 8 U.S.C. 1424 ) is amended\u2014\n**(1)**\nin the heading by inserting socialist, communist, Chinese communist, Marxist, Islamic fundamentalist, or after favor ;\n**(2)**\nin subsection (a)\u2014\n**(A)**\nin paragraph (1), by inserting or was after who is ;\n**(B)**\nby amending paragraph (2) to read as follows:\n(2) who is or was a member of or affiliated with, or who advocates or advocated for\u2014 (A) a communist party; (B) a socialist party; (C) a Chinese communist party; (D) an Islamic fundamentalist party; (E) any other totalitarian party of the United States; or (F) any organization that advocates or advocated for, or is or was affiliated with, any party described in subparagraphs (A) through (E); or ;\n**(C)**\nin paragraph (3)\u2014\n**(i)**\nby inserting or advocated, or who is or was a member of or affiliated with any organization that advocates or advocated, after , advocates ;\n**(ii)**\nby striking and governmental doctrines of world communism the first place it appears and inserting or governmental doctrines of world communism, socialism, communism, Chinese communism, Marxism, Islamic fundamentalism, ;\n**(iii)**\nby striking or who is a member of or affiliated with any organization that advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, ; and\n**(iv)**\nby inserting , electronic, after written ;\n**(D)**\nin paragraph (4), by striking advocates or teaches or who is and inserting advocates or advocated, who teaches, or who is or was ;\n**(E)**\nin paragraph (5)\u2014\n**(i)**\nby striking who writes or publishes or causes and inserting who writes or wrote, who publishes or published, or who causes or caused ;\n**(ii)**\nby striking knowingly causes and inserting knowingly causes or caused ;\n**(iii)**\nby striking has in his and inserting has or had in their ;\n**(iv)**\nby inserting , electronic, after any written ;\n**(v)**\nby striking and governmental doctrines of world communism and inserting or governmental doctrines of world communism, socialism, communism, Chinese communism, Marxism, or Islamic fundamentalism, ; and\n**(vi)**\nby inserting (F) for a socialist party, a communist party, a Chinese communist party, or an Islamic fundamentalist party; or after dictatorship; or ; and\n**(F)**\nby amending paragraph (6) to read as follows:\n(6) who is or was a member of, or affiliated with, any organization that\u2014 (A) writes, circulates, distributes, prints, publishes, or displays; (B) wrote, circulated, distributed, printed, published, or displayed; (C) causes or caused to be written, circulated, distributed, printed, published, or displayed; or (D) has or had in its possession for the purpose of circulation, distribution, publication, issue, or display, any written, electronic, or printed matter of the character described in paragraph (5). ;\n**(3)**\nin subsection (c), by striking ten and inserting 20 ;\n**(4)**\nin subsection (d)\u2014\n**(A)**\nby striking is or was involuntary, or ;\n**(B)**\nby striking sixteen and inserting 14 ; and\n**(C)**\nby striking , or that such membership or affiliation is or was by operation of law, or was for purposes of obtaining employment, food rations, or other essentials of living and where necessary for such purposes ;\n**(5)**\nby striking subsection (e); and\n**(6)**\nby adding at the end the following:\n(e) Nonreviewability Notwithstanding any other provision of law, any determination made under this section shall be final and shall not be subject to review by any court. .\n##### (d) Revocation of naturalization\nSection 340(c) of the Immigration and Nationality Act ( 8 U.S.C. 1451(c) ) is amended\u2014\n**(1)**\nby striking within five years next ; and\n**(2)**\nby striking , in the absence of countervailing evidence, .\n##### (e) Definitions\nSection 101(a) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a) ) is amended by adding at the end the following:\n(53) The term socialism means a movement, revolutionary plan, or transitional phase between a market-driven economic model and communism or socialism where political power is sought or used, through violent or other means, by a collective class or group to\u2014 (A) restructure or advocate the restructuring of economic and social relations to reduce class distinctions; (B) establish or advocate government, worker, or collective control, influence, or ownership over substantially all production means or asset classes; (C) regulate or advocate the regulation of the fundamentals of market and asset supply, demand, and functions to make a supreme government or establish collective control or ownership over substantially all interests of asset owners, traders, or speculators; (D) suppress all threats to a single ruling political party, organized on a dictatorial basis, with so close an identity between the policies of such party and the government policies of the country in which the party exists that the government and the party constitute an indistinguishable unit; or (E) institute or advocate the economic, international, or governmental doctrines of Karl Marx or Friedrich Engels or any member, official, or revolutionary leader in a socialist party. (54) The term communism means a movement, revolutionary plan, or societal structure where political power is sought or used, though violent or other means, by a collective class or group to\u2014 (A) establish or advocate a classless, money-less, or stateless society; (B) restructure or advocate the restructuring of economic and social relations to abolish class distinctions; (C) assert or advocate state or collective control over substantially all aspects of political, cultural, social, or economic life; (D) enforce or advocate government, worker, or collective ownership, influence, or control over substantially all assets and markets; (E) suppress threats to a single ruling political party, organized on a dictatorial basis, with so close an identity between the policies of such party and the government policies of the country in which the party exists that the government and the party constitute an indistinguishable unit; or (F) institute or advocate the economic, international, or governmental doctrines of Karl Marx, Friedrich Engels, or any member, official, or revolutionary leader in a historic or current communist party. (55) The term Chinese communism means a movement, revolutionary plan, or societal structure, either beholden to the Chinese government or possessing Chinese communist characteristics where political power is sought or used, through violent or other means, by a collective class or group to\u2014 (A) establish or advocate a society, culture, government, or economy with Chinese communist characteristics; (B) require or advocate that companies, cultural entities, or organizations abide by Chinese communist party doctrines or dictates; (C) assert Chinese communist party control or influence over substantially all aspects of political, cultural, social, or economic life; (D) enforce or advocate Chinese communist party ownership, influence, or control over substantially all assets and markets; (E) suppress threats to a Chinese communist party, organized on a dictatorial basis, with so close an identity between the policies of such party and the government policies of the country in which the party exists that the government and the party constitute an indistinguishable unit; or (F) institute or advocate the economic, international, or governmental doctrines of Mao Zedong, Deng Xiaoping, Xi Jinping, or any member, official, or revolutionary leader in a Chinese communist party. (56) The term Marxism means a movement, revolutionary plan, or societal structure, either in a final or transitory stage, where political power is sought or used, through violent or other means, by a collective class or group to\u2014 (A) advocate that human history is primarily driven by class struggles between those who earn their living on asset ownership and profits and those who earn their living off their labor; (B) advocate that the foundation of all legal, political, cultural, societal, and social structures is class or economic standing and the destruction of such structures; (C) establish or advocate for an atheistic society or government prohibitions on private religious practices; (D) establish or advocate resource distribution from each person according to their ability, to each person according to their needs; or (E) institute or advocate the economic, international, or governmental doctrines of Karl Marx, Friedrich Engels, or any member, official, or revolutionary leader in a socialist, communist, or Chinese communist party. (57) The term Islamic fundamentalism means a movement to promote or achieve an Islamic society or enforce Islamic values where legal, religious, military, social, cultural, academic, or political power is sought or used to\u2014 (A) advocate or impose Islam as the state sanctioned religion of the United States; (B) advocate or enforce Islamic political, legal, military, social, cultural, or academic authority based upon or enforcing Sharia law in any setting; (C) advocate, justify, or employ militant jihad; (D) advocate or enact the destruction of Christian, Jewish, or other religious communities, churches, synagogues, temples, historical sites, relics, literature, property, organizations, or members; or (E) advocate or justify the destruction of western civilization, including the economic, international, or governmental doctrines of capitalism, constitutionalism, republicanism, or liberalism. (58) The term communist party includes\u2014 (A) the Communist Party of the United States, or any section, subsidiary, branch, affiliate, or subdivision of such party; (B) the Communist Political Association, or any section, subsidiary, branch, affiliate, or subdivision of such association; (C) the Communist Party of any State, foreign state, or political or geographical subdivision of such foreign state, or any section, subsidiary, branch, affiliate, or subdivision of any such party; (D) the direct predecessors or successors of the associations and parties described in subparagraphs (A), (B), and (C), regardless of what name such predecessor or successor may have used, may now bear, or may adopt; and (E) any communist-action or communist-front organization. (59) The term socialist party includes\u2014 (A) the Socialist Party of the United States, or any section, subsidiary, branch, affiliate, or subdivision of such party; (B) the Democratic Socialists of America, or any section, subsidiary, branch, affiliate, or subdivision of such organization; (C) the Socialist Party of any State, foreign state, or political or geographical subdivision of such foreign state, or any section, subsidiary, branch, affiliate, or subdivision of any such party; (D) the direct predecessors or successors of the parties described in subparagraphs (A), (B), and (C), regardless of what name such predecessor or successor may have used, may now bear, or may adopt; and (E) any socialist-action or socialist-front organization. (60) The term Chinese communist party includes\u2014 (A) the Communist Party of China; (B) the Revolutionary Committee of the Chinese Kuomintang; (C) the China Democratic League; (D) the China National Democratic Construction Association; (E) the China Association for Promoting Democracy; (F) the Chinese Peasants and Workers Democratic Party; (G) the China Zhi Gong Party; (H) the Jiusan Society; (I) the Taiwan Democratic Self-Government League; (J) the United Front Work Department; (K) any section, subsidiary, branch, affiliate, or subdivision of any party described in subparagraphs (A) through (J); (L) the direct predecessors or successors of any party described in subparagraphs (A) through (J), regardless of what name such group or organization may have used, may now bear, or may adopt; and (M) any Chinese communist-action or Chinese communist-front organization. (61) The term Islamic fundamentalist party includes\u2014 (A) the Muslim Brotherhood; (B) the Islamic State; (C) the Al-Nour Party; (D) Hamas; (E) Hezbollah; (F) Hizb ut Tahrir; (G) Boko Haram; (H) Al-Shabaab; (I) any political, legal, militant, social, cultural, or academic organization that seeks to implement Sharia law as a contractual or binding basis in any setting; (J) any political, legal, religious, militant, social, cultural, or academic organization that advocates, promotes, or justifies the use of militant jihad; (K) any section, subsidiary, branch, affiliate, or subdivision of any party or organization described in subparagraphs (A) through (J); (L) the direct predecessors or successors of any party or organization described in subparagraphs (A) through (J), regardless of what name such party or organization may have used, may now bear, or may adopt; and (M) any Islamic fundamentalist-action or Islamic fundamentalist-front organization. (62) The term Sharia law means any system of adjudication or contract enforcement, whether governmental or private, rationalized or proscribed, on the basis of Qur\u2019anic, Sunnahic, ijma\u2019ic, or qiyasic precedent, text, or reasoning. (63) The term militant jihad means the use of force, coercion, violence, or terror to\u2014 (A) enforce Islamic values or Sharia law; (B) enforce conversions to Islam; (C) achieve an Islamic political goal; or (D) establish Islam as the state religion. .\n##### (f) Regulations\nThe Attorney General shall issue regulations as necessary to carry out the amendments made by this Act.\n##### (g) Severability\nIf any provision of this Act, an amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act or an amendment made by this Act, or the application thereof to any person or circumstance shall not be affected.",
+      "versionDate": "2026-04-20",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Immigration",
+        "updateDate": "2026-05-01T19:19:53Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-04-20",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8387ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Measures Against Marxism\u2019s Dangerous Adherents and Noxious Islamists Act of 2026",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-04-25T04:38:34Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Measures Against Marxism\u2019s Dangerous Adherents and Noxious Islamists Act of 2026",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-04-25T04:38:33Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend the Immigration and Nationality Act to limit alien eligibility for admission and naturalization and enable deportation and denaturalization for any membership, affiliation, or advocacy of socialist, communist, Chinese communist, Marxist, or Islamic fundamentalist doctrines, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-04-25T04:33:26Z"
+    }
+  ]
+}
+```

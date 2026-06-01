@@ -1,0 +1,68 @@
+# S 1694: DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-05-08
+- Latest action: 2025-05-08 - Introduced in Senate
+- Policy area: Education
+- Sponsor: Sen. Scott, Rick [R-FL]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/1694
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-05-08
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1694is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-05-08
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1694is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1694
+IN THE SENATE OF THE UNITED STATES
+May 8, 2025 Mr. Scott of Florida (for himself, Mr. Budd , and Mr. Cruz ) introduced the following bill; which was read twice and referred to the Committee on Homeland Security and Governmental Affairs
+A BILL
+To establish Department of Homeland Security funding restrictions on institutions of higher education that have a relationship with Confucius Institutes, and for other purposes.
+#### 1. Short title
+This Act may be cited as the DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act .
+#### 2. Limitations on Confucius Institutes’ host schools
+##### (a) Definitions
+In this section:
+**(1) Chinese entity of concern**
+The term Chinese entity of concern means any university or college in the People’s Republic of China that—
+**(A)**
+is involved in the implementation of military-civil fusion;
+**(B)**
+participates in the Chinese defense industrial base;
+**(C)**
+is affiliated with the Chinese State Administration for Science, Technology, and Industry for the National Defense;
+**(D)**
+receives funding from any organization subordinate to the Central Military Commission of the Chinese Communist Party; or
+**(E)**
+provides support to any security, defense, police, or intelligence organization of the Government of the People’s Republic of China or the Chinese Communist Party.
+**(2) Confucius Institute**
+The term Confucius Institute means a cultural institute funded by the Government of the People’s Republic of China.
+**(3) Institution of higher education**
+The term institution of higher education has the meaning given the term in section 102 of the Higher Education Act of 1965 ( 20 U.S.C. 1002 ).
+**(4) Relationship**
+The term relationship means, with respect to an institution of higher education, any contract awarded, or agreement entered into, as well as any in-kind donation or gift, received from a Confucius Institute or Chinese entity of concern.
+##### (b) Restrictions on institutions of higher education
+**(1) In general**
+Beginning with the first fiscal year that begins after the date that is 12 months after the date of enactment of this Act, the Secretary of Homeland Security shall ensure that an institution of higher education that has a relationship with a Confucius Institute or Chinese entity of concern is ineligible to receive any funds from the Department of Homeland Security, unless the institution of higher education terminates the relationship between the institution of higher education and such Confucius Institute or Chinese entity of concern, as the case may be.
+**(2) Termination**
+Upon the termination of a relationship described in paragraph (1), the institution of higher education at issue shall be eligible to receive funds from the Department of Homeland Security.
+
+
+## Timeline
+
+- 2025-05-08: Introduced in Senate
+- 2025-05-08 - IntroReferral: Introduced in Senate
+- 2025-05-08 - IntroReferral: Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- Latest action: 2025-05-08: Introduced in Senate

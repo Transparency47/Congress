@@ -1,0 +1,534 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/2595?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/2595
+- Title: Building Child Care for a Better Future Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 2595
+- Origin chamber: House
+- Introduced date: 2025-04-02
+- Update date: 2025-12-05T22:03:40Z
+- Update date including text: 2025-12-05T22:03:40Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-04-02: Introduced in House
+- 2025-04-02 - IntroReferral: Introduced in House
+- 2025-04-02 - IntroReferral: Introduced in House
+- 2025-04-02 - IntroReferral: Referred to the House Committee on Ways and Means.
+- Latest action: 2025-04-02: Introduced in House
+
+## Actions
+
+- 2025-04-02 - IntroReferral: Introduced in House
+- 2025-04-02 - IntroReferral: Introduced in House
+- 2025-04-02 - IntroReferral: Referred to the House Committee on Ways and Means.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-04-02",
+    "latestAction": {
+      "actionDate": "2025-04-02",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2595",
+    "number": "2595",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Families"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "D000096",
+        "district": "7",
+        "firstName": "Danny",
+        "fullName": "Rep. Davis, Danny K. [D-IL-7]",
+        "lastName": "Davis",
+        "party": "D",
+        "state": "IL"
+      }
+    ],
+    "title": "Building Child Care for a Better Future Act",
+    "type": "HR",
+    "updateDate": "2025-12-05T22:03:40Z",
+    "updateDateIncludingText": "2025-12-05T22:03:40Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-04-02",
+      "committees": {
+        "item": {
+          "name": "Ways and Means Committee",
+          "systemCode": "hswm00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Ways and Means.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-04-02",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-04-02",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-04-02T22:02:20Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "B001278",
+      "district": "1",
+      "firstName": "Suzanne",
+      "fullName": "Rep. Bonamici, Suzanne [D-OR-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Bonamici",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "OR"
+    },
+    {
+      "bioguideId": "M001160",
+      "district": "4",
+      "firstName": "Gwen",
+      "fullName": "Rep. Moore, Gwen [D-WI-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Moore",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "WI"
+    },
+    {
+      "bioguideId": "P000610",
+      "district": "0",
+      "firstName": "Stacey",
+      "fullName": "Del. Plaskett, Stacey E. [D-VI-At Large]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Plaskett",
+      "middleName": "E.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "VI"
+    },
+    {
+      "bioguideId": "H001066",
+      "district": "4",
+      "firstName": "Steven",
+      "fullName": "Rep. Horsford, Steven [D-NV-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Horsford",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "NV"
+    },
+    {
+      "bioguideId": "S001156",
+      "district": "38",
+      "firstName": "Linda",
+      "fullName": "Rep. S\u00e1nchez, Linda T. [D-CA-38]",
+      "isOriginalCosponsor": "True",
+      "lastName": "S\u00e1nchez",
+      "middleName": "T.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "D000399",
+      "district": "37",
+      "firstName": "Lloyd",
+      "fullName": "Rep. Doggett, Lloyd [D-TX-37]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Doggett",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "E000296",
+      "district": "3",
+      "firstName": "Dwight",
+      "fullName": "Rep. Evans, Dwight [D-PA-3]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Evans",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "S001226",
+      "district": "6",
+      "firstName": "Andrea",
+      "fullName": "Rep. Salinas, Andrea [D-OR-6]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Salinas",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "OR"
+    },
+    {
+      "bioguideId": "D000617",
+      "district": "1",
+      "firstName": "Suzan",
+      "fullName": "Rep. DelBene, Suzan K. [D-WA-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "DelBene",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "WA"
+    },
+    {
+      "bioguideId": "C001080",
+      "district": "28",
+      "firstName": "Judy",
+      "fullName": "Rep. Chu, Judy [D-CA-28]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Chu",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "L000557",
+      "district": "1",
+      "firstName": "John",
+      "fullName": "Rep. Larson, John B. [D-CT-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Larson",
+      "middleName": "B.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "CT"
+    },
+    {
+      "bioguideId": "G000585",
+      "district": "34",
+      "firstName": "Jimmy",
+      "fullName": "Rep. Gomez, Jimmy [D-CA-34]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Gomez",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "B001296",
+      "district": "2",
+      "firstName": "Brendan",
+      "fullName": "Rep. Boyle, Brendan F. [D-PA-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Boyle",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "PA"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": "0",
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "DC"
+    },
+    {
+      "bioguideId": "W000822",
+      "district": "12",
+      "firstName": "Bonnie",
+      "fullName": "Rep. Watson Coleman, Bonnie [D-NJ-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Watson Coleman",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "NJ"
+    },
+    {
+      "bioguideId": "C001125",
+      "district": "2",
+      "firstName": "Troy",
+      "fullName": "Rep. Carter, Troy A. [D-LA-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Carter",
+      "middleName": "A.",
+      "party": "D",
+      "sponsorshipDate": "2025-04-02",
+      "state": "LA"
+    },
+    {
+      "bioguideId": "T000481",
+      "district": "12",
+      "firstName": "Rashida",
+      "fullName": "Rep. Tlaib, Rashida [D-MI-12]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Tlaib",
+      "party": "D",
+      "sponsorshipDate": "2025-04-07",
+      "state": "MI"
+    },
+    {
+      "bioguideId": "T000488",
+      "district": "13",
+      "firstName": "Shri",
+      "fullName": "Rep. Thanedar, Shri [D-MI-13]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Thanedar",
+      "party": "D",
+      "sponsorshipDate": "2025-04-07",
+      "state": "MI"
+    },
+    {
+      "bioguideId": "J000310",
+      "district": "32",
+      "firstName": "Julie",
+      "fullName": "Rep. Johnson, Julie [D-TX-32]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Johnson",
+      "party": "D",
+      "sponsorshipDate": "2025-04-14",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "V000130",
+      "district": "52",
+      "firstName": "Juan",
+      "fullName": "Rep. Vargas, Juan [D-CA-52]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Vargas",
+      "party": "D",
+      "sponsorshipDate": "2025-04-28",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "M001237",
+      "district": "8",
+      "firstName": "Kristen",
+      "fullName": "Rep. McDonald Rivet, Kristen [D-MI-8]",
+      "isOriginalCosponsor": "False",
+      "lastName": "McDonald Rivet",
+      "party": "D",
+      "sponsorshipDate": "2025-05-07",
+      "state": "MI"
+    },
+    {
+      "bioguideId": "S001223",
+      "district": "13",
+      "firstName": "Emilia",
+      "fullName": "Rep. Sykes, Emilia Strong [D-OH-13]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Sykes",
+      "middleName": "Strong",
+      "party": "D",
+      "sponsorshipDate": "2025-05-15",
+      "state": "OH"
+    },
+    {
+      "bioguideId": "W000187",
+      "district": "43",
+      "firstName": "Maxine",
+      "fullName": "Rep. Waters, Maxine [D-CA-43]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Waters",
+      "party": "D",
+      "sponsorshipDate": "2025-07-17",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "P000597",
+      "district": "1",
+      "firstName": "Chellie",
+      "fullName": "Rep. Pingree, Chellie [D-ME-1]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Pingree",
+      "party": "D",
+      "sponsorshipDate": "2025-08-26",
+      "state": "ME"
+    },
+    {
+      "bioguideId": "F000481",
+      "district": "2",
+      "firstName": "Shomari",
+      "fullName": "Rep. Figures, Shomari [D-AL-2]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Figures",
+      "party": "D",
+      "sponsorshipDate": "2025-09-08",
+      "state": "AL"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2595ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 2595\nIN THE HOUSE OF REPRESENTATIVES\nApril 2, 2025 Mr. Davis of Illinois (for himself, Ms. Bonamici , Ms. Moore of Wisconsin , Ms. Plaskett , Mr. Horsford , Ms. S\u00e1nchez , Mr. Doggett , Mr. Evans of Pennsylvania , Ms. Salinas , Ms. DelBene , Ms. Chu , Mr. Larson of Connecticut , Mr. Gomez , Mr. Boyle of Pennsylvania , Ms. Norton , Mrs. Watson Coleman , and Mr. Carter of Louisiana ) introduced the following bill; which was referred to the Committee on Ways and Means\nA BILL\nTo amend part A of title IV of the Social Security Act to provide funding to sustain and increase the supply and quality of child care, access to child care, and the child care workforce, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Building Child Care for a Better Future Act .\n#### 2. Increased funding for the Child Care Entitlement to States\n##### (a) In general\nSection 418(a)(3) of the Social Security Act ( 42 U.S.C. 618(a)(3) ) is amended to read as follows:\n(3) Appropriation (A) In general For grants under this section, there are appropriated\u2014 (i) for fiscal year 2026, $20,000,000,000; and (ii) for each fiscal year after fiscal year 2026, the greater of\u2014 (I) the amount appropriated under this subparagraph for the previous fiscal year, increased by the percentage increase (if any) in the consumer price index for all urban consumers (all items; United States city average) for the most recent 12-month period for which data is available; and (II) the amount appropriated under this subparagraph for the previous fiscal year. (B) Amounts reserved Of the amount appropriated under subparagraph (A) for a fiscal year\u2014 (i) an amount equal to 5 percent of such amount shall be available for grants to Indian tribes and tribal organizations; (ii) an amount equal to 4 percent of such amount shall be available for grants to territories; (iii) an amount, not to exceed 1/2 of 1 percent of such amount, shall be reserved by the Secretary to support technical assistance and dissemination activities under paragraphs (3) and (4) of section 658I(a) of the Child Care and Development Block Grant Act of 1990; and (iv) an amount equal to 1/2 of 1 percent of such amount appropriated may be reserved by the Secretary to conduct research and demonstration activities, as well as periodic external, independent evaluations of the impact of the Child Care and Development Block Grant program established under subchapter C of chapter 8 of title VI of the Omnibus Budget Reconciliation Act of 1981 ( Public Law 97\u201335 ), as carried out under this subsection and under such subchapter, on increasing access to child care services and improving the safety and quality of child care services, using scientifically valid research methodologies, and to disseminate the key findings of those evaluations widely and on a timely basis. .\n##### (b) Redistribution of funds reserved for tribal grants\nSection 418(a) of such Act ( 42 U.S.C. 618(a) ) is amended\u2014\n**(1)**\nby redesignating paragraph (5) as paragraph (6); and\n**(2)**\nby inserting after paragraph (4), the following:\n(5) Redistribution of unused tribal grants (A) In general The Secretary shall determine an appropriate procedure for redistributing the amounts described in subparagraph (B) for each fiscal year to each Indian tribe and tribal organization that applies for such amounts, to the extent the Secretary determines that the Indian tribe or tribal organization will be able to use such additional amounts to provide child care assistance. (B) Amounts described The amounts described in this subparagraph are, with respect to a fiscal year, the unused amounts of any payment made to an Indian tribe or tribal organization under this subsection for the fiscal year which the Secretary determines will not be used by the Indian tribe or tribal organization during the period in which such payments are available to be obligated. .\n##### (c) Removal of restriction on application of updated FMAP\nSection 418(a)(2)(C) of such Act ( 42 U.S.C. 618(a)(2)(C) ) is amended by striking , as such section was in effect on September 30, 1995 .\n##### (d) Technical and conforming amendments\nSection 418 of such Act ( 42 U.S.C. 618(a) ) is amended\u2014\n**(1)**\nin subsection (a)\u2014\n**(A)**\nin paragraph (1), in the matter preceding subparagraph (A), by striking paragraph (3) and inserting paragraph (3)(A) and remaining after the application of paragraph (3)(B), ;\n**(B)**\nin paragraph (2)(A), by striking paragraph (3)(A), and inserting paragraph (3)(A) and remaining after the application of paragraph (3)(B) and ;\n**(C)**\nin paragraph (4)\u2014\n**(i)**\nin subparagraph (A), by striking paragraph (3)(C) and inserting paragraph (3)(B)(ii) ; and\n**(ii)**\nby striking subparagraph (E); and\n**(D)**\nin paragraph (6), (as redesignated by subsection (b)(1)), by inserting (as in effect on June 29, 2003) after section 403(a)(1)(D) ;\n**(2)**\nin subsection (b)(1), by striking by a State under this section and inserting by a State, a territory, or an Indian tribe or tribal organization under subsection (a) ;\n**(3)**\nby striking subsection (c) and inserting the following:\n(c) Application of child care and development block grant act of 1990 Notwithstanding any other provision of law, amounts provided to a State, a territory, or a Indian tribe or tribal organization under subsection (a) shall be transferred to the lead agency under the Child Care and Development Block Grant Act of 1990, integrated by the State, territory, or Indian tribe or tribal organization into the programs established by the State, territory, Indian tribe or tribal organization under such Act, and be subject to requirements and limitations of such Act. ; and\n**(4)**\nby striking subsection (d) and inserting the following:\n(d) Definitions In this section: (1) Indian tribe The term Indian tribe means entities included on the list published pursuant to section 104(a) of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 5131(a) ). (2) State The term State means each of the 50 States and the District of Columbia. (3) Territory The term territory means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands. (4) Tribal organization The term tribal organization means\u2014 (A) the recognized governing body of any Indian tribe, and any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities, except that in any case where a contract is let or grant made to an organization to perform services benefitting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and (B) includes a Native Hawaiian organization, as defined in section 6207 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7517 ) and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians. .\n##### (e) Effective date\nThe amendments made by this section take effect on October 1, 2025.\n#### 3. Grants to improve child care workforce, supply, quality, and access in areas of particular need\n##### (a) In general\nSection 418 of the Social Security Act ( 42 U.S.C. 618 ), as amended by section 2, is further amended by adding at the end the following:\n(e) Grants To improve child care workforce, supply, quality, and access in areas of particular need (1) In general Except as otherwise provided in this subsection, the preceding provisions of this section shall not apply to this subsection. (2) Appropriations (A) In general For grants under this subsection to improve child care workforce, supply, quality, and access in areas of particular need, there are appropriated $5,000,000,000 for each fiscal year. (B) Amounts reserved Of the amount appropriated under subparagraph (A) for a fiscal year, the Secretary shall reserve\u2014 (i) an amount equal to 5 percent of such amount for grants to Indian tribes and tribal organizations; (ii) an amount equal to 4 percent of such amount for grants to territories; (iii) an amount, not to exceed \u00bd of 1 percent of such amount, to support technical assistance and dissemination activities related to improving child care workforce, supply, quality, and access, including in areas of particular need, under paragraphs (3) and (4), respectively, of section 658I(a) of the Child Care and Development Block Grant Act of 1990; (iv) an amount equal to \u00bd of 1 percent of such amount to carry out the evaluation required under paragraph (8); and (v) an amount, not to exceed 3 percent of such amount, for administrative expenses of the Secretary in administering this subsection. (3) Grants (A) Indian tribes and tribal organizations The Secretary shall use the amount reserved under paragraph (2)(B)(i) for a fiscal year to make grants under this subsection for the fiscal year to Indian tribes and tribal organizations in amounts that shall be allotted among Indian tribes and tribal organizations in proportion to their respective needs. (B) Territories The Secretary shall use the amount reserved under paragraph (2)(B)(ii) for a fiscal year to make grants under this subsection for the fiscal year to each territory in amounts that shall be allotted among the territories in proportion to their respective needs. (C) States The Secretary shall use the amount appropriated under subparagraph (A) of paragraph (2) for a fiscal year that remains after the application of subparagraph (B) of that paragraph, to make grants for the fiscal year under this subsection to each State in amounts that bear the same proportion to the amount so remaining as the sum of the amount granted under paragraph (1) of subsection (a) and the amount allotted and paid under paragraph (2) of subsection (a) to each such State for the fiscal year (without regard to amounts redistributed under subparagraph (D) of subsection (a)(2) for the fiscal year) bears to the total amounts granted and allotted to all of the States under paragraphs (1) and (2) of that subsection for such fiscal year. (4) Incorporation into CCDBG plan (A) Contents In order to be paid a grant under this subsection for a fiscal year, the lead agency of a State, territory, Indian tribe, or tribal organization shall submit to the Secretary, as part of the initial submission of the Child Care and Development Block Grant plan for the period that includes such fiscal year, or as an amendment to that plan, a description of the planned use of grant funds that\u2014 (i) describes the demographic and economic data and other criteria the lead agency proposes to use to determine whether an area is in particular need of child care; (ii) describes how community members were engaged to identify community-specific needs such as diverse types of care delivery, care for infant and toddlers, multilingual care, and nontraditional operational hours; (iii) identifies specific areas determined to be in particular need of child care, where such areas are located, the size and scope of such areas, and the age groups of children in need of child care in such areas; (iv) outlines how the lead agency proposes to use the grant funds to increase child care workforce, supply, quality, and access for all families, including families who are eligible for subsidies under the Child Care and Development Block Grant Act of 1990, in the areas determined to be in particular need of child care through activities such as\u2014 (I) contracting and providing grants to child care providers to pay for specified numbers of child care slots (including slots in family child care homes) and to build supply and stability by including expectations for compensation in the contracts and grants; (II) establishing or expanding the operation of community or neighborhood-based family child care networks by providing grants and contracts for training and other activities that increase the supply and quality of family child care; (III) furnishing child care providers with start-up funding, technical assistance, support for improving business practices, and support navigating real estate financing and development processes, including leveraging additional facilities financing resources; (IV) providing guidance to child care providers on negotiating with landlords or applying for land or home ownership; (V) providing technical assistance to child care providers throughout the child care licensing process; (VI) recruiting child care providers and staff; (VII) supporting the training and professional development of the child care workforce including through apprenticeships, partnerships with labor unions or labor-management partnerships, and partnerships with public and nonprofit institutions of higher education to provide comprehensive scholarships that support equitable access to, and completion of, credentials and degrees in early childhood education; (VIII) attracting and maintaining an effective and diverse early care workforce by increasing total compensation, providing wage supplements or bonuses, or offering wage and retention rewards and ensuring adequate wages for staff of child care providers, including sole proprietors and independent contractors, that, at a minimum\u2014 (aa) provide a living wage for all staff of such child care providers; and (bb) are adjusted on an annual basis for cost of living increases to ensure payment rates remain sufficient to meet the requirements of this subsection; (IX) subject to subparagraph (C), providing financial support (without regard to limitations on expenditures imposed under section 658F(b) of the Child Care and Development Block Grant Act of 1990) for projects involving the purchase or improvement of land, a major renovation, repurposing facilities, the purchase, acquisition, construction, or permanent improvement of any building or facility, including major renovation and minor remodeling, indoor or outdoor modifications, including such modifications to support accessibility for children with disabilities, predevelopment or soft costs, and for projects to upgrade child care facilities to assure that providers meet State and local child care standards, including applicable health, safety, and quality requirements; or (X) subject to subparagraph (C), contracting with an intermediary with experience securing private sources of capital financing for child care facilities or other low-income community development projects to provide financial or managerial assistance, technical support through the real estate process, including successful execution of Federal interest documentation, or furnishing an evaluation of sustainability or operational capacity of providers; (v) in the case of a State or territory, contains an assurance that the State or territory shall collaborate with respect to the use of grant funds to improve child care workforce, supply, quality, and access in areas of particular need identified within the State or territory with each Indian tribe and tribal organization in such area; and (vi) contains such other information as the Secretary may require. (B) Approval The Secretary shall approve a planned use of funds submission that contains the information required under subparagraph (A), and, with respect to the proposed criteria required under subparagraph (A)(i), shall accept any reasonable criteria that are based on internal analyses by a lead agency of a State, territory, Indian tribe, or tribal organization or analyses by organizations with experience in evaluating research on various approaches to identifying areas where there is a low supply of child care that is affordable and that is in particular need of child care. (C) Special rules (i) In general The Secretary shall develop parameters on the use of funds from an allotment paid under this subsection for projects described in subclause (IX) or (X) of subparagraph (A)(iv). (ii) Requirement The parameters developed under clause (i) shall provide that, in the case of funds from an allotment paid under this subsection that are used for projects described in subclause (IX) or (X) of subparagraph (A)(iv)\u2014 (I) for such projects involving a privately-owned family child care home, the Secretary shall not retain any Federal interest; and (II) for all other such projects, the Secretary shall not retain a Federal interest after a period of 10 years. (iii) Wage rates All laborers and mechanics employed by contractors or subcontractors in the performance of construction, alteration, or repair work carried out, in whole or in part, with funds from an allotment paid under this subsection for projects described in subparagraph (A)(iv) shall be paid wages at rates not less than the prevailing rates for projects of a similar character in the locality as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40, United States Code. With respect to the labor standards specified in the first sentence of this clause, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and section 3145 of title 40, United States Code. (5) Other funding and payment rules (A) Approval and payment deadline The Secretary shall make quarterly payments to the lead agency of each State, territory, Indian tribe, and tribal organization with a planned use of funds submission approved under paragraph (4) from the grant determined for the State, territory, Indian tribe, or tribal organization under paragraph (3) for a fiscal year. (B) No matching requirement Neither subparagraph (C) of subsection (a)(2) nor any other cash or in-kind matching requirement shall apply to the grants paid under this subsection. (C) Maintenance of effort (i) Certification funds will supplement, not supplant, general revenue expenditures Each State paid a grant under this subsection for a fiscal year shall certify that the grant funds will be used to supplement and not supplant the level of general revenue expenditures from State, local, and other non-Federal sources that are used to provide child care assistance for low-income families. (ii) State minimum expenditures requirement (I) In general Each State paid a grant under this subsection for a fiscal year shall certify that the State shall satisfy the required minimum general revenue expenditures for child care assistance for low-income families dollar amount applicable to the State for the fiscal year. (II) State minimum general revenue expenditures for child care assistance for low-income families dollar amount With respect to a State and a fiscal year, the minimum general revenue expenditures for child care assistance for low-income families dollar amount for the State and fiscal year is\u2014 (aa) in the case of the first fiscal year for which the State is paid a grant under this subsection, the aggregate dollar amount of general revenue expenditures for child care assistance for low-income families for the most recent State fiscal year for which data is available; and (bb) in the case of any succeeding fiscal year, the greater of\u2014 (AA) the minimum baseline dollar amount of general revenue expenditures for child care assistance for low-income families applicable to the State for the preceding year; and (BB) the minimum baseline dollar amount of general revenue expenditures for child care assistance for low-income families for the most recent State fiscal year for which data is available. (III) Annual guidance The Secretary shall issue annual guidance to States specifying\u2014 (aa) the data and reporting that will be required for purposes of enforcing the State minimum general revenue expenditures for child care assistance for low-income families dollar amount requirement under this subparagraph; and (bb) for each fiscal year and State for which a grant is paid under this subsection, the minimum general revenue expenditures for child care assistance for low-income families dollar amount that is required for the State and fiscal year. (D) Period for availability; redistribution of unused funds (i) In general Except as provided in clause (ii), the period in which the funds from grants paid under this subsection for a fiscal year are available for expenditure, the determination as to whether funds from the grant will not be used, and the procedure for redistributing unused funds, shall be made in the same manner as if\u2014 (I) in the case of 1 of the 50 States or the District of Columbia, the funds were considered amounts allotted to the State or District under subsection (a)(2)(B) for a fiscal year; (II) in the case of a territory, the funds were considered a grant made to the territory under subsection (a)(4) for such fiscal year; and (III) in the case of an Indian tribe or tribal organization, the funds were considered a grant made to the Indian tribe or tribal organization under subsection (a) for such fiscal year. (ii) Extension of availability of funds used for certain projects If funds from a grant paid under this subsection are used to provide financial support for a project described in subclause (IX) or (X) of paragraph (4)(A)(iv), the funds shall remain available for expenditure by the lead agency of a State, territory, Indian tribe, or tribal organization (as applicable) for a period of 5 years. (E) Inapplicability of territorial payment limitation Section 1108(a) shall not apply with respect to any funds paid under this subsection. (6) Use of funds (A) In general To the extent permitted under this paragraph, section 658G(b) of the Child Care and Development Block Grant Act of 1990, and the approved planned use of funds submission of the lead agency of a State, territory, Indian tribe, or tribal organization under paragraph (4), each such lead agency shall use funds from a grant paid under this subsection to increase child care workforce, supply, quality, and access in areas determined to be in particular need of child care (with activities provided directly, or through grants or contracts with local child care resource and referral organizations or other appropriate entities). Activities carried out with such funds shall be\u2014 (i) designed to improve the quality of child care services, including improving the quality of the child care workforce, and increase parental options for, and access to, high-quality child care, especially in areas of concentrated poverty; and (ii) in alignment with the most recent statewide or tribal assessment of the State\u2019s or Indian tribe's or tribal organization's needs to carry out such services and care. (B) Priority If a lead agency chooses to make grants from the funds paid under this subsection, each such lead agency shall give priority to funding child care services that will use the grant to provide or coordinate services in order to\u2014 (i) provide child care services during nontraditional hours; (ii) serve dual language learners, children with disabilities, children experiencing homelessness, children in foster care, children from low-income families, or infants and toddlers; (iii) serve a high proportion of children whose families are eligible for subsidies under the Child Care and Development Block Grant Act of 1990 for the child care; (iv) operate in rural communities with a low supply of child care; (v) support child care services provided by public entities, non-profit entities, and small businesses that are at least 51 percent owned and controlled by individuals who are socially and economically disadvantaged, as defined by the Administrator of the Small Business Administration; or (vi) provide competitive wages and support the recruitment and retention of a high-quality child care workforce, including through increased compensation (including wages and benefits), bonuses, tuition or fee support for educational attainment or professional development, child care apprenticeship programs, or other financial incentives. (C) Head start and early head start programs A lead agency may use funds from a grant paid under this subsection for activities or assistance under a Head Start program (including an Early Head Start program) carried out under the Head Start Act ( 42 U.S.C. 9831 et seq. ). (D) Administration through the Child Care and Development Block Grant Act of 1990 (i) In general Except as provided in clause (ii) or to the extent otherwise provided in this subsection, subsection (c) shall apply to the grants paid under this subsection in the same manner as that subsection applies to amounts paid under subsection (a). (ii) Nonapplication of certain use of funds requirements The requirements of subparagraphs (D) and (E) of section 658E(c)(3) of the Child Care and Development Block Grant Act of 1990 shall not apply to the grants paid under this subsection. (7) Reports (A) CCDBG reports The lead agency of each State, territory, Indian tribe, and tribal organization paid a grant under this subsection for a fiscal year shall include information regarding how the lead agency spent the grant in each monthly, quarterly, or annual report, as applicable, submitted under section 658K(a)(2) of the Child Care and Development Block Grant Act of 1990. The information required to be collected and reported under this paragraph shall be\u2014 (i) in addition to, and shall not affect, reporting and data collection requirements imposed under the Child Care and Development Block Grant Act of 1990, including to the extent any information specified under this paragraph also is required to be included in a report submitted under that Act; and (ii) made publicly available. (B) 1-year post-award report Not later than 6 months after receipt of the first payment from a grant under this subsection, the lead agency of the State, territory, Indian tribe, or tribal organization (as applicable) shall submit a report to the Secretary that includes information and data (reported on such basis as the Secretary shall specify) regarding\u2014 (i) the supply of child care in the areas determined to be in particular need of child care by the lead agency, including with respect to the pre-grant award assessment of the number of Child Care and Development Block Grant-eligible child care slots reserved by grants or contracts in such areas and the pre-grant award assessment of the number of providers who are regulated under State law in such areas, and the number of providers who are not covered by or are exempt from such a regulation but are eligible child care providers providing services under the Child Care and Development Block Grant Act of 1990 ( 42 U.S.C. 9857 et seq. ) in such areas; and (ii) the supply, quality, and access of child care in the areas determined to be in particular need of child care by the lead agency. (C) 3-year post-award report Not later than December 31 of the calendar year in which the third fiscal year for which the lead agency of a State, territory, Indian tribe, or tribal organization is paid a grant under this subsection ends, the lead agency shall submit a report to the Secretary that includes the following information: (i) Data that describes the impact of expenditures of grant funds on\u2014 (I) the supply of child care in the areas determined to be in particular need of child care by the lead agency, including with respect to the pre-grant award assessment of the number of Child Care and Development Block Grant-eligible child care slots reserved by grants or contracts in such areas and the pre-grant award assessment of the number of providers who are regulated under State law in such areas, and the number of providers who are not covered by or are exempt from such a regulation but are eligible child care providers providing services under the Child Care and Development Block Grant Act of 1990 ( 42 U.S.C. 9857 et seq. ) in such areas; and (II) the supply, quality, and access of child care in the areas determined to be in particular need of child care by the lead agency, and on the extent to which areas in which such funds were used experienced outcomes that reduced the conditions in such areas which factored into such determination. (ii) Information specifying the areas determined to be in particular need of child care by the lead agency and the activities in which grant funds were used in such areas. (iii) Demographic data on the child care providers receiving funds and on the families and children served. (iv) Information specifying whether grant funds were used for projects described in subclause (IX) or (X) of paragraph (4)(A)(iv) and if so, the status of such projects, including if such projects are ongoing at the time of reporting. (D) Submission to congress The information reported in accordance with subparagraphs (A), (B), and (C) shall be incorporated into the biennial reports to Congress by the Secretary required under section 658L(a) of the Child Care and Development Block Grant Act of 1990. (8) Regular evaluations (A) In general From a geographically diverse selection of the lead agencies paid a grant under this subsection that includes representation of States, territories, and Indian tribes and tribal organizations, the Secretary regularly shall evaluate the impact of the activities carried out by such lead agencies with respect to improving the supply and quality of child care in the areas determined to be in particular need of child care by such lead agencies. (B) Supply assessment In evaluating the extent to which there are improvements in the supply of child care in the areas determined to be in particular need of child care, the Secretary shall focus on the following areas: (i) General availability of child care services. (ii) Availability of child care services that\u2014 (I) are provided during nontraditional hours; (II) serve dual language learners, children with disabilities, children experiencing homelessness, children in foster care, children from low-income families, or infants and toddlers; (III) serve a high proportion of children whose families are eligible for subsidies under the Child Care and Development Block Grant Act of 1990; and (IV) operate in rural communities with a low supply of child care. (iii) Opportunity for parental choice in child care services. (iv) Improvement in workforce recruitment and retention for child care services. (C) Quality assessment In evaluating the extent to which there are improvements in the quality of child care in the areas determined to be in particular need of child care, the Secretary shall focus on at least 5 of the following areas: (i) Ratios of staff to children and group size. (ii) Developmentally appropriate curriculum. (iii) Approaches to instruction. (iv) Relationship quality between children and staff. (v) Children\u2019s learning and development. (vi) Physical environment quality and ability to protect children and staff from illness and injury. (vii) Qualifications, experience, and specialized training of staff. (viii) Opportunities for staff professional development. (ix) Wages and benefits for staff. (x) Ability to foster relationships with families and communities. (xi) Leadership and management capacity. (xii) Creating a stable work environment for staff retention. (xiii) Pursuit or earning of national accreditation. (D) Report The Secretary shall\u2014 (i) submit a report to the appropriate committees of Congress regarding the evaluations of the impact of the activities carried out by lead agencies with funds from grants paid under this subsection\u2014 (I) within 180 days of the completion of each such evaluation; and (II) at least once every 5 years; and (ii) make each such report, along with the data and report for each evaluation, publicly available. (9) Definitions In this subsection: (A) Appropriate committees of congress The term appropriate committees of Congress means the Committee on Appropriations, the Committee on Ways and Means, and the Committee on Education and Workforce of the House of Representatives and the Committee on Appropriations, the Committee on Finance, and the Committee on Health, Education, Labor, and Pensions of the Senate. (B) Lead agency The term lead agency has the meaning given that term in section 658P(9) of the Child Care and Development Block Grant Act of 1990. .\n##### (b) Effective date\nThe amendments made by this section take effect on October 1, 2025.",
+      "versionDate": "2025-04-02",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-04-03",
+        "text": "Read twice and referred to the Committee on Finance."
+      },
+      "number": "1285",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "Building Child Care for a Better Future Act",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Families",
+        "updateDate": "2025-04-10T13:03:19Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-04-02",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2595ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Building Child Care for a Better Future Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-04-10T01:38:18Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Building Child Care for a Better Future Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-04-10T01:38:16Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend part A of title IV of the Social Security Act to provide funding to sustain and increase the supply and quality of child care, access to child care, and the child care workforce, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-04-10T01:33:21Z"
+    }
+  ]
+}
+```

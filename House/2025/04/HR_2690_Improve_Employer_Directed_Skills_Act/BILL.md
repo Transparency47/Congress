@@ -1,0 +1,58 @@
+# HR 2690: Improve Employer-Directed Skills Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-04-07
+- Latest action: 2025-04-07 - Introduced in House
+- Policy area: Labor and Employment
+- Sponsor: Rep. Miller-Meeks, Mariannette [R-IA-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hr/2690
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-04-07
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2690ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-04-07
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2690ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 2690
+IN THE HOUSE OF REPRESENTATIVES
+April 7, 2025 Mrs. Miller-Meeks (for herself and Mr. Moolenaar ) introduced the following bill; which was referred to the Committee on Education and Workforce
+A BILL
+To amend the Workforce Innovation and Opportunity Act to define employer-directed skills development, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Improve Employer-Directed Skills Act .
+#### 2. Employer-directed skills development
+##### (a) Interview exception
+Section 134(c)(3)(A) of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3174(c)(3)(A) ) is amended—
+**(1)**
+in clause (i), by striking as provided in clause (ii) and inserting as provided in clause (ii) or (iii) ;
+**(2)**
+by redesignating clause (iii) as clause (iv); and
+**(3)**
+by inserting after clause (ii) the following:
+(iii) Employer referral A one-stop operator or one-stop partner shall not be required to conduct an interview, evaluation, or assessment of an individual under clause (i) if such individual— (I) is referred by an employer to receive on-the-job training or employer-directed skills development in connection with that employer; and (II) has been certified by the employer as being an individual who is in need of training services to obtain unsubsidized employment with such employer and who has the skills and qualifications to successfully participate in the selected program of training services. .
+##### (b) Employer-Directed skills development agreement
+Section 134(c)(3) of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3174(c)(3) ) is amended by adding at the end the following:
+(I) Employer-directed skills development An employer may receive a contract from a local board to provide employer-directed skills development to a participant or group of participants if the employer submits to the local board an agreement that establishes— (i) the provider of the skills development program, which may be the employer; (ii) the length of the skills development program; (iii) the recognized postsecondary credentials that will be awarded to, or the occupational skills that will be gained by, program participants; (iv) the cost of the skills development program; (v) the estimated earnings of program participants upon successful completion of the program; (vi) the amount of such cost that will be paid by the employer, which shall not be less than the amount specified in subparagraph (C) of section 3(19); and (vii) a commitment by the employer to employ the participating individual or individuals upon successful completion of the program. .
+##### (c) Global technical amendment
+Title I of the Workforce Innovation and Opportunity Act ( 29 U.S.C. 3111 et seq. ) is amended by striking customized training each place it appears and inserting employer-directed skills development .
+
+
+## Timeline
+
+- 2025-04-07: Introduced in House
+- 2025-04-07 - IntroReferral: Introduced in House
+- 2025-04-07 - IntroReferral: Introduced in House
+- 2025-04-07 - IntroReferral: Referred to the House Committee on Education and Workforce.
+- Latest action: 2025-04-07: Introduced in House

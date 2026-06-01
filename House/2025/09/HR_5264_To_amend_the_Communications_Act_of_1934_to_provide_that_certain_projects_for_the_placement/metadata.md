@@ -1,0 +1,255 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/5264?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/5264
+- Title: SPEED for Broadband Infrastructure Act of 2025
+- Congress: 119
+- Bill type: HR
+- Bill number: 5264
+- Origin chamber: House
+- Introduced date: 2025-09-10
+- Update date: 2025-09-29T12:59:43Z
+- Update date including text: 2025-09-29T12:59:43Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2025-09-10: Introduced in House
+- 2025-09-10 - IntroReferral: Introduced in House
+- 2025-09-10 - IntroReferral: Introduced in House
+- 2025-09-10 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-09-10 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-09-10: Introduced in House
+
+## Actions
+
+- 2025-09-10 - IntroReferral: Introduced in House
+- 2025-09-10 - IntroReferral: Introduced in House
+- 2025-09-10 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-09-10 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-09-10",
+    "latestAction": {
+      "actionDate": "2025-09-10",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/5264",
+    "number": "5264",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000601",
+        "district": "12",
+        "firstName": "Craig",
+        "fullName": "Rep. Goldman, Craig A. [R-TX-12]",
+        "lastName": "Goldman",
+        "party": "R",
+        "state": "TX"
+      }
+    ],
+    "title": "SPEED for Broadband Infrastructure Act of 2025",
+    "type": "HR",
+    "updateDate": "2025-09-29T12:59:43Z",
+    "updateDateIncludingText": "2025-09-29T12:59:43Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-09-10",
+      "committees": {
+        "item": {
+          "name": "Natural Resources Committee",
+          "systemCode": "hsii00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-09-10",
+      "committees": {
+        "item": {
+          "name": "Energy and Commerce Committee",
+          "systemCode": "hsif00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-09-10",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-09-10",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-09-10T14:03:40Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-09-10T14:03:35Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5264ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 5264\nIN THE HOUSE OF REPRESENTATIVES\nSeptember 10, 2025 Mr. Goldman of Texas introduced the following bill; which was referred to the Committee on Energy and Commerce , and in addition to the Committee on Natural Resources , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned\nA BILL\nTo amend the Communications Act of 1934 to provide that certain projects for the placement and installation of communications facilities are not subject to requirements to prepare certain environmental or historical preservation reviews, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Streamlining Permitting to Enable Efficient Deployment for Broadband Infrastructure Act of 2025 or the SPEED for Broadband Infrastructure Act of 2025 .\n#### 2. Exemption from review for certain communications facilities\nTitle I of the Communications Act of 1934 ( 47 U.S.C. 151 et seq. ) is amended by adding at the end the following:\n14. Exemption from review for certain communications facilities (a) Permitting of covered projects (1) NEPA exemption A Federal authorization with respect to a covered project may not be considered a major Federal action under section 102(2)(C) of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332(2)(C) ). (2) National Historic Preservation Act exemption A covered project may not be considered an undertaking under section 300320 of title 54, United States Code. (3) Savings clause Nothing in this subsection may be construed to affect\u2014 (A) the obligation of the Commission to evaluate radiofrequency exposure under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq. ); (B) except as explicitly provided in this subsection, the obligation of a provider of a communications service to comply with the National Environmental Policy Act of 1969 or division A of subtitle III of title 54, United States Code; (C) the authority of a State or local government to apply and enforce the zoning and other land use regulations of the State or local government to the extent consistent with this subsection and sections 253, 332(c)(7), and 621; or (D) the authority or obligations established under section 20156(e) of title 49, United States Code. (b) Grant of easement on Federal property (1) NEPA exemption A Federal authorization with respect to a covered easement for a communications facility may not be considered a major Federal action under section 102(2)(C) of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332(2)(C) ), if a covered easement has previously been granted for another communications facility or a utility facility with respect to the same building or other property owned by the Federal Government. (2) National Historic Preservation Act exemption A covered easement for a communications facility may not be considered an undertaking under section 300320 of title 54, United States Code, if a covered easement has previously been granted for another communications facility or a utility facility with respect to the same building or other property owned by the Federal Government. (c) Definitions In this section: (1) Antenna The term antenna means communications equipment that transmits or receives electromagnetic radio frequency signals used in the provision of wireless services. (2) Communications facility The term communications facility has the meaning given the term communications facility installation in section 6409(d) of the Middle Class Tax Relief and Job Creation Act of 2012 ( 47 U.S.C. 1455(d) ). (3) Covered easement The term covered easement means an easement, right-of-way, or lease with respect to a building or other property owned by the Federal Government, excluding Tribal land held in trust by the Federal Government (unless the Tribal Government with respect to such land requests that the Commission not exclude the land for purposes of this definition), for the right to install, construct, modify, or maintain a communications facility or a utility facility. (4) Covered project The term covered project means the placement and installation of a new communications facility if\u2014 (A) such new facility\u2014 (i) will be located within a public right-of-way; and (ii) is not more than 50 feet tall or 10 feet taller than any existing structure in the public right-of-way, whichever is higher; (B) such new facility is\u2014 (i) a replacement for an existing communications facility; and (ii) the same as, or substantially similar to (as such term is defined by the Commission), the existing communications facility that such new communications facility is replacing; (C) such new facility is a type of communications facility that\u2014 (i) is described in section 6409(d)(1)(B) of the Middle Class Tax Relief and Job Creation Act of 2012 ( 47 U.S.C. 1455(d)(1)(B) ); and (ii) meets the size limitation of a small antenna established by the Commission; or (D) the placement and installation of such new facility involves the expansion of the site of an existing communications facility not more than 30 feet in any direction. (5) Federal authorization The term Federal authorization \u2014 (A) means any authorization required under Federal law with respect to a project; and (B) includes any permits, special use authorizations, certifications, opinions, or other approvals as may be required under Federal law with respect to a project. (6) Public right-of-way The term public right-of-way \u2014 (A) means\u2014 (i) the area on, below, or above a public roadway, highway, street, sidewalk, alley, or similar property; and (ii) any land immediately adjacent to and contiguous with property described in clause (i) that is within the right-of-way grant; and (B) does not include a portion of the Interstate System (as such term is defined in section 101(a) of title 23, United States Code). (7) Utility facility The term utility facility means any privately, publicly, or cooperatively owned line, facility, or system for producing, transmitting, or distributing power, electricity, light, heat, gas, oil, crude products, water, steam, waste, storm water not connected with highway drainage, or any other similar commodity, including any fire or police signal system or street lighting system, that directly or indirectly serves the public. (8) Wireless service The term wireless service means the transmission by radio communication of voice, video, or data communications services, including Internet Protocol or any successor protocol-enabled services, or any combination of those services, whether provided on a licensed or permitted unlicensed basis. .",
+      "versionDate": "2025-09-10",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Science, Technology, Communications",
+        "updateDate": "2025-09-29T12:59:43Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-09-10",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5264ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "SPEED for Broadband Infrastructure Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-09-26T03:53:14Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "SPEED for Broadband Infrastructure Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-09-26T03:53:13Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Streamlining Permitting to Enable Efficient Deployment for Broadband Infrastructure Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-09-26T03:53:13Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend the Communications Act of 1934 to provide that certain projects for the placement and installation of communications facilities are not subject to requirements to prepare certain environmental or historical preservation reviews, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-09-26T03:48:17Z"
+    }
+  ]
+}
+```

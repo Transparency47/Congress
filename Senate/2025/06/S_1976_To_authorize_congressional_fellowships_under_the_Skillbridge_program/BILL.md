@@ -1,0 +1,49 @@
+# S 1976: Skillbridge Congressional Fellowship Act of 2025
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-06-05
+- Latest action: 2025-06-05 - Introduced in Senate
+- Policy area: Armed Forces and National Security
+- Sponsor: Sen. Cruz, Ted [R-TX]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/s/1976
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-06-05
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1976is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-06-05
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1976is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1976
+IN THE SENATE OF THE UNITED STATES
+June 5, 2025 Mr. Cruz (for himself and Ms. Rosen ) introduced the following bill; which was read twice and referred to the Committee on Armed Services
+A BILL
+To authorize congressional fellowships under the Skillbridge program.
+#### 1. Short title
+This Act may be cited as the Skillbridge Congressional Fellowship Act of 2025 .
+#### 2. Congressional fellowships under the Skillbridge program
+Section 1143(e) of title 10, United States Code, is amended—
+**(1)**
+by redesignating paragraphs (3) through (6) as paragraphs (4) through (7), respectively; and
+**(2)**
+by inserting after paragraph (2) the following new paragraph:
+(3) (A) The Secretary concerned may authorize an eligible member of the armed forces to participate in a fellowship under this subsection with— (i) the personal office of a Member of Congress; (ii) a leadership office of the Senate or the House of Representatives; or (iii) a committee or subcommittee of Congress. (B) In carrying out this paragraph, the Secretary concerned shall— (i) only authorize a member to participate in a fellowship when approved by the office, committee, or subcommittee in which the member will serve; (ii) ensure that not more than one member of the armed forces participates in a fellowship in any single office, committee, or subcommittee at one time, except that the Secretary concerned may provide for a member of the armed forces to begin a fellowship in an office, committee, or subcommittee not more than 14 days before another member of the armed forces is scheduled to complete a fellowship in that office, committee, or subcommittee; (iii) consult with the commanding officer of an eligible member to ensure the member is appropriately qualified for the fellowship; and (iv) in consultation with the Assistant Secretary of Defense for Legislative Affairs, provide an orientation program for members that will participate in fellowships to provide foundational knowledge of the legislative process, ethical guidelines, and congressional protocols. (C) The Secretary concerned shall notify the Assistant Secretary of Defense for Legislative Affairs of each member participating in a fellowship under this paragraph. (D) A fellowship under this paragraph may be no longer than 180 days. .
+
+
+## Timeline
+
+- 2025-06-05: Introduced in Senate
+- 2025-06-05 - IntroReferral: Introduced in Senate
+- 2025-06-05 - IntroReferral: Read twice and referred to the Committee on Armed Services.
+- Latest action: 2025-06-05: Introduced in Senate

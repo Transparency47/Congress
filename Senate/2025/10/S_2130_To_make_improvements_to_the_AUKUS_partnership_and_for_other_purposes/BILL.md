@@ -1,0 +1,95 @@
+# S 2130: AUKUS Improvement Act of 2025
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-06-18
+- Latest action: 2025-06-18 - Introduced in Senate
+- Policy area: International Affairs
+- Sponsor: Sen. Ricketts, Pete [R-NE]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/2130
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-06-18
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2130is.xml
+
+### Reported in Senate
+- Date: 2025-10-30
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2130rs.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-06-18
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2130is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 2130
+IN THE SENATE OF THE UNITED STATES
+June 18, 2025 Mr. Ricketts (for himself, Mr. Kaine , Mr. Cornyn , Mr. Coons , Mrs. Fischer , Mr. Murphy , Mr. Scott of Florida , and Mr. Sullivan ) introduced the following bill; which was read twice and referred to the Committee on Foreign Relations
+A BILL
+To make improvements to the AUKUS partnership, and for other purposes.
+#### 1. Short title
+This Act may be cited as the AUKUS Improvement Act of 2025 .
+#### 2. Flexibility with respect to certain Arms Export control Act and other arms transfer requirements
+Section 38(l) of the Arms Export Control Act ( 22 U.S.C. 2778(l) ) is amended by adding at the end the following new paragraph:
+(8) Exemption from certain requirements (A) In general Defense articles sold by the United States under this Act may be reexported, retransferred or temporarily imported exclusively between the Government of Australia, the Government of the United Kingdom, or entities eligible under section 126.7(b)(2) of title 22 of the Code of Federal Regulations, or successor regulations. Such transfers shall not require the consent of the President under section 3(a)(2) of this Act, or under section 505(a)(1) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2314(a)(1)(B) ). (B) Intra-company, intra-organizational, and intra-governmental transfers Intra-company, intra-organization, and intra-governmental transfers related to defense articles and defense services described under subparagraph (A) are authorized between officers, employees, and agents who satisfy section 120.64 of title 22 of the Code of Federal Regulations, or successor regulations, including dual or third country nationals who satisfy section 126.18 of title 22 of the Code of Federal Regulations, or successor regulations. .
+#### 3. Elimination of certification requirement for commercial technical assistance or manufacturing license agreements involving Australia and the United Kingdom
+Section 36(d)(2) of the Arms Export Control Act ( 22 U.S.C. 2776(d)(2) ) is amended—
+**(1)**
+by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;
+**(2)**
+by striking A certification and inserting (A) A certification ;
+**(3)**
+in clause (i), as redesignated by paragraph (1), by striking North Atlantic Treaty Organization or Australia, Japan and inserting North Atlantic Treaty Organization (excluding the United Kingdom) or Japan ; and
+**(4)**
+by adding at the end the following new subparagraph:
+(B) A certification under this subsection shall not be required in the case of an agreement for or in Australia or the United Kingdom. .
+
+### Reported in Senate
+- Date: 2025-10-30
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2130rs.xml
+
+II
+Calendar No. 235
+119th CONGRESS
+1st Session
+S. 2130
+IN THE SENATE OF THE UNITED STATES
+June 18, 2025 Mr. Ricketts (for himself, Mr. Kaine , Mr. Cornyn , Mr. Coons , Mrs. Fischer , Mr. Murphy , Mr. Scott of Florida , Mr. Sullivan , Ms. Ernst , Mr. Bennet , Ms. Rosen , and Mr. Peters ) introduced the following bill; which was read twice and referred to the Committee on Foreign Relations
+October 30, 2025 Reported by Mr. Risch , with an amendment Strike out all after the enacting clause and insert the part printed in italic
+A BILL
+To make improvements to the AUKUS partnership, and for other purposes.
+#### 1. Short title
+This Act may be cited as the AUKUS Improvement Act of 2025 .
+#### 2. Flexibility with respect to certain Arms Export control Act and other arms transfer requirements
+Section 38(l) of the Arms Export Control Act ( 22 U.S.C. 2778(l) ) is amended by adding at the end the following new paragraph:
+(8) Exemption from certain requirements (A) In general Defense articles sold by the United States under this Act may be reexported, retransferred or temporarily imported exclusively between the Government of Australia, the Government of the United Kingdom, or entities eligible under section 126.7(b)(2) of title 22 of the Code of Federal Regulations, or successor regulations. Such transfers shall not require the consent of the President under section 3(a)(2) of this Act, or under section 505(a)(1) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2314(a)(1)(B) ). (B) Intra-company, intra-organizational, and intra-governmental transfers Intra-company, intra-organization, and intra-governmental transfers related to defense articles and defense services described under subparagraph (A) are authorized between officers, employees, and agents who satisfy section 120.64 of title 22 of the Code of Federal Regulations, or successor regulations, including dual or third country nationals who satisfy section 126.18 of title 22 of the Code of Federal Regulations, or successor regulations. .
+#### 3. Elimination of certification requirement for commercial technical assistance or manufacturing license agreements involving Australia and the United Kingdom
+Section 36(d)(2) of the Arms Export Control Act ( 22 U.S.C. 2776(d)(2) ) is amended—
+**(1)**
+by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;
+**(2)**
+by striking A certification and inserting (A) A certification ;
+**(3)**
+in clause (i), as redesignated by paragraph (1), by striking North Atlantic Treaty Organization or Australia, Japan and inserting North Atlantic Treaty Organization (excluding the United Kingdom) or Japan ; and
+**(4)**
+by adding at the end the following new subparagraph:
+(B) A certification under this subsection shall not be required in the case of an agreement for or in Australia or the United Kingdom. .
+
+
+## Timeline
+
+- 2025-06-18: Introduced in Senate
+- 2025-06-18 - IntroReferral: Introduced in Senate
+- 2025-06-18 - IntroReferral: Read twice and referred to the Committee on Foreign Relations.
+- 2025-10-22 - Committee: Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-10-30 - Committee: Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2025-10-30 - Committee: Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2025-10-30 - Calendars: Placed on Senate Legislative Calendar under General Orders. Calendar No. 235.
+- Latest action: 2025-06-18: Introduced in Senate

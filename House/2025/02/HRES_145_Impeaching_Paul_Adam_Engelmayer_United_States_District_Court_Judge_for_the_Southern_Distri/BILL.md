@@ -1,0 +1,54 @@
+# HRES 145: Impeaching Paul Adam Engelmayer, United States District Court Judge for the Southern District of New York, for high crimes and misdemeanors.
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-02-21
+- Latest action: 2025-02-21 - Submitted in House
+- Policy area: Law
+- Sponsor: Rep. Crane, Elijah [R-AZ-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hres/145
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### IH
+- Date: 2025-02-21
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres145ih.xml
+
+
+## Full Bill Text
+
+### IH
+- Date: 2025-02-21
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres145ih.xml
+
+IV
+119th CONGRESS
+1st Session
+H. RES. 145
+IN THE HOUSE OF REPRESENTATIVES
+February 21, 2025 Mr. Crane (for himself, Mr. Davidson , Mr. Hamadeh of Arizona , Mrs. Luna , and Mr. Ogles ) submitted the following resolution; which was referred to the Committee on the Judiciary
+RESOLUTION
+Impeaching Paul Adam Engelmayer, United States District Court Judge for the Southern District of New York, for high crimes and misdemeanors.
+That Paul Adam Engelmayer, United States District Court Judge for the Southern District of New York, is impeached for high crimes and misdemeanors, and that the following article of impeachment be exhibited to the United States Senate:
+Article of impeachment exhibited by the House of Representatives of the United States of America in the name of itself and of the people of the United States of America, against Paul Adam Engelmayer, United States District Court Judge for the Southern District of New York, in maintenance and support of its impeachment against him for high crimes and misdemeanors.
+#### Article I: Abuse of power
+Judge Paul Engelmayer, in violation of his oath of office, did knowingly and willfully use his judicial position to advance personal interests and political gain.
+The Constitution provides that the House of Representatives shall have the sole Power of Impeachment and that civil Officers of the United States , including Federal judges, are subject to impeachment and removal.
+Further, the separation of powers under the Constitution grants the President broad authority over the executive branch, including direct control and access to departments, as part of his role in ensuring the administration of laws and policies of the United States.
+In his conduct of the office of United States District Court Judge, in which he violated his oath to the Constitution and duty of impartiality to the people of the United States, Paul A. Engelmayer has abused the powers of his judicial authority, having engaged in actions that prioritize personal and political affiliations over the duty of impartiality owed to the public and litigants as follows:
+**(1)**
+Judge Engelmayer restrained President Trump and Secretary Bessent from granting access to any Department of the Treasury record, payment systems, or any other data systems maintained by the Department of the Treasury containing personally identifiable information or confidential financial information of payees; and
+**(2)**
+Judge Engelmayer restrained President Trump and Secretary Bessent from granting access to all political appointees, special Government employees, and Government employees detailed from another Federal agency, to any Department of the Treasury payment record, payment systems, or any other data systems maintained by the Department of the Treasury containing personally identifiable information.
+This conduct has resulted in apparent bias and favoritism, representing an abuse of judicial power and is detrimental to the orderly functioning of the judiciary. Using the powers of his high office, Judge Engelmayer interfered with the will of the people.
+In so doing, Judge Engelmayer used the powers of his position to engage in actions that overstep his judicial authority. By making a political decision outside the scope of his legal duties, he compromised the impartiality of our judicial system.
+Wherefore, Judge Engelmayer is guilty of high crimes and misdemeanors and should be removed from office.
+
+
+## Timeline
+
+- 2025-02-21: Introduced in House
+- 2025-02-21 - IntroReferral: Referred to the House Committee on the Judiciary.
+- 2025-02-21 - Committee: Submitted in House
+- Latest action: 2025-02-21: Submitted in House

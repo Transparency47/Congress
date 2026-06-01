@@ -1,0 +1,445 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/4357?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/4357
+- Title: Border Water Quality Restoration and Protection Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 4357
+- Origin chamber: House
+- Introduced date: 2025-07-10
+- Update date: 2026-01-10T06:51:52Z
+- Update date including text: 2026-01-10T06:51:52Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-07-10: Introduced in House
+- 2025-07-10 - IntroReferral: Introduced in House
+- 2025-07-10 - IntroReferral: Introduced in House
+- 2025-07-10 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-10 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-10 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-10 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-10 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-11 - Committee: Referred to the Subcommittee on Water Resources and Environment.
+- Latest action: 2025-07-10: Introduced in House
+
+## Actions
+
+- 2025-07-10 - IntroReferral: Introduced in House
+- 2025-07-10 - IntroReferral: Introduced in House
+- 2025-07-10 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-10 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-10 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-10 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-10 - IntroReferral: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-11 - Committee: Referred to the Subcommittee on Water Resources and Environment.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-07-10",
+    "latestAction": {
+      "actionDate": "2025-07-10",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4357",
+    "number": "4357",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Environmental Protection"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "V000130",
+        "district": "52",
+        "firstName": "Juan",
+        "fullName": "Rep. Vargas, Juan [D-CA-52]",
+        "lastName": "Vargas",
+        "party": "D",
+        "state": "CA"
+      }
+    ],
+    "title": "Border Water Quality Restoration and Protection Act",
+    "type": "HR",
+    "updateDate": "2026-01-10T06:51:52Z",
+    "updateDateIncludingText": "2026-01-10T06:51:52Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2025-07-11",
+      "committees": {
+        "item": {
+          "name": "Water Resources and Environment Subcommittee",
+          "systemCode": "hspw02"
+        }
+      },
+      "sourceSystem": {
+        "code": "1",
+        "name": "House committee actions"
+      },
+      "text": "Referred to the Subcommittee on Water Resources and Environment.",
+      "type": "Committee"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-07-10",
+      "committees": {
+        "item": {
+          "name": "Budget Committee",
+          "systemCode": "hsbu00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-07-10",
+      "committees": {
+        "item": {
+          "name": "Foreign Affairs Committee",
+          "systemCode": "hsfa00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-07-10",
+      "committees": {
+        "item": {
+          "name": "Natural Resources Committee",
+          "systemCode": "hsii00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-07-10",
+      "committees": {
+        "item": {
+          "name": "Energy and Commerce Committee",
+          "systemCode": "hsif00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-07-10",
+      "committees": {
+        "item": {
+          "name": "Transportation and Infrastructure Committee",
+          "systemCode": "hspw00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, Natural Resources, Foreign Affairs, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-07-10",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-07-10",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-10T15:01:10Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "subcommittees": {
+        "item": {
+          "activities": {
+            "item": {
+              "date": "2025-07-11T17:00:06Z",
+              "name": "Referred to"
+            }
+          },
+          "name": "Water Resources and Environment Subcommittee",
+          "systemCode": "hspw02"
+        }
+      },
+      "systemCode": "hspw00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-10T15:01:30Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Budget Committee",
+      "systemCode": "hsbu00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-10T15:01:25Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Foreign Affairs Committee",
+      "systemCode": "hsfa00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-10T15:01:20Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-10T15:01:15Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "P000608",
+      "district": "50",
+      "firstName": "Scott",
+      "fullName": "Rep. Peters, Scott H. [D-CA-50]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Peters",
+      "middleName": "H.",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "J000305",
+      "district": "51",
+      "firstName": "Sara",
+      "fullName": "Rep. Jacobs, Sara [D-CA-51]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Jacobs",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "L000593",
+      "district": "49",
+      "firstName": "Mike",
+      "fullName": "Rep. Levin, Mike [D-CA-49]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Levin",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "R000599",
+      "district": "25",
+      "firstName": "Raul",
+      "fullName": "Rep. Ruiz, Raul [D-CA-25]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Ruiz",
+      "party": "D",
+      "sponsorshipDate": "2025-07-10",
+      "state": "CA"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4357ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 4357\nIN THE HOUSE OF REPRESENTATIVES\nJuly 10, 2025 Mr. Vargas (for himself, Mr. Peters , Ms. Jacobs , Mr. Levin , and Mr. Ruiz ) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure , and in addition to the Committees on Energy and Commerce , Natural Resources , Foreign Affairs , and the Budget , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned\nA BILL\nTo provide for the water quality restoration of the Tijuana River and the New River, and for other purposes.\n#### 1. Short title; table of contents\n##### (a) Short title\nThis Act may be cited as the Border Water Quality Restoration and Protection Act .\n##### (b) Table of contents\nThe table of contents for this Act is as follows:\nSec. 1. Short title; table of contents.\nSec. 2. Definitions.\nTITLE I\u2014Tijuana River Public Health and Water Quality Restoration\nSec. 101. Findings; purposes.\nSec. 102. Definitions.\nSec. 103. Tijuana River Public Health and Water Quality Restoration Program.\nSec. 104. Water quality action plan.\nSec. 105. Grants, interagency and other agreements, and assistance.\nSec. 106. Annual budget plan.\nSec. 107. Reports.\nTITLE II\u2014New River Public Health and Water Quality Restoration\nSec. 201. Findings; purposes.\nSec. 202. Definitions.\nSec. 203. California New River Public Health and Water Quality Restoration Program.\nSec. 204. Water quality action plan.\nSec. 205. Grants, interagency and other agreements, and assistance.\nSec. 206. Annual budget plan.\nSec. 207. Reports.\nTITLE III\u2014Border Water Infrastructure Improvement\nSec. 301. United States-Mexico border water infrastructure program.\nTITLE IV\u2014Miscellaneous\nSec. 401. Role of the Commissioner and international agreements.\n#### 2. Definitions\nIn this Act:\n**(1) Administrator**\nThe term Administrator means the Administrator of the Environmental Protection Agency.\n**(2) Commissioner**\nThe term Commissioner means the Commissioner of the United States Section of the International Boundary and Water Commission.\n**(3) Indian Tribe**\nThe term Indian Tribe has the meaning given the term Indian tribe in section 102 of the Federally Recognized Indian Tribe List Act of 1994 ( 25 U.S.C. 5130 ).\n**(4) Mexican**\nThe term Mexican , with respect to entities from Mexico, means, as applicable, the Federal, State, and local governments of Mexico.\n**(5) New River**\nThe term New River means the river that starts in Mexicali, Mexico, flows north into the United States through Calexico, passes through the Imperial Valley, and drains into the Salton Sea.\n**(6) Secretary**\nThe term Secretary means the Secretary of State.\n**(7) Tijuana River**\nThe term Tijuana River means the river that rises in the Sierra de Juarez in Mexico, flows through the City of Tijuana and then north into the United States, passes through the Tijuana River estuary, and drains into the Pacific Ocean.\n**(8) Water reuse**\nThe term water reuse has the meaning given the term in the document of the Environmental Protection Agency entitled National Water Reuse Action Plan Collaborative Implementation (Version 1) and dated February 2020.\nI\nTijuana River Public Health and Water Quality Restoration\n#### 101. Findings; purposes\n##### (a) Findings\nCongress finds that\u2014\n**(1)**\nthe Tijuana River flows across the United States-Mexico border, through the southern United States, and into the Pacific Ocean;\n**(2)**\n3/4 of the 1,750 square mile watershed of the Tijuana River lies in Mexico, and the remaining 1/4 includes the Tijuana River National Estuarine Research Reserve in the United States;\n**(3)**\nthe Tijuana River National Estuarine Research Reserve is a partnership of Federal and State agencies, including the National Oceanic and Atmospheric Administration, California State Parks, and the United States Fish and Wildlife Service;\n**(4)**\nthe Tijuana River is a significant estuary and watershed, providing\u2014\n**(A)**\neconomic and health benefits to the citizens of the United States and Mexico; and\n**(B)**\nenvironmental benefits as critical habitat to shore birds;\n**(5)**\nthe economy of communities in southern California, including smaller communities, such as the City of Imperial Beach, and larger municipalities, such as the City of San Diego, may be significantly affected\u2014\n**(A)**\nif the natural beauty and recreational opportunities of the Tijuana River are degraded; and\n**(B)**\ndue to public health and environmental impacts;\n**(6)**\nthe Tijuana River watershed is in the midst of an environmental crisis, as stormwater flows from the upper watershed, originating in Tijuana, Mexico, carrying pollutants such as bacteria, trash, and sediment that severely affect water quality;\n**(7)**\ncoastal communities in and near the Tijuana River watershed are also affected, during certain tidal events, by a combination of treated wastewater and chlorinated-only wastewater discharged from the San Antonio de los Buenos wastewater treatment plant located 5 miles south of the United States-Mexico border in Tijuana;\n**(8)**\nas reported by the Government Accountability Office in February 2020, transboundary flows of untreated sewage, combined with unmanaged stormwater, bring bacteria and other contaminants into the Tijuana River Valley watershed and beaches in the United States;\n**(9)**\nsediment flows into the Tijuana River National Wildlife Refuge and blocks the flow of ocean water and creates an imbalance in water salinity, necessary for marsh plants, fish, and birds;\n**(10)**\nbefore the date of enactment of this Act, the City of Imperial Beach has experienced more than 1,000 consecutive days of beach closures due to the ongoing influx of sewage, industrial discharges, and trash from the Tijuana River due to risk to human health;\n**(11)**\nflows of untreated sewage, chemicals, and pollution from Mexico jeopardize the health of Border Patrol agents and limit the ability of those agents to operate in areas affected by these flows;\n**(12)**\na March 2020 report of the Environmental Financial Advisory Board of the Environmental Protection Agency\u2014\n**(A)**\nfound that\u2014\n**(i)**\nstormwater knows no jurisdictional boundaries \u2026 and is a principal cause of water quality issues nationwide ; and\n**(ii)**\nadequate funding to manage stormwater pollution lags behind the investments made in wastewater management and the delivery of safe drinking water by decades; and\n**(B)**\nconcluded that Federal investment will be required to address\u2014\n**(i)**\nthe lack of State and local funding; and\n**(ii)**\nmulti-jurisdictional stormwater management needs;\n**(13)**\nduring the 10-year period before the date of enactment of this Act, Federal, State, and local governments and others have identified the benefits of using natural and green infrastructure to control and manage stormwater runoff, including wetlands, coastal dunes, and retention structures;\n**(14)**\nduring the 20-year period before the date of enactment of this Act, the United States and Mexico, through the International Boundary and Water Commission, have agreed to resolve the pollution problems in the Tijuana River;\n**(15)**\nthe International Boundary and Water Commission has negotiated 9 Minutes to resolve water quality problems in the Tijuana River, among other subjects;\n**(16)**\n1 of the most recent Minutes authorized the construction of the South Bay International Wastewater Treatment Plant in San Ysidro to treat, on average, 25,000,000 gallons of sewage from Tijuana per day, which has reduced the sewage coming into the United States;\n**(17)**\nthe sewer system of Tijuana is\u2014\n**(A)**\naging and deteriorating; and\n**(B)**\ninsufficient to meet the needs of a quickly growing population;\n**(18)**\nin August 2023, Tropical Storm Hilary\u2014\n**(A)**\ncaused more than 2,000,000,000 gallons of contaminated water to flow across the border; and\n**(B)**\nexacerbated vulnerabilities at the South Bay International Wastewater Treatment Plant;\n**(19)**\non January 22, 2024, a record-breaking storm caused the Tijuana River to reach the highest flow ever recorded for that river at 14,500,000 gallons per day;\n**(20)**\nfrom January to December of 2024, an estimated 36,154,000,000 gallons of wastewater, treated water, and stormwater flowed from Mexico to the United States;\n**(21)**\non June 17, 2024, a pump station failure resulted in approximately 302,000 gallons of untreated wastewater spilling onto the public right-of-way;\n**(22)**\nduring the 2-year period before the date of enactment of this Act, transboundary flows occurred on 317 days, on average, each year;\n**(23)**\nthose transboundary flows contain treated wastewater, raw sewage, and urban runoff, with most of those flows associated with wet weather and stormwater;\n**(24)**\nduring the 2-year period before the date of enactment of this Act, unprecedented dry weather flows reached approximately 13,795,000,000 gallons;\n**(25)**\nabnormal dry weather flows and sediment have caused pump failures, oppressive odors, and public health concerns;\n**(26)**\nthe Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq. ) has established a stormwater permit program under the National Pollutant Discharge Elimination System, under which municipalities have the responsibility to manage and treat stormwater;\n**(27)**\nbecause of the international border and different treatment systems and standards, discharges in Mexico to the Tijuana River are not treated to the same standards as the standards to which discharges would be treated in the United States;\n**(28)**\nthe International Boundary and Water Commission negotiated Minute 320 to find solutions for water quality, trash, and sediment in the Tijuana River;\n**(29)**\nthe International Boundary and Water Commission negotiated Minute 328 to implement sanitation infrastructure projects in Tijuana, Baja California, and San Diego, California, that will be financed with a total joint investment of $474,000,000;\n**(30)**\nthe United States has invested at least $300,000,000 for secondary wastewater treatment in the Tijuana River Valley by the International Boundary and Water Commission and the Environmental Protection Agency through the United States-Mexico-Canada Agreement and Minute 328;\n**(31)**\nthe Environmental Protection Agency and the International Boundary and Water Commission selected Alternative 2, as described in the final programmatic environmental impact statement of the Environmental Protection Agency and the International Boundary and Water Commission entitled USMCA Mitigation of Contaminated Transboundary Flows Project and dated November 2, 2022, and selected in the record of decision of the Environmental Protection Agency and the International Boundary and Water Commission entitled Joint Record of Decision for the Final Programmatic Environmental Impact Statement for United States-Mexico-Canada Agreement Mitigation of Contaminated Transboundary Flows Project and signed on June 9, 2023;\n**(32)**\nthe United States has also helped fund water and wastewater infrastructure along the border through the Border Water Infrastructure Program and the North American Development Bank; and\n**(33)**\nhowever, as the Government Accountability Office found in the report described in paragraph (8)\u2014\n**(A)**\nthe longstanding environmental and health problems associated with transboundary stormwater flows continue; and\n**(B)**\nwhile the International Boundary and Water Commission has taken the first steps to conduct long-term capital planning to resolve existing problems by proposing and analyzing alternatives, analyzing costs, identifying solutions, or establishing time frames, significant additional investment from the resources of Federal, State, Tribal, local, and Mexican entities is needed to improve the water quality of the Tijuana River watershed.\n##### (b) Purposes\nThe purposes of this title are\u2014\n**(1)**\nto establish a Geographic Program to plan and implement water quality restoration and protection activities;\n**(2)**\nto ensure the coordination of restoration and protection activities among Mexican, Federal, State, local, and regional entities and conservation partners relating to water quality and stormwater management in the Mexican Tijuana River watershed and the American Tijuana River watershed; and\n**(3)**\nto provide funding for water quality restoration and protection activities in the Mexican Tijuana River watershed and the American Tijuana River watershed.\n#### 102. Definitions\nIn this title:\n**(1) American Tijuana River watershed**\nThe term American Tijuana River watershed means the portion of the Tijuana River watershed that lies in the United States.\n**(2) Mexican Tijuana River watershed**\nThe term Mexican Tijuana River watershed means the portion of the Tijuana River watershed that lies in Mexico.\n**(3) Program**\nThe term program means the Tijuana River Public Health and Water Quality Restoration Program established under section 103(a)(1).\n**(4) Program Director**\nThe term Program Director means the Program Director of the program designated under section 103(a)(2).\n**(5) Water quality restoration and protection**\nThe term water quality restoration and protection , with respect to the Tijuana River watershed, means\u2014\n**(A)**\nthe enhancement of water quality and stormwater management; and\n**(B)**\nthe use of natural and green infrastructure to enhance the ability of the watershed to capture pollutants and reduce runoff to prevent flooding.\n#### 103. Tijuana River Public Health and Water Quality Restoration Program\n##### (a) Establishment\n**(1) Program**\nNot later than 180 days after the date of enactment of this Act, subject to the availability of appropriations provided specifically for this purpose, the Administrator shall establish a Geographic Program, to be known as the Tijuana River Public Health and Water Quality Restoration Program .\n**(2) Program director**\nNot later than 180 days after the date of enactment of this Act, the Administrator shall designate a Program Director of the program, who shall\u2014\n**(A)**\nhave leadership and project management experience; and\n**(B)**\nbe qualified\u2014\n**(i)**\nto direct the integration of multiple project planning efforts and programs from different agencies and jurisdictions;\n**(ii)**\nto align numerous, and possibly competing, priorities to accomplish visible and measurable outcomes under the action plan under section 104(a)(1);\n**(iii)**\nto manage efforts and associated functions needed to run the management conference described in subsection (b)(2);\n**(iv)**\nto facilitate engagement with the International Boundary and Water Commission and related Federal agencies;\n**(v)**\nto solicit feedback from relevant Federal, State, Tribal, local, public, nonprofit, and other relevant stakeholders on the creation and implementation of the action plan under section 104(a)(1); and\n**(vi)**\nto consult with Indian Tribes within the American Tijuana River watershed region.\n##### (b) Duties\nIn carrying out the program\u2014\n**(1)**\nthe Administrator shall\u2014\n**(A)**\ndevelop the action plan under section 104(a)(1) to address pollution prevention, environmental and ecological restoration, climate change, resilience, and mitigation, and related efforts, in the American Tijuana River watershed region;\n**(B)**\ncarry out projects, plans, and initiatives for the Tijuana River and work in consultation with applicable management entities, including representatives of the Federal Government, State and local governments, Tribal governments, and regional and nonprofit organizations, to carry out public health and water quality restoration and protection activities relating to the Tijuana River;\n**(C)**\ncarry out activities that\u2014\n**(i)**\ndevelop, using monitoring, data collection, and assessment, a shared set of science-based water quality restoration and protection activities identified in accordance with subparagraph (B);\n**(ii)**\nsupport the implementation of a shared set of science-based water quality restoration and protection activities identified in accordance with subparagraph (B), including water reuse projects, water recycling projects, and natural and green infrastructure projects;\n**(iii)**\ntarget cost-effective projects with measurable results; and\n**(iv)**\nmaximize public health and water quality conservation outcomes;\n**(D)**\ncoordinate the development of consistent Federal policies, strategies, projects, and priorities for addressing the public health and water quality restoration and protection of the Tijuana River;\n**(E)**\ncoordinate a funding strategy among available funding sources in the region; and\n**(F)**\nprovide grants, agreements, and technical assistance in accordance with section 105; and\n**(2)**\nnot later than 120 days after the date on which the Program Director is designated under subsection (a)(2), the Program Director shall convene a management conference for the Tijuana River pursuant to section 320 of the Federal Water Pollution Control Act ( 33 U.S.C. 1330 ).\n##### (c) Coordination\nIn establishing the program, the Administrator shall consult, as appropriate, with\u2014\n**(1)**\nthe heads of Federal agencies, including\u2014\n**(A)**\nthe Secretary;\n**(B)**\nthe Commissioner;\n**(C)**\nthe Secretary of Agriculture;\n**(D)**\nthe Secretary of Homeland Security;\n**(E)**\nthe Administrator of General Services;\n**(F)**\nthe Commissioner of U.S. Customs and Border Protection;\n**(G)**\nthe Secretary of the Interior;\n**(H)**\nthe Secretary of the Army, acting through the Chief of Engineers;\n**(I)**\nthe Administrator of the National Oceanic and Atmospheric Administration;\n**(J)**\nthe Director of the United States Fish and Wildlife Service; and\n**(K)**\nthe head of any other applicable agency, as determined by the Administrator;\n**(2)**\na representative of Naval Base Coronado;\n**(3)**\na representative of the Commander, Navy Region Southwest;\n**(4)**\na representative of the Coast Guard;\n**(5)**\na representative of the United States Geological Survey;\n**(6)**\na representative of the Bureau of Indian Affairs;\n**(7)**\na representative from each Indian Tribe located within the American Tijuana River watershed;\n**(8)**\nthe heads of State of California agencies and local agencies, including\u2014\n**(A)**\nthe Governor of California;\n**(B)**\nthe California Environmental Protection Agency;\n**(C)**\nthe California State Water Resources Control Board;\n**(D)**\nthe California Department of Water Resources;\n**(E)**\nthe San Diego Regional Water Quality Control Board; and\n**(F)**\nthe County of San Diego;\n**(9)**\n2 representatives of affected units of local government in the State of California, chosen on a rotating 3-year cycle by the Governor of California, including representatives from the City of Imperial Beach, the City of San Diego, the City of Chula Vista, the City of Coronado, and the Port of San Diego;\n**(10)**\n2 representatives of relevant nonprofit groups, chosen on a rotating 3-year cycle by the Governor of California;\n**(11)**\nother public agencies and organizations with authority for the planning and implementation of conservation strategies relating to the Tijuana River in the United States and Mexico, as determined by the Administrator; and\n**(12)**\nrepresentatives of the North American Development Bank.\n##### (d) Cooperative agreements and memoranda of understanding\n**(1) In general**\nTo achieve the purposes of this title and to ensure effective coordination of Federal and non-Federal water quality restoration and protection activities, the Administrator shall use amounts made available for the United States-Mexico border water infrastructure program under section 301 and payments received pursuant to paragraph (4)(A) to enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to\u2014\n**(A)**\nthe heads of other Federal agencies, States, State agencies, units of local government, Tribal governments, regional governmental bodies, and private entities; and\n**(B)**\nin cooperation with the Secretary, the Government of Mexico.\n**(2) Use of agreements**\nThe Administrator may enter into the cooperative agreements and memoranda of understanding described in paragraph (1) to carry out the activities described in this section, including studies, plans, construction, and completion of projects to improve the water quality of, environment of, and public health around the Tijuana River.\n**(3) Term**\nThe cooperative agreements and memoranda of understanding described in paragraph (1) shall be limited to a specified period of time, as determined by the Administrator.\n**(4) Financial arrangements**\n**(A) In general**\nIf the Administrator enters into a cooperative agreement or memorandum of understanding described in paragraph (1), the Administrator may require the other party to the agreement or memorandum to provide payment to the Administrator.\n**(B) Deposit**\nAny amounts received as a payment under subparagraph (A) shall be deposited into the State and Tribal Assistance Grants account of the Environmental Protection Agency and shall remain available, without further appropriation, to carry out the purposes of this title.\n**(5) Personnel; services; technical assistance**\nThe Administrator may provide or accept personnel, services, and technical assistance pursuant to a cooperative agreement or memorandum of understanding described in paragraph (1), with or without reimbursement, for the purposes of carrying out the agreement or memorandum.\n#### 104. Water quality action plan\n##### (a) Development\n**(1) In general**\nThe Administrator, in consultation with the entities described in section 103(c), shall develop an action plan in accordance with the Statement of Intent between the United States and Mexico relating to the implementation of priority sanitation projects in the San Diego, CA.-Tijuana, BC region, signed on July 1, 2022, for the purpose of improving and protecting the water quality of the Tijuana River watershed.\n**(2) Requirements**\nThe action plan under paragraph (1) shall\u2014\n**(A)**\nbuild on and incorporate any existing efforts and plans to improve and protect the water quality of the Tijuana River watershed, including ongoing and completed efforts and plans;\n**(B)**\nincorporate projects identified in Alternative 2, as described in the final programmatic environmental impact statement of the Environmental Protection Agency and the International Boundary and Water Commission entitled USMCA Mitigation of Contaminated Transboundary Flows Project and dated November 2, 2022, and selected in the record of decision of the Environmental Protection Agency and the International Boundary and Water Commission entitled Joint Record of Decision for the Final Programmatic Environmental Impact Statement for United States-Mexico-Canada Agreement Mitigation of Contaminated Transboundary Flows Project and signed on June 9, 2023; and\n**(C)**\ninclude\u2014\n**(i)**\nsuch features as are needed to improve and protect the quality of wastewater, stormwater runoff, and other untreated flows;\n**(ii)**\ncriteria for selecting\u2014\n**(I)**\nwater quality restoration and protection projects; and\n**(II)**\nprojects on the priority list under subsection (c)(1);\n**(iii)**\nthe amounts necessary for the operations and maintenance of infrastructure existing on and constructed after the date of enactment of this Act; and\n**(iv)**\npotential sources of funding to help pay the costs described in clause (iii).\n**(3) Operations and maintenance funding**\n**(A) In general**\nIn developing the action plan under paragraph (1), the Administrator, working with the entities described in section 103(c), shall assess and identify potential alternative sources and approaches for financing infrastructure projects, including financing the operations and maintenance of those infrastructure projects.\n**(B) Requirement**\nIn carrying out subparagraph (A), the Administrator shall assess the approaches identified in the report of the Environmental Financial Advisory Board entitled Evaluating Stormwater Infrastructure Funding and Financing and dated March 2020.\n##### (b) Issuance; updates\nThe Administrator shall\u2014\n**(1)**\nnot later than 1 year after the date of enactment of this Act, issue the action plan under subsection (a)(1); and\n**(2)**\nevery 5 years after the date on which the action plan is issued under paragraph (1), update the action plan.\n##### (c) Priority list\n**(1) In general**\nThe action plan under subsection (a)(1) shall include a priority list of potential or proposed water quality restoration and protection projects for the Tijuana River watershed that\u2014\n**(A)**\nprovides for the management of wastewater or stormwater or the removal of debris, sediment, chemicals, bacteria, and other contaminants from the water flowing north into the United States;\n**(B)**\nestimates the costs and identifies the entities that will fund the construction, operation, and maintenance of each project on the priority list;\n**(C)**\nis developed in coordination with the entities described in section 103(c);\n**(D)**\nassists agencies to coordinate funding; and\n**(E)**\nidentifies projects\u2014\n**(i)**\nin the Mexican Tijuana River watershed;\n**(ii)**\nin the American Tijuana River watershed; and\n**(iii)**\nthat address transboundary flows that affect coastal communities in and near the Tijuana River watershed.\n**(2) Development**\nIn developing the priority list under paragraph (1), the Administrator shall\u2014\n**(A)**\nuse the best available science, including any relevant findings and recommendations of a watershed assessment conducted by Federal, State, Tribal, and local agencies;\n**(B)**\ncarry out and fund science development, monitoring, or modeling as needed to inform project development and assessment;\n**(C)**\ninclude\u2014\n**(i)**\nthe projects described in subsection (a)(2)(B); and\n**(ii)**\nsuch other projects that the Administrator determines appropriate based on the availability of peer-reviewed or otherwise published scientific research; and\n**(D)**\ninclude, in order of priority, potential or proposed water quality or stormwater projects for the restoration and protection of the Tijuana River that\u2014\n**(i)**\nwould help\u2014\n**(I)**\nto achieve and maintain the water quality standards for\u2014\n**(aa)**\npublic health;\n**(bb)**\nrecreational opportunities;\n**(cc)**\nscenic resources; and\n**(dd)**\nwildlife and habitat; and\n**(II)**\nto address water needs in the Tijuana River watershed, including through water reuse and water recycling; and\n**(ii)**\nwould identify responsible agencies and funding sources through coordinated efforts by the entities described in section 103(c).\n#### 105. Grants, interagency and other agreements, and assistance\n##### (a) In general\nIn order to carry out the purposes of the program as described in section 101(b) and implement priority projects identified under section 104(c), the Administrator may\u2014\n**(1)**\nprovide grants and technical assistance to the Commissioner, State and local governments, Tribal governments, the North American Development Bank, entities described in section 103(c)(11), nonprofit organizations, and institutions of higher education, in both the United States and Mexico; and\n**(2)**\nenter into interagency agreements with other Federal agencies.\n##### (b) Criteria\nThe Administrator, in consultation with the entities described in section 103(c), shall develop criteria for providing grants and technical assistance and entering into interagency agreements under subsection (a) to ensure that activities carried out under an interagency agreement or using those grants or technical assistance\u2014\n**(1)**\naccomplish 1 or more of the purposes identified in section 101(b); and\n**(2)**\nadvance the implementation of priority projects identified under section 104(c).\n##### (c) Cost sharing\nThe Administrator may establish a Federal share requirement for any project carried out using any assistance provided under this section on an individual project basis.\n##### (d) Administration\n**(1) In general**\nThe Administrator may enter into an agreement to manage the implementation of this section with the North American Development Bank or a similar organization that offers grant management services.\n**(2) Funding**\nIf the Administrator enters into an agreement under paragraph (1), the organization selected shall\u2014\n**(A)**\nfor each fiscal year, receive amounts to carry out this section in an advance payment of the entire amount on the date of enactment of an appropriations Act making appropriations to the Administrator for a fiscal year, or as soon as practicable thereafter; and\n**(B)**\notherwise administer the implementation of this section to support partnerships between the public and private sectors in accordance with this title.\n##### (e) Construction, operation, and maintenance\nThe Commissioner may construct, operate, and maintain any project carried out using funds made available to carry out this section.\n##### (f) Authorization of appropriations\n**(1) In general**\nThere is authorized to be appropriated to the Administrator to carry out this section $50,000,000 for each of fiscal years 2026 through 2036, to remain available until expended.\n**(2) Set aside**\nOf amounts made available to carry out this section, the Administrator may use not more than 5 percent for grants under this section for salaries, expenses, and administration.\n**(3) Transfer**\nThe Administrator may transfer amounts made available under this subsection to the Commissioner as the Administrator determines necessary to carry out this section.\n#### 106. Annual budget plan\nThe President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, shall submit estimated expenditures and proposed appropriations for projects under this title, including administrative needs and expenses, for the current year, the budget year, and 5 outyears (as those terms are defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 ( 2 U.S.C. 900(c) )), including for projects included in the priority list under section 104(c), for each Federal agency described in section 103(c)(1).\n#### 107. Reports\nNot later than 1 year after the date of enactment of this Act, and every 2 years thereafter, the Administrator shall submit to Congress a report on the implementation of this title, including\u2014\n**(1)**\na description of\u2014\n**(A)**\neach project that has received funding pursuant to this title; and\n**(B)**\nthe status of all projects that have received funding pursuant to this title that are in progress on the date of submission of the report; and\n**(2)**\nan assessment of the effectiveness of the operation and maintenance of each project that has been carried out pursuant to this title.\nII\nNew River Public Health and Water Quality Restoration\n#### 201. Findings; purposes\n##### (a) Findings\nCongress finds that\u2014\n**(1)**\nthe New River was born out of\u2014\n**(A)**\noccasional flows of the Colorado River into the Salton Sink; and\n**(B)**\nthe erosion of the New River channel, which formed the deep river canyon between 1905 and 1907;\n**(2)**\nthe New River\u2014\n**(A)**\nstarts in Mexicali, Mexico;\n**(B)**\nflows north into the United States through Calexico;\n**(C)**\npasses through the Imperial Valley; and\n**(D)**\ndrains into the Salton Sea approximately 66 miles north of the international boundary;\n**(3)**\nthe sub-watershed of the New River covers approximately 750 square miles, of which 63 percent is in Mexico and 37 percent is in the United States;\n**(4)**\nthe New River has been widely recognized for significant water pollution problems, primarily because of agricultural runoff, raw sewage, pesticides, and discharges of wastes from domestic, agricultural, and industrial sources in Mexico and the Imperial Valley;\n**(5)**\nby the 1980s, the New River acquired the reputation of being 1 of the most polluted rivers in the United States, with many pollutants in the New River posing serious human health hazards to local populations, particularly in Calexico and Mexicali;\n**(6)**\nin 1992, Minute 288 of the International Boundary and Water Commission\u2014\n**(A)**\nestablished a sanitation strategy for the water quality problems of the New River at the international border; and\n**(B)**\ndivided sanitation projects into 2 immediate repair projects, the Mexicali I and Mexicali II, that\u2014\n**(i)**\ntotaled approximately $50,000,000; and\n**(ii)**\nwere funded by both the United States and Mexico through the North American Development Bank;\n**(7)**\nin 1995, the Environmental Protection Agency provided funds to the California Regional Water Quality Control Board to monitor and document the water quality at the international boundary on a monthly basis;\n**(8)**\nin the late 1990s\u2014\n**(A)**\nthe United States and Mexico spent $100,000,000 (of which 45 percent was paid by Mexico and 55 percent was paid by the United States) to build the Las Arenitas and Zaragoza wastewater treatment plants; and\n**(B)**\nafter the construction of those plants, untreated water from the New River was passed through 4 microbial treatment cells at the Las Arenitas wastewater treatment plant, which was then chlorinated and fed into a reforestation project along the desiccated Rio Hardy, which stretches to the Sea of Cortez;\n**(9)**\na 10-year effort by community groups, lawyers, regulatory agencies, and politicians addressed the problem of water quality in the New River at the source by\u2014\n**(A)**\nfederally funding a new sewage treatment plant in Mexicali; and\n**(B)**\ndeveloping a site plan for the portion of the New River in the United States;\n**(10)**\nin 2009, the State of California required the California-Mexico Border Relations Council\u2014\n**(A)**\nto create a water quality plan to study, monitor, remediate, and enhance the water quality of the New River to protect human health; and\n**(B)**\nto develop a river parkway suitable for public use;\n**(11)**\nin 2012, the California-Mexico Border Relations Council approved the strategic plan for the New River Improvement Project that was prepared by the New River Improvement Project Technical Advisory Committee;\n**(12)**\nin 2016, the New River Improvement Project Technical Advisory Committee revised the recommended infrastructure of the New River Improvement Project, and the State of California appropriated $1,400,000 to provide grants or contracts to carry out the necessary planning, design, environmental review, and permitting work;\n**(13)**\nthe revised New River Improvement Project includes the installation of a large trash screen, a conveyance system, aeration devices, a new pump station, and managed wetlands; and\n**(14)**\nthe existing and ongoing voluntary conservation efforts at the New River necessitate improved efficiency and cost-effectiveness, increased private sector investments, and coordination of Federal and non-Federal resources.\n##### (b) Purposes\nThe purposes of this title include\u2014\n**(1)**\ncoordinating water quality restoration and protection activities relating to the New River among Mexican, Federal, State, local, and regional entities and conservation partners; and\n**(2)**\ncarrying out coordinated restoration and protection activities relating to the New River and providing technical assistance for those activities\u2014\n**(A)**\nto sustain and enhance fish and wildlife habitat restoration and protection activities;\n**(B)**\nto improve and maintain water quality to support fish and wildlife, as well as the habitats of fish and wildlife;\n**(C)**\nto sustain and enhance water management for volume and flood damage mitigation improvements to benefit fish and wildlife habitat;\n**(D)**\nto improve opportunities for public access to, and recreation in and along, the New River consistent with the ecological needs of fish and wildlife habitat;\n**(E)**\nto maximize the resilience of natural systems and habitats under changing watershed conditions;\n**(F)**\nto engage the public through outreach, education, and citizen involvement to increase capacity and support for coordinated water quality restoration and protection activities relating to the New River;\n**(G)**\nto increase scientific capacity to support the planning, monitoring, and research activities necessary to carry out coordinated water quality restoration and protection activities relating to the New River; and\n**(H)**\nto provide technical assistance to carry out water quality restoration and protection activities relating to the New River.\n#### 202. Definitions\nIn this title:\n**(1) Program**\nThe term program means the California New River Public Health and Water Quality Restoration Program established under section 203(a).\n**(2) Water quality restoration and protection**\nThe term water quality restoration and protection , with respect to the New River watershed, means\u2014\n**(A)**\nthe enhancement of water quality and stormwater management; and\n**(B)**\nthe use of natural and green infrastructure to enhance the ability of the watershed to capture pollutants and reduce runoff to prevent flooding.\n#### 203. California New River Public Health and Water Quality Restoration Program\n##### (a) Establishment\nNot later than 180 days after the date of enactment of this Act, subject to the availability of appropriations provided specifically for this purpose, the Administrator shall establish a Geographic Program, to be known as the California New River Public Health and Water Quality Restoration Program .\n##### (b) Duties\nIn carrying out the program, the Administrator shall\u2014\n**(1)**\ncarry out projects, plans, and initiatives for the New River that are supported by the California-Mexico Border Relations Council, and work in consultation with applicable management entities, including representatives of the Calexico New River Committee, the California-Mexico Border Relations Council, the New River Improvement Project Technical Advisory Committee, the Federal Government, State and local governments, and regional and nonprofit organizations, to carry out water quality restoration and protection activities relating to the New River;\n**(2)**\ncarry out activities that\u2014\n**(A)**\ndevelop, using monitoring, data collection, and assessment, a shared set of science-based water quality restoration and protection activities identified in accordance with paragraph (1);\n**(B)**\nsupport the implementation of a shared set of science-based water quality restoration and protection activities identified in accordance with paragraph (1), including water reuse projects, water recycling projects, and natural and green infrastructure projects;\n**(C)**\ntarget cost-effective projects with measurable results; and\n**(D)**\nmaximize public health and water quality conservation outcomes; and\n**(3)**\nprovide grants, agreements, and technical assistance in accordance with section 205.\n##### (c) Coordination\nIn establishing the program, the Administrator shall consult, as appropriate, with\u2014\n**(1)**\nthe heads of Federal agencies, including\u2014\n**(A)**\nthe Secretary of the Interior;\n**(B)**\nthe Secretary of Agriculture;\n**(C)**\nthe Secretary of Homeland Security;\n**(D)**\nthe Administrator of General Services;\n**(E)**\nthe Commissioner of U.S. Customs and Border Protection;\n**(F)**\nthe Commissioner;\n**(G)**\nthe Secretary of the Army, acting through the Chief of Engineers;\n**(H)**\nthe Administrator of the National Oceanic and Atmospheric Administration;\n**(I)**\nthe Director of the United States Fish and Wildlife Service; and\n**(J)**\nthe head of any other applicable agency, as determined by the Administrator;\n**(2)**\nthe Governor of California;\n**(3)**\nthe California Environmental Protection Agency;\n**(4)**\nthe California State Water Resources Control Board;\n**(5)**\nthe California Department of Water Resources;\n**(6)**\nthe Colorado River Basin Regional Water Quality Control Board;\n**(7)**\nthe Imperial Irrigation District;\n**(8)**\nthe Salton Sea Authority;\n**(9)**\nthe County of Imperial;\n**(10)**\nother public agencies and organizations with authority for the planning and implementation of conservation strategies relating to the New River in the United States and Mexico, as determined by the Administrator; and\n**(11)**\nrepresentatives of the North American Development Bank.\n##### (d) Cooperative agreements and memoranda of understanding\n**(1) In general**\nTo achieve the purposes of this title, the Administrator may enter into cooperative agreements and memoranda of understanding with\u2014\n**(A)**\nthe heads of other Federal agencies, States, State agencies, units of local government, regional governmental bodies, and private entities; and\n**(B)**\nin cooperation with the Secretary, the Government of Mexico.\n**(2) Use of agreements**\nThe Administrator may enter into the cooperative agreements and memoranda of understanding described in paragraph (1)\u2014\n**(A)**\nto carry out the activities described in this section, including studies, plans, construction, and completion of projects to improve the water quality of, environment of, and public health around the New River; and\n**(B)**\nto carry out a pilot project under which the Administrator shall, for projects selected by the Administrator that would otherwise not be successful in improving the water quality of, environment of, and public health of people residing in areas surrounding the New River\u2014\n**(i)**\nidentify the parties responsible for the projects; and\n**(ii)**\nprovide funds to those parties for the operations and maintenance of the projects.\n**(3) Term**\nThe cooperative agreements and memoranda of understanding described in paragraph (1) shall be limited to a specified period of time, as determined by the Administrator.\n**(4) Financial arrangements**\n**(A) In general**\nIf the Administrator enters into a cooperative agreement or memorandum of understanding described in paragraph (1), the Administrator may require the other party to the agreement or memorandum to provide payment to the Administrator.\n**(B) Deposit**\nAny amounts received as a payment under subparagraph (A) shall be deposited into the State and Tribal Assistance Grants account of the Environmental Protection Agency and shall remain available, without further appropriation, to carry out the purposes of this title.\n**(5) Personnel; services; technical assistance**\nThe Administrator may provide or accept personnel, services, and technical assistance pursuant to a cooperative agreement or memorandum of understanding described in paragraph (1), with or without reimbursement, for the purposes of carrying out the agreement or memorandum.\n#### 204. Water quality action plan\n##### (a) Development\n**(1) In general**\nThe Administrator, in consultation with the entities described in section 203(c), shall develop an action plan for the purpose of improving and protecting the water quality of the New River watershed.\n**(2) Requirements**\nThe action plan under paragraph (1) shall\u2014\n**(A)**\nbuild on and incorporate any existing efforts and plans to improve and protect the water quality of the New River, whether ongoing or completed; and\n**(B)**\ninclude\u2014\n**(i)**\nsuch features as are needed to improve and protect the quality of wastewater, stormwater runoff, and other untreated flows;\n**(ii)**\ncriteria for selecting\u2014\n**(I)**\nwater quality restoration and protection projects; and\n**(II)**\nprojects on the priority list under subsection (c)(1);\n**(iii)**\nthe amounts necessary for the operations and maintenance of infrastructure existing on and constructed after the date of enactment of this Act; and\n**(iv)**\npotential sources of funding to help pay the costs described in clause (iii).\n**(3) Operations and maintenance funding**\n**(A) In general**\nIn developing the action plan under paragraph (1), the Administrator, working with the entities described in section 203(c), shall assess and identify potential alternative sources and approaches for financing infrastructure projects, including financing the operations and maintenance of those infrastructure projects.\n**(B) Requirement**\nIn carrying out subparagraph (A), the Administrator shall assess the approaches identified in the report of the Environmental Financial Advisory Board entitled Evaluating Stormwater Infrastructure Funding and Financing and dated March 2020.\n##### (b) Issuance; updates\nThe Administrator shall\u2014\n**(1)**\nnot later than 1 year after the date of enactment of this Act, issue the action plan under subsection (a)(1); and\n**(2)**\nevery 5 years after the date on which the action plan is issued under paragraph (1), update the action plan.\n##### (c) Priority list\n**(1) In general**\nThe action plan under subsection (a)(1) shall include a priority list of potential or proposed water quality restoration and protection projects for the New River watershed that\u2014\n**(A)**\nprovides for the management of wastewater or stormwater or the removal of debris, sediment, chemicals, bacteria, and other contaminants from the water flowing north into the United States;\n**(B)**\nestimates the costs and identifies the entities that will fund the construction, operation, and maintenance of each project on the priority list;\n**(C)**\nis developed in coordination with the entities described in section 203(c);\n**(D)**\nassists agencies to coordinate funding; and\n**(E)**\nidentifies projects\u2014\n**(i)**\nin the New River watershed; and\n**(ii)**\nthat address transboundary flows that affect coastal communities in and near the New River watershed.\n**(2) Development**\nIn developing the priority list under paragraph (1), the Administrator shall\u2014\n**(A)**\nuse the best available science, including any relevant findings and recommendations of a watershed assessment conducted by Federal, State, and local agencies;\n**(B)**\ncarry out and fund science development, monitoring, or modeling as needed to inform project development and assessment; and\n**(C)**\ninclude, in order of priority, potential or proposed water quality or stormwater projects for the restoration and protection of the New River that\u2014\n**(i)**\nwould help\u2014\n**(I)**\nto achieve and maintain the water quality standards for\u2014\n**(aa)**\npublic health;\n**(bb)**\nrecreational opportunities;\n**(cc)**\nscenic resources; and\n**(dd)**\nwildlife and habitat; and\n**(II)**\nto address water needs in the New River watershed, including through water reuse and water recycling; and\n**(ii)**\nwould identify responsible agencies and funding sources through coordinated efforts by the entities described in section 203(c).\n#### 205. Grants, interagency and other agreements, and assistance\n##### (a) In general\nIn order to carry out the purposes of the program as described in section 201(b) and implement priority projects identified under section 204(c), the Administrator may\u2014\n**(1)**\nprovide grants and technical assistance to the Commissioner, State and local governments, Tribal governments, the North American Development Bank, entities described in section 203(c)(9), nonprofit organizations, and institutions of higher education, in both the United States and Mexico; and\n**(2)**\nenter into interagency agreements with other Federal agencies.\n##### (b) Criteria\nThe Administrator, in consultation with the entities described in section 203(c), shall develop criteria for providing grants and technical assistance and entering into interagency agreements under subsection (a) to ensure that activities carried out under an interagency agreement or using those grants or technical assistance\u2014\n**(1)**\naccomplish 1 or more of the purposes identified in section 201(b); and\n**(2)**\nadvance the implementation of priority projects identified under section 204(c).\n##### (c) Cost sharing\nThe Administrator may establish a Federal share requirement for any project carried out using any assistance provided under this section on an individual project basis.\n##### (d) Administration\n**(1) In general**\nThe Administrator may enter into an agreement to manage the implementation of this section with the North American Development Bank or a similar organization that offers grant management services.\n**(2) Funding**\nIf the Administrator enters into an agreement under paragraph (1), the organization selected shall\u2014\n**(A)**\nfor each fiscal year, receive amounts to carry out this section in an advance payment of the entire amount on the date of enactment of an appropriations Act making appropriations to the Administrator for a fiscal year, or as soon as practicable thereafter; and\n**(B)**\notherwise administer the implementation of this section to support partnerships between the public and private sectors in accordance with this title.\n##### (e) Construction, operation, and maintenance\nThe Commissioner may construct, operate, and maintain any project carried out using funds made available to carry out this section.\n##### (f) Authorization of appropriations\n**(1) In general**\nThere is authorized to be appropriated to the Administrator to carry out this section $50,000,000 for each of fiscal years 2026 through 2036, to remain available until expended.\n**(2) Set aside**\nOf amounts made available to carry out this section, the Administrator may use not more than 5 percent for grants under this section for salaries, expenses, and administration.\n**(3) Transfer**\nThe Administrator may transfer amounts made available under this subsection to the Commissioner as the Administrator determines necessary to carry out this section.\n#### 206. Annual budget plan\nThe President, as part of the annual budget submission of the President to Congress under section 1105(a) of title 31, United States Code, shall submit estimated expenditures and proposed appropriations for projects under this title, including administrative needs and expenses, for the current year, budget year, and 5 outyears (as those terms are defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 ( 2 U.S.C. 900(c) )), including for projects included in the priority list under section 204(c), for each Federal agency described in section 203(c)(1).\n#### 207. Reports\nNot later than 1 year after the date of enactment of this Act, and every 2 years thereafter, the Administrator shall submit to Congress a report on the implementation of this title, including\u2014\n**(1)**\na description of\u2014\n**(A)**\neach project that has received funding pursuant to this title; and\n**(B)**\nthe status of all projects that have received funding pursuant to this title that are in progress on the date of submission of the report; and\n**(2)**\nan assessment of the effectiveness of the operation and maintenance of each project that has been carried out pursuant to this title.\nIII\nBorder Water Infrastructure Improvement\n#### 301. United States-Mexico border water infrastructure program\n##### (a) Definitions\nIn this section:\n**(1) Eligible entity**\nThe term eligible entity means the United States Section of the International Boundary and Water Commission, a State, a local government, an Indian Tribe, or a water or wastewater district with jurisdiction over any area in the United States or Mexico that is located within 100 kilometers of the United States-Mexico border.\n**(2) Eligible project**\n**(A) In general**\nThe term eligible project means a project for the construction of infrastructure for drinking water treatment or distribution, wastewater management, or stormwater management, including natural and green infrastructure and infrastructure for water reuse and water recycling, that\u2014\n**(i)**\naddresses an existing human health or ecological issue;\n**(ii)**\nhas an effect in the United States;\n**(iii)**\nwith respect to wastewater management infrastructure the water discharged from which will flow, directly or indirectly, into the United States, is designed to meet, to the maximum extent practicable, all relevant water quality standards of the country in which the project is located, including, for projects located in the United States, any applicable standards established under the Federal Water Pollution Control Act ( 33 U.S.C. 1251 et seq. );\n**(iv)**\nis proposed by an eligible entity with legal authority\u2014\n**(I)**\nto develop the project;\n**(II)**\nto provide the proposed drinking water or wastewater services; and\n**(III)**\nto obtain necessary financing, including operations and maintenance funding;\n**(v)**\nwill comply with relevant State and local environmental and other laws (including regulations), including with respect to\u2014\n**(I)**\nobtaining any necessary operating permits and licenses; and\n**(II)**\ncomplying with any other regulatory requirements related to land acquisition and rights-of-way; and\n**(vi)**\nhas the support of appropriate Mexican Federal and State agencies, including the Comision Nacional del Agua (commonly known as CONAGUA or the Mexican National Water Commission) and any appropriate State or municipal water utility, if the project is located in Mexico.\n**(B) Exclusions**\nThe term eligible project does not include a project\u2014\n**(i)**\nfor new water supply;\n**(ii)**\nthat threatens an ecosystem located in the United States, or that is located in both the United States and Mexico, if the project causes a reduction in the flow of water; or\n**(iii)**\nto provide drinking water, wastewater, or stormwater services to enable new development.\n**(3) Program**\nThe term program means the program established under subsection (b).\n##### (b) Establishment\nThe Administrator shall carry out a program to provide financial assistance, technical assistance, or a combination of financial and technical assistance to eligible entities for activities related to eligible projects, including feasibility studies, planning studies, environmental assessments, financial analyses, community participation efforts, and architectural, engineering, planning, design, construction, and operations and maintenance activities.\n##### (c) Consultation\nIn carrying out the program, the Administrator shall consult with the North American Development Bank.\n##### (d) Coordination\nIn carrying out the program, the Administrator shall coordinate with Federal, State, local, and Tribal entities in the border region, including the Department of Homeland Security, the International Boundary and Water Commission, and relevant State agencies.\n##### (e) Project selection\n**(1) In general**\nIn selecting projects for which to provide assistance under the program, the Administrator shall select projects in accordance with\u2014\n**(A)**\nparagraph (2); and\n**(B)**\nany other criteria determined appropriate by the Administrator.\n**(2) Prioritization**\nIn carrying out paragraph (1), the Administrator shall prioritize projects that\u2014\n**(A)**\nare identified in an action plan under section 104(a)(1) or 204(a)(1); or\n**(B)**\n**(i)**\nare likely to have the greatest positive effects relating to the environment and public health;\n**(ii)**\nwill result in benefits on the United States side of the United States-Mexico border;\n**(iii)**\naddress the most urgent public health and environmental needs, as determined by the heads of the Regional offices for Regions 6 and 9 of the Environmental Protection Agency; and\n**(iv)**\nmaximize sustainable practices, such as water reuse and water recycling, natural and green infrastructure, water efficiency, and conservation.\n##### (f) Terms and conditions\nThe Administrator may establish such terms and conditions on assistance provided under the program as the Administrator determines appropriate.\n##### (g) Cost share\nThe Administrator may establish a Federal share requirement for any project carried out using any assistance provided under this section on an individual project basis.\nIV\nMiscellaneous\n#### 401. Role of the Commissioner and international agreements\n##### (a) Wastewater and stormwater authority\nThe Commissioner may study, design, construct, operate, and maintain projects to manage, improve, and protect the quality of wastewater, stormwater runoff, and other untreated flows in the Tijuana River watershed and the New River watershed.\n##### (b) Tijuana and New River projects within the United States\nThe Secretary, acting through the Commissioner, shall\u2014\n**(1)**\nconstruct, operate, and maintain projects that\u2014\n**(A)**\nare on a priority list developed under section 104(c) or 204(c);\n**(B)**\nare within the United States; and\n**(C)**\nimprove the water quality of the Tijuana River watershed or the New River watershed, as applicable; and\n**(2)**\nuse available funds, including funds received under this Act, to construct, operate, and maintain the projects described in paragraph (1).\n##### (c) Agreements with Mexico\nThe Secretary, acting through the Commissioner, may execute an agreement with the appropriate official or officials of the Government of Mexico for\u2014\n**(1)**\nthe joint study and design of stormwater control and water quality projects; and\n**(2)**\non approval of the necessary plans and specifications of the projects described in paragraph (1), the construction, operation, and maintenance of those projects by the United States and Mexico, in accordance with the treaty relating to the utilization of the waters of the Colorado and Tijuana Rivers, and of the Rio Grande (Rio Bravo) from Fort Quitman, Texas, to the Gulf of Mexico, and supplementary protocol, signed at Washington February 3, 1944 (59 Stat. 1219), between the United States and Mexico.\n##### (d) Funding\nA project located wholly or partially within Mexico shall be eligible for funding under a program established under title I, II, or III if the project is\u2014\n**(1)**\nidentified under and consistent with an action plan under section 104(a)(1) or 204(a)(1); and\n**(2)**\napproved by the Administrator.\n##### (e) Savings provision\nNothing in this section limits the authority of the International Boundary and Water Commission under this Act or any other provision of law.",
+      "versionDate": "2025-07-10",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-07-10",
+        "text": "Read twice and referred to the Committee on Environment and Public Works."
+      },
+      "number": "2260",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "Border Water Quality Restoration and Protection Act",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Environmental Protection",
+        "updateDate": "2025-07-29T13:49:50Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-07-10",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4357ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Border Water Quality Restoration and Protection Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-07-25T04:38:21Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Border Water Quality Restoration and Protection Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-07-25T04:38:20Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To provide for the water quality restoration of the Tijuana River and the New River, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-07-25T04:33:36Z"
+    }
+  ]
+}
+```

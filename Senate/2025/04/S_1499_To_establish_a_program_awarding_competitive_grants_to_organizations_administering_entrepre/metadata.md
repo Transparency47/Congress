@@ -1,0 +1,222 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/s/1499?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/s/1499
+- Title: New Start Act of 2025
+- Congress: 119
+- Bill type: S
+- Bill number: 1499
+- Origin chamber: Senate
+- Introduced date: 2025-04-28
+- Update date: 2025-05-21T12:58:39Z
+- Update date including text: 2025-05-21T12:58:39Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2025-04-28: Introduced in Senate
+- 2025-04-28 - IntroReferral: Introduced in Senate
+- 2025-04-28 - IntroReferral: Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- Latest action: 2025-04-28: Introduced in Senate
+
+## Actions
+
+- 2025-04-28 - IntroReferral: Introduced in Senate
+- 2025-04-28 - IntroReferral: Read twice and referred to the Committee on Small Business and Entrepreneurship.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-04-28",
+    "latestAction": {
+      "actionDate": "2025-04-28",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/s/1499",
+    "number": "1499",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Commerce"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M000133",
+        "district": "",
+        "firstName": "Edward",
+        "fullName": "Sen. Markey, Edward J. [D-MA]",
+        "lastName": "Markey",
+        "party": "D",
+        "state": "MA"
+      }
+    ],
+    "title": "New Start Act of 2025",
+    "type": "S",
+    "updateDate": "2025-05-21T12:58:39Z",
+    "updateDateIncludingText": "2025-05-21T12:58:39Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2025-04-28",
+      "committees": {
+        "item": {
+          "name": "Small Business and Entrepreneurship Committee",
+          "systemCode": "sssb00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2025-04-28",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-04-28T22:23:20Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "Senate",
+      "name": "Small Business and Entrepreneurship Committee",
+      "systemCode": "sssb00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "B001288",
+      "firstName": "Cory",
+      "fullName": "Sen. Booker, Cory A. [D-NJ]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Booker",
+      "party": "D",
+      "sponsorshipDate": "2025-04-28",
+      "state": "NJ"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1499is.xml",
+      "text": "II\n119th CONGRESS\n1st Session\nS. 1499\nIN THE SENATE OF THE UNITED STATES\nApril 28, 2025 Mr. Markey (for himself and Mr. Booker ) introduced the following bill; which was read twice and referred to the Committee on Small Business and Entrepreneurship\nA BILL\nTo establish a program awarding competitive grants to organizations administering entrepreneurial development programming to currently incarcerated and formerly incarcerated individuals, and other purposes.\n#### 1. Short title\nThis Act may be cited as the New Start Act of 2025 .\n#### 2. Findings\nCongress finds that\u2014\n**(1)**\naccording to the Department of Justice, every year, around 600,000 individuals are released from prison and return home to their communities, and almost 77 percent of those individuals will reoffend within 5 years;\n**(2)**\naccording to the Brookings Institution, an estimated 48.5 percent of formerly incarcerated individuals will remain unemployed or earn a negligible income for a period of 1 year post-incarceration, increasing the risk for recidivism;\n**(3)**\naccording to the Florida State University Institute for Justice Research and Development, formerly incarcerated individuals see a reduction in earnings of 25 percent since criminal records make it difficult to find stable employment;\n**(4)**\nself-employment can provide economic stability for those who are otherwise locked out of the labor market; and\n**(5)**\naccording to a paper entitled Entrepreneurship as a Response to Labor Market Discrimination for Formerly Incarcerated People \u2014\n**(A)**\nthe average individual without a criminal record has a 7.09 percent likelihood of becoming an entrepreneur, but justice-impacted individuals were found to be more than 50 percent likely to choose entrepreneurship with a 12.49 percent likelihood of becoming an entrepreneur;\n**(B)**\nentrepreneurship reduces the likelihood of recidivism by 5.3 percent, which was a 32.5 percent decrease from average recidivism rates for regular employees who have been previously incarcerated; and\n**(C)**\nformerly incarcerated individuals who choose entrepreneurship make $2,700 more annually than formerly incarcerated employees and that the income gap between formerly incarcerated entrepreneurs and entrepreneurs with no criminal record was 38 percent lower than the income gap between formerly incarcerated employees and employees with no criminal record.\n#### 3. Entrepreneurship counseling and training for justice-impacted individuals\nThe Small Business Act ( 15 U.S.C. 631 et seq. ) is amended\u2014\n**(1)**\nby redesignating section 49 ( 15 U.S.C. 631 note) as section 50; and\n**(2)**\nby inserting after section 48 ( 15 U.S.C. 657u ) the following:\n49. New Start Program (a) Definitions In this section: (1) Appropriate committees of Congress The term appropriate committees of Congress means\u2014 (A) the Committee on Small Business and Entrepreneurship of the Senate; and (B) the Committee on Small Business of the House of Representatives. (2) Community Advantage Small Business Lending Company The term Community Advantage Small Business Lending Company has the meaning given the term in section 120.10 of title 13, Code of Federal Regulations, or any successor regulation. (3) Currently incarcerated individual The term currently incarcerated individual means an individual who\u2014 (A) is incarcerated in a Federal prison designated as a minimum, low, or medium security prison by the Director of the Bureau of Prisons or is under the jurisdiction of the Bureau of Prisons and is housed in a Residential Reentry Center operated under a contract with the Bureau of Prisons; and (B) meets the offense eligibility requirements set forth in any applicable policy notice or other guidance issued by the Administration for the program established under section 7(m). (4) Entrepreneurial development program The term entrepreneurial development program includes programming that provides\u2014 (A) assistance and in-depth training on how to start or expand a small business concern, including\u2014 (i) a self-study course manual focused on the basic skills of entrepreneurship, financial literacy, the language of business, and the considerations and life skills relevant to self-employment and ownership of a small business concern; (ii) in-depth classroom instruction introducing the foundations of self-employment and ownership of small business concerns; or (iii) one-on-one training, including individual support in the development of a business plan, entrepreneurial skills, and strategies for starting a small business concern; (B) the tools, skills, and knowledge necessary to identify a business opportunity, including how to\u2014 (i) draft a resume, business plan, or succession plan; (ii) identify sources of capital and contracting opportunities; or (iii) connect with local resources for small business concerns; (C) a mentorship program for over a predetermined or open-ended period; or (D) seed investment in exchange for a small amount of equity, as well as startup capital, or the opportunity to raise capital from outside investors. (5) Formerly incarcerated individual The term formerly incarcerated individual means an individual who\u2014 (A) completed a term of imprisonment in Federal, State, or local jail or prison; and (B) meets the offense eligibility requirements set forth in any applicable policy notice or other guidance issued by the Administration for the program established under section 7(m). (6) Microloan intermediary The term microloan intermediary means an intermediary (as defined in section 7(m)(11)) that is eligible to participate in the program established under section 7(m). (7) Program The term Program means the New Start Program established under subsection (b). (8) SCORE The term SCORE means the Service Corps of Retired Executives described in section 8(b)(1)(B). (9) Women's business center The term women's business center means a women's business center described in section 29. (b) Establishment (1) In general Not later than 180 days after the date of enactment of the New Start Act of 2025 , the Administrator shall establish the New Start Program to award grants to organizations over a 5-year period to create or support existing entrepreneurial development programs for formerly incarcerated individuals or currently incarcerated individuals. (2) Requirements In carrying out the Program, the Administrator shall\u2014 (A) coordinate with the Director of the Bureau of Prisons to allow organizations, including small business development centers, women's business centers, and SCORE chapters, that receive a grant under this section to provide entrepreneurial development assistance to currently incarcerated individuals; (B) develop a plan, which shall be updated annually and made in consultation with associations that represent small business development centers, women's business centers, and SCORE chapters, to match organizations with formerly incarcerated individuals and currently incarcerated individuals; and (C) to the extent possible, ensure an equitable share of grants between organizations that provide entrepreneurial development programs targeted to formerly incarcerated individuals and organizations that provide entrepreneurial development programs to currently incarcerated individuals. (c) Grant requirements (1) In general The Administrator shall\u2014 (A) award grants under the Program to organizations, or partnerships of organizations, including small business development centers, women's business centers, and SCORE chapters, which shall each receive a grant in an amount greater than $100,000 and less than $500,000 annually over the 5-year period in which the Program is in existence; and (B) allocate grants under the Program to ensure that the recipients are geographically varied throughout the United States. (2) Cap on women's business center grants The amount of an award granted to a women's business center under the Program shall not count toward the maximum grant award amount allowable under section 29. (d) Partnerships An applicant for a grant under the Program may form partnerships with other organizations for the purposes of the application submitted under subsection (e) and for conducting entrepreneurial development programs. (e) Application (1) In general An organization or partnership of organizations desiring a grant under the Program shall submit an application to the Administrator in such form, in such manner, and containing such information as the Administrator may reasonably require. (2) Contents An application submitted under paragraph (1) shall\u2014 (A) for the purposes of entrepreneurial development programming targeted at formerly incarcerated individuals, demonstrate that the applicant is a microloan intermediary or a Community Advantage Small Business Lending Company, or has a partnership with such a microloan intermediary, Community Advantage Small Business Lending Company, or other lender that may provide capital to qualified formerly incarcerated individuals; (B) demonstrate strong community ties, including those with the justice-impacted community, local businesses, and political leaders; (C) demonstrate an ability to provide a full range of entrepreneurial development programming on an ongoing basis; (D) include a plan for reaching formerly incarcerated individuals or currently incarcerated individuals, including by identifying particular target populations within the community; (E) clearly define entrepreneurial development capabilities, including coordination with existing local resource partners of the Administration for additional training as necessary; (F) present an entrepreneurial development curriculum, which may be a nationally recognized model or based upon such a model; (G) include a list of each partner organization; and (H) include a comprehensive plan for the use of grant funds, including estimates for administrative and outreach costs of running and evaluating the entrepreneurial development program. (f) Priority In determining whether to award a grant under the Program, the Administrator may give priority to applicants based on\u2014 (1) whether the application includes a commitment from an existing or new non-Federal funding source; (2) whether the application takes into account local economies and markets as a part of the educational component of the entrepreneurial development program; (3) the ability or plan of the applicant to provide entrepreneurial development services concurrent with employment or job training services; (4) whether the applicant has a history of effectively providing entrepreneurial development training or access to capital to formerly incarcerated individuals or currently incarcerated individuals; and (5) whether the applicant will be providing entrepreneurial development training to currently incarcerated individuals who will be released from Federal custody not later than 18 months after the date on which those currently incarcerated individuals begin to receive those services. (g) Responsibilities A recipient of a grant under the Program shall, to the maximum extent possible, connect formerly incarcerated individuals to a range of Federal resources, including\u2014 (1) the program established under section 7(m); (2) Community Advantage Small Business Lending Companies; (3) small business development centers; (4) women\u2019s business centers; (5) SCORE chapters; (6) Veteran Business Outreach Centers described in section 32 of the Small Business Act ( 15 U.S.C. 657b ); and (7) business centers established by the Minority Business Development Agency of the Department of Commerce. (h) Reports (1) In general Not later than 1 year after the date on which the Administrator establishes the Program, and every year thereafter until the Program terminates, the Administrator shall submit to the appropriate committees of Congress a report on the activities of the Program, including\u2014 (A) a list of each grantee organization and each partner organization; (B) the characteristics of formerly incarcerated individuals and currently incarcerated individuals assisted under the entrepreneurial development programs, including race and ethnicity, gender, age, marital status, parental status, employment status, income, and prior business experience; (C) the participation and attendance rates for all components of the entrepreneurial development programs; (D) the entrepreneurial development program retention rate; (E) to the greatest extent practicable, the most common reasons why participants do not complete an entrepreneurial development program; (F) the percentage of formerly incarcerated individuals who remain non-justice involved during the calendar year of an entrepreneurial development program; (G) the experiences and perceptions of entrepreneurial development program participants; (H) the number and dollar amount of loans made to formerly incarcerated individuals; (I) the number and dollar amount of loans made or guaranteed by the Administration to formerly incarcerated individuals; and (J) such additional information as the Administrator may require. (2) GAO report Not later than 1 year after the date on which the Program terminates, the Comptroller General of the United States shall submit to the appropriate committees of Congress a report that evaluates\u2014 (A) the services that grant recipients provided to formerly incarcerated individuals and currently incarcerated individuals assisted under entrepreneurial development programs; (B) oversight of the Program by the Administrator, including policies and procedures for monitoring the compliance by grant recipients with Program requirements and an assessment of the effectiveness of the Program; and (C) the overall performance of the Program and the impacts of the Program on grant recipients. (i) Rule of construction Nothing in this section may be construed to affect the program established under section 7(m), including\u2014 (1) the requirements of that program; (2) the manner in which that program is carried out; or (3) the use or availability of any amounts that have been made available to carry out that program. (j) Authorization of appropriations There are authorized to be appropriated to the Administrator such sums as are necessary to carry out the Program. .",
+      "versionDate": "2025-04-28",
+      "versionType": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Commerce",
+        "updateDate": "2025-05-21T12:58:39Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-04-28",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1499is.xml"
+        }
+      ],
+      "type": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "New Start Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-05-09T03:38:19Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "New Start Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-05-09T03:38:18Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A bill to establish a program awarding competitive grants to organizations administering entrepreneurial development programming to currently incarcerated and formerly incarcerated individuals, and other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-05-09T03:33:27Z"
+    }
+  ]
+}
+```

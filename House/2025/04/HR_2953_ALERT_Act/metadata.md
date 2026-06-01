@@ -1,0 +1,275 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/2953?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/hr/2953
+- Title: ALERT Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 2953
+- Origin chamber: House
+- Introduced date: 2025-04-17
+- Update date: 2025-05-07T14:54:05Z
+- Update date including text: 2025-05-07T14:54:05Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2025-04-17: Introduced in House
+- 2025-04-17 - IntroReferral: Introduced in House
+- 2025-04-17 - IntroReferral: Introduced in House
+- 2025-04-17 - IntroReferral: Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-04-17 - IntroReferral: Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-04-17: Introduced in House
+
+## Actions
+
+- 2025-04-17 - IntroReferral: Introduced in House
+- 2025-04-17 - IntroReferral: Introduced in House
+- 2025-04-17 - IntroReferral: Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-04-17 - IntroReferral: Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-04-17",
+    "latestAction": {
+      "actionDate": "2025-04-17",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/hr/2953",
+    "number": "2953",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "P000609",
+        "district": "6",
+        "firstName": "Gary",
+        "fullName": "Rep. Palmer, Gary J. [R-AL-6]",
+        "lastName": "Palmer",
+        "party": "R",
+        "state": "AL"
+      }
+    ],
+    "title": "ALERT Act",
+    "type": "HR",
+    "updateDate": "2025-05-07T14:54:05Z",
+    "updateDateIncludingText": "2025-05-07T14:54:05Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-04-17",
+      "committees": {
+        "item": {
+          "name": "Judiciary Committee",
+          "systemCode": "hsju00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-04-17",
+      "committees": {
+        "item": {
+          "name": "Oversight and Government Reform Committee",
+          "systemCode": "hsgo00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-04-17",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-04-17",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-04-17T13:37:05Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-04-17T13:37:00Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "W000821",
+      "district": "4",
+      "firstName": "Bruce",
+      "fullName": "Rep. Westerman, Bruce [R-AR-4]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Westerman",
+      "party": "R",
+      "sponsorshipDate": "2025-05-05",
+      "state": "AR"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2953ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 2953\nIN THE HOUSE OF REPRESENTATIVES\nApril 17, 2025 Mr. Palmer introduced the following bill; which was referred to the Committee on Oversight and Government Reform , and in addition to the Committee on the Judiciary , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned\nA BILL\nTo amend title 5, United States Code, to provide for the publication, by the Office of Information and Regulatory Affairs, of information relating to rules, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the All Economic Regulations are Transparent Act or the ALERT Act .\n#### 2. Office of information and regulatory affairs publication of information relating to rules\n##### (a) Amendment\nTitle 5, United States Code, is amended by inserting after chapter 6 the following new chapter:\n6A OFFICE OF INFORMATION AND REGULATORY AFFAIRS PUBLICATION OF INFORMATION RELATING TO RULES 651. Agency monthly submission to office of information and regulatory affairs On a monthly basis, the head of each agency shall submit to the Administrator of the Office of Information and Regulatory Affairs (referred to in this chapter as the Administrator ), in such a manner as the Administrator may reasonably require, the following information: (1) For each rule that the agency expects to propose or finalize during the 12-month period following the month covered by the monthly submission: (A) A summary of the nature of the rule, including the regulation identifier number and the docket number for the rule. (B) The objectives of and legal basis for the issuance of the rule, including\u2014 (i) any statutory or judicial deadline; and (ii) whether the legal basis restricts or precludes the agency from conducting an analysis of the costs or benefits of the rule during the rule making, and if not, whether the agency plans to conduct an analysis of the costs or benefits of the rule during the rule making. (C) Whether the agency plans to claim an exemption from the requirements of section 553 pursuant to section 553(b)(B). (D) The stage of the rule making as of the date of submission. (E) Whether the rule is subject to review under section 610. (2) For any rule for which the agency expects to finalize during the 12-month period following the month covered by the monthly submission and has issued a general notice of proposed rule making\u2014 (A) an approximate schedule for completing action on the rule; (B) an estimate of whether the rule will cost\u2014 (i) less than $50,000,000; (ii) $50,000,000 or more but less than $100,000,000; (iii) $100,000,000 or more but less than $500,000,000; (iv) $500,000,000 or more but less than $1,000,000,000; (v) $1,000,000,000 or more but less than $5,000,000,000; (vi) $5,000,000,000 or more but less than $10,000,000,000; or (vii) $10,000,000,000 or more; (C) any estimate of the economic effects of the rule, including the imposition of unfunded mandates and any estimate of the net effect that the rule will have on the number of jobs in the United States, that was considered in drafting the rule, or, if no such estimate is available, a statement affirming that no information on the economic effects, including the effect on the number of jobs, of the rule has been considered; and (D) a list of all influential scientific information disseminated or expected to be disseminated by the agency relating to the rule, including any peer review plans for the information, including\u2014 (i) the date the information or peer review was or is expected to be received by the agency; (ii) the date the information or peer review was publically disclosed or is expected to be publically disclosed, and, if that date is altered in subsequent reports, a brief explanation for the change; and (iii) the Internet address of the information or peer review completed and disclosed or of where the information or peer review will be found, once completed and disclosed. 652. Office of information and regulatory affairs publications (a) Agency-Specific information published monthly Not later than 30 days after the submission of information pursuant to section 651, the Administrator shall make such information publicly available on the Internet. (b) Cumulative assessment of agency rule making published annually (1) Publication in the federal register Not later than October 1 of each year, the Administrator shall publish in the Federal Register the following, with respect to the previous year: (A) The information that the Administrator received from the head of each agency under section 651. (B) The number of rules and a list of each such rule\u2014 (i) that was proposed by each agency, including, for each such rule, an indication of whether the issuing agency conducted an analysis of the costs or benefits of the rule; and (ii) that was finalized by each agency, including for each such rule an indication of whether\u2014 (I) the issuing agency conducted an analysis of the costs or benefits of the rule; (II) the agency claimed an exemption from the procedures under section 553 pursuant to section 553(b)(B); and (III) the rule was issued pursuant to a statutory mandate or the rule making is committed to agency discretion by law. (C) The number of agency actions and a list of each such action taken by each agency that\u2014 (i) repealed a rule; (ii) reduced the scope of a rule; (iii) reduced the cost of a rule; or (iv) accelerated the expiration date of a rule. (D) The total cost (without reducing the cost by any offsetting benefits) of all rules proposed or finalized, the total cost of any unfunded mandates imposed by all such rules, and the number of rules for which an estimate of the cost of the rule was not available. (2) Publication on the internet Not later than October 1 of each year, the Administrator shall make publicly available on the Internet the following: (A) The analysis of the costs or benefits, if conducted, for each proposed rule or final rule issued by an agency for the previous year. (B) The docket number and regulation identifier number for each proposed or final rule issued by an agency for the previous year. (C) The number of rules and a list of each such rule reviewed by the Director of the Office of Management and Budget for the previous year, and the authority under which each such review was conducted. (D) The number of rules and a list of each such rule for which the head of an agency completed a review under section 610 for the previous year. (E) The number of rules and a list of each such rule submitted to the Comptroller General under section 801. (F) The number of rules and a list of each such rule for which a resolution of disapproval was introduced in either the House of Representatives or the Senate under section 802. 653. Requirement for rules to appear in agency-specific monthly publication (a) In general Subject to subsection (b), a rule may not take effect until the information required to be made publicly available on the Internet regarding such rule pursuant to section 652(a) has been so available for not less than 6 months. (b) Exceptions The requirement of subsection (a) shall not apply in the case of a rule\u2014 (1) for which the agency issuing the rule claims an exception under section 553(b)(B); or (2) which the President determines by Executive order should take effect because the rule is\u2014 (A) necessary because of an imminent threat to health or safety or other emergency; (B) necessary for the enforcement of criminal laws; (C) necessary for national security; or (D) issued pursuant to any statute implementing an international trade agreement. 654. Definitions In this chapter, the terms agency , agency action , rule , and rule making have the meanings given those terms in section 551, and the term unfunded mandate has the meaning given the term Federal mandate in section 421(6) of the Congressional Budget Act of 1974 ( 2 U.S.C. 658(6) ). .\n##### (b) Technical and conforming amendment\nThe table of chapters for part I of title 5, United States Code, is amended by inserting after the item relating to chapter 5, the following:\n6. The Analysis of Regulatory Functions 601. 6A. Office of Information and Regulatory Affairs Publication of Information Relating to Rules 651 .\n##### (c) Effective dates\n**(1) Agency monthly submission to the office of information and regulatory affairs**\nThe first submission required pursuant to section 651 of title 5, United States Code, as added by subsection (a), shall be submitted not later than 30 days after the date of the enactment of this Act, and monthly thereafter.\n**(2) Cumulative assessment of agency rule making**\n**(A) In general**\nSubsection (b) of section 652 of title 5, United States Code, as added by subsection (a), shall take effect on the date that is 60 days after the date of the enactment of this Act.\n**(B) Deadline**\nThe first requirement to publish or make available, as the case may be, under subsection (b) of section 652 of title 5, United States Code, as added by subsection (a), shall be the first October 1 after the effective date of such subsection.\n**(C) First publication**\nThe requirement under section 652(b)(2)(A) of title 5, United States Code, as added by subsection (a), shall include for the first publication, any analysis of the costs or benefits conducted for a proposed or final rule, for the 10 years before the date of the enactment of this Act.\n**(3) Requirement for rules to appear in agency-specific monthly publication**\nSection 653 of title 5, United States Code, as added by subsection (a), shall take effect on the date that is 8 months after the date of the enactment of this Act.",
+      "versionDate": "2025-04-17",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Government Operations and Politics",
+        "updateDate": "2025-05-07T14:54:05Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-04-17",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2953ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "ALERT Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-05-03T03:23:23Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "ALERT Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-05-03T03:23:21Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "All Economic Regulations are Transparent Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-05-03T03:23:21Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend title 5, United States Code, to provide for the publication, by the Office of Information and Regulatory Affairs, of information relating to rules, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-05-03T03:18:39Z"
+    }
+  ]
+}
+```

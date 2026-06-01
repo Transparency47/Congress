@@ -1,0 +1,58 @@
+# S 1140: Health ACCESS Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-03-26
+- Latest action: 2025-03-26 - Introduced in Senate
+- Policy area: Health
+- Sponsor: Sen. Cassidy, Bill [R-LA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/1140
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-03-26
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1140is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-03-26
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1140is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1140
+IN THE SENATE OF THE UNITED STATES
+March 26, 2025 Mr. Cassidy (for himself and Mr. Padilla ) introduced the following bill; which was read twice and referred to the Committee on Finance
+A BILL
+To amend title XI of the Social Security Act to lower barriers to increase patient access to health care.
+#### 1. Short title
+This Act may be cited as the Health Accelerating Consumer’s Care by Expediting Self-Scheduling Act or the Health ACCESS Act .
+#### 2. Amendments to section 1128B
+Section 1128B(b) of the Social Security Act (42 U.S.C. 1320a–7b(b)) is amended—
+**(1)**
+in paragraph (3)—
+**(A)**
+by moving the left margins of subparagraphs (J) and (K) 2 ems to the left;
+**(B)**
+in subparagraph (K), by striking and at the end;
+**(C)**
+in subparagraph (L), by striking the period at the end and inserting ; and ; and
+**(D)**
+by adding at the end the following new subparagraph:
+(M) any remuneration paid by a provider of services (as defined in section 1861(u)) or a supplier (as defined in section 1861(d)) to an information service provider (as defined in paragraph (5)), if— (i) such information service provider does not— (I) steer or lead a consumer to select a particular provider of services or supplier based on the amount a provider of services or supplier pays or may pay the information service provider; (II) provide, or represent itself as providing, any medical items or services, diagnostic or counseling services or assessments of illness or injury, or make any promises of cure or guarantees of treatment; (III) provide contact information regarding a consumer (as defined in paragraph (5)) to providers of services or suppliers, except to the specific provider of services or supplier selected by the consumer; (IV) provide or arrange for transportation of an individual to, or from, the location of a provider of services or supplier; (V) provide or arrange for the provision of any other remuneration to a Federal health care program beneficiary other than the inherent convenience of the information service; or (VI) engage in targeted marketing of a particular provider or supplier through phone calls or text messages, with respect to consumers or potential consumers who have not previously interacted with the information service provider or who have opted out; (ii) the methodology for determining compensation paid to the information service provider by a provider of services or supplier is set in advance in writing, and the compensation: (I) does not exceed fair market value; (II) is for services, specified in writing; and (III) does not take into account the value of any items or services payable in whole or in part by a Federal health care program that result from recommendations by the information service provider for the provider of services or supplier; (iii) such information service provider clearly discloses the financial arrangement between it and the providers of services or suppliers participating in such service to consumers; (iv) such information service provider furnishes provider- and supplier-specific information to consumers based only on objective, consumer-centric criteria; (v) such information service provider develops objective criteria for participation in such information service and does not exclude any providers of services or suppliers who meet such criteria from participating therein; and (vi) such information service provider meets such other conditions as may be determined appropriate by the Secretary. ; and
+**(E)**
+by adding at the end the following new paragraph:
+(5) Definition of consumer; information service provider For purposes of paragraph (3)(M): (A) Consumer The term consumer means an individual who uses a web-based platform operated by an information service provider for the purpose of searching providers of services or suppliers. (B) Information service provider The term information service provider means any individual or entity operating a web-based platform that makes information regarding providers of services or suppliers available to consumers. .
+
+
+## Timeline
+
+- 2025-03-26: Introduced in Senate
+- 2025-03-26 - IntroReferral: Introduced in Senate
+- 2025-03-26 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2025-03-26: Introduced in Senate

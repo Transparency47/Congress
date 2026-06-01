@@ -1,0 +1,228 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hres/1180?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-resolution/1180
+- Title: Recognizing the enduring cultural and historical significance of emancipation in the Nation's capital on the anniversary of President Abraham Lincoln's signing of the District of Columbia Compensated Emancipation Act, which established the "first freed" on April 16, 1862, and celebrating passage of the District of Columbia statehood bill in the House of Representatives.
+- Congress: 119
+- Bill type: HRES
+- Bill number: 1180
+- Origin chamber: House
+- Introduced date: 2026-04-15
+- Update date: 2026-04-21T21:58:38Z
+- Update date including text: 2026-04-21T21:58:38Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2026-04-15: Introduced in House
+- 2026-04-15 - IntroReferral: Referred to the House Committee on Oversight and Government Reform.
+- 2026-04-15 - IntroReferral: Submitted in House
+- Latest action: 2026-04-15: Submitted in House
+
+## Actions
+
+- 2026-04-15 - IntroReferral: Referred to the House Committee on Oversight and Government Reform.
+- 2026-04-15 - IntroReferral: Submitted in House
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-04-15",
+    "latestAction": {
+      "actionDate": "2026-04-15",
+      "text": "Submitted in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1180",
+    "number": "1180",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "N000147",
+        "district": "",
+        "firstName": "Eleanor",
+        "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+        "lastName": "Norton",
+        "party": "D",
+        "state": "DC"
+      }
+    ],
+    "title": "Recognizing the enduring cultural and historical significance of emancipation in the Nation's capital on the anniversary of President Abraham Lincoln's signing of the District of Columbia Compensated Emancipation Act, which established the \"first freed\" on April 16, 1862, and celebrating passage of the District of Columbia statehood bill in the House of Representatives.",
+    "type": "HRES",
+    "updateDate": "2026-04-21T21:58:38Z",
+    "updateDateIncludingText": "2026-04-21T21:58:38Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-04-15",
+      "committees": {
+        "item": {
+          "name": "Oversight and Government Reform Committee",
+          "systemCode": "hsgo00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1025",
+      "actionDate": "2026-04-15",
+      "committees": {
+        "item": {
+          "name": "Oversight and Government Reform Committee",
+          "systemCode": "hsgo00"
+        }
+      },
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Submitted in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-04-15T14:00:05Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hres/BILLS-119hres1180ih.xml",
+      "text": "IV\n119th CONGRESS\n2d Session\nH. RES. 1180\nIN THE HOUSE OF REPRESENTATIVES\nApril 15, 2026 Ms. Norton submitted the following resolution; which was referred to the Committee on Oversight and Government Reform\nRESOLUTION\nRecognizing the enduring cultural and historical significance of emancipation in the Nation\u2019s capital on the anniversary of President Abraham Lincoln\u2019s signing of the District of Columbia Compensated Emancipation Act, which established the first freed on April 16, 1862, and celebrating passage of the District of Columbia statehood bill in the House of Representatives.\nThat the House of Representatives\u2014\n**(1)**\nrecognizes District of Columbia Emancipation Day, marking the anniversary of the end of slavery in the District of Columbia and symbolizing the aspirations of the residents of the District of Columbia for the same rights and freedoms afforded to residents of States; and\n**(2)**\ncalls on Congress to pass the Washington, DC Admission Act.",
+      "versionDate": "2026-04-15",
+      "versionType": "IH"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-04-14",
+        "text": "Referred to the House Committee on Oversight and Government Reform."
+      },
+      "number": "333",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "Recognizing the enduring cultural and historical significance of emancipation in the Nation's capital on the anniversary of President Abraham Lincoln's signing of the District of Columbia Compensated Emancipation Act, which established the \"first freed\" on April 16, 1862, and celebrating passage of the District of Columbia statehood bill in the House of Representatives.",
+      "type": "HRES"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Government Operations and Politics",
+        "updateDate": "2026-04-21T21:58:37Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-04-15",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hres/BILLS-119hres1180ih.xml"
+        }
+      ],
+      "type": "IH"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Recognizing the enduring cultural and historical significance of emancipation in the Nation's capital on the anniversary of President Abraham Lincoln's signing of the District of Columbia Compensated Emancipation Act, which established the \"first freed\" on April 16, 1862, and celebrating passage of the District of Columbia statehood bill in the House of Representatives.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-04-16T12:33:29Z"
+    },
+    {
+      "title": "Recognizing the enduring cultural and historical significance of emancipation in the Nation's capital on the anniversary of President Abraham Lincoln's signing of the District of Columbia Compensated Emancipation Act, which established the \"first freed\" on April 16, 1862, and celebrating passage of the District of Columbia statehood bill in the House of Representatives.",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-04-16T08:07:04Z"
+    }
+  ]
+}
+```

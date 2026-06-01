@@ -1,0 +1,340 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/2087?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/2087
+- Title: SAFE Bet Act of 2025
+- Congress: 119
+- Bill type: HR
+- Bill number: 2087
+- Origin chamber: House
+- Introduced date: 2025-03-11
+- Update date: 2026-01-15T17:53:53Z
+- Update date including text: 2026-01-15T17:53:53Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, relatedbills, subjects, summaries, text, titles
+
+## Timeline
+
+- 2025-03-11: Introduced in House
+- 2025-03-11 - IntroReferral: Introduced in House
+- 2025-03-11 - IntroReferral: Introduced in House
+- 2025-03-11 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-03-11 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-03-11: Introduced in House
+
+## Actions
+
+- 2025-03-11 - IntroReferral: Introduced in House
+- 2025-03-11 - IntroReferral: Introduced in House
+- 2025-03-11 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-03-11 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-03-11",
+    "latestAction": {
+      "actionDate": "2025-03-11",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2087",
+    "number": "2087",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "T000469",
+        "district": "20",
+        "firstName": "Paul",
+        "fullName": "Rep. Tonko, Paul [D-NY-20]",
+        "lastName": "Tonko",
+        "party": "D",
+        "state": "NY"
+      }
+    ],
+    "title": "SAFE Bet Act of 2025",
+    "type": "HR",
+    "updateDate": "2026-01-15T17:53:53Z",
+    "updateDateIncludingText": "2026-01-15T17:53:53Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-03-11",
+      "committees": {
+        "item": {
+          "name": "Natural Resources Committee",
+          "systemCode": "hsii00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-03-11",
+      "committees": {
+        "item": {
+          "name": "Energy and Commerce Committee",
+          "systemCode": "hsif00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-03-11",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-03-11",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-03-11T14:01:00Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Natural Resources Committee",
+      "systemCode": "hsii00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-03-11T14:00:50Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2087ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 2087\nIN THE HOUSE OF REPRESENTATIVES\nMarch 11, 2025 Mr. Tonko introduced the following bill; which was referred to the Committee on Energy and Commerce , and in addition to the Committee on Natural Resources , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned\nA BILL\nTo establish minimum Federal standards for sports betting, and for other purposes.\n#### 1. Short title; table of contents\n##### (a) Short title\nThis Act may be cited as the Supporting Affordability and Fairness with Every Bet Act of 2025 or the SAFE Bet Act of 2025 .\n##### (b) Table of contents\nThe table of contents for this Act is as follows:\nSec. 1. Short title; table of contents.\nSec. 2. Definitions.\nTitle I\u2014Minimum Federal Standards for Sports Betting\nSec. 101. General prohibition on sports wagering.\nSec. 102. State sports wagering program.\nSec. 103. State sports wagering program standards.\nTitle II\u2014Public health in sports betting\nSec. 201. Annual nationwide survey on sports betting.\nSec. 202. National Self-Exclusion List.\nSec. 203. Surgeon General\u2019s Report on Public Health Challenges Associated with Sports Betting.\nSec. 204. Surveillance of gambling addiction.\nTitle III\u2014General provisions\nSec. 301. State and Tribal authority.\nSec. 302. Severability.\n#### 2. Definitions\nIn this Act:\n**(1) Amateur athletic competition**\nThe term amateur athletic competition has the meaning given the term in section 220501 of title 36, United States Code.\n**(2) Anonymized sports wagering data**\nWith respect to a sports wager accepted by a sports wagering operator, the term anonymized sports wagering data means\u2014\n**(A)**\na unique identifier for the transaction and, if available, the individual who placed the sports wager, except that such identifier shall not include any personally identifiable information of such individual;\n**(B)**\nthe amount and type of sports wager;\n**(C)**\nthe date and time at which the sports wager was accepted;\n**(D)**\nthe location at which the sports wager was placed, including the internet protocol address, if applicable; and\n**(E)**\nthe outcome of the sports wager.\n**(3) Gambling disorder**\nThe term gambling disorder means\u2014\n**(A)**\ngambling disorder, as the term is used by the American Psychiatric Association in the publication entitled Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (or a successor edition);\n**(B)**\npathological gambling;\n**(C)**\ngambling addiction; and\n**(D)**\ncompulsive gambling.\n**(4) Governmental entity**\nThe term governmental entity means\u2014\n**(A)**\na State;\n**(B)**\na political subdivision of a State; and\n**(C)**\nan entity or organization, including an Indian Tribe, that has governmental authority within the territorial boundaries of the United States, including Indian lands.\n**(5) Indian lands**\nThe term Indian lands has the meaning given the term in section 4 of the Indian Gaming Regulatory Act ( 25 U.S.C. 2703 ).\n**(5) Indian Tribe**\nThe term Indian Tribe has the meaning given the term Indian tribe in section 4 of the Indian Gaming Regulatory Act ( 25 U.S.C. 2703 ).\n**(6) Interactive sports wagering platform**\nThe term interactive sports wagering platform means a person or entity that offers licensed sports wagering over the internet, including through an internet website and mobile devices, on behalf of a licensed gaming facility.\n**(7) Interstate sports wagering compact**\nThe term interstate sports wagering compact means a compact to offer sports wagering in accordance with this Act between\u2014\n**(A)**\n2 or more States with a State sports wagering program;\n**(B)**\n1 or more States with a State sports wagering program and 1 or more Indian Tribes; or\n**(C)**\n2 or more Indian Tribes.\n**(8) Licensed gaming facility**\nThe term licensed gaming facility means a person licensed by a State regulatory entity or an Indian Tribe licensed by a State regulatory agency for the conduct of gaming.\n**(9) Microbet**\nThe term microbet means a wager placed on an outcome or occurrence within a sporting event which may or may not be related to the ultimate result of the sporting event.\n**(10) National self-exclusion list**\nThe term national self-exclusion list means the list maintained under section 553A of the Public Health Service Act, as added by section 202 of this Act, in cooperation with State regulatory entities, under sections 103(b)(6)(A)(ii) of this Act.\n**(11) Official**\nThe term official means a referee, umpire, judge, reviewer, or any other individual authorized to administer the rules of a sporting event.\n**(12) Proposition bet**\nThe term proposition bet means a side wager on a part of a sporting event that does not concern the final outcome of the sporting event.\n**(13) Reasonable lender standard**\nThe term reasonable lender standard means application of underwriting criteria that would be applied by a lender that is an insured depository institution (as defined under section 3 of the Federal Deposit Insurance Act ( 12 U.S.C. 1813 )) for an unsecured loan extended to a consumer.\n**(14) Sporting event**\nThe term sporting event means any athletic competition.\n**(15) Sports organization**\nThe term sports organization means\u2014\n**(A)**\na person or governmental entity that\u2014\n**(i)**\nsponsors, organizes, schedules, or conducts a sporting event; and\n**(ii)**\nwith respect to the sporting event and the participants in the sporting event\u2014\n**(I)**\nprescribes final rules; and\n**(II)**\nenforces a code of conduct; and\n**(B)**\na league or association of 1 or more persons or governmental entities described in subparagraph (A).\n**(16) Sports wager**\n**(A) In general**\nExcept as provided in subparagraph (C), the term sports wager means the staking or risking by any person of something of value upon the outcome of a sporting event, including the outcome of any portion or aspect thereof, upon an agreement or understanding that the person or another person will receive something of value in the event of a certain outcome.\n**(B) Inclusion**\nWith respect to an amateur or professional sporting event, the term sports wager includes\u2014\n**(i)**\na straight bet;\n**(ii)**\na teaser;\n**(iii)**\na variation of a teaser;\n**(iv)**\na parlay;\n**(v)**\na total or over-under;\n**(vi)**\na moneyline;\n**(vii)**\na betting pool;\n**(viii)**\nexchange wagering;\n**(ix)**\nin-game wagering, including in-game wagering on\u2014\n**(I)**\na final or interim game score;\n**(II)**\nstatistics; or\n**(III)**\na discrete in-game event;\n**(x)**\na sports lottery; and\n**(xi)**\na proposition bet.\n**(C) Exceptions**\nThe term sports wager does not include\u2014\n**(i)**\nany activity excluded from the definition of the term bet or wager under section 5362 of title 31, United States Code; or\n**(ii)**\nany activity that does not violate a provision of the Interstate Horseracing Act of 1978 ( 15 U.S.C. 3001 et seq. ).\n**(17) Sports wagering**\nThe term sports wagering means the acceptance of a sports wager by a sports wagering operator.\n**(18) Sports wagering operator**\nThe term sports wagering operator means\u2014\n**(A)**\na licensed gaming facility that offers sports wagering; and\n**(B)**\nan interactive sports wagering platform.\n**(19) Sports wagering opt-in State**\nThe term sports wagering opt-in State means a State that administers a State sports wagering program.\n**(20) State**\nThe term State means\u2014\n**(A)**\na State;\n**(B)**\nthe District of Columbia; and\n**(C)**\nany commonwealth, territory, or possession of the United States.\n**(21) State regulatory entity**\nThe term State regulatory entity means the governmental entity\u2014\n**(A)**\nestablished or designated by a sports wagering opt-in State under section 102(a)(2)(A)(ii); and\n**(B)**\nresponsible, solely or in coordination with 1 or more other governmental entities, for the regulation of sports wagering in the applicable sports wagering opt-in State.\n**(22) State social gambling law**\nThe term State social gambling law means a State law that allows sports wagering that\u2014\n**(A)**\nis not conducted as a business;\n**(B)**\ninvolves 2 or more players who compete on equal terms; and\n**(C)**\ndoes not provide a benefit to\u2014\n**(i)**\na player, other than the winnings of the player; or\n**(ii)**\na person who is not involved in a sports wager.\n**(23) State sports wagering program**\nThe term State sports wagering program means a program administered and overseen by a State pursuant to an application approved by the Attorney General under subsection (b) or (e) of section 102.\n**(24) Suspicious transaction**\nThe term suspicious transaction means a transaction or an arrangement that a sports wagering operator knows or has reason to know, as determined by a director, officer, employee, or agent of the sports wagering operator is or would be if completed\u2014\n**(A)**\na violation of, or part of a plan to violate or evade, any Federal, State, or local law (including regulations); or\n**(B)**\nsports wagering by or on behalf of an individual described in subparagraph (C), (D), or (E) of section 103(b)(4).\n**(25) Suspicious transaction report**\nThe term suspicious transaction report means a report submitted to a State regulatory entity or a sports organization under section 103(b)(13).\n**(26) Tribal-State compact**\nThe term Tribal-State compact means a compact entered into between a State and an Indian Tribe pursuant to section 11(d)(3) of the Indian Gaming Regulatory Act ( 25 U.S.C. 2710(d)(3) ).\nI\nMinimum Federal Standards for Sports Betting\n#### 101. General prohibition on sports wagering\n##### (a) In general\nExcept as provided in subsection (b), it shall be unlawful for any person to knowingly accept a sports wager.\n##### (b) Exceptions\nIt shall not be a violation of subsection (a) for\u2014\n**(1)**\na sports wagering operator located in a sports wagering opt-in State to accept a sports wager in accordance with State law; or\n**(2)**\na person to accept a sports wager in accordance with an applicable State social gambling law.\n##### (c) Injunctions\n**(1) In general**\nIf the Attorney General believes a person has violated, is violating, or will violate subsection (a), the Attorney General may bring a civil action in the appropriate district court of the United States or the appropriate United States court of a territory or possession of the United States, which shall have jurisdiction in proceedings in accordance with the Federal Rules of Civil Procedure to enjoin a violation of subsection (a).\n**(2) Jury trial**\nIn the case of an alleged violation of an injunction or restraining order issued under paragraph (1), trial shall be, on demand of the accused, by a jury in accordance with the Federal Rules of Civil Procedure.\n##### (d) Civil penalties\n**(1) In general**\nAny person who violates subsection (a) shall be, with respect to any such violation, subject to a civil penalty of not more than the greater of $10,000 or 3 times the amount of the applicable sports wager.\n**(2) Separate violations**\nA separate violation occurs for each sports wager accepted in violation of subsection (a).\n**(3) Jurisdiction**\nThe district courts of the United States and appropriate United States courts of the territories and possessions of the United States shall have jurisdiction to enforce this subsection in accordance with section 1355 of title 28, United States Code.\n**(4) Effect of law**\nA violation of subsection (a) shall not constitute a crime, and a judgment for the United States and imposition of a civil penalty pursuant to paragraph (1) shall not give rise to any disability or legal disadvantage based on conviction for a criminal offense.\n##### (e) Civil penalty not exclusive of criminal penalty\nA civil penalty, injunction, or temporary restraining order imposed under this section shall be independent of, and not in lieu of, criminal prosecutions or any other proceedings under any other law of the United States, including sections 1084 and 1955 of title 18, United States Code.\n##### (f) Effective date\nSubsection (a) shall take effect on the date that is 18 months after the date of enactment of this Act.\n#### 102. State sports wagering program\n##### (a) Initial Application\n**(1) In general**\nTo request approval to administer a State sports wagering program, a State shall submit an application to the Attorney General at such time, in such manner, and accompanied by such information as the Attorney General may require.\n**(2) Contents**\nAn application under paragraph (1) shall include\u2014\n**(A)**\na full and complete description of the State sports wagering program the State proposes to administer under State law, including\u2014\n**(i)**\neach applicable State law relating to sports wagering; and\n**(ii)**\nan identification of the State regulatory entity; and\n**(B)**\nan assurance from the attorney general or chief legal officer of the State that the laws of the State provide adequate authority to carry out the proposed State sports wagering program.\n##### (b) Approval by Attorney General\n**(1) In general**\nNot later than 180 days after the date on which the Attorney General receives a complete application under this section, the Attorney General shall approve the application unless the Attorney General determines that the proposed State sports wagering program does not meet the standards set forth in section 103.\n**(2) Denial of application**\nA decision of the Attorney General to deny an application submitted under this section shall\u2014\n**(A)**\nbe made in writing; and\n**(B)**\nspecify the 1 or more standards under section 103 that are not satisfied by the proposed State sports wagering program.\n##### (c) Notice of material changes\nIn the case of a material change to a State law relating to sports wagering, the State regulatory entity, or other information included in an application submitted pursuant to subsection (a) or (e), not later than 30 days after the date on which the change is made, the State shall submit to the Attorney General a notice of such change.\n##### (d) Duration\nA State sports wagering program shall be valid for a fixed 3-year period beginning on the date on which the Attorney General approves the application of the applicable State under subsection (a) or (e).\n##### (e) Renewal application and approval\nNot later than the date on which the 3-year period referred to in subsection (d) ends, a State seeking to renew the approval of the State sports wagering program may submit to the Attorney General a renewal application that\u2014\n**(1)**\nincludes the information described in subsection (a); and\n**(2)**\nshall be subject to the approval process under subsection (b).\n##### (f) Revocation and review\n**(1) Emergency revocation of approval**\nThe Attorney General shall promulgate regulations that provide procedures by which the Attorney General may revoke the approval of a State to administer a State sports wagering program before the date on which the 3-year term described in subsection (d) expires if the Attorney General finds that the sports wagering program does not meet 1 or more standards set forth in section 103.\n**(2) Administrative review**\nThe Attorney General shall promulgate regulations that provide procedures by which a State may seek administrative review of any decision by the Attorney General\u2014\n**(A)**\nto deny an application under subsection (b);\n**(B)**\nto deny a renewal application under subsection (e); or\n**(C)**\nto revoke an approval under paragraph (1) of this subsection.\n#### 103. State sports wagering program standards\n##### (a) In general\nThe Attorney General shall approve an application under section 102 unless the Attorney General determines that the proposed State sports wagering program does not meet the standards set forth in subsection (b).\n##### (b) Standards for State sports wagering programs\nA State sports wagering program shall meet each of the following standards:\n**(1) State regulatory entity**\nEstablish or designate a public entity in the applicable State as the State regulatory entity for the purposes of regulating sports wagering operators and enforcing sports wagering laws in the State.\n**(2) Permissible sports wagering**\n**(A) In-person sports wagering**\nProvide that in-person sports wagering may be offered only by a sports wagering operator.\n**(B) Internet sports wagering**\n**(i) In general**\nWith respect to any authorization of sports wagering on an interactive sports wagering platform, provide that such sports wagering, as available, is available only to\u2014\n**(I)**\nindividuals located in the State; or\n**(II)**\nin the case of an interstate sports wagering compact approved by the Attorney General, individuals located in States and on Indian lands of Indian Tribes that are party to the compact.\n**(ii) Location verification**\nInclude location verification requirements reasonably designed to prevent an individual from placing a sports wager on an interactive sports wagering platform from a location other than a location described in clause (i).\n**(C) Sports wager approval**\n**(i) In general**\nProvide that a sports wagering operator shall not accept a sports wager unless such sports wager or class of sports wagers is expressly approved by the State regulatory entity.\n**(ii) Approval criteria**\nDirect the State regulatory entity to establish criteria for decisions with respect to the approval of a sports wager or a class of sports wagers, such as whether the outcome of the event or contingency on which the sports wager is placed is\u2014\n**(I)**\nverifiable;\n**(II)**\ngenerated by a reliable and independent process; and\n**(III)**\nunlikely to be affected by any sports wager placed.\n**(D) Prohibition on amateur or intercollegiate proposition bets**\nProhibit the State regulatory entity from approving, or a sports wagering operator from accepting, a proposition bet on\u2014\n**(i)**\nany amateur athletic competition; or\n**(ii)**\nany intercollegiate sport (as defined in the Sports Agent Responsibility and Trust Act ( 15 U.S.C. 7801 )).\n**(E) Prohibition of sports wagering on sporting events that have commenced**\nProhibit the State regulatory entity from approving, or a sports wagering operator from accepting, a sports wager on any sporting event, once such event has commenced.\n**(F) Prohibition on reload bonuses**\nProhibit the State regulatory entity from approving, or a sports wagering operator from encouraging customers to make deposits by offering financial incentives, including bonus funds or gambling credits when a customer\u2019s account approaches or reaches a zero balance.\n**(G) Prohibition on tier programs**\nProhibit the State regulatory entity from approving, or a sports wagering operator from providing anything of value that is greater than five dollars as a form of reward or incentive linked to a customer\u2019s level, amount, frequency, scope, pace, duration, or rate or gambling activity.\n**(H) Prohibition on VIP programs**\nProhibit the State regulatory entity from approving, or a sports wagering operator from\u2014\n**(i)**\nproviding compensation in any form that is directly or indirectly connected to a customer\u2019s deposits, gambling activity, gambling wins, gambling losses, or level, amount, frequency, scope, pace, duration, or rate of gambling activity; or\n**(ii)**\nproviding cash, gambling credit, prizes, gifts, merchandise, event tickets or passes, or property (real or personal) connected to a customer\u2019s deposits, gambling activity, gambling wins, gambling losses, or level, amount, frequency, scope, pace, duration, or rate of gambling activity.\n**(3) Restrictions on sports wagering to protect contest integrity**\n**(A) Definition of necessary to maintain contest integrity**\nIn this paragraph, the term necessary to maintain contest integrity means that, in the absence of a restriction, there is a reasonably foreseeable risk that the outcome of the sporting event or contingency on which the wager is placed would be affected by the wager.\n**(B) Contest integrity**\nProhibit a sports wagering operator from accepting a sports wager in violation of a notice of restriction received by the sports wagering operator under subparagraph (E)(i).\n**(C) Request to restrict sports wagering**\n**(i) In general**\nWith respect to a sporting events sponsored, organized, or conducted by a sports organization, permit the sports organization to submit to the State regulatory entity a request to restrict, limit, or exclude wagers on 1 or more sporting events, including by restricting, limiting, and excluding sports wagers on 1 or more performances of an athlete in 1 or more sporting events in which such athlete participates, if the applicable sports organization determines that such restriction is necessary to maintain contest integrity.\n**(ii) Deadlines for submission**\nProvide that the State regulatory entity shall establish reasonable deadlines for the submission of a request under clause (i) in advance of the applicable sporting event.\n**(D) Determination by the State regulatory entity**\nProvide that the State regulatory entity shall promptly\u2014\n**(i)**\napprove a request described in subparagraph (C)(i) unless the State regulatory entity determines, considering any information provided by the sports organization and any other relevant information, that a restriction is not necessary to maintain contest integrity;\n**(ii)**\nprovide a written explanation of a determination under clause (i) to approve or deny a request;\n**(iii)**\nmake such written explanation available to the public; and\n**(iv)**\nprovide a process by which the sports organization that submitted the request may seek review of such determination.\n**(E) Notice of restriction**\nProvide that the State regulatory entity shall establish a process\u2014\n**(i)**\nto provide to sports wagering operators prompt notice of any restriction approved by the State regulatory entity; and\n**(ii)**\nto make such notice publicly available.\n**(4) Prevention of sports wagering by prohibited individuals**\nProhibit a sports wagering operator from accepting sports wagers from any\u2014\n**(A)**\nindividual younger than 21 years of age;\n**(B)**\nindividual on the national self-exclusion list;\n**(C)**\nathlete, coach, official, or employee of a sports organization or any club or team of a sports organization, with respect to a sporting event sponsored, organized, or conducted by the sports organization;\n**(D)**\nemployee of a player or an official union of a sports organization, with respect to a sporting event sponsored, organized, or conducted by the sports organization;\n**(E)**\nindividual who, with respect to a sporting event sponsored, organized, or conducted by a sports organization, is\u2014\n**(i)**\ncredentialed or accredited by the sports organization; and\n**(ii)**\nprohibited from placing a sports wager by the terms of such credential or accreditation; or\n**(F)**\nindividual convicted of an offense under subsection (a) or (b) of section 224 of title 18, United States Code.\n**(5) Authorized data**\n**(A) Result of a sports wager**\n**(i) Market transition period**\nWith respect to any sports wager accepted on or before December 31, 2025, provide that a sports wagering operator shall determine the result of a sports wager only with data that is licensed and provided by\u2014\n**(I)**\nthe applicable sports organization; or\n**(II)**\nan entity expressly authorized by the applicable sports organization to provide such information.\n**(ii) Post-transition period**\nWith respect to any sports wager accepted after December 31, 2025, provide that a sports wagering operator shall determine the result of a sports wager only with data that is obtained from a source that the State regulatory entity has\u2014\n**(I)**\nfound to provide\u2014\n**(aa)**\ndata of substantially similar speed, accuracy, and consistency to the data available under clause (i); and\n**(bb)**\nonly data that is\u2014\n(AA)\nlegally obtained; and\n(BB)\nin full compliance with the terms of any applicable contract or license;\n**(II)**\nexpressly authorized to provide such data to sports wagering operators; and\n**(III)**\nidentified in the application of the State regulatory entity under section 102.\n**(B) Other purposes**\nProvide that the statistics, result, outcome, or other data used by a sports wagering operator for a purpose other than to determine the result of a sports wager shall be in the public domain or otherwise legally obtained.\n**(6) Consumer protections**\n**(A) Self-exclusion**\n**(i) State self-exclusion list**\nProvide a process by which an individual may restrict himself or herself from placing a sports wager with a sports wagering operator located in the State, including by imposing sports wager limits.\n**(ii) National self-exclusion list**\nProvide, through the State regulatory entity acting in cooperation with the Assistant Secretary for Mental Health and Substance Use, a process by which an individual may restrict himself or herself from placing a sports wager with a sports wagering operator located in any sports wagering opt-in State, including by imposing sports wager limits, and placing himself or herself on the national self-exclusion list.\n**(iii) Reasonable steps required**\nProvide that a sports wagering operator may not accept a sports wager by an individual who is\u2014\n**(I)**\ndescribed in clause (i); or\n**(II)**\nincluded on the national self-exclusion list.\n**(B) Withdrawal restrictions**\nProhibit a sports wagering operator from\u2014\n**(i)**\nrequiring an individual engaged in sports wagering to participate in a publicity or a marketing activity of the sports wagering operator as a condition of withdrawal of the winnings of the individual; and\n**(ii)**\nimposing on any individual engaged in sports wagering\u2014\n**(I)**\na minimum or maximum withdrawal limit for the account of the individual;\n**(II)**\nany restriction on the right of the individual to make a withdrawal from the account of the individual based on the extent of the sports wagering by the individual;\n**(III)**\nan unreasonable deadline for the provision of information relating to the identity of the individual as a condition of withdrawal from the account of the individual; or\n**(IV)**\na dormancy charge for an account of the individual that is not used to place a sports wager.\n**(C) Disclosure**\n**(i) Restrictions or conditions**\nProvide that a sports wagering operator shall provide an individual with adequate and clear information relating to any applicable restriction or condition before the individual opens an account with the sports wagering operator.\n**(ii) Bonuses offered**\nProvide that a sports wagering operator shall provide to an individual engaged in sports wagering clear, concise, and unambiguous information relating to any bonus offered, including\u2014\n**(I)**\nall terms and conditions for awarding, receiving, or withdrawal of the bonus; and\n**(II)**\na description of any and all wagering requirements.\n**(iii) Public availability**\nProvide that the information described in clauses (i) and (ii) be available to the public.\n**(iv) Actual odds**\nProvide that a sports wagering operator shall\u2014\n**(I)**\nprior to accepting a sports wager, provide an individual with\u2014\n**(aa)**\nadequate and clear information on the actual odds of winning a sports wager, as calculated by the sports wagering operator or its representative; and\n**(bb)**\nunambiguous information regarding the opportunity to cancel a proposed wager; and\n**(II)**\nprovide the individual with an opportunity to cancel the proposed wager after the disclosure described in subclause (I), at no cost or penalty to the individual.\n**(D) Treatment and education funding**\nProvide that a sports wagering operator shall allocate an appropriate percentage of the revenue from sports wagering to\u2014\n**(i)**\ntreatment for gambling disorder; and\n**(ii)**\neducation on responsible gaming.\n**(E) Reserve requirement**\nProvide that a sports wagering operator shall maintain a reserve in an amount not less than the sum of\u2014\n**(i)**\nthe amounts held by the sports wagering operator for the account of patrons;\n**(ii)**\nthe amounts accepted by the sports wagering operator as sports wagers on contingencies the outcomes of which have not been determined; and\n**(iii)**\nthe amounts owed but unpaid by the sports wagering operator on winning wagers during the period for honoring winning wagers established by State law or the sports wagering operator.\n**(F) Affordability protections**\nProvide that a sports wagering operator\u2014\n**(i)**\nmay not accept more than 5 deposits from an individual during a 24-hour period;\n**(ii)**\nmay not accept deposits made using a credit card; and\n**(iii)**\nshall be required, before accepting sport wagers from an individual in an amount that is more than $1,000 during a 24-hour period or $10,000 during a 30-day period, to conduct an affordability check which shall be satisfied by 1 or both of the following ways:\n**(I)**\nVerification that the proposed deposit is not greater than 30 percent of the monthly income of the individual.\n**(II)**\nVerification through a reasonable lender standard based on issuance of an unsecured loan for the proposed deposit through methods normally used by consumer lenders.\n**(G) Artificial intelligence restriction**\nProvide that a sports wagering operator may not use artificial intelligence to\u2014\n**(i)**\ntrack the sports wagers of an individual;\n**(ii)**\ncreate an offer or promotion targeting a specific individual; or\n**(iii)**\ncreate a gambling product, such as a microbet.\n**(7) Marketing**\nProvide that marketing for a sports wagering operator\u2014\n**(A)**\nshall\u2014\n**(i)**\ndisclose the identity of the sports wagering operator; and\n**(ii)**\nprovide information about how to access resources relating to gambling addiction;\n**(B)**\nshall not recklessly or purposefully target\u2014\n**(i)**\nproblem gamblers;\n**(ii)**\nindividuals suffering from gambling disorder; or\n**(iii)**\nindividuals who are ineligible to place a sports wager, including individuals younger than 21 years of age;\n**(C)**\nmay not be broadcasted\u2014\n**(i)**\nbetween the hours of 8:00 am and 10:00 pm local time; or\n**(ii)**\nduring a live broadcast of a sporting event; and\n**(D)**\nmay not include\u2014\n**(i)**\nodds boosts or similar offers, including marketing that contains the phrase bonus , no sweat , bonus bet , or any other similar term; or\n**(ii)**\nany information on how to place a sports wager or how sports wagers work.\n**(8) Licensing requirement**\n**(A) In general**\nProvide that a sports wagering operator located in the State shall be licensed by the State regulatory entity.\n**(B) Suitability for licensing**\n**(i) In general**\nProvide that before granting a license to a prospective sports wagering operator, the State regulatory entity shall make a determination, based on a completed background check and investigation, with respect to whether the prospective sports wagering operator and any person considered to be in control of the prospective sports wagering operator is suitable for license in accordance with suitability standards established by the State regulatory entity.\n**(ii) Associates of applicants**\nProvide that if a prospective sports wagering operator is a corporation, partnership, or other business entity, a background check and investigation shall occur with respect to\u2014\n**(I)**\nthe president or other chief executive of the corporation, partnership, or other business entity; and\n**(II)**\nany other partner or senior executive and director of the corporation, partnership, or other business entity, as determined by the State regulatory entity.\n**(iii) Background check and investigation**\nEstablish standards and procedures for conducting the background checks and investigations described in this subparagraph.\n**(C) Unsuitability for licensing**\nWith respect to the suitability standards under subparagraph (B)(i), provide that a prospective sports wagering operator shall not be determined to be suitable for licensing as a sports wagering operator if the prospective sports wagering operator\u2014\n**(i)**\nhas failed to provide information and documentary material for a determination of suitability for licensing as a sports wagering operator;\n**(ii)**\nhas supplied information which is untrue or misleading as to a material fact pertaining to any such determination;\n**(iii)**\nhas been convicted of an offense punishable by imprisonment of more than 1 year;\n**(iv)**\nis delinquent in\u2014\n**(I)**\nfiling any applicable Federal or State tax returns; or\n**(II)**\nthe payment of any taxes, penalties, additions to tax, or interest owed to the United States or a State;\n**(v)**\non or after October 13, 2006\u2014\n**(I)**\nhas knowingly participated in, or should have known the prospective sports wagering operator was participating in, an illegal internet gambling activity, including\u2014\n**(aa)**\ntaking an illegal internet wager;\n**(bb)**\npayment of winnings on an illegal internet wager;\n**(cc)**\npromotion through marketing of an illegal internet gambling website or service; or\n**(dd)**\ncollection of any payment on behalf of an entity operating an illegal internet gambling website; or\n**(II)**\nhas knowingly been owned, operated, managed, or employed by, or should have known the prospective sports wagering operator was owned, operated, managed, or employed by, any person who was knowingly participating in, or should have known the person was participating in, an illegal internet gambling activity, including an activity described in items (aa) through (dd) of subclause (I);\n**(vi)**\nhas\u2014\n**(I)**\nreceived any assistance, financial or otherwise, from a person who has, before the date of enactment of this Act, knowingly accepted bets or wagers from any other person who is physically present in the United States in violation of Federal or State law; or\n**(II)**\nprovided any assistance, financial or otherwise, to a person who has, before the date of enactment of this Act, knowingly accepted bets or wagers from any other person who is physically present in the United States in violation of Federal or State law;\n**(vii)**\nwith respect to any other entity that has accepted a bet or wager from any individual in violation of United States law, has purchased or otherwise obtained\u2014\n**(I)**\nsuch entity;\n**(II)**\na list of the customers of such entity; or\n**(III)**\nany other part of the equipment or operations of such entity; or\n**(viii)**\nfails to certify in writing, under penalty of perjury, that the applicant or other such person, and all affiliated business entities (including all entities under common control), during the entire history of such applicant or other such person and all affiliated business entities\u2014\n**(I)**\nhave not committed an intentional felony violation of Federal or State sports wagering law; and\n**(II)**\nhave used diligence to prevent any United States person from placing a sports wager on an internet site in violation of Federal or State sports wagering laws.\n**(D) Revocation and suspension**\nEstablish standards and procedures for suspending or revoking the license of a sports wagering operator.\n**(9) Employee background checks**\nProvide that a sports wagering operator\u2014\n**(A)**\nshall ensure that each existing and newly hired employee or contractor of the sports wagering operator undergo an annual criminal history background check; and\n**(B)**\nshall not employ or enter into a contract with any individual who has been convicted of a Federal or State crime relating to sports wagering.\n**(10) Recordkeeping requirements**\n**(A) In general**\nExcept as provided in subparagraph (B), with respect to each sports wager accepted by a sports wagering operator or attempted to be placed by an individual with a sports wagering operator, provide that the sports wagering operator shall secure and maintain a record of the following:\n**(i)**\nThe name, permanent address, date of birth, and social security number or passport number of the individual who placed, or attempted to place, the sports wager, which the sports wagering operator shall verify in accordance with the requirements for verification of identity in parts 1010.312 and 1021.312 of title 31, Code of Federal Regulations (or any successor regulation).\n**(ii)**\nThe amount and type of the sports wager.\n**(iii)**\nThe date and time at which the sports wager was placed or attempted to be placed.\n**(iv)**\nThe location at which the sports wager was placed or attempted to be placed, including the internet protocol address, if applicable.\n**(v)**\nThe outcome of the sports wager.\n**(B) Exception**\nProvide that a sports wagering operator shall not be required to maintain a record of the information described in subparagraph (A) if\u2014\n**(i)**\nthe sports wager is not placed by an individual through an account with the sports wagering operator;\n**(ii)**\nthe amount of the sports wager does not exceed $10,000;\n**(iii)**\nthe sports wagering operator and any officer, employee, or agent of the sports wagering operator does not have knowledge, or would not in the ordinary course of business have reason to have knowledge, that the sports wager is 1 of multiple sports wagers placed by an individual or on behalf of an individual during 1 day that are, in the aggregate, in excess of $10,000; and\n**(iv)**\nthe sports wagering operator is not required, pursuant to section 31.3402(q)\u20131 of title 26, Code of Federal Regulations (or a successor regulation), to furnish a Form W\u20132G to the individual who placed the sports wager with respect to winnings from the sports wager.\n**(C) Records relating to suspicious transactions**\nProvide that, in addition to the records required to be maintained pursuant paragraph (A), a sports wagering operator shall be required to maintain any other records relating to a suspicious transaction, including video recordings, in the possession, custody, or control of the sports wagering operator.\n**(D) Duration of recordkeeping obligation**\nProvide that a sports wagering operator shall be required to maintain each record required under this paragraph for not fewer than 5 years after the date on which the record is created.\n**(11) Data security**\nProvide that a sports wagering operator and the State regulatory entity shall take reasonable steps to prevent unauthorized access to, or dissemination of, sports wagering and customer data.\n**(12) Real-time information sharing**\nProvide that a sports wagering operator shall provide to the State regulatory entity anonymized sports wagering data in real-time or as soon as practicable, but not later than 24 hours, after the time at which a sports wager is accepted by the sports wagering operator.\n**(13) Suspicious transaction reporting**\n**(A) Reporting to State regulatory entity**\nProvide that each sports wagering operator located in the State shall promptly report the information described in paragraph (10)(A) for any suspicious transaction to the State regulatory entity, in such manner and accompanied by such additional information as the State regulatory entity may require.\n**(B) Reporting to sports organizations**\n**(i) In general**\nSubject to clause (ii), provide that a sports wagering operator shall simultaneously transmit to the applicable sports organization, and any component of the Department of Justice or other Federal law enforcement entity designated by the Attorney General to receive such reports, any suspicious transaction report submitted to a State regulatory entity under subparagraph (A).\n**(ii) Personally identifiable information**\n**(I) In general**\nExcept as provided in subclause (II), a suspicious transaction report submitted to a sports organization shall not contain any personally identifiable information relating to any individual who placed, or attempted to place, a sports wager.\n**(II) Exception**\nA suspicious transaction report submitted to a sports organization shall include any available personally identifiable information relating to an individual described in subparagraph (C), (D), or (E) of paragraph (4).\n**(14) Monitoring and enforcement**\n**(A) In general**\nProvide that the State regulatory entity, in consultation with law enforcement, shall develop and implement a strategy to enforce the sports wagering laws of the State.\n**(B) Authority to monitor and enforcement**\nProvide adequate authority to the State regulatory entity and law enforcement, as appropriate, to monitor compliance with and enforce the sports wagering laws of the State, including\u2014\n**(i)**\nthe authority and responsibility to conduct periodic audits and inspect the books and records of each sports wagering operator located or operating in the State; and\n**(ii)**\na requirement that the State regulatory entity shall refer evidence of potential criminal violations to the appropriate law enforcement entity.\n**(15) Cooperation with investigations**\n**(A) Sports wagering operators**\nProvide that any sports wagering operator located or operating in the State shall cooperate with any lawful investigation conducted by\u2014\n**(i)**\nthe State regulatory entity;\n**(ii)**\nFederal or State law enforcement; or\n**(iii)**\na sports organization, with respect to a sports wager\u2014\n**(I)**\non a sporting event sponsored, organized, or conducted by the sports organization;\n**(II)**\nplaced by or on behalf of an individual described in subparagraph (C), (D), or (E) of paragraph (4); and\n**(III)**\naccepted by the sports wagering operator.\n**(B) State regulatory entity**\nProvide that the State regulatory entity shall cooperate with any lawful investigation conducted by\u2014\n**(i)**\nFederal or State law enforcement; or\n**(ii)**\na sports organization, with respect to a sports wager\u2014\n**(I)**\non a sporting event sponsored, organized, or conducted by the sports organization; and\n**(II)**\naccepted by a sports wagering operator located or operating in the State.\n**(16) Internal controls**\n**(A) In general**\nProvide that each sports wagering operator shall devise and maintain a system of internal controls sufficient to provide reasonable assurances that sports wagers are accepted in accordance with all applicable laws, regulations, and policies.\n**(B) Minimum standards**\nProvide that the State regulatory entity shall adopt and publish minimum standards for internal control procedures.\n**(C) Report**\nProvide that each sports wagering operator shall submit to the State regulatory entity not less frequently than annually the written system of internal controls of the sports wagering operator.\n**(D) Audit**\nProvide that the system of internal controls of a sports wagering operator shall be evaluated on a periodic basis, but not less frequently than every 3 years, by the State regulatory entity or an independent third-party auditor.\nII\nPublic health in sports betting\n#### 201. Annual nationwide survey on online sports betting\nPart D of title V of the Public Health Service Act ( 42 U.S.C. 290dd et seq. ) is amended by adding at the end the following:\n553. Annual nationwide survey on online sports betting (a) In general Not later than 1 year after the date of enactment of this section, and annually thereafter, the Secretary shall\u2014 (1) conduct a nationwide survey designed to provide quantitative data regarding the scope of problem gambling and gambling-related harm experienced by individuals using online sports betting; and (2) make available to the public summaries and analyses of the data collected pursuant to surveys under paragraph (1). (b) Issues To be surveyed Each survey under subsection (a) shall include\u2014 (1) a survey of the rates and outcomes of online sports betting; and (2) examination of the rates of potential problem gambling and gambling-related harm by administering the Problem Gambling Severity Index (Ferris and Wynne, 2001) to a select sample of individuals engaged in online sports betting over the 12-month period covered by the survey. (c) Requirements The Secretary shall ensure that each survey under subsection (a) is\u2014 (1) conducted by qualified researchers; and (2) not conducted, funded, or instructed by the gambling industry. .\n#### 202. National self-exclusion list\nPart D of title V of the Public Health Service Act ( 42 U.S.C. 290dd et seq. ), as amended by section 201, is further amended by adding at the end the following:\n553A. National self-exclusion list (a) In general In cooperation with State regulatory entities, the Secretary shall maintain and administer\u2014 (1) a list (to be known as the national self-exclusion list ) of individuals who, by placing themselves on the list, restrict themselves from placing a sports wager with a sports wagering operator located in any sports wagering opt-in State, including by imposing sports wager limits; and (2) a process by which an individual may add or remove himself or herself from the national self-exclusion list. (b) Definitions In this section, the terms sports wager , sports wagering operator and sports wagering opt-in State have the meanings given to such terms in section 2 of the Supporting Affordability and Fairness with Every Bet Act of 2025 . .\n#### 203. Surgeon General\u2019s Report on Public Health Challenges Associated with Sports Betting\nNot later than 1 year after the date of enactment of this Act, the Surgeon General shall submit a report to Congress on the public health challenges associated with widespread sports betting.\n#### 204. Surveillance of gambling disorder\nTitle III of the Public Health Service Act is amended by inserting after section 317V ( 42 U.S.C. 247b\u201324 ) the following:\n317W. Surveillance of gambling addiction (a) In general The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in coordination with other appropriate agencies, shall, as appropriate\u2014 (1) enhance and expand infrastructure and activities to track the epidemiology of gambling addiction; and (2) incorporate information obtained through such infrastructure and activities into an integrated surveillance system, which may consist of or include a registry, to be known as the National Gambling Addiction Surveillance System . (b) Research The Secretary shall ensure that the National Gambling Addiction Surveillance System, if established, is designed in a manner that facilitates further research on gambling addiction. (c) Public access Subject to subsection (d), the Secretary shall ensure that information and analysis in the National Gambling Addiction Surveillance System, if established, are available, as appropriate, to the public, including researchers. (d) Privacy The Secretary shall ensure that information and analysis in the National Gambling Addiction Surveillance System, if established, are made available only to the extent permitted by applicable Federal and State law, and in a manner that protects personal privacy, to the extent required by applicable Federal and State privacy law, at a minimum. .\nIII\nGeneral provisions\n#### 301. State and Tribal authority\n##### (a) Relation to Indian Gaming Regulatory Act\n**(1) In general**\nFor purposes of the Indian Gaming Regulatory Act ( 25 U.S.C. 2701 et seq. ), a sports wager made through an interactive sports wagering platform shall be deemed to be made at the physical location of the server or other equipment used to accept the sports wager.\n**(2) Server on Indian lands**\nWith respect to a sports wager described in paragraph (1) accepted through a server or other equipment located on Indian lands, the sports wager shall be considered to be exclusively occurring on Indian lands if\u2014\n**(A)**\nthe sports wager and the server are in the same State; and\n**(B)**\nthe applicable State and Indian Tribe have entered into a Tribal-State compact authorizing the placing of sports wagers through interactive sports wagering platforms.\n##### (b) No preemption\nNothing in this Act preempts or limits the authority of a State or an Indian Tribe to enact, adopt, promulgate, or enforce any law, rule, regulation, or other measure with respect to sports wagering that is in addition to, or more stringent than, the requirements of this Act.\n##### (c) Taxation of sports wagering\nNothing in this Act limits or otherwise affects the taxation of sports wagering by a State, an Indian Tribe, or a locality.\n#### 302. Cooperation with Federal Government regarding unlicensed gaming facilities and platforms\nStates and sports wagering operators shall support efforts of the Federal Government to eliminate unlicensed gaming facilities and platforms that operate outside of the United States and attempt to accept sports wagers from customers located in the United States by promptly issuing cease and desist orders directed to any unlicensed gaming facilities and platforms designated by the Attorney General.\n#### 303. Severability\nIf a provision of this Act, an amendment made by this Act, a regulation promulgated under this Act or under an amendment made by this Act, or the application of any such provision, amendment, or regulation to any person or circumstance, is held to be invalid, the remaining provisions of this Act, amendments made by this Act, regulations promulgated under this Act or under an amendment made by this Act, or the application of such provisions, amendments, and regulations to any person or circumstance\u2014\n**(1)**\nshall not be affected by the invalidity; and\n**(2)**\nshall continue to be enforced to the maximum extent practicable.",
+      "versionDate": "2025-03-11",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-03-13",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "1033",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "SAFE Bet Act",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Health",
+        "updateDate": "2025-04-08T11:43:44Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: summaries
+
+```json
+{
+  "govinfoBulk": {
+    "introducedDate": "2025-03-11",
+    "originChamber": "House",
+    "payload": {
+      "dublinCore": {
+        "contributor": "Congressional Research Service, Library of Congress",
+        "description": "This file contains bill summaries for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is \"to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives\". For more information, refer to the User Guide that accompanies this file.",
+        "format": "text/xml",
+        "language": "EN",
+        "rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      },
+      "item": {
+        "@attributes": {
+          "congress": "119",
+          "measure-id": "id119hr2087",
+          "measure-number": "2087",
+          "measure-type": "hr",
+          "orig-publish-date": "2025-03-11",
+          "originChamber": "HOUSE",
+          "update-date": "2026-01-15"
+        },
+        "summary": {
+          "@attributes": {
+            "currentChamber": "HOUSE",
+            "summary-id": "id119hr2087v00",
+            "update-date": "2026-01-15"
+          },
+          "action-date": "2025-03-11",
+          "action-desc": "Introduced in House",
+          "summary-text": "<p><strong>Supporting Affordability and Fairness with Every Bet Act of 2025 or the SAFE Bet Act of 2025</strong></p><p>This bill establishes minimum federal standards for sports betting. It also requires federal agencies to evaluate the effects of sports betting on public health.</p><p>The bill prohibits sports betting unless conducted through an approved state program; violations are subject to civil penalties.\u00a0States administering a sports betting program must obtain approval of the program every three years from the Department of Justice (DOJ).</p><p>In providing approval or renewal, DOJ must determine\u00a0that the state\u2019s program meets minimum standards specified in the bill, including</p><ul><li>designating a state regulatory entity to regulate sports betting operators and enforce state laws,</li><li>prohibiting operators from marketing during live broadcasts of sporting events,</li><li>prohibiting betting by individuals under 21 or members of sports organizations,</li><li>implementing affordability protections such as certain deposit limits and income verification,</li><li>requiring operators to allocate funding for treatment and education on gambling disorders, and</li><li>facilitating a state self-exclusion list (and a national list in coordination with the Substance Abuse and Mental Health Services Administration) so individuals may voluntarily restrict or place limits on their sports betting.\u00a0</li></ul><p></p><p>Also, the bill requires various federal agencies to expand surveillance of gambling addiction, conduct a nationwide survey annually on the harm caused by online sports betting, and report to Congress on public health challenges related to sports betting.</p>"
+        },
+        "title": "SAFE Bet Act of 2025"
+      }
+    },
+    "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSUM/119/hr/BILLSUM-119hr2087.xml",
+    "summary": {
+      "actionDate": "2025-03-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Supporting Affordability and Fairness with Every Bet Act of 2025 or the SAFE Bet Act of 2025</strong></p><p>This bill establishes minimum federal standards for sports betting. It also requires federal agencies to evaluate the effects of sports betting on public health.</p><p>The bill prohibits sports betting unless conducted through an approved state program; violations are subject to civil penalties.\u00a0States administering a sports betting program must obtain approval of the program every three years from the Department of Justice (DOJ).</p><p>In providing approval or renewal, DOJ must determine\u00a0that the state\u2019s program meets minimum standards specified in the bill, including</p><ul><li>designating a state regulatory entity to regulate sports betting operators and enforce state laws,</li><li>prohibiting operators from marketing during live broadcasts of sporting events,</li><li>prohibiting betting by individuals under 21 or members of sports organizations,</li><li>implementing affordability protections such as certain deposit limits and income verification,</li><li>requiring operators to allocate funding for treatment and education on gambling disorders, and</li><li>facilitating a state self-exclusion list (and a national list in coordination with the Substance Abuse and Mental Health Services Administration) so individuals may voluntarily restrict or place limits on their sports betting.\u00a0</li></ul><p></p><p>Also, the bill requires various federal agencies to expand surveillance of gambling addiction, conduct a nationwide survey annually on the harm caused by online sports betting, and report to Congress on public health challenges related to sports betting.</p>",
+      "updateDate": "2026-01-15",
+      "versionCode": "id119hr2087"
+    },
+    "title": "SAFE Bet Act of 2025"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-03-11",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Supporting Affordability and Fairness with Every Bet Act of 2025 or the SAFE Bet Act of 2025</strong></p><p>This bill establishes minimum federal standards for sports betting. It also requires federal agencies to evaluate the effects of sports betting on public health.</p><p>The bill prohibits sports betting unless conducted through an approved state program; violations are subject to civil penalties.\u00a0States administering a sports betting program must obtain approval of the program every three years from the Department of Justice (DOJ).</p><p>In providing approval or renewal, DOJ must determine\u00a0that the state\u2019s program meets minimum standards specified in the bill, including</p><ul><li>designating a state regulatory entity to regulate sports betting operators and enforce state laws,</li><li>prohibiting operators from marketing during live broadcasts of sporting events,</li><li>prohibiting betting by individuals under 21 or members of sports organizations,</li><li>implementing affordability protections such as certain deposit limits and income verification,</li><li>requiring operators to allocate funding for treatment and education on gambling disorders, and</li><li>facilitating a state self-exclusion list (and a national list in coordination with the Substance Abuse and Mental Health Services Administration) so individuals may voluntarily restrict or place limits on their sports betting.\u00a0</li></ul><p></p><p>Also, the bill requires various federal agencies to expand surveillance of gambling addiction, conduct a nationwide survey annually on the harm caused by online sports betting, and report to Congress on public health challenges related to sports betting.</p>",
+      "updateDate": "2026-01-15",
+      "versionCode": "id119hr2087"
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-03-11",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2087ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "SAFE Bet Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-04-08T02:53:16Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "SAFE Bet Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-04-08T02:53:15Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Supporting Affordability and Fairness with Every Bet Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-04-08T02:53:15Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To establish minimum Federal standards for sports betting, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-04-08T02:48:16Z"
+    }
+  ]
+}
+```

@@ -1,0 +1,200 @@
+# HR 4719: Freedom to Move Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-07-23
+- Latest action: 2025-07-23 - Introduced in House
+- Policy area: Transportation and Public Works
+- Sponsor: Rep. Pressley, Ayanna [D-MA-7]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/4719
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Freedom to Move Act**
+
+This bill directs the Department of Transportation to award competitive five-year grants (i.e., Freedom to Move Grants) to states, local governments, transit agencies, and nonprofit organizations in both rural and urban areas to cover the lost fare revenue for fare-free public transportation and improve public transportation.
+
+Grants must be used to support (1) implementing a fare-free transit program; and (2) efforts to improve public transportation, particularly in underserved communities, such as costs associated with efforts to provide more safe, frequent, and reliable bus service, including bus stop safety and accessibility improvements, and pedestrian and bike shelters.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-07-23
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4719ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-07-23
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4719ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 4719
+IN THE HOUSE OF REPRESENTATIVES
+July 23, 2025 Ms. Pressley (for herself, Ms. Adams , Mrs. Beatty , Mr. Bishop , Ms. Brown , Mr. Carson , Mr. Cleaver , Mr. Clyburn , Ms. Crockett , Mr. Davis of Illinois , Mr. Fields , Mr. Jackson of Illinois , Mr. Johnson of Georgia , Ms. Lee of Pennsylvania , Mrs. McIver , Ms. Moore of Wisconsin , Ms. Norton , Ms. Omar , Mrs. Ramirez , Ms. Simon , Ms. Tlaib , and Ms. Williams of Georgia ) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure
+A BILL
+To direct the Secretary of Transportation to carry out a grant program to support efforts to provide fare-free transit service, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Freedom to Move Act .
+#### 2. Purpose
+The purposes of this Act are—
+**(1)**
+to invest in State, county, and local municipalities efforts to provide fare-free public transportation; and
+**(2)**
+to support State, county, and local municipalities in improving and expanding access to safe, accessible, and reliable mass transit systems in order to improve the livability of communities.
+#### 3. Grants to support fare-free transit
+##### (a) In general
+Not later than 360 days after the date of enactment of this Act, the Secretary shall award grants (which shall be known as Freedom to Move Grants ) to eligible entities, on a competitive basis, to cover the lost fare revenue for fare-free public transportation and improve public transportation.
+##### (b) Application
+To be eligible to receive a grant under this section, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including, at a minimum, the following:
+**(1)**
+A description of how the eligible entity plans to implement fare free transit access.
+**(2)**
+A description of how the entity will work to expand and improve bus service, which may include—
+**(A)**
+a bus network redesign;
+**(B)**
+how such redesign will prioritize consistent and reliable service for low-income and historically underserved communities;
+**(C)**
+how such redesign will prioritize connectivity to critical services and improve community livability; and
+**(D)**
+how the eligible entity will meaningfully consult with community, community leaders, local stakeholders and advocates, including transit advocates and disability advocates, local education agencies and institutions of higher education, community developers, labor unions, public housing agencies and workforce development boards, while facilitating such redesign.
+**(3)**
+A description of how the eligible entity will meaningfully partner and collaborate with community, community leaders, local stakeholders and advocates, including transit advocates and disability advocates, local education agencies and institutions of higher education, community developers, labor unions, public housing agencies and workforce development boards to support outreach efforts to increase awareness of fare-free bus and transit programs.
+**(4)**
+A description of the eligible entity’s equity evaluation examining any transit and mobility gaps within the current transit system and how the eligible entity plans to significantly improve these gaps, including—
+**(A)**
+the average commute times for driver commuters and non-driver commuters;
+**(B)**
+public transit ridership rates disaggregated by mode of transportation and demographic group (youth (including youth involved in the foster care system), seniors, individuals with disabilities, and low-income status); and
+**(C)**
+average length of bus routes and average delay times.
+**(5)**
+A description of the eligible entity’s current fare evasion enforcement policies, including—
+**(A)**
+the cost of the fine and whether the infraction is considered a civil offense or a criminal offense punishable by imprisonment;
+**(B)**
+the number of individuals charged with violating a fare evasion policy, disaggregated by age, race, gender, and disability status; and
+**(C)**
+how the eligible entity plans to eliminate fare evasion policies and end the criminalization of individuals evading fares.
+**(6)**
+An estimate of additional costs as a result of increased ridership, including—
+**(A)**
+fuel;
+**(B)**
+personnel;
+**(C)**
+maintenance; and
+**(D)**
+other operational costs.
+**(7)**
+Information and statistics on assaults on transit employees and a description of trainings and policies to protect employees, which may include de-escalation training.
+##### (c) Duration
+Grants awarded under this section shall be for a 5-year period.
+##### (d) Selection of eligible entities
+In carrying out the program under this section, the Secretary shall award grants to eligible entities located in both rural and urbanized areas.
+##### (e) Uses of funds
+An eligible entity that receives a grant under this section shall use such grant to support—
+**(1)**
+implementing a fare-free transit program; and
+**(2)**
+efforts to improve public transportation, particularly in underserved communities, including costs associated with efforts to provide more safe, frequent, and reliable bus service, including—
+**(A)**
+bus stop safety and accessibility improvements;
+**(B)**
+pedestrian and bike shelters;
+**(C)**
+signage;
+**(D)**
+painted bus lanes;
+**(E)**
+signal priority systems;
+**(F)**
+street redesign;
+**(G)**
+operational costs to meet demands of increased ridership, including hiring and training of personnel; and
+**(H)**
+conducting a bus network redesign.
+##### (f) Definitions
+In this section:
+**(1) Eligible entities**
+In this section, the term eligible entity means—
+**(A)**
+a State, county, local municipality;
+**(B)**
+a transit agency;
+**(C)**
+a private nonprofit organization engaged in public transportation in rural areas; or
+**(D)**
+a partnership between entities described in subparagraphs (A) through (C).
+**(2) Underserved community**
+The term underserved community means—
+**(A)**
+a community not served by existing bus routes or infrequent service; and
+**(B)**
+a community located in an area within a census tract that is identified as—
+**(i)**
+a low-income community; and
+**(ii)**
+a community of color.
+**(3) Low-income individuals**
+The term low-income individuals means an individual whose family income is at or below 150 percent of the poverty line (as that term is defined in section 673(2) of the Community Service Block Grant Act ( 42 U.S.C. 9902(2) ), including any revision required by that section) for a family of the size involved.
+**(4) Foster care youth**
+The term foster care youth —
+**(A)**
+means children and youth whose care and placement are the responsibility of the State or Tribal agency that administers a State or Tribal plan under part B or E of title IV of the Social Security Act ( 42 U.S.C. 621 et seq. and 670 et seq.), without regard to whether foster care maintenance payments are made under section 472 of such Act ( 42 U.S.C. 672 ) on behalf of such children and youth; and
+**(B)**
+includes individuals who were age 13 or older when their care and placement were the responsibility of a State or Tribal agency that administered a State or Tribal plan under part B or E of title IV of the Social Security Act ( 42 U.S.C. 621 et seq. and 670 et seq.) and who are no longer under the care and responsibility of such a State or Tribal agency, without regard to any such individual’s subsequent adoption, guardianship arrangement, or other form of permanency outcome.
+**(5) Public transportation**
+The term public transportation —
+**(A)**
+means regular, continuing shared-ride surface transportation services that are open to the general public or open to a segment of the general public defined by age, disability, or low income; and
+**(B)**
+does not include—
+**(i)**
+intercity passenger rail transportation provided by the entity described in chapter 243 of title 49, United States Code (or a successor to such entity);
+**(ii)**
+intercity bus service;
+**(iii)**
+charter bus service;
+**(iv)**
+school bus service;
+**(v)**
+sightseeing service;
+**(vi)**
+courtesy shuttle service for patrons of one or more specific establishments; or
+**(vii)**
+intra-terminal or intra-facility shuttle services.
+##### (g) Report
+**(1) In general**
+Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall collect data from eligible entities receiving a grant under this section on the progress of meeting the targets described in the application of such entity.
+**(2) Requirements**
+The report required under paragraph (1) shall—
+**(A)**
+collect data on demographics of communities served under this Act, disaggregated and cross-tabulated by—
+**(i)**
+race;
+**(ii)**
+ethnicity;
+**(iii)**
+sex; and
+**(iv)**
+household median income; and
+**(B)**
+progress towards significantly closing transit equity gaps as described in subsection (b)(4).
+##### (h) Authorization of appropriations
+There is authorized to be appropriated to carry out this section $5,000,000,000 for each of fiscal years 2026 through 2030.
+
+
+## Timeline
+
+- 2025-07-23: Introduced in House
+- 2025-07-23 - IntroReferral: Introduced in House
+- 2025-07-23 - IntroReferral: Introduced in House
+- 2025-07-23 - IntroReferral: Referred to the House Committee on Transportation and Infrastructure.
+- 2025-07-24 - Committee: Referred to the Subcommittee on Highways and Transit.
+- Latest action: 2025-07-23: Introduced in House

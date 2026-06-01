@@ -1,0 +1,209 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/4189?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/hr/4189
+- Title: To direct the Secretary of the Navy to recognize certain aspects of the National Navy UDT-SEAL Museum in Fort Pierce, Florida, as a national memorial, national memorial garden, and national K9 memorial, and for other purposes.
+- Congress: 119
+- Bill type: HR
+- Bill number: 4189
+- Origin chamber: House
+- Introduced date: 2025-06-26
+- Update date: 2025-07-17T18:34:37Z
+- Update date including text: 2025-07-17T18:34:37Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2025-06-26: Introduced in House
+- 2025-06-26 - IntroReferral: Introduced in House
+- 2025-06-26 - IntroReferral: Introduced in House
+- 2025-06-26 - IntroReferral: Referred to the House Committee on Armed Services.
+- Latest action: 2025-06-26: Introduced in House
+
+## Actions
+
+- 2025-06-26 - IntroReferral: Introduced in House
+- 2025-06-26 - IntroReferral: Introduced in House
+- 2025-06-26 - IntroReferral: Referred to the House Committee on Armed Services.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-06-26",
+    "latestAction": {
+      "actionDate": "2025-06-26",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/hr/4189",
+    "number": "4189",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001199",
+        "district": "21",
+        "firstName": "Brian",
+        "fullName": "Rep. Mast, Brian J. [R-FL-21]",
+        "lastName": "Mast",
+        "party": "R",
+        "state": "FL"
+      }
+    ],
+    "title": "To direct the Secretary of the Navy to recognize certain aspects of the National Navy UDT-SEAL Museum in Fort Pierce, Florida, as a national memorial, national memorial garden, and national K9 memorial, and for other purposes.",
+    "type": "HR",
+    "updateDate": "2025-07-17T18:34:37Z",
+    "updateDateIncludingText": "2025-07-17T18:34:37Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-06-26",
+      "committees": {
+        "item": {
+          "name": "Armed Services Committee",
+          "systemCode": "hsas00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Armed Services.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-06-26",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-06-26",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-06-26T14:07:40Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4189ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 4189\nIN THE HOUSE OF REPRESENTATIVES\nJune 26, 2025 Mr. Mast introduced the following bill; which was referred to the Committee on Armed Services\nA BILL\nTo direct the Secretary of the Navy to recognize certain aspects of the National Navy UDT\u2013SEAL Museum in Fort Pierce, Florida, as a national memorial, national memorial garden, and national K9 memorial, and for other purposes.\n#### 1. Recognition of certain aspects of the National Navy UDT\u2013SEAL Museum in Fort Pierce, Florida, as a national memorial, national memorial garden, and national K9 memorial\nThe Secretary of the Navy shall recognize the National Navy SEAL Museum Memorial, the Memorial Garden and Living Beach, and the Naval Special Warfare K9 Memorial of the National Navy UDT\u2013SEAL Museum, located at 3300 North Highway A1A, North Hutchinson Island, in Fort Pierce, Florida, as a national memorial, national memorial garden, and national K9 memorial, respectively, of the Navy SEALs.",
+      "versionDate": "2025-06-26",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Armed Forces and National Security",
+        "updateDate": "2025-07-17T18:34:37Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-06-26",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4189ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To direct the Secretary of the Navy to recognize certain aspects of the National Navy UDT-SEAL Museum in Fort Pierce, Florida, as a national memorial, national memorial garden, and national K9 memorial, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-07-10T02:48:25Z"
+    },
+    {
+      "title": "To direct the Secretary of the Navy to recognize certain aspects of the National Navy UDT-SEAL Museum in Fort Pierce, Florida, as a national memorial, national memorial garden, and national K9 memorial, and for other purposes.",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-06-27T08:06:27Z"
+    }
+  ]
+}
+```

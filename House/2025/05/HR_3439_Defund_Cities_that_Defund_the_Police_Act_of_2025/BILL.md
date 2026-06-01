@@ -1,0 +1,106 @@
+# HR 3439: Defund Cities that Defund the Police Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-05-15
+- Latest action: 2025-05-15 - Introduced in House
+- Policy area: Housing and Community Development
+- Sponsor: Rep. Fitzpatrick, Brian K. [R-PA-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hr/3439
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-05-15
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3439ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-05-15
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3439ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3439
+IN THE HOUSE OF REPRESENTATIVES
+May 15, 2025 Mr. Fitzpatrick (for himself and Mr. Golden of Maine ) introduced the following bill; which was referred to the Committee on Financial Services , and in addition to the Committee on Transportation and Infrastructure , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To prohibit a jurisdiction that defunds the police from receiving grants under certain Economic Development Assistance Programs and the Community Development Block Grant Program.
+#### 1. Short title
+This Act may be cited as the Defund Cities that Defund the Police Act of 2025 .
+#### 2. Defunding jurisdiction defined
+In this Act:
+**(1) Defunding State**
+The term defunding State means a State that—
+**(A)**
+abolishes or disbands a State law enforcement agency with no intention of reconstituting the State law enforcement agency; or
+**(B)**
+significantly reduces a State law enforcement agency’s budget, provided that the State did not face a significant decrease in revenues in the previous fiscal year.
+**(2) Defunding locality**
+The term defunding locality means a political subdivision of a State (other than a rural police department) that—
+**(A)**
+is in an urbanized area, as defined by the United States Census Bureau; and
+**(B)**
+**(i)**
+abolishes or disbands the police department with no intention of reconstituting the jurisdiction’s police department; or
+**(ii)**
+significantly reduces the police department’s budget, provided that the jurisdiction did not face a significant decrease in revenues in the previous fiscal year.
+#### 3. Defunding jurisdictions ineligible for certain Federal funds
+##### (a) Economic development administration grants
+**(1) Grants for public works and economic development**
+Section 201(b) of the Public Works and Economic Development Act of 1965 ( 42 U.S.C. 3141(b) ) is amended—
+**(A)**
+in paragraph (2), by striking and at the end;
+**(B)**
+in paragraph (3), by striking the period at the end and inserting ; and ; and
+**(C)**
+by adding at the end the following:
+(4) the area in which the project is to be carried out is not a defunding State or defunding locality (as defined in section 2 of the Defund Cities that Defund the Police Act of 2025 ). .
+**(2) Grants for planning and administrative expenses**
+Section 203(a) of the Public Works and Economic Development Act of 1965 ( 42 U.S.C. 3143(a) ) is amended by adding at the end the following: A defunding jurisdiction (as defined in section 2 of the Defund Cities that Defund the Police Act of 2025 ) may not be deemed an eligible recipient under this subsection. .
+**(3) Supplementary grants**
+Section 205(a) of the Public Works and Economic Development Act of 1965 ( 42 U.S.C. 3145(a) ) is amended—
+**(A)**
+in paragraph (2), by striking and at the end;
+**(B)**
+in paragraph (3), by striking the period at the end and inserting ; and ; and
+**(C)**
+by adding at the end the following:
+(4) will be carried out in an area that does not contain a defunding State or defunding locality (as defined in section 2 of the Defund Cities that Defund the Police Act of 2025 ). .
+**(4) Grants for training, research, and technical assistance**
+Section 207 of the Public Works and Economic Development Act of 1965 ( 42 U.S.C. 3147 ) is amended by adding at the end the following:
+(d) Ineligibility of defunding States or defunding localities Grant funds under this section may not be used to provide assistance to a defunding State or defunding locality (as defined in section 2 of the Defund Cities that Defund the Police Act of 2025 ). If a State is a defunding State during the period for which it receives amounts under this section, the Secretary shall direct the State to immediately return to the Secretary any such amounts that the State received for that period, and shall reallocate amounts returned for grants under this section to localities within the same State that are not defunding localities. .
+##### (b) Community development block grants
+Title I of the Housing and Community Development Act of 1974 ( 42 U.S.C. 5301 et seq. ) is amended—
+**(1)**
+in section 102(a) ( 42 U.S.C. 5302(a) ), by adding at the end the following:
+(25) The term defunding State or locality has the meaning given such term in section 2 of the Defund Cities that Defund the Police Act of 2025 . ; and
+**(2)**
+in section 104 ( 42 U.S.C. 5304 )—
+**(A)**
+subsection (b)—
+**(i)**
+in paragraph (5), by striking and at the end;
+**(ii)**
+by redesignating paragraph (6) as paragraph (7); and
+**(iii)**
+by inserting after paragraph (5) the following:
+(6) the grantee is not a defunding State or locality and will not become a defunding State or locality during the period for which the grantee receives a grant under this title; and ; and
+**(B)**
+by adding at the end the following:
+(n) Protection of individuals against crime (1) In general No funds made available to carry out this title may be obligated or expended for any State or unit of general local government that is a defunding State or locality. (2) Returned amounts (A) State If a State is a defunding State during the period for which it receives amounts under this title, the Secretary— (i) shall direct the State to immediately return to the Secretary any such amounts that the State received for that period; and (ii) shall reallocate amounts returned under clause (i) for grants under this title to localities within the same State that are not defunding localities. (B) Unit of general local government If a unit of general local government is a defunding locality during the period for which it receives amounts under this title, any such amounts that the unit of general local government received for that period— (i) in the case of a unit of general local government that is not in a nonentitlement area, shall be returned to the Secretary for grants under this title to States and other units of general local government that are not defunding localities; and (ii) in the case of a unit of general local government that is in a nonentitlement area, shall be returned to the Governor of the State for grants under this title to other units of general local government in the State that are not defunding localities. (C) Reallocation rules In reallocating amounts under subparagraphs (A) and (B), the Secretary shall— (i) apply the relevant allocation formula under subsection (b) or (d) of section 106, with all defunding States and localities excluded; and (ii) shall not be subject to the rules for reallocation under section 106(c). .
+
+
+## Timeline
+
+- 2025-05-15: Introduced in House
+- 2025-05-15 - IntroReferral: Introduced in House
+- 2025-05-15 - IntroReferral: Introduced in House
+- 2025-05-15 - IntroReferral: Referred to the Committee on Financial Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-05-15 - IntroReferral: Referred to the Committee on Financial Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-05-15 - Committee: Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- Latest action: 2025-05-15: Introduced in House

@@ -1,0 +1,75 @@
+# S 931: COMPLETE Care Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-03-11
+- Latest action: 2025-03-11 - Introduced in Senate
+- Policy area: Health
+- Sponsor: Sen. Cortez Masto, Catherine [D-NV]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/931
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Connecting Our Medical Providers with Links to Expand Tailored and Effective Care or the COMPLETE Care Act**
+
+This bill increases payments and establishes certain requirements to support integrated behavioral health services under Medicare.
+
+Specifically, the bill increases payments for integrated behavioral health services that are provided by physicians under Medicare for 2027-2029, with payments increased by 175% in 2027, 150% in 2028, and 125% in 2029.
+
+The bill provides funds for FY2025-FY2029 for the Centers for Medicare & Medicaid Services to contract with entities to provide technical assistance to primary care practices that want to adopt models for behavioral health integration.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-03-11
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s931is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-03-11
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s931is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 931
+IN THE SENATE OF THE UNITED STATES
+March 11 (legislative day, March 10), 2025 Ms. Cortez Masto (for herself and Mr. Cornyn ) introduced the following bill; which was read twice and referred to the Committee on Finance
+A BILL
+To amend title XVIII of the Social Security Act to provide incentives for behavioral health integration.
+#### 1. Short title
+This Act may be cited as the Connecting Our Medical Providers with Links to Expand Tailored and Effective Care or the COMPLETE Care Act .
+#### 2. Medicare incentives for behavioral health integration with primary care
+##### (a) Incentives
+**(1) In general**
+Section 1848(b) of the Social Security Act ( 42 U.S.C. 1395w–4(b) ) is amended by adding at the end the following new paragraph:
+(13) Incentives for behavioral health integration (A) In general For services described in subparagraph (B) that are furnished during 2027, 2028, or 2029, instead of the payment amount that would otherwise be determined under this section for such year, the payment amount shall be equal to the applicable percent (as defined in subparagraph (C)) of such payment amount for such year. (B) Services described The services described in this subparagraph are services identified, as of January 1, 2024, by HCPCS codes 99484, 99492, 99493, 99494, G2214, and G0323 (and any successor or similar codes as determined appropriate by the Secretary). (C) Applicable percent In this paragraph, the term applicable percent means, with respect to a service described in subparagraph (A), the following: (i) For services furnished during 2027 , 175 percent. (ii) For services furnished during 2028, 150 percent. (iii) For services furnished during 2029, 125 percent. .
+**(2) Waiver of budget neutrality**
+Section 1848(c)(2)(B)(iv) of such Act ( 42 U.S.C. 1395w–4(c)(2)(B)(iv) ) is amended—
+**(A)**
+in subclause (V), by striking and at the end;
+**(B)**
+in subclause (VI), by striking the period at the end and inserting ; and and
+**(C)**
+by adding at the end the following new subclause:
+(VII) the increase in payment amounts as a result of the application of subsection (b)(13) shall not be taken into account in applying clause (ii)(II) for 2027, 2028, or 2029. .
+##### (b) Technical assistance for the adoption of behavioral health integration
+**(1) In general**
+Not later than January 1, 2026, the Secretary of Health and Human Services (in this subsection referred to as the Secretary ) shall enter into contracts or agreements with appropriate entities to offer technical assistance to primary care practices that are seeking to adopt behavioral health integration models in such practices.
+**(2) Behavioral health integration models**
+For purposes of paragraph (1), behavioral health integration models include the Collaborative Care Model (with services identified as of January 1, 2024, by HCPCS codes 99492, 99493, 99494, and G2214 (and any successor codes)), the Primary Care Behavioral Health model (with services identified as of January 1, 2024, by HCPCS codes 99484 and G0323 (and any successor code)), and other models identified by the Secretary.
+**(3) Implementation**
+Notwithstanding any other provision of law, the Secretary may implement the provisions of this subsection by program instruction or otherwise.
+**(4) Funding**
+In addition to amounts otherwise available, there is appropriated to the Secretary for each of fiscal years 2025 through 2029, out of any money in the Treasury not otherwise appropriated, such sums as are necessary, to remain available until expended, for purposes of carrying out this subsection.
+
+
+## Timeline
+
+- 2025-03-11: Introduced in Senate
+- 2025-03-11 - IntroReferral: Introduced in Senate
+- 2025-03-11 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2025-03-11: Introduced in Senate

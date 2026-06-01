@@ -1,0 +1,214 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/sjres/113?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-joint-resolution/113
+- Title: A joint resolution providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency relating to "Rescission of Principles for Climate-Related Financial Risk Management for Large Financial Institutions".
+- Congress: 119
+- Bill type: SJRES
+- Bill number: 113
+- Origin chamber: Senate
+- Introduced date: 2026-03-05
+- Update date: 2026-03-11T14:49:54Z
+- Update date including text: 2026-03-11T14:49:54Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2026-03-05: Introduced in Senate
+- 2026-03-05 - IntroReferral: Introduced in Senate
+- 2026-03-05 - IntroReferral: Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- Latest action: 2026-03-05: Introduced in Senate
+
+## Actions
+
+- 2026-03-05 - IntroReferral: Introduced in Senate
+- 2026-03-05 - IntroReferral: Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-03-05",
+    "latestAction": {
+      "actionDate": "2026-03-05",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/113",
+    "number": "113",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000817",
+        "district": "",
+        "firstName": "Elizabeth",
+        "fullName": "Sen. Warren, Elizabeth [D-MA]",
+        "lastName": "Warren",
+        "party": "D",
+        "state": "MA"
+      }
+    ],
+    "title": "A joint resolution providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency relating to \"Rescission of Principles for Climate-Related Financial Risk Management for Large Financial Institutions\".",
+    "type": "SJRES",
+    "updateDate": "2026-03-11T14:49:54Z",
+    "updateDateIncludingText": "2026-03-11T14:49:54Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2026-03-05",
+      "committees": {
+        "item": {
+          "name": "Banking, Housing, and Urban Affairs Committee",
+          "systemCode": "ssbk00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2026-03-05",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-03-05T20:18:59Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "W000802",
+      "firstName": "Sheldon",
+      "fullName": "Sen. Whitehouse, Sheldon [D-RI]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Whitehouse",
+      "party": "D",
+      "sponsorshipDate": "2026-03-05",
+      "state": "RI"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/2/sjres/BILLS-119sjres113is.xml",
+      "text": "IIA\n119th CONGRESS\n2d Session\nS. J. RES. 113\nIN THE SENATE OF THE UNITED STATES\nMarch 5, 2026 Ms. Warren (for herself and Mr. Whitehouse ) introduced the following joint resolution; which was read twice and referred to the Committee on Banking, Housing, and Urban Affairs\nJOINT RESOLUTION\nProviding congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency relating to Rescission of Principles for Climate-Related Financial Risk Management for Large Financial Institutions .\nThat Congress disapproves the rule submitted by the Office of the Comptroller of the Currency relating to Rescission of Principles for Climate-Related Financial Risk Management for Large Financial Institutions (90 Fed. Reg. 51756 (November 18, 2025)), and such rule shall have no force or effect.",
+      "versionDate": "2026-03-05",
+      "versionType": "IS"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Finance and Financial Sector",
+        "updateDate": "2026-03-11T14:49:54Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-03-05",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/2/sjres/BILLS-119sjres113is.xml"
+        }
+      ],
+      "type": "IS"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A joint resolution providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency relating to \"Rescission of Principles for Climate-Related Financial Risk Management for Large Financial Institutions\".",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-03-10T07:03:35Z"
+    },
+    {
+      "title": "A joint resolution providing congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of the Currency relating to \"Rescission of Principles for Climate-Related Financial Risk Management for Large Financial Institutions\".",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-03-07T11:56:18Z"
+    }
+  ]
+}
+```

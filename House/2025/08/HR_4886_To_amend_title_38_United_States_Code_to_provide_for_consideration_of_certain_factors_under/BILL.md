@@ -1,0 +1,59 @@
+# HR 4886: Larry Barrett Veterans’ Memory Care Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-08-05
+- Latest action: 2025-08-05 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Houchin, Erin [R-IN-9]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/4886
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-08-05
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4886ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-08-05
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4886ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 4886
+IN THE HOUSE OF REPRESENTATIVES
+August 5, 2025 Mrs. Houchin introduced the following bill; which was referred to the Committee on Veterans' Affairs
+A BILL
+To amend title 38, United States Code, to provide for consideration of certain factors under the Veterans Community Care Program, to provide for expedited approval of certain requests for Veterans Care Agreements, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Larry Barrett Veterans’ Memory Care Act of 2025 .
+#### 2. Consideration under Veterans Community Care Program of veteran preference for care, continuity of care, and need for caregiver or attendant
+##### (a) In general
+Section 1703(d)(2) of title 38, United States Code, is amended by adding at the end the following new subparagraphs:
+(F) During the three-year period beginning on the date of the enactment of the Dignity in Veterans Aging Act of 2025— (i) in the case of a covered veteran seeking extended care services— (I) the preference of the covered veteran for where, when, and how to seek such services; and (II) whether the covered veteran requests or requires the assistance of a caregiver or attendant when seeking such services; and (ii) continuity of care. .
+##### (b) Treatment of sunset
+In the case of a veteran who is a covered veteran under section 1703 of title 38, United States Code, and who is receiving extended care services pursuant to subparagraph (F) of subsection (d)(2) of such section, the veteran may continue to receive such care or services until the end of the episode of care notwithstanding the termination date specified in such subparagraph.
+#### 3. Expedited approval process for certain requests for Veterans Care Agreements
+Section 1703A of title 38, United States Code, is amended—
+**(1)**
+by redesignating subsections (k) and (l) as subsections (l) and (m), respectively;
+**(2)**
+by inserting after subsection (j) the following new subsection (k):
+(k) Expedited approval process (1) In the case of a request made by a covered individual described in paragraph (2) for a Veterans Care Agreement with an eligible entity or provider, the Secretary shall— (A) approve the request under this section, including the certification under subsection (c) regardless of whether the eligible entity or provider meets the criteria under such subsection or the requirements under subsection (e), by not later than 30 days after the date on which the request is made; and (B) during the period beginning on the date of the request and ending on the date of the approval of the request, provide in-home care services for the covered veteran under section 1720L of this title. (2) A covered individual described in this subsection is a covered individual who— (A) has expressed to the Secretary a preference to receive an extended care service required by the individual from an eligible entity or provider that— (i) is not party to a Veterans Care Agreement under this section; and (ii) is not a health care provider specified in section 1703(c) of this title; and (B) resides in a location that requires traveling for longer than an hour to reach the location of any health care provider specified in section 1703(c) of this title who is qualified to furnish the extended care service required by the individual. ; and
+**(3)**
+in subsection (e)(1), by striking subsection (k) and inserting subsection (l) .
+
+
+## Timeline
+
+- 2025-08-05: Introduced in House
+- 2025-08-05 - IntroReferral: Introduced in House
+- 2025-08-05 - IntroReferral: Introduced in House
+- 2025-08-05 - IntroReferral: Referred to the House Committee on Veterans' Affairs.
+- 2025-12-19 - Committee: Referred to the Subcommittee on Health.
+- Latest action: 2025-08-05: Introduced in House

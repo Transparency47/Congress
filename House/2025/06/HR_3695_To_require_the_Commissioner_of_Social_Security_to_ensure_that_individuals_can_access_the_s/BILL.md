@@ -1,0 +1,96 @@
+# HR 3695: Social Security Access Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-06-03
+- Latest action: 2025-06-03 - Introduced in House
+- Policy area: Social Welfare
+- Sponsor: Rep. Riley, Josh [D-NY-19]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hr/3695
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-06-03
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3695ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-06-03
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3695ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3695
+IN THE HOUSE OF REPRESENTATIVES
+June 3, 2025 Mr. Riley of New York (for himself and Mr. Van Drew ) introduced the following bill; which was referred to the Committee on Ways and Means
+A BILL
+To require the Commissioner of Social Security to ensure that individuals can access the services of the Social Security Administration through a telephone service, an internet portal, and an in-person visit.
+#### 1. Short title
+This Act may be cited as the Social Security Access Act .
+#### 2. Social security service channel options
+##### (a) Requirement for multiple service channel options
+**(1) In general**
+Upon the date of enactment of this Act, the Commissioner of Social Security shall ensure that individuals seeking services, submitting information, or applying for benefits under titles II or XVI of the Social Security Act are provided with the option of applying for such benefits or submitting information related to receiving such services or benefits to the Social Security Administration are able to seek services, submit information, or apply for such benefits through each of the following service channel options:
+**(A) Telephone access**
+A toll-free telephone service for direct assistance with inquiries, claims, and appeals related to the receipt of such services or benefits, including the ability to speak with a representative during standard business hours.
+**(B) Online access**
+An internet-based portal to submit and track claims for such services or benefits, make inquiries, and receive updates on such claims and inquiries.
+**(C) In-person access**
+In-person assistance at Social Security Administration field offices.
+**(2) Telephone service requirements**
+In providing the telephone service required by paragraph (1)(A), the Commissioner shall ensure that the telephone service—
+**(A)**
+is available in English, Spanish, and such other languages to meet the needs of the populations served, as determined by the Commissioner;
+**(B)**
+is made available to individuals in all geographic areas of the United States; and
+**(C)**
+has in place the appropriate safeguards to ensure the security and identity of individuals using such telephone service.
+**(3) Telephone access for major account changes**
+Notwithstanding any subregulatory change or guidance issued by the Commissioner of Social Security, the Commissioner shall ensure that individuals are permitted to complete the following through the telephone service described in subsection (a)(1)(A):
+**(A) Complete application for social security benefits**
+Initiate and complete applications for any benefit under title II or title XVI of the Social Security Act.
+**(B) Direct deposit changes requirement**
+Request and verify changes to direct deposit information.
+##### (b) Reports
+**(1) Initial report**
+Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the Social Security Administration’s implementation of the requirements under subsection (a), including—
+**(A)**
+the effectiveness of each service channel described in subsection (a)(1) in meeting the customer service and benefit access needs of individuals;
+**(B)**
+difficulties or barriers encountered by individuals in accessing the telephone service described in subsection (a)(1)(A);
+**(C)**
+security measures taken by the Administration to protect the personal information of individuals using such telephone service; and
+**(D)**
+recommendations for improving the implementation of the requirements under subsection (a).
+**(2) Annual report**
+Not later than 1 year after the report described in subparagraph (A) is submitted to Congress, and annually thereafter, the Commissioner shall submit to Congress a report on—
+**(A)**
+the number of individuals assisted through each service channel;
+**(B)**
+the number of individuals who have used the telephone service described in subsection (a)(1)(A) for applications and major account changes;
+**(C)**
+the average wait time for an individual to be assisted through such telephone service;
+**(D)**
+the security measures in place to protect the personal information of individuals when using such telephone service;
+**(E)**
+any reported difficulties or barriers encountered by individuals in accessing such telephone service;
+**(F)**
+plans for improving such telephone service, if necessary;
+**(G)**
+the effectiveness of each service channel option in meeting the customer service and benefit access needs of individuals; and
+**(H)**
+any additional measures taken to improve the accessibility or delivery of services.
+
+
+## Timeline
+
+- 2025-06-03: Introduced in House
+- 2025-06-03 - IntroReferral: Introduced in House
+- 2025-06-03 - IntroReferral: Introduced in House
+- 2025-06-03 - IntroReferral: Referred to the House Committee on Ways and Means.
+- Latest action: 2025-06-03: Introduced in House

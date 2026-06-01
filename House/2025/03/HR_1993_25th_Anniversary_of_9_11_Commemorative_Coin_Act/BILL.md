@@ -1,0 +1,302 @@
+# HR 1993: 25th Anniversary of 9/11 Commemorative Coin Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-03-10
+- Latest action: 2025-03-10 - Introduced in House
+- Policy area: Finance and Financial Sector
+- Sponsor: Rep. Goldman, Daniel S. [D-NY-10]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/1993
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**25th Anniversary of 9/11 Commemorative Coin Act**
+
+This bill directs the Department of the Treasury to mint and issue coins to commemorate the 25th anniversary of the September 11, 2001, terrorist attacks on the United States and the establishment of the National September 11 Memorial and Museum at the World Trade Center.
+
+The sale of all coins issued under this bill must include a surcharge to be paid to the National September 11 Memorial and Museum at the World Trade Center to support operations and maintenance. However, if the issuance of this commemorative coin exceeds certain annual limits, no surcharge may be included.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-03-10
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1993ih.xml
+
+### Engrossed in House
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr1993eh.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-03-10
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1993ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 1993
+IN THE HOUSE OF REPRESENTATIVES
+March 10, 2025 Mr. Goldman of New York (for himself, Mr. Garbarino , Mr. Lawler , Mr. Nadler , Mr. Latimer , Ms. Tenney , Ms. Malliotakis , Mr. Carson , Mr. McGovern , Mr. Lynch , Mr. Magaziner , Mr. Kennedy of New York , and Mr. Langworthy ) introduced the following bill; which was referred to the Committee on Financial Services
+A BILL
+To require the Secretary of the Treasury to mint coins in commemoration of the 25th anniversary of the September 11, 2001, terrorist attacks on the United States and to support programs at the National September 11 Memorial and Museum at the World Trade Center.
+#### 1. Short title
+This Act may be cited as the 25th Anniversary of 9/11 Commemorative Coin Act .
+#### 2. Findings
+Congress finds the following:
+**(1)**
+On September 11, 2001, the United States suffered the deadliest terrorist attacks on United States soil (referred to in this section as the attacks ).
+**(2)**
+2,977 people were killed during the attacks, marking the single worst foreign attack on United States soil since Pearl Harbor in 1941.
+**(3)**
+In New York City, 2 planes hit the Twin Towers during the attacks, causing both 110-story towers to collapse in less than 2 hours, as well as destroying 5 other buildings in the World Trade Center complex, leaving a death toll of 2,753 people, including all passengers and crew members of American Airlines Flight 11 and all passengers and crew members of United Airlines Flight 175.
+**(4)**
+During the attacks, American Airlines Flight 77 struck the side of the Pentagon, killing 184 passengers, crew members, and personnel.
+**(5)**
+In Pennsylvania, during the attacks, United Airlines Flight 93 crashed near Shanksville, killing all 40 passengers and crew members.
+**(6)**
+The attacks took the lives of 441 first responders in New York, specifically 343 firefighters from the New York City Fire Department, 37 officers from the Port Authority Police Department, 23 officers from the New York City Police Department, and 38 individuals from other agencies.
+**(7)**
+The collapse of the towers following the attacks created massive dust clouds that left hundreds of densely populated city blocks covered with harmful contaminants, exposing first responders, local workers, residents, and students.
+**(8)**
+More than 2 decades after these horrific terrorist attacks took place, the ongoing physical and mental health impacts continue to deeply affect tens of thousands of individuals across the country who were in lower Manhattan and the surrounding area following the attacks, as well as those from around the country who participated in the rescue, recovery, and relief efforts, due to their exposure to the dust, smoke, and debris. Thousands of others have died due to illnesses and injuries relating to the attacks.
+**(9)**
+The National September 11 Memorial and Museum at the World Trade Center is continuously dedicated to remembering, reflecting, and educating for many generations to come so that the story of September 11, 2001, is never forgotten.
+**(10)**
+The National September 11 Memorial and Museum at the World Trade Center is committed to supporting family members, survivors, rescue and recovery workers, and military personnel who were affected by the attacks by providing services, education, and programming.
+#### 3. Coin specifications
+##### (a) Denominations
+The Secretary of the Treasury (referred to in this Act as the Secretary ) shall mint and issue the following coins in commemoration of the 25th anniversary of the September 11, 2001, terrorist attacks on the United States and the establishment of the National September 11 Memorial and Museum at the World Trade Center:
+**(1) $5 gold coins**
+Not more than 50,000 $5 coins, each of which shall—
+**(A)**
+weigh 8.359 grams;
+**(B)**
+have a diameter of 0.850 inches; and
+**(C)**
+contain not less than 90 percent gold.
+**(2) $1 silver coins**
+Not more than 400,000 $1 coins, each of which shall—
+**(A)**
+weigh 26.73 grams;
+**(B)**
+have a diameter of 1.500 inches; and
+**(C)**
+contain not less than 90 percent silver.
+##### (b) Legal tender
+The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
+##### (c) Numismatic items
+For purposes of sections 5134 and 5136 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
+#### 4. Design of coins
+##### (a) Design requirements
+**(1) In general**
+The designs of the coins minted under this Act shall be emblematic of the courage, sacrifice, and strength of those individuals who perished in the terrorist attacks of September 11, 2001, the bravery of those who risked their lives to save others that day, and the endurance, resilience, and hope of those who survived. At least 1 such coin shall bear the inscription Never Forget .
+**(2) Designs and inscriptions**
+On each coin minted under this Act, there shall be—
+**(A)**
+a designation of the value of the coin;
+**(B)**
+inscriptions of the words Liberty , In God We Trust , United States of America , and E Pluribus Unum ; and
+**(C)**
+an inscription of the words 25th Anniversary .
+##### (b) Selection
+The designs for the coins minted under this Act shall be—
+**(1)**
+selected by the Secretary, after consultation with—
+**(A)**
+the National September 11 Memorial and Museum at the World Trade Center; and
+**(B)**
+the Commission of Fine Arts; and
+**(2)**
+reviewed by the Citizens Coinage Advisory Committee.
+#### 5. Issuance of coins
+##### (a) Quality of coins
+The coins minted under this Act shall be issued in uncirculated and proof qualities.
+##### (b) Sense of congress
+It is the sense of Congress that the coins minted under this Act should be struck at the United States Mint at West Point, New York, to the greatest extent possible.
+##### (c) Period for issuance
+The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2027.
+#### 6. Sale of coins
+##### (a) Sale price
+The coins issued under this Act shall be sold by the Secretary at the price equal to the sum of—
+**(1)**
+the face value of the coins;
+**(2)**
+the surcharge provided in section 7(a) with respect to the coins; and
+**(3)**
+the cost of designing and issuing the coins (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping).
+##### (b) Bulk sales
+The Secretary shall make bulk sales of the coins issued under this Act at a reasonable discount.
+##### (c) Prepaid orders
+**(1) In general**
+The Secretary shall accept prepaid orders for the coins minted under this Act before the issuance of the coins.
+**(2) Discount**
+Sale prices with respect to prepaid orders under paragraph (1) shall be at a reasonable discount.
+#### 7. Surcharges
+##### (a) In general
+All sales of coins issued under this Act shall include a surcharge of—
+**(1)**
+$35 per coin for the $5 gold coin; and
+**(2)**
+$10 per coin for the $1 silver coin.
+##### (b) Distribution
+Subject to section 5134(f)(1) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the National September 11 Memorial and Museum at the World Trade Center to support the operations and maintenance of the National September 11 Memorial and Museum at the World Trade Center.
+##### (c) Audits
+The National September 11 Memorial and Museum at the World Trade Center shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
+##### (d) Limitation
+**(1) In general**
+Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of that issuance, the issuance of that coin would result in the number of commemorative coin programs issued during that year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code.
+**(2) Guidance**
+The Secretary may issue guidance to carry out this subsection.
+#### 8. Financial assurances
+The Secretary shall take such actions as may be necessary to ensure that—
+**(1)**
+minting and issuing coins under this Act result in no net cost to the Federal Government; and
+**(2)**
+no funds, including applicable surcharges, are disbursed to any recipient designated in section 7(b) until the total cost of designing and issuing all of the coins authorized by this Act, including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping, is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
+
+### Engrossed in House
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr1993eh.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 1993
+IN THE HOUSE OF REPRESENTATIVES
+AN ACT
+To require the Secretary of the Treasury to mint coins in commemoration of the 25th anniversary of the September 11, 2001, terrorist attacks on the United States and to support programs at the National September 11 Memorial and Museum at the World Trade Center.
+#### 1. Short title
+This Act may be cited as the 25th Anniversary of 9/11 Commemorative Coin Act .
+#### 2. Findings
+Congress finds the following:
+**(1)**
+On September 11, 2001, the United States suffered the deadliest terrorist attacks on United States soil (referred to in this section as the attacks ).
+**(2)**
+2,977 people were killed during the attacks, marking the single worst foreign attack on United States soil since Pearl Harbor in 1941.
+**(3)**
+In New York City, 2 planes hit the Twin Towers during the attacks, causing both 110-story towers to collapse in less than 2 hours, as well as destroying 5 other buildings in the World Trade Center complex, leaving a death toll of 2,753 people, including all passengers and crew members of American Airlines Flight 11 and all passengers and crew members of United Airlines Flight 175.
+**(4)**
+During the attacks, American Airlines Flight 77 struck the side of the Pentagon, killing 184 passengers, crew members, and personnel.
+**(5)**
+In Pennsylvania, during the attacks, United Airlines Flight 93 crashed near Shanksville, killing all 40 passengers and crew members.
+**(6)**
+The attacks took the lives of 441 first responders in New York, specifically 343 firefighters from the New York City Fire Department, 37 officers from the Port Authority Police Department, 23 officers from the New York City Police Department, and 38 individuals from other agencies.
+**(7)**
+The collapse of the towers following the attacks created massive dust clouds that left hundreds of densely populated city blocks covered with harmful contaminants, exposing first responders, local workers, residents, and students.
+**(8)**
+More than 2 decades after these horrific terrorist attacks took place, the ongoing physical and mental health impacts continue to deeply affect tens of thousands of individuals across the country who were in lower Manhattan and the surrounding area following the attacks, as well as those from around the country who participated in the rescue, recovery, and relief efforts, due to their exposure to the dust, smoke, and debris. Thousands of others have died due to illnesses and injuries relating to the attacks.
+**(9)**
+The National September 11 Memorial and Museum at the World Trade Center is continuously dedicated to remembering, reflecting, and educating for many generations to come so that the story of September 11, 2001, is never forgotten.
+**(10)**
+The National September 11 Memorial and Museum at the World Trade Center is committed to supporting family members, survivors, rescue and recovery workers, and military personnel who were affected by the attacks by providing services, education, and programming.
+#### 3. Coin specifications
+##### (a) Denominations
+The Secretary of the Treasury (referred to in this Act as the Secretary ) shall mint and issue the following coins in commemoration of the 25th anniversary of the September 11, 2001, terrorist attacks on the United States and the establishment of the National September 11 Memorial and Museum at the World Trade Center:
+**(1) $5 gold coins**
+Not more than 50,000 $5 coins, each of which shall—
+**(A)**
+weigh 8.359 grams;
+**(B)**
+have a diameter of 0.850 inches; and
+**(C)**
+contain not less than 90 percent gold.
+**(2) $1 silver coins**
+Not more than 400,000 $1 coins, each of which shall—
+**(A)**
+weigh 26.73 grams;
+**(B)**
+have a diameter of 1.500 inches; and
+**(C)**
+contain not less than 90 percent silver.
+##### (b) Legal tender
+The coins minted under this Act shall be legal tender, as provided in section 5103 of title 31, United States Code.
+##### (c) Numismatic items
+For purposes of sections 5134 and 5136 of title 31, United States Code, all coins minted under this Act shall be considered to be numismatic items.
+#### 4. Design of coins
+##### (a) Design requirements
+**(1) In general**
+The designs of the coins minted under this Act shall be emblematic of the courage, sacrifice, and strength of those individuals who perished in the terrorist attacks of September 11, 2001, the bravery of those who risked their lives to save others that day, and the endurance, resilience, and hope of those who survived. At least 1 such coin shall bear the inscription Never Forget .
+**(2) Designs and inscriptions**
+On each coin minted under this Act, there shall be—
+**(A)**
+a designation of the value of the coin;
+**(B)**
+inscriptions of the words Liberty , In God We Trust , United States of America , and E Pluribus Unum ; and
+**(C)**
+an inscription or other design element referencing the 25th Anniversary.
+##### (b) Selection
+The designs for the coins minted under this Act shall be—
+**(1)**
+selected by the Secretary, after consultation with—
+**(A)**
+the National September 11 Memorial and Museum at the World Trade Center; and
+**(B)**
+the Commission of Fine Arts; and
+**(2)**
+reviewed by the Citizens Coinage Advisory Committee.
+#### 5. Issuance of coins
+##### (a) Quality of coins
+The coins minted under this Act may be issued in uncirculated and proof qualities.
+##### (b) Sense of congress
+It is the sense of Congress that the coins minted under this Act should be struck at the United States Mint at West Point, New York, to the greatest extent possible.
+##### (c) Period for issuance
+The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2028.
+#### 6. Sale of coins
+##### (a) Sale price
+The coins issued under this Act shall be sold by the Secretary at the price equal to the sum of—
+**(1)**
+the face value of the coins;
+**(2)**
+the surcharge provided in section 7(a) with respect to the coins; and
+**(3)**
+the cost of designing and issuing the coins (including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping).
+##### (b) Bulk sales
+The Secretary shall make bulk sales of the coins issued under this Act at a reasonable discount.
+##### (c) Prepaid orders
+**(1) In general**
+The Secretary shall accept prepaid orders for the coins minted under this Act before the issuance of the coins.
+**(2) Discount**
+Sale prices with respect to prepaid orders under paragraph (1) shall be at a reasonable discount.
+#### 7. Surcharges
+##### (a) In general
+All sales of coins issued under this Act shall include a surcharge of—
+**(1)**
+$35 per coin for the $5 gold coin; and
+**(2)**
+$10 per coin for the $1 silver coin.
+##### (b) Distribution
+Subject to section 5134(f)(1) of title 31, United States Code, all surcharges received by the Secretary from the sale of coins issued under this Act shall be promptly paid by the Secretary to the National September 11 Memorial and Museum at the World Trade Center to support the operations and maintenance of the National September 11 Memorial and Museum at the World Trade Center.
+##### (c) Audits
+The National September 11 Memorial and Museum at the World Trade Center shall be subject to the audit requirements of section 5134(f)(2) of title 31, United States Code, with regard to the amounts received under subsection (b).
+##### (d) Limitation
+**(1) In general**
+Notwithstanding subsection (a), no surcharge may be included with respect to the issuance under this Act of any coin during a calendar year if, as of the time of that issuance, the issuance of that coin would result in the number of commemorative coin programs issued during that year to exceed the annual 2 commemorative coin program issuance limitation under section 5112(m)(1) of title 31, United States Code.
+**(2) Guidance**
+The Secretary may issue guidance to carry out this subsection.
+#### 8. Financial assurances
+The Secretary shall take such actions as may be necessary to ensure that—
+**(1)**
+minting and issuing coins under this Act result in no net cost to the Federal Government; and
+**(2)**
+no funds, including applicable surcharges, are disbursed to any recipient designated in section 7(b) until the total cost of designing and issuing all of the coins authorized by this Act, including labor, materials, dies, use of machinery, overhead expenses, marketing, and shipping, is recovered by the United States Treasury, consistent with sections 5112(m) and 5134(f) of title 31, United States Code.
+
+
+## Timeline
+
+- 2025-03-10: Introduced in House
+- 2025-03-10 - IntroReferral: Introduced in House
+- 2025-03-10 - IntroReferral: Introduced in House
+- 2025-03-10 - IntroReferral: Referred to the House Committee on Financial Services.
+- 2026-05-19 16:43:59 - Floor: Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
+- 2026-05-19 16:44:12 - Floor: Considered under suspension of the rules. (consideration: CR H3579-3582; text: CR H3579-3580)
+- 2026-05-19 16:44:14 - Floor: DEBATE - The House proceeded with forty minutes of debate on H.R. 1993.
+- 2026-05-19 17:02:03 - Floor: At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-05-20 16:31:45 - Floor: Considered as unfinished business. (consideration: CR H3659-3660)
+- 2026-05-20 17:08:17 - Floor: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 182).
+  - Recorded vote: House session 2, roll 182 (2026-05-20T21:08:17Z)
+- 2026-05-20 17:08:17 - Floor: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 182).
+  - Recorded vote: House session 2, roll 182 (2026-05-20T21:08:17Z)
+- 2026-05-20 17:08:18 - Floor: Motion to reconsider laid on the table Agreed to without objection.
+- 2026-05-21 - IntroReferral: Received in the Senate.
+- Latest action: 2025-03-10: Introduced in House

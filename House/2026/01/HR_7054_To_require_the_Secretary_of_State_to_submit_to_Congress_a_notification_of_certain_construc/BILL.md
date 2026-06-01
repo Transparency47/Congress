@@ -1,0 +1,70 @@
+# HR 7054: To require the Secretary of State to submit to Congress a notification of certain construction projects using nonstandard designs.
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-01-14
+- Latest action: 2026-01-14 - Introduced in House
+- Policy area: International Affairs
+- Sponsor: Rep. Issa, Darrell [R-CA-48]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7054
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-01-14
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7054ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-01-14
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7054ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7054
+IN THE HOUSE OF REPRESENTATIVES
+January 14, 2026 Mr. Issa introduced the following bill; which was referred to the Committee on Foreign Affairs
+A BILL
+To require the Secretary of State to submit to Congress a notification of certain construction projects using nonstandard designs.
+#### 1. Notification required for nonstandard construction
+##### (a) Sense of Congress
+It is the sense of Congress that the Bureau of Overseas Building Operations of the Department of State, or any successor office, shall, to the greatest extent possible, give appropriate consideration to standardization in construction, such that each new United States embassy and consulate starts with a standard design and keeps customization to a minimum.
+##### (b) Congressional notification required
+The Secretary of State may only carry out a covered project that uses a nonstandard design if, not later than 15 days prior to the obligation of funds for such project, the Secretary submits to the appropriate congressional committees a notification of such project, including the following information:
+**(1)**
+A comparison of the estimated full lifecycle cost of the project to the estimated full lifecycle cost of such project if such project were constructed using a standard design.
+**(2)**
+A comparison of the estimated completion date of such project to the estimated completion date of such project if such project were constructed using a standard design.
+**(3)**
+A comparison of the security of the completed project to the security of such completed project if such project were constructed using a standard design.
+**(4)**
+A justification for the Secretary’s selection of a nonstandard design over a standard design for such project.
+**(5)**
+Documentation to support the information required in paragraphs (1) through (4) or, if any such documentation cannot be provided, an explanation as to why such documentation cannot be provided.
+##### (c) Definitions
+In this section:
+**(1) Appropriate congressional committees**
+The term appropriate congressional committees means—
+**(A)**
+the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
+**(B)**
+the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+**(2) Covered project**
+The term covered project —
+**(A)**
+means a project to construct a new United States embassy compound or new United States consulate compound; and
+**(B)**
+includes such projects that are in the design or pre-design phase on the date of the enactment of this Act.
+
+
+## Timeline
+
+- 2026-01-14: Introduced in House
+- 2026-01-14 - IntroReferral: Introduced in House
+- 2026-01-14 - IntroReferral: Introduced in House
+- 2026-01-14 - IntroReferral: Referred to the House Committee on Foreign Affairs.
+- Latest action: 2026-01-14: Introduced in House

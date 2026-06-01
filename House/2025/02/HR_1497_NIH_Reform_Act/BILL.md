@@ -1,0 +1,117 @@
+# HR 1497: NIH Reform Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-02-21
+- Latest action: 2025-02-21 - Introduced in House
+- Policy area: Health
+- Sponsor: Rep. Roy, Chip [R-TX-21]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/1497
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-02-21
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1497ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-02-21
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr1497ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 1497
+IN THE HOUSE OF REPRESENTATIVES
+February 21, 2025 Mr. Roy (for himself, Mr. Griffith , Ms. Hageman , Mr. Crane , and Mr. Brecheen ) introduced the following bill; which was referred to the Committee on Energy and Commerce
+A BILL
+To replace the National Institute of Allergy and Infectious Diseases with 3 separate national research institutes.
+#### 1. Short title
+This Act may be cited as the NIH Reform Act .
+#### 2. Division of National Institute of Allergy and Infectious Diseases
+##### (a) Organization of national research institutes
+Section 401 of the Public Health Service Act ( 42 U.S.C. 281 ) is amended—
+**(1)**
+in subsection (b)—
+**(A)**
+in paragraph (6), by striking Allergy and Infectious Diseases and inserting Allergic Diseases ;
+**(B)**
+by redesignating paragraph (25) as paragraph (27); and
+**(C)**
+by inserting after paragraph (24) the following:
+(25) The National Institute of Infectious Diseases. (26) The National Institute of Immunologic Diseases. ; and
+**(2)**
+in subsection (d)(1), by striking 27 and inserting 29 .
+##### (b) Appointment of directors
+**(1) In general**
+Section 405(a)(1) of the Public Health Service Act ( 42 U.S.C. 284(a)(1) ) is amended—
+**(A)**
+by inserting , the Director of the National Institute of Allergic Diseases, the Director of the National Institute of Infectious Diseases, and the Director of the National Institute of Immunologic Diseases after National Cancer Institute ; and
+**(B)**
+by inserting by and with the advice and consent of the Senate, after the President, .
+**(2) Terms**
+Section 405(a) of the Public Health Service Act ( 42 U.S.C. 284(a) ) is amended by adding at the end the following:
+(4) Certain appointments by the President The appointments by the President of the Director of the National Institute of Allergic Diseases, the Director of the National Institute of Infectious Diseases, and the Director of the National Institute of Immunologic Diseases shall be for terms of 5 years. Each such Director may be reappointed for not more than 1 additional term, in accordance paragraph (1). .
+**(3) Transition**
+Effective on the date of enactment of this Act, the position of Director of the National Institute of Allergy and Infectious Diseases is terminated, and the National Institute of Allergic Diseases, the National Institute of Infectious Diseases, and the National Institute of Immunologic Diseases shall be overseen by the Director of the National Institutes of Health until such time as the directors of each such national institutes is appointed pursuant to section 405(a)(1) of the Public Health Service Act ( 42 U.S.C. 284(a)(1) ), as amended by paragraph (1).
+##### (c) Duties of the National Institutes
+**(1) National Institute of Allergic Diseases**
+Subpart 6 of part C of title IV of the Public Health Service Act ( 42 U.S.C. 285f et seq. ) is amended—
+**(A)**
+in the subpart heading, by striking Allergy and infectious diseases and inserting Allergic Diseases ; and
+**(B)**
+in section 446—
+**(i)**
+by striking Allergy and Infectious Diseases and inserting Allergic Diseases ; and
+**(ii)**
+by striking allergic and immunologic diseases and disorders and infectious diseases, including tropical diseases and inserting allergic diseases and disorders .
+**(2) National Institute of Infectious Diseases**
+**(A) In general**
+Part C of title IV of the Public Health Service Act ( 42 U.S.C. 285 et seq. ) is amended by adding at the end the following:
+21 National Institute of Infectious Diseases 464z–10. Purpose of the Institute The general purpose of the National Institute of Infectious Diseases is the conduct and support of research, training, health information dissemination, and other programs with respect to infectious diseases, including tropical diseases. .
+**(B) Transfer of authorities**
+Sections 447A and 447B of the Public Health Service Act ( 42 U.S.C. 285f–2 ; 285f–3) are—
+**(i)**
+redesignated as sections 464z–11 and 464–12, respectively; and
+**(ii)**
+transferred to appear after section 464z–10 of such Act, as added by subparagraph (A).
+**(C) Orderly transition**
+The Director of the National Institutes of Health shall take such steps as are necessary to provide for the orderly transition to the authority of the National Institute of Infectious Diseases established under section 464z–10 of the Public Health Service Act, as added by subparagraph (A), from any authority related to infectious diseases of the National Institute of Allergy and Infectious Diseases, as in effect on the day before the date of enactment of this Act.
+**(3) National Institute of Immunologic Diseases**
+**(A) In general**
+Part C of title IV of the Public Health Service Act ( 42 U.S.C. 285 et seq. ), as amended by paragraph (2), is further amended by adding at the end the following:
+22 National Institute of Immunologic Diseases 464z–15. Purpose of the Institute The general purpose of the National Institute of Immunologic Diseases is the conduct and support of research, training, health information dissemination, and other programs with respect to immunologic diseases and disorders. .
+**(B) Transfer of authorities**
+Sections 447 and 447C of the Public Health Service Act ( 42 U.S.C. 285f–1 ; 285f–4) are—
+**(i)**
+redesignated as sections 464z–16 and 464z–17, respectively; and
+**(ii)**
+transferred to appear after section 464z–15 of such Act, as added by subparagraph (A).
+**(C) Orderly transition**
+The Director of the National Institutes of Health shall take such steps as are necessary to provide for the orderly transition to the authority of the National Institute of Immunologic Diseases established under section 464z–15 of the Public Health Service Act, as added by subparagraph (A), from any authority related to immunologic diseases and disorders of the National Institute of Allergy and Infectious Diseases, as in effect on the day before the date of enactment of this Act.
+##### (d) Conforming amendments
+**(1)**
+Section 404B of the Public Health Service Act ( 42 U.S.C. 283d ) is amended by striking National Institute for Allergy and Infectious Diseases and inserting National Institute of Infectious Diseases .
+**(2)**
+Section 404I of the Public Health Service Act ( 42 U.S.C. 283k ) is amended—
+**(A)**
+in subsection (a)(1), by striking or the Director of the National Institute of Allergy and Infectious Diseases ; and
+**(B**
+by striking or the National Institute of Allergy and Infectious Diseases each place it appears.
+**(3)**
+Section 442A(a) of the Public Health Service Act ( 42 U.S.C. 285d–8(a) ) is amended by striking Allergy and Infectious Diseases and inserting Immunologic Diseases .
+**(4)**
+Any reference in any law (including a regulation), guidance, map, document, record, or other paper of the United States to the National Institute of Allergy and Infectious Diseases, including with respect to the Director of such Institute, shall be deemed to be a reference to, as applicable, the National Institute of Allergic Diseases, the National Institute of Infectious Diseases, or the National Institute of Immunologic Diseases, including with respect to the Directors of such Institutes.
+
+
+## Timeline
+
+- 2025-02-21: Introduced in House
+- 2025-02-21 - IntroReferral: Introduced in House
+- 2025-02-21 - IntroReferral: Introduced in House
+- 2025-02-21 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2025-02-21: Introduced in House

@@ -1,0 +1,42 @@
+# HJRES 151: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to "Grand Staircase-Escalante National Monument Record of Decision and Approved Resource Management Plan".
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-03-04
+- Latest action: 2026-03-04 - Introduced in House
+- Policy area: Public Lands and Natural Resources
+- Sponsor: Rep. Maloy, Celeste [R-UT-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-joint-resolution/151
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### IH
+- Date: 2026-03-04
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hjres/BILLS-119hjres151ih.xml
+
+
+## Full Bill Text
+
+### IH
+- Date: 2026-03-04
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hjres/BILLS-119hjres151ih.xml
+
+IA
+119th CONGRESS
+2d Session
+H. J. RES. 151
+IN THE HOUSE OF REPRESENTATIVES
+March 4, 2026 Ms. Maloy (for herself, Mr. Owens , Mr. Moore of Utah , Mr. Kennedy of Utah , Mr. Amodei of Nevada , Mr. Stauber , and Mr. Begich ) submitted the following joint resolution; which was referred to the Committee on Natural Resources
+JOINT RESOLUTION
+Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Grand Staircase-Escalante National Monument Record of Decision and Approved Resource Management Plan .
+That Congress disapproves the rule submitted by the Bureau of Land Management relating to Grand Staircase-Escalante National Monument Record of Decision and Approved Resource Management Plan (issued January 13, 2025, as a record of decision and approved resource management plan, and a letter of opinion from the Government Accountability Office dated January 15, 2026, printed in the Congressional Record on February 25, 2026, on pages S675–S677, concluding that such record of decision and approved resource management plan is a rule under the Congressional Review Act), and such rule shall have no force or effect.
+
+
+## Timeline
+
+- 2026-03-04: Introduced in House
+- 2026-03-04 - IntroReferral: Introduced in House
+- 2026-03-04 - IntroReferral: Introduced in House
+- 2026-03-04 - IntroReferral: Referred to the House Committee on Natural Resources.
+- Latest action: 2026-03-04: Introduced in House

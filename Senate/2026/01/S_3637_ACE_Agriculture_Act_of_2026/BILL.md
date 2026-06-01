@@ -1,0 +1,108 @@
+# S 3637: ACE Agriculture Act of 2026
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2026-01-14
+- Latest action: 2026-01-14 - Introduced in Senate
+- Policy area: Agriculture and Food
+- Sponsor: Sen. Marshall, Roger [R-KS]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/3637
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Advancing Cutting Edge Agriculture Act of 2026 or the ACE Agriculture Act of 2026**
+
+This bill reauthorizes the Agriculture Advanced Research and Development Authority (AGARDA) through FY2031 and expands the program's environmental sustainability goals. This Department of Agriculture (USDA) program supports innovative research and development of technology, research tools, and products to address long-term and high-risk challenges related to food and agriculture.
+
+The bill expands the program's goals to include
+
+- water conservation;
+
+- responding to greenhouse gas emissions; and
+
+- resilience to drought, infectious diseases, and plant and animal pathogens and pests.
+
+The bill also expands the program's goals to include undertaking advanced research and development in areas in which industry by itself is not likely to do so because of economic cost.
+
+Further, the bill removes the current pilot program designation and requires USDA to establish and maintain an AGARDA staff.
+
+Finally, the bill allows USDA to use any unobligated USDA funds to implement the program.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2026-01-14
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s3637is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2026-01-14
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s3637is.xml
+
+II
+119th CONGRESS
+2d Session
+S. 3637
+IN THE SENATE OF THE UNITED STATES
+January 14, 2026 Mr. Marshall (for himself and Mr. Bennet ) introduced the following bill; which was read twice and referred to the Committee on Agriculture, Nutrition, and Forestry
+A BILL
+To amend the National Agricultural Research, Extension, and Teaching Policy Act of 1977 to reauthorize the Agriculture Advanced Research and Development Authority, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Advancing Cutting Edge Agriculture Act of 2026 or the ACE Agriculture Act of 2026 .
+#### 2. Agriculture Advanced Research and Development Authority
+Section 1473H of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ( 7 U.S.C. 3319k ) is amended—
+**(1)**
+in the section heading, by striking Pilot ;
+**(2)**
+in subsection (a)(6)(A), by striking growing, and inserting growing (including water conservation technologies and innovation), ;
+**(3)**
+in subsection (b)—
+**(A)**
+by striking pilot program each place it appears and inserting program ;
+**(B)**
+in paragraph (2)—
+**(i)**
+in subparagraph (B)—
+**(I)**
+by inserting the long-term and high-risk technological before barriers ; and
+**(II)**
+by striking and resilience to extreme weather; and inserting water conservation, the reduction, avoidance, sequestration, or mitigation of greenhouse gas emissions from the agriculture sector, and resilience to extreme weather, drought, infectious diseases, plant and animal pathogens, and plant and animal pests; ; and
+**(ii)**
+in subparagraph (D), by inserting or economic cost before the period at the end;
+**(C)**
+in paragraph (3)(B)—
+**(i)**
+in clause (ii), in the matter preceding subclause (I), by striking advise the Chief Scientist on, and ; and
+**(ii)**
+by striking clause (iii) and inserting the following:
+(iii) Relationship within the Department of Agriculture (I) Chief Scientist The Director shall work in close collaboration with the Office of the Chief Scientist. (II) Other programs No other official who is the head of any other program of the Department of Agriculture shall report to the Director. ; and
+**(D)**
+in paragraph (9), by striking the paragraph designation and heading and all that follows through In carrying out and inserting the following:
+(9) Personnel matters (A) In general The Director shall establish and maintain within the AGARDA a staff with sufficient qualifications and expertise to enable the AGARDA to carry out the responsibilities of the AGARDA under this section in conjunction with other operations of the Department of Agriculture. (B) Use of existing personnel authorities In carrying out ;
+**(4)**
+in subsection (c), by adding at the end the following:
+(4) Use of strategic plan The Secretary shall use the strategic plan developed under paragraph (1) and dated 2022 to inform the administration of the AGARDA under this section. ;
+**(5)**
+in subsection (d)—
+**(A)**
+by redesignating subparagraph (C) of paragraph (2) as paragraph (5), indenting appropriately, and moving the paragraph so as to appear after paragraph (3);
+**(B)**
+in paragraph (3), by striking $50,000,000 for each of fiscal years 2019 through 2023 and inserting $100,000,000 for each of fiscal years 2027 through 2031 ;
+**(C)**
+by inserting after paragraph (3) the following:
+(4) Other funding In addition to amounts otherwise made available to carry out this section, the Secretary may use to carry out this section other unobligated funds available to the Secretary for any other purpose. ; and
+**(D)**
+in paragraph (5) (as redesignated by subparagraph (A)), by striking this paragraph and inserting paragraph (2) or (4) ; and
+**(6)**
+by striking subsection (e).
+
+
+## Timeline
+
+- 2026-01-14: Introduced in Senate
+- 2026-01-14 - IntroReferral: Introduced in Senate
+- 2026-01-14 - IntroReferral: Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- Latest action: 2026-01-14: Introduced in Senate

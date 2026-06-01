@@ -1,0 +1,62 @@
+# HRES 418: Ride-Along Resolution
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-05-15
+- Latest action: 2025-05-15 - Submitted in House
+- Policy area: Congress
+- Sponsor: Rep. Craig, Angie [D-MN-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hres/418
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### IH
+- Date: 2025-05-15
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres418ih.xml
+
+
+## Full Bill Text
+
+### IH
+- Date: 2025-05-15
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hres/BILLS-119hres418ih.xml
+
+IV
+119th CONGRESS
+1st Session
+H. RES. 418
+IN THE HOUSE OF REPRESENTATIVES
+May 15, 2025 Ms. Craig submitted the following resolution; which was referred to the Committee on House Administration
+RESOLUTION
+Requiring Members of the House of Representatives to serve one shift in a passenger seat of a law enforcement vehicle observing the work day of a local law enforcement officer once during each term as a Member of the House, and for other purposes.
+#### 1. Short title
+This resolution may be cited as the Ride-Along Resolution .
+#### 2. Requirement for Members of the House of Representatives to participate in one ride-along during each term of Congress
+##### (a) In general
+Each Member of the House of Representatives shall participate in one ride-along in the respective congressional district of the Member once during each term as a Member of the House.
+##### (b) Regulations
+The Committee on House Administration shall promulgate regulations to carry out this resolution.
+##### (c) Violation
+If the Committee on Ethics determines that a Member has not satisfied the requirement under subsection (a) by the deadline described in such subsection, the Committee shall—
+**(1)**
+publish the name of the Member on a readily available, public list on the website of the Committee that identifies Members who have not satisfied such requirement; and
+**(2)**
+cause to be published in the Congressional Record information with respect to the failure of the Member to satisfy such requirement.
+##### (d) Definitions
+In this section:
+**(1) Ride-Along**
+The term ride-along means an arrangement for a Member of the House of Representatives to serve one shift in a passenger seat of a law enforcement vehicle observing the work day of a local law enforcement officer in the respective congressional district of such Member.
+**(2) Member of the House of Representatives**
+The term Member of the House of Representatives includes a Delegate or Resident Commissioner to the Congress.
+##### (e) Effective date
+This section shall apply with respect to the One Hundred Eighteenth Congress and each succeeding Congress.
+
+
+## Timeline
+
+- 2025-05-15: Introduced in House
+- 2025-05-15 - IntroReferral: Referred to the House Committee on House Administration.
+- 2025-05-15 - IntroReferral: Submitted in House
+- 2025-05-15 - IntroReferral: Submitted in House
+- Latest action: 2025-05-15: Submitted in House

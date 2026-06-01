@@ -1,0 +1,116 @@
+# S 294: COOL Online Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-01-29
+- Latest action: 2025-01-29 - Introduced in Senate
+- Policy area: Agriculture and Food
+- Sponsor: Sen. Baldwin, Tammy [D-WI]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/294
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Country of Origin Labeling Requirement Act or the COOL Online Act** This bill requires sellers of imported products online to conspicuously disclose the country of origin of the products and the country where the seller's principal place of business is located.
+
+This requirement does not apply to specified products, such as agricultural commodities, food or drugs, or previously owned items.
+
+The Federal Trade Commission must enforce violations of this requirement as unfair or deceptive trade practices.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-01-29
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s294is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-01-29
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s294is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 294
+IN THE SENATE OF THE UNITED STATES
+January 29, 2025 Ms. Baldwin (for herself and Mr. Scott of Florida ) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+A BILL
+To require origin and location disclosure for new products of Foreign origin offered for sale on the internet.
+#### 1. Short title
+This Act may be cited as the Country Of Origin Labeling Online Act or the COOL Online Act .
+#### 2. Mandatory origin and location disclosure for new products of Foreign origin offered for sale on the internet
+##### (a) Mandatory disclosure
+**(1) In general**
+**(A) Disclosure**
+Subject to subparagraph (B), it shall be unlawful for a product that is marked or required to be marked under section 304 of the Tariff Act of 1930 ( 19 U.S.C. 1304 ) to be introduced, sold, advertised, or offered for sale in commerce on an internet website unless the internet website description of the product indicates in a conspicuous place—
+**(i)**
+the country of origin of the product (or, in the case of a multi-sourced product, the countries of origin), in a manner consistent with the regulations prescribed under such section 304; and
+**(ii)**
+the country in which the seller of the product has its principal place of business.
+**(B) Exclusions**
+**(i) Agricultural products**
+The disclosure requirements under clauses (i) and (ii) of subparagraph (A) shall not apply to—
+**(I)**
+a covered commodity (as defined in section 281 of the Agricultural Marketing Act of 1946 ( 7 U.S.C. 1638 ));
+**(II)**
+a meat or meat food product subject to inspection under the Federal Meat Inspection Act ( 21 U.S.C. 601 et seq. );
+**(III)**
+a poultry or poultry product subject to inspection under the Poultry Products Inspection Act ( 21 U.S.C. 451 et seq. ); or
+**(IV)**
+an egg product subject to regulation under the Egg Products Inspection Act ( 21 U.S.C. 1031 et seq. ).
+**(ii) Food and drugs**
+The disclosure requirements under clauses (i) and (ii) of subparagraph (A) shall not apply to a food or drug (as those terms are defined in paragraphs (f) and (g), respectively, of section 201 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 321 ) that is subject to the jurisdiction of the Food and Drug Administration.
+**(iii) Used or previously-owned articles**
+The disclosure requirements under clauses (i) and (ii) of subparagraph (A) shall not apply to any used or previously-owned article sold by an internet website marketplace or a seller on an internet website marketplace. For the purposes of the preceding sentence, the term used or previously-owned article means an article that was previously sold or offered for sale at retail.
+**(iv) Small seller**
+The disclosure requirements under clauses (i) and (ii) of subparagraph (A) shall not apply to goods listed by a small seller. For the purposes of the preceding sentence, the term small seller means a seller with annual sales of less than $20,000 and fewer than 200 discrete sales.
+**(C) Multi-sourced products**
+For purposes of subparagraph (A)(i), a product shall be considered to be a multi-sourced product if a seller offers for sale a finished product, identical versions of which are produced in multiple countries.
+**(2) Certain drug products**
+It shall be unlawful for a drug that is not subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 353(b)(1) ) and that is required to be marked under section 304 of the Tariff Act of 1930 ( 19 U.S.C. 1304 ) to be offered for sale in commerce to consumers on an internet website unless the internet website description of the drug indicates in a conspicuous place the name and place of business of the manufacturer, packer, or distributor that is required to appear on the label of the drug in accordance with section 502(b) of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 352(b) ).
+**(3) Obligation to provide**
+A manufacturer, importer, distributor, seller, supplier, or private labeler seeking to have a product introduced, sold, advertised, or offered for sale in commerce shall provide the information identified clauses (i) and (ii) of paragraph (1)(A) or paragraph (2), as applicable, to the relevant retailer.
+**(4) Safe harbor**
+A retailer or a seller on an internet website marketplace satisfies the disclosure requirements under clauses (i) and (ii) of paragraph (1)(A) or paragraph (2), as applicable, if the disclosure includes the country of origin and seller information provided by a third-party manufacturer, importer, distributor, seller, supplier, or private labeler of the product.
+##### (b) Enforcement by the Commission
+**(1) Unfair or deceptive acts or practices**
+A violation of subsection (a) shall be treated as a violation of a rule prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act ( 15 U.S.C. 57a(a)(1)(B) ).
+**(2) Powers of the Commission**
+**(A) In general**
+The Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ( 15 U.S.C. 41 et seq. ) were incorporated into and made a part of this section.
+**(B) Privileges and immunities**
+Any person that violates subsection (a) shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act ( 15 U.S.C. 41 et seq. ) as though all applicable terms and provisions of that Act were incorporated and made part of this section.
+**(C) Authority preserved**
+Nothing in this section may be construed to limit the authority of the Commission under any other provision of law.
+**(3) Interagency agreement**
+Not later than 6 months after the date of enactment of this section, the Commission, the U.S. Customs and Border Protection, and the Department of Agriculture shall—
+**(A)**
+enter into a Memorandum of Understanding or other appropriate agreement for the purpose of providing consistent implementation of this section; and
+**(B)**
+publish such agreement to provide public guidance.
+**(4) Definition of Commission**
+In this subsection, the term Commission means the Federal Trade Commission.
+##### (c) Limitation of liability
+A retailer or seller is not in violation of subsection (a) if—
+**(1)**
+a third-party manufacturer, distributor, seller, supplier, or private labeler provided the retailer or seller with a false or deceptive representation as to the country of origin of a product or its parts or processing; and
+**(2)**
+the retailer or seller—
+**(A)**
+relied in good faith on that representation; and
+**(B)**
+took immediate action to remove any such false or deceptive representations upon notice.
+##### (d) Authority preserved
+Nothing in this section may be construed to limit the authority of the Department of Agriculture, the Food and Drug Administration, or U.S. Customs and Border Protection under any other provision of law.
+##### (e) Effective date
+This section shall take effect 12 months after the date of the publication of the Memorandum of Understanding or agreement under subsection (b)(3).
+
+
+## Timeline
+
+- 2025-01-29: Introduced in Senate
+- 2025-01-29 - IntroReferral: Introduced in Senate
+- 2025-01-29 - IntroReferral: Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- Latest action: 2025-01-29: Introduced in Senate

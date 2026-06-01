@@ -1,0 +1,54 @@
+# HR 6518: SAF Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-12-09
+- Latest action: 2025-12-09 - Introduced in House
+- Policy area: Taxation
+- Sponsor: Rep. Davids, Sharice [D-KS-3]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6518
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-12-09
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6518ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-12-09
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6518ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 6518
+IN THE HOUSE OF REPRESENTATIVES
+December 9, 2025 Ms. Davids of Kansas (for herself, Mr. Flood , Mr. Carter of Louisiana , and Mr. Mann ) introduced the following bill; which was referred to the Committee on Ways and Means
+A BILL
+To amend the Internal Revenue Code of 1986 to reinstate the special rate calculation of the clean fuel production credit with respect to sustainable aviation fuel, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Securing America’s Fuels Act or the SAF Act .
+#### 2. Extension of clean fuel production credit; reinstatement of special rate calculation for sustainable aviation fuel
+##### (a) Reinstatement of special rate
+**(1) In general**
+Paragraph (3) of section 45Z(a) of the Internal Revenue Code of 1986 is amended to read as follows:
+(3) Special rate for sustainable aviation fuel (A) In general In the case of a transportation fuel which is sustainable aviation fuel, paragraph (2) shall be applied— (i) in the case of fuel produced at a qualified facility described in paragraph (2)(A), by substituting 35 cents for 20 cents , and (ii) in the case of fuel produced at a qualified facility described in paragraph (2)(B), by substituting $1.75 for $1.00 . (B) Sustainable aviation fuel For purposes of subparagraph (A), the term sustainable aviation fuel means liquid fuel, the portion of which is not kerosene, which is sold for use in an aircraft and which— (i) meets the requirements of— (I) ASTM International Standard D7566, or (II) the Fischer Tropsch provisions of ASTM International Standard D1655, Annex A1, and (ii) is not derived from palm fatty acid distillates or petroleum. .
+**(2) Conforming amendment**
+Section 45Z(c)(1) of such Code, as amended by Public Law 119–21 , is amended by striking and the $1.00 amount in subsection (a)(2)(B) and inserting , the $1.00 amount in subsection (a)(2)(B), the 35 cent amount in subsection (a)(3)(A)(i), and the $1.75 amount in subsection (a)(3)(A)(ii) .
+##### (b) Extension of credit
+Section 45Z(g) of such Code, as amended by Public Law 119–21 , is amended by striking fuel sold after December 31, 2029 and inserting fuel sold after December 31, 2033 .
+##### (c) Effective date
+The amendments made by this paragraph shall apply to fuel produced after December 31, 2025.
+
+
+## Timeline
+
+- 2025-12-09: Introduced in House
+- 2025-12-09 - IntroReferral: Introduced in House
+- 2025-12-09 - IntroReferral: Introduced in House
+- 2025-12-09 - IntroReferral: Referred to the House Committee on Ways and Means.
+- Latest action: 2025-12-09: Introduced in House

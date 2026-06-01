@@ -1,0 +1,100 @@
+# S 3884: Small Business ICE Disruption Fund Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2026-02-12
+- Latest action: 2026-02-12 - Introduced in Senate
+- Policy area: Commerce
+- Sponsor: Sen. Markey, Edward J. [D-MA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/3884
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2026-02-12
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s3884is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2026-02-12
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s3884is.xml
+
+II
+119th CONGRESS
+2d Session
+S. 3884
+IN THE SENATE OF THE UNITED STATES
+February 12, 2026 Mr. Markey introduced the following bill; which was read twice and referred to the Committee on Small Business and Entrepreneurship
+A BILL
+To establish a Fund to provide grants to businesses affected by Federal immigration enforcement, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Small Business ICE Disruption Fund Act .
+#### 2. Definitions
+In this Act:
+**(1) Administrator**
+The term Administrator means the Administrator of the Small Business Administration.
+**(2) Eligible entity**
+The term eligible entity —
+**(A)**
+means a small business concern that—
+**(i)**
+is located in an area in which a Federal immigration enforcement action has taken place within the last year; and
+**(ii)**
+can demonstrate an immigration enforcement-related revenue loss of not less than 25 percent caused by disruptions resulting from such immigration enforcement action; and
+**(B)**
+does not include a small business concern that—
+**(i)**
+as of the date of enactment of this Act, owns or operates (together with any affiliated businesses) more than 15 locations, regardless of whether those locations do business under the same or multiple names; or
+**(ii)**
+is a publicly traded company.
+**(3) Fund**
+The term Fund means the Small Business ICE Disruption Fund established under section 3.
+**(4) Immigration enforcement-related revenue loss**
+The term immigration enforcement-related revenue loss means, with respect to an eligible entity, the gross receipts, as established using such verification documentation as the Administrator may require, of the eligible entity during the period during which the Federal immigration action affected business, subtracted from the gross receipts of the eligible entity during a comparable period of business as determined by the Administrator, if such sum is greater than zero.
+**(5) Small business concern**
+The term small business concern has the meaning given the term in section 3 of the Small Business Act ( 15 U.S.C. 632 ).
+#### 3. Small Business ICE Disruption Fund
+##### (a) In general
+There is established a fund to be known as the Small Business ICE Disruption Fund.
+##### (b) Appropriations
+There is appropriated to the Fund for fiscal year 2026, out of amounts in the Treasury not otherwise appropriated, $200,000,000, to remain available until expended.
+##### (c) Use of funds
+**(1) In general**
+The Administrator may use amounts in the Fund to make grants to any eligible entity that makes the certification required under subsection (d)(1).
+**(2) Awards**
+In general, the Administrator shall award grants to eligible entities in the order in which applications are received by the Administrator.
+##### (d) Application
+**(1) Certification**
+An eligible entity applying for a grant under this section shall make a good faith certification to the Administrator that—
+**(A)**
+losses incurred resulted from interruptions caused by a Federal immigration enforcement action; and
+**(B)**
+the eligible entity has not received compensation to make up from such losses from any other source.
+**(2) Business identifiers**
+In accepting applications for grants under this section, the Administrator shall implement fraud checks, including—
+**(A)**
+requiring applicants to provide a business identifier, such as an Employee Identification Number or Social Security Number;
+**(B)**
+verifying the tax returns of an applicant to confirm prior income; and
+**(C)**
+cross-checking applicant information against existing government databases to ensure that individuals or businesses convicted of fraud do not receive grants.
+##### (e) Grant amount
+**(1) Aggregate maximum amount**
+The aggregate amount of grants made to an eligible entity and any affiliated business of the eligible entity under this section—
+**(A)**
+shall not exceed $1,000,000; and
+**(B)**
+shall be limited to $500,000 per physical location of the eligible entity.
+**(2) Determination of grant amount**
+The amount of a grant made to an eligible entity under this subsection shall be equal to the immigration enforcement-related revenue loss by the eligible entity.
+
+
+## Timeline
+
+- 2026-02-12: Introduced in Senate
+- 2026-02-12 - IntroReferral: Introduced in Senate
+- 2026-02-12 - IntroReferral: Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- Latest action: 2026-02-12: Introduced in Senate

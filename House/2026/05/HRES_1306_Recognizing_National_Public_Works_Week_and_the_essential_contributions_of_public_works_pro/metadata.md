@@ -1,0 +1,234 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hres/1306?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-resolution/1306
+- Title: Recognizing "National Public Works Week" and the essential contributions of public works professionals.
+- Congress: 119
+- Bill type: HRES
+- Bill number: 1306
+- Origin chamber: House
+- Introduced date: 2026-05-20
+- Update date: 2026-05-29T16:24:17Z
+- Update date including text: 2026-05-29T16:24:17Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, subjects, text, titles
+
+## Timeline
+
+- 2026-05-20: Introduced in House
+- 2026-05-20 - IntroReferral: Referred to the House Committee on Transportation and Infrastructure.
+- 2026-05-20 - IntroReferral: Submitted in House
+- Latest action: 2026-05-20: Submitted in House
+
+## Actions
+
+- 2026-05-20 - IntroReferral: Referred to the House Committee on Transportation and Infrastructure.
+- 2026-05-20 - IntroReferral: Submitted in House
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-05-20",
+    "latestAction": {
+      "actionDate": "2026-05-20",
+      "text": "Submitted in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-resolution/1306",
+    "number": "1306",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Transportation and Public Works"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001119",
+        "district": "2",
+        "firstName": "Angie",
+        "fullName": "Rep. Craig, Angie [D-MN-2]",
+        "lastName": "Craig",
+        "party": "D",
+        "state": "MN"
+      }
+    ],
+    "title": "Recognizing \"National Public Works Week\" and the essential contributions of public works professionals.",
+    "type": "HRES",
+    "updateDate": "2026-05-29T16:24:17Z",
+    "updateDateIncludingText": "2026-05-29T16:24:17Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-05-20",
+      "committees": {
+        "item": {
+          "name": "Transportation and Infrastructure Committee",
+          "systemCode": "hspw00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Transportation and Infrastructure.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1025",
+      "actionDate": "2026-05-20",
+      "committees": {
+        "item": {
+          "name": "Transportation and Infrastructure Committee",
+          "systemCode": "hspw00"
+        }
+      },
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Submitted in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-05-20T15:02:40Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Transportation and Infrastructure Committee",
+      "systemCode": "hspw00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "V000133",
+      "district": "2",
+      "firstName": "Jefferson",
+      "fullName": "Rep. Van Drew, Jefferson [R-NJ-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Van Drew",
+      "party": "R",
+      "sponsorshipDate": "2026-05-20",
+      "state": "NJ"
+    },
+    {
+      "bioguideId": "T000468",
+      "district": "1",
+      "firstName": "Dina",
+      "fullName": "Rep. Titus, Dina [D-NV-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Titus",
+      "party": "D",
+      "sponsorshipDate": "2026-05-20",
+      "state": "NV"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hres/BILLS-119hres1306ih.xml",
+      "text": "IV\n119th CONGRESS\n2d Session\nH. RES. 1306\nIN THE HOUSE OF REPRESENTATIVES\nMay 20, 2026 Ms. Craig (for herself, Mr. Van Drew , and Ms. Titus ) submitted the following resolution; which was referred to the Committee on Transportation and Infrastructure\nRESOLUTION\nRecognizing National Public Works Week and the essential contributions of public works professionals.\nThat the House of Representatives\u2014\n**(1)**\nrecognizes National Public Works Week and the essential role public works professionals play in protecting public health, safety, and quality of life;\n**(2)**\ncommends public works professionals for their service and dedication to communities across the United States;\n**(3)**\nsupports efforts to strengthen and grow the public works workforce to meet current and future infrastructure needs;\n**(4)**\nencourages greater public awareness of the importance of infrastructure investment, resilience, and maintenance; and\n**(5)**\naffirms the importance of strong Federal, State, and local partnerships in delivering infrastructure that benefits all Americans.",
+      "versionDate": "2026-05-20",
+      "versionType": "IH"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Transportation and Public Works",
+        "updateDate": "2026-05-29T16:24:17Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-05-20",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hres/BILLS-119hres1306ih.xml"
+        }
+      ],
+      "type": "IH"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Recognizing \"National Public Works Week\" and the essential contributions of public works professionals.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-05-22T02:18:39Z"
+    },
+    {
+      "title": "Recognizing \"National Public Works Week\" and the essential contributions of public works professionals.",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-05-21T08:07:55Z"
+    }
+  ]
+}
+```

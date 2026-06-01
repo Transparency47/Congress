@@ -1,0 +1,76 @@
+# S 2829: Preventive Home Visit Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-09-17
+- Latest action: 2025-09-17 - Introduced in Senate
+- Policy area: Health
+- Sponsor: Sen. King, Angus S., Jr. [I-ME]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/2829
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-09-17
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2829is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-09-17
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2829is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 2829
+IN THE SENATE OF THE UNITED STATES
+September 17 (legislative day, September 16), 2025 Mr. King introduced the following bill; which was read twice and referred to the Committee on Finance
+A BILL
+To amend title XVIII of the Social Security Act to provide coverage of preventive home visits under Medicare, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Preventive Home Visit Act .
+#### 2. Medicare coverage of preventive home visits
+##### (a) In general
+Section 1861 of the Social Security Act ( 42 U.S.C. 1395x ) is amended—
+**(1)**
+in subsection (s)(2)—
+**(A)**
+in subparagraph (JJ), by adding and after the semicolon; and
+**(B)**
+by adding at the end the following new subparagraph:
+(KK) a preventive home visit (as defined in subsection (nnn)); ; and
+**(2)**
+by adding at the end the following new subsection:
+(nnn) Preventive home visit The term preventive home visit means a visit to the home of an individual by a qualified professional or team of professionals (as defined by the Secretary), not more frequently than once every 2 years, during which the qualified professional provides an assessment of the home environment of the individual, identifies health risks, and provides referrals, as appropriate, for interventions or home modifications to improve physical function, balance, strength and mobility, reduce other falls risk factors, or enhance nutrition with respect to the individual. The preventive home visit can be conducted in-person, remotely, or a combination thereof. .
+##### (b) Payment
+**(1) In general**
+Section 1833(a)(1) of the Social Security Act ( 42 U.S.C. 1395l(a)(1) ) is amended—
+**(A)**
+by striking and (HH) and inserting (HH) ; and
+**(B)**
+by inserting before the semicolon at the end the following: and (II) with respect to a preventive home visit (as defined in section 1861(nnn)), the amount paid shall be equal to 100 percent of the lesser of the actual charge for the service or the amount determined under section 1834(aa) .
+**(2) Payment determination**
+Section 1834 of the Social Security Act ( 42 U.S.C. 1395m ) is amended by adding at the end the following new subsection:
+(aa) Preventive home visits The Secretary shall establish a bundled payment amount for a preventive home visit (as defined in section 1861(nnn)), including any referrals made in connection with the visit. .
+##### (c) Frequency limitation
+Section 1862(a)(1) of the Social Security Act ( 42 U.S.C. 1395y(a)(1) ) is amended—
+**(1)**
+in subparagraph (O), by striking and at the end;
+**(2)**
+in subparagraph (P), by inserting and after the semicolon; and
+**(3)**
+by adding at the end the following new subparagraph:
+(Q) in the case of a preventive home visit (as defined in section 1861(nnn)), which is provided more frequently than is covered under such section. .
+##### (d) Effective date
+The amendments made by this section shall apply with respect to services furnished on or after January 1, 2027.
+
+
+## Timeline
+
+- 2025-09-17: Introduced in Senate
+- 2025-09-17 - IntroReferral: Introduced in Senate
+- 2025-09-17 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2025-09-17: Introduced in Senate

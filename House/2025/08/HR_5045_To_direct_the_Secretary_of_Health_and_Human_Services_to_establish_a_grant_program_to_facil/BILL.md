@@ -1,0 +1,96 @@
+# HR 5045: HEALTH AI Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-08-26
+- Latest action: 2025-08-26 - Introduced in House
+- Policy area: Health
+- Sponsor: Rep. Lieu, Ted [D-CA-36]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/5045
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-08-26
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5045ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-08-26
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5045ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 5045
+IN THE HOUSE OF REPRESENTATIVES
+August 26, 2025 Mr. Lieu (for himself and Mr. Bera ) introduced the following bill; which was referred to the Committee on Energy and Commerce
+A BILL
+To direct the Secretary of Health and Human Services to establish a grant program to facilitate research regarding the use of generative artificial intelligence in health care, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Healthcare Enhancement And Learning Through Harnessing Artificial Intelligence Act or the HEALTH AI Act .
+#### 2. Grants to perform research regarding the use of generative artificial intelligence in health care
+##### (a) In general
+The Secretary of Health and Human Services shall establish a grant program to award grants to eligible entities to perform research regarding the use of generative artificial intelligence in health care.
+##### (b) Permissible research
+Research funded pursuant to a grant under this section may include research regarding the use of generative artificial intelligence to—
+**(1)**
+improve the ability of health care practitioners to record comprehensive notes or ask medically relevant questions during an appointment with a patient;
+**(2)**
+reduce the administrative or documentation burden on clinicians;
+**(3)**
+expedite the health insurance claims process;
+**(4)**
+improve the efficiency and quality of customer service in the health care sector; or
+**(5)**
+otherwise improve health care, as determined appropriate by the Secretary.
+##### (c) Priority
+In awarding grants under this section, the Secretary shall give priority to eligible entities that—
+**(1)**
+encourage the adoption and deployment of generative artificial intelligence across the health care sector;
+**(2)**
+invest in workforce development of clinicians and administrators;
+**(3)**
+mitigate burnout in the health care workforce;
+**(4)**
+reduce gender, racial, and ethnic disparities in health outcomes; or
+**(5)**
+improve the availability of patient care for members of a medically underserved population.
+##### (d) Definitions
+In this section:
+**(1) Artificial intelligence**
+The term artificial intelligence has the meaning given such term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 ( 15 U.S.C. 9401 ).
+**(2) Eligible entity**
+The term eligible entity means—
+**(A)**
+an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ));
+**(B)**
+an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 ( 26 U.S.C. 501(c)(3) ) and exempt from tax under section 501(a) of such Code; and
+**(C)**
+an agency of—
+**(i)**
+the Federal Government;
+**(ii)**
+a State;
+**(iii)**
+a unit of local government; or
+**(iv)**
+an Indian Tribe.
+**(3) Generative artificial intelligence**
+The term generative artificial intelligence means artificial intelligence that, in response to a prompt, uses data to produce text, media, computer code, or other content.
+**(4) Medically underserved population**
+The term medically underserved population has the meaning given such term in section 330(b) of the Public Health Service Act ( 42 U.S.C. 254b(b) ).
+**(5) Secretary**
+The term Secretary means the Secretary of Health and Human Services.
+
+
+## Timeline
+
+- 2025-08-26: Introduced in House
+- 2025-08-26 - IntroReferral: Introduced in House
+- 2025-08-26 - IntroReferral: Introduced in House
+- 2025-08-26 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2025-08-26: Introduced in House

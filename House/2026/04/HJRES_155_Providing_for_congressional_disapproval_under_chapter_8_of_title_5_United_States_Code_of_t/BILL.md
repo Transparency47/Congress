@@ -1,0 +1,42 @@
+# HJRES 155: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to "William D. Ford Federal Direct Loan (Direct Loan) Program".
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-04-09
+- Latest action: 2026-04-09 - Introduced in House
+- Policy area: Education
+- Sponsor: Rep. Courtney, Joe [D-CT-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-joint-resolution/155
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### IH
+- Date: 2026-04-09
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hjres/BILLS-119hjres155ih.xml
+
+
+## Full Bill Text
+
+### IH
+- Date: 2026-04-09
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hjres/BILLS-119hjres155ih.xml
+
+IA
+119th CONGRESS
+2d Session
+H. J. RES. 155
+IN THE HOUSE OF REPRESENTATIVES
+April 9, 2026 Mr. Courtney (for himself, Ms. Adams , Mr. Peters , Mr. Bishop , Ms. Bonamici , Mr. Boyle of Pennsylvania , Ms. Budzinski , Ms. Bynum , Ms. Castor of Florida , Mrs. Cherfilus-McCormick , Ms. Chu , Ms. Craig , Mr. Davis of Illinois , Ms. DeLauro , Mr. Deluzio , Mr. DeSaulnier , Mr. Doggett , Ms. Elfreth , Mr. Garamendi , Mr. Goldman of New York , Mr. Gottheimer , Mrs. Grijalva , Mrs. Hayes , Ms. Norton , Ms. Houlahan , Mr. Jackson of Illinois , Ms. Jacobs , Ms. Jayapal , Mr. Landsman , Ms. Lee of Pennsylvania , Mr. Lieu , Mr. Magaziner , Mrs. McBath , Ms. McBride , Mr. Min , Ms. Moore of Wisconsin , Mr. Moulton , Mr. Olszewski , Mr. Panetta , Ms. Pingree , Ms. Pressley , Mr. Quigley , Ms. Salinas , Ms. Sánchez , Ms. Schakowsky , Ms. Simon , Mr. Swalwell , Mr. Takano , Ms. Tlaib , Mr. Tonko , Mr. Vargas , Ms. Velázquez , Ms. Wilson of Florida , Mr. Scott of Virginia , Mr. Carter of Louisiana , Ms. McCollum , and Ms. Rivas ) submitted the following joint resolution; which was referred to the Committee on Education and Workforce
+JOINT RESOLUTION
+Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to William D. Ford Federal Direct Loan (Direct Loan) Program .
+That Congress disapproves the rule submitted by the Department of Education relating to William D. Ford Federal Direct Loan (Direct Loan) Program (90 Fed. Reg. 48966 (October 31, 2025)), and such rule shall have no force or effect.
+
+
+## Timeline
+
+- 2026-04-09: Introduced in House
+- 2026-04-09 - IntroReferral: Introduced in House
+- 2026-04-09 - IntroReferral: Introduced in House
+- 2026-04-09 - IntroReferral: Referred to the House Committee on Education and Workforce.
+- Latest action: 2026-04-09: Introduced in House

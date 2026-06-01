@@ -1,0 +1,111 @@
+# HR 6389: Upholding Protections for Unaccompanied Children Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-12-03
+- Latest action: 2025-12-03 - Introduced in House
+- Policy area: Immigration
+- Sponsor: Rep. Goldman, Daniel S. [D-NY-10]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6389
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-12-03
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6389ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-12-03
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6389ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 6389
+IN THE HOUSE OF REPRESENTATIVES
+December 3, 2025 Mr. Goldman of New York (for himself, Mrs. Ramirez , Ms. Jayapal , Mr. Casar , Mr. Garcia of California , Ms. Jacobs , Ms. Simon , Ms. Norton , Mr. Davis of Illinois , Ms. Schakowsky , Mr. Correa , Ms. Tlaib , Ms. Pingree , Ms. Titus , Ms. Lee of Pennsylvania , Ms. Clarke of New York , Mr. Krishnamoorthi , Mr. Carson , Ms. Salinas , Ms. Tokuda , Ms. Lofgren , Ms. Meng , Ms. Chu , Mr. Quigley , Ms. Ansari , Ms. Ross , Mr. Lieu , Ms. Morrison , Ms. DeGette , Ms. McClellan , Mr. Huffman , Mrs. Torres of California , Ms. Stansbury , Mr. García of Illinois , and Ms. Crockett ) introduced the following bill; which was referred to the Committee on the Judiciary , and in addition to the Committee on Homeland Security , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To amend Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) to repeal or amend certain provisions that undermine protections and heighten dangers for unaccompanied children, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Upholding Protections for Unaccompanied Children Act of 2025 .
+#### 2. Findings
+Congress finds the following:
+**(1)**
+Unaccompanied children are among the world’s most vulnerable individuals. Without protection in their countries of origin, they have fled to the United States often on their own to escape extreme violence, sexual abuse, human trafficking, and other dangers.
+**(2)**
+In recognition of this vulnerability, Congress has traditionally ensured protections for unaccompanied children on a broad bipartisan basis.
+**(3)**
+Congress reaffirmed this bipartisan commitment through passage of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 ( TVPRA ) which passed, among other purposes, to ensure that unaccompanied children are screened properly to identify signs of trafficking or other protection concerns, placed in the least restrictive setting that is in the best interest of the child, and accorded a full and fair legal process, distinguished by child-sensitive procedures, for pursuing humanitarian relief.
+**(4)**
+The One Big Beautiful Bill Act ( Public Law 119–21 ) erects barriers to TVPRA protections and other longstanding safeguards for unaccompanied children, weakening due process and heightening these children’s vulnerability to human trafficking, exploitation, and abuse.
+**(5)**
+This legislation imposes an unprecedented fee structure that limits or outright blocks unaccompanied children’s ability to pursue humanitarian protection in the United States, requiring onerous fees from unaccompanied children to seek asylum and other legal relief runs contrary to the TVPRA’s mandate to govern these children’s applications in ways that take into account their specialized needs. It also creates opportunities for traffickers and abusers skilled in leveraging debt to coerce children into sex and labor trafficking and other forms of exploitation.
+**(6)**
+The Trump administration has sought to rely upon One Big Beautiful Bill Act provisions that provide funding for the removal of unaccompanied children to summarily return children throughout the Nation to their countries of origin without due process. These returns run counter to TVPRA requirements that the Secretary of the Department of Homeland Security place unaccompanied children from countries other than Mexico and Canada in Office of Refugee Resettlement custody, where they receive screenings for trafficking and other protection concerns by legal services providers, and that these children are afforded an appropriate legal process before an immigration judge. Summarily returned children face grave risks of trafficking and other harms.
+**(7)**
+The American Academy of Pediatrics and other leading medical groups have warned that there is no evidence that any amount of time in detention is safe for children and that detention itself poses a threat to child health.
+**(8)**
+The One Big Beautiful Bill Act provides funding for carrying out potentially physically intrusive examinations of unaccompanied children in the Department of Homeland Security and Office of Refugee Resettlement custody without any guardrails to protect against inappropriate application and misconduct and despite risks of retraumatizing children who may be fleeing abuse or exploitation.
+**(9)**
+The One Big Beautiful Bill Act provides funding to the Office of Refugee Resettlement that will further fuel the Trump administration’s systematic targeting of unaccompanied children’s family members for immigration enforcement. After the Administration eliminated safeguards that restricted the Office of Refugee Resettlement from sharing information on unaccompanied children’s sponsors with the Department of Homeland Security for purposes of immigration enforcement, Immigration and Customs Enforcement has taken enforcement actions against numerous sponsors who lack immigration status. These actions have split families apart, caused children profound trauma, and deterred loving parents and other family members from coming forward to sponsor children in Office of Refugee Resettlement custody, depriving children of safe sponsorship options and dramatically increasing those children’s periods of government detention.
+#### 3. Fees
+##### (a) Asylum fee
+Section 100002 of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) is amended by adding at the end the following:
+(f) Exception This section shall not apply in the case of any individual who is, or was previously determined to be, an unaccompanied alien child, as defined in section 462(g)(2) of the Homeland Security Act of 2002 ( 6 U.S.C. 279(g)(2) ). .
+##### (b) Employment authorization document fee
+Section 100003 of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) is amended by adding at the end the following:
+(d) Exception This section shall not apply in the case of any individual who is, or was previously determined to be, an unaccompanied alien child, as defined in section 462(g)(2) of the Homeland Security Act of 2002 ( 6 U.S.C. 279(g)(2) ). .
+##### (c) Special immigrant juvenile fee
+**(1) Repeal**
+Section 100005 of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) is repealed.
+**(2) Clarification**
+The Secretary of Homeland Security may not impose a fee in connection with any alien, parent, or legal guardian of an alien applying for special immigrant juvenile status under section 101(a)(27)(J) ( 8 U.S.C. 1101(a)(27)(J) ).
+##### (d) Annual asylum fee
+Section 100009 of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) is amended by adding at the end the following:
+(e) Exception This section shall not apply in the case of any individual who is, or was previously determined to be, an unaccompanied alien child, as defined in section 462(g)(2) of the Homeland Security Act of 2002 ( 6 U.S.C. 279(g)(2) ). .
+##### (e) Employment authorization renewal fees
+**(1) Employment Authorization for Parolees**
+Section 100010 of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) is amended by adding at the end the following:
+(e) Exception This section shall not apply in the case of any individual who is, or was previously determined to be, an unaccompanied alien child, as defined in section 462(g)(2) of the Homeland Security Act of 2002 ( 6 U.S.C. 279(g)(2) ). .
+**(2) Employment authorization for asylum applicants**
+Section 100011 of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) is amended by adding at the end the following:
+(e) Exception This section shall not apply in the case of any individual who is, or was previously determined to be, an unaccompanied alien child, as defined in section 462(g)(2) of the Homeland Security Act of 2002 ( 6 U.S.C. 279(g)(2) ). .
+**(3) Employment authorization for aliens granted temporary protected status**
+Section 100012 of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) is amended by adding at the end the following:
+(e) Exception This section shall not apply in the case of any individual who is, or was previously determined to be, an unaccompanied alien child, as defined in section 462(g)(2) of the Homeland Security Act of 2002 ( 6 U.S.C. 279(g)(2) ). .
+##### (f) Immigration court fees
+Section 100013 of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) is amended by adding at the end the following:
+(l) Exception This section shall not apply in the case of any individual who is, or was previously determined to be, an unaccompanied alien child, as defined in section 462(g)(2) of the Homeland Security Act of 2002 ( 6 U.S.C. 279(g)(2) ). .
+##### (g) In absentia removal fee
+Section 100016(c) of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) is amended by inserting before the period at the end the following: , or in the case of any individual who is, or was previously determined to be, an unaccompanied alien child, as defined in section 462(g)(2) of the Homeland Security Act of 2002 ( 6 U.S.C. 279(g)(2) ) .
+##### (h) Border apprehension fee
+Section 100017 of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) is amended by inserting at the end the following:
+(e) Exception This section shall not apply in the case of any individual who is, or was previously determined to be, an unaccompanied alien child, as defined in section 462(g)(2) of the Homeland Security Act of 2002 ( 6 U.S.C. 279(g)(2) ). .
+#### 4. Upholding protection screenings and a fair legal process
+Section 100051(8) of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ) is repealed.
+#### 5. Limitations body examinations
+##### (a) Body Examinations conducted by the Department of Homeland Security
+Section 100051(11) of Public Law 119–21 is repealed.
+##### (b) Body Examinations conducted by the Office of Refugee Resettlement
+Section 87001(b)(3) of Public Law 119–21 is repealed.
+#### 6. Sponsor information sharing
+Section 87001 of Public Law 119–21 (commonly known as the One Big Beautiful Bill Act ), as amended by this Act, is further amended by adding at the end the following:
+(f) Limitation on information sharing The Secretary of Health and Human Services shall ensure that information obtained under this section is not shared with Department of Homeland Security or any other Federal agency for the purpose of enforcing the immigration laws (as such term is defined in section 101 of the Immigration and Nationality Act ( 8 U.S.C. 1101 )). .
+#### 7. Refund of fees
+Not later than 180 days after the date of enactment of this Act, the Secretary of Homeland Security and the Attorney General shall refund each fee paid under a provision of law repealed or amended by this Act to each individual who paid such fee.
+
+
+## Timeline
+
+- 2025-12-03: Introduced in House
+- 2025-12-03 - IntroReferral: Introduced in House
+- 2025-12-03 - IntroReferral: Introduced in House
+- 2025-12-03 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-12-03 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-12-04 - Committee: Referred to the Subcommittee on Border Security and Enforcement.
+- 2025-12-04 - Committee: Referred to the Subcommittee on Transportation and Maritime Security.
+- Latest action: 2025-12-03: Introduced in House

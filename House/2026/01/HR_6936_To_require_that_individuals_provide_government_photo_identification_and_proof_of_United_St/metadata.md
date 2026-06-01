@@ -1,0 +1,242 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/6936?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/6936
+- Title: ___ Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 6936
+- Origin chamber: House
+- Introduced date: 2026-01-02
+- Update date: 2026-02-18T15:51:06Z
+- Update date including text: 2026-02-18T15:51:06Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2026-01-02: Introduced in House
+- 2026-01-02 - IntroReferral: Introduced in House
+- 2026-01-02 - IntroReferral: Introduced in House
+- 2026-01-02 - IntroReferral: Referred to the House Committee on House Administration.
+- Latest action: 2026-01-02: Introduced in House
+
+## Actions
+
+- 2026-01-02 - IntroReferral: Introduced in House
+- 2026-01-02 - IntroReferral: Introduced in House
+- 2026-01-02 - IntroReferral: Referred to the House Committee on House Administration.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-01-02",
+    "latestAction": {
+      "actionDate": "2026-01-02",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/6936",
+    "number": "6936",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "G000596",
+        "district": "14",
+        "firstName": "Marjorie",
+        "fullName": "Rep. Greene, Marjorie Taylor [R-GA-14]",
+        "lastName": "Greene",
+        "party": "R",
+        "state": "GA"
+      }
+    ],
+    "title": "___ Act",
+    "type": "HR",
+    "updateDate": "2026-02-18T15:51:06Z",
+    "updateDateIncludingText": "2026-02-18T15:51:06Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-01-02",
+      "committees": {
+        "item": {
+          "name": "Committee on House Administration",
+          "systemCode": "hsha00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on House Administration.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2026-01-02",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2026-01-02",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-01-02T21:00:05Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Committee on House Administration",
+      "systemCode": "hsha00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6936ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 6936\nIN THE HOUSE OF REPRESENTATIVES\nJanuary 2, 2026 Ms. Greene of Georgia introduced the following bill; which was referred to the Committee on House Administration\nA BILL\nTo require that individuals provide government photo identification and proof of United States citizenship to vote in Federal elections, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the ___ Act .\nDo you want to include a short title?\n#### 2. Requirement to provide government photo identification and proof of United States citizenship to vote in Federal elections\n##### (a) Requirement To provide government photo identification and proof of United States citizenship as condition of casting ballot\nTitle III of the Help America Vote Act of 2002 ( 52 U.S.C. 21081 et seq. ) is amended by inserting after section 303 the following new section:\n303A. Government photo identification and proof of United States citizenship required to vote in Federal elections (a) Provision of government photo identification and proof of United States citizenship required as condition of casting ballot (1) Individuals voting in person (A) In general Notwithstanding any other provision of law, the appropriate State or local election official may not provide a ballot for an election for Federal office to an individual who desires to vote in person unless the individual presents to the official\u2014 (i) a document that is both proof of United States citizenship and government photo identification; or (ii) a document that is proof of United States citizenship, together with a document that is government photo identification, if\u2014 (I) the name of the applicant is identical on both such documents; or (II) in the case that the name of the applicant is not identical on both such documents, the applicant provides evidence sufficient to demonstrate that the name of such applicant has changed, such as a court order, marriage certificate, divorce decree, or other vital document record. (B) Availability of provisional ballot If an individual does not present the identification required under subparagraph (A), the individual shall be permitted to cast a provisional ballot with respect to the election under section 302(a) but such provisional ballot may only be counted as a vote in that election in accordance with State law if the individual is verified as a citizen of the United States by the appropriate State or local election official under section 302(a)(4). (2) Individuals voting other than in person (A) In general Notwithstanding any other provision of law, the appropriate State or local election official may not accept any ballot for an election for Federal office provided by an individual who votes other than in person unless the individual submits with the ballot\u2014 (i) a copy of a document that is both proof of United States citizenship and government photo identification; or (ii) a copy of a document that is proof of United States citizenship, together with a copy of a document that is government photo identification, if\u2014 (I) the name of the applicant is identical on both such documents; or (II) in the case that the name of the applicant is not identical on both such documents, the applicant provides evidence sufficient to demonstrate that the name of such applicant has changed, such as a court order, marriage certificate, divorce decree, or other vital document record. (B) Availability of provisional ballot An individual who desires to vote by mail but who does not meet the requirements of subparagraph (A) may cast such a ballot by mail and the ballot shall be counted as a provisional ballot in accordance with section 302(a) but such provisional ballot may only be counted as a vote in that election in accordance with State law if the individual is verified as a citizen of the United States by the appropriate State or local election official under section 302(a)(4). (b) Definitions In this section: (1) Government photo identification The term government photo identification means, with respect to an applicant for voter registration, a valid identification card issued by a Federal, State, or Tribal government that includes\u2014 (A) a photograph of the applicant; (B) the full name of the applicant; and (C) the date of birth of the applicant. (2) Proof of United States citizenship The term proof of United States citizenship means, with respect to an applicant for voter registration, any of the following: (A) A valid United States passport. (B) A United States military record of service showing that the place of birth of the applicant was in the United States. (C) A valid photo identification card issued by a Federal, State, or Tribal government showing that the place of birth of the applicant was in the United States. (D) A certified birth certificate issued by a State, a unit of local government in a State, or a Tribal government which\u2014 (i) was issued by the State, unit of local government, or Tribal government in which the applicant was born; (ii) was filed with the office responsible for keeping vital records in the State; (iii) includes the full name, date of birth, and place of birth of the applicant; (iv) lists the full names of one or both of the parents of the applicant; (v) has the signature of an individual who is authorized to sign birth certificates on behalf of the State, unit of local government, or Tribal government in which the applicant was born; (vi) includes the date that the certificate was filed with the office responsible for keeping vital records in the State; and (vii) has the seal of the State, unit of local government, or Tribal government that issued the birth certificate. (E) An extract from a United States hospital Record of Birth created at the time of the birth of the applicant that indicates that the applicant\u2019s place of birth was in the United States. (F) A final adoption decree showing the name of the applicant and that the applicant\u2019s place of birth was in the United States. (G) A Consular Report of Birth Abroad of a citizen of the United States or a certification of the applicant\u2019s Report of Birth of a United States citizen issued by the Secretary of State. (H) A Naturalization Certificate or Certificate of Citizenship issued by the Secretary of Homeland Security or any other document or method of proof of United States citizenship issued by the Federal Government pursuant to title III of the Immigration and Nationality Act ( 8 U.S.C. 1401 et seq. ). (I) An American Indian Card issued by the Department of Homeland Security with the classification KIC . .\n##### (b) Criminal penalties\nSection 12(2) of the National Voter Registration Act of 1993 ( 52 U.S.C. 20511(2) ) is amended\u2014\n**(1)**\nby striking or at the end of subparagraph (A);\n**(2)**\nby redesignating subparagraph (B) as subparagraph (D); and\n**(3)**\nby inserting after subparagraph (A) the following new subparagraphs:\n(B) providing material assistance to a noncitizen in attempting to vote in an election for Federal office; (C) providing a ballot for an election for Federal office to an individual who fails to present government photo identification and proof of United States citizenship; or .\n##### (c) Conforming and clerical amendments\n**(1) Conforming amendments relating to repeal of existing photo identification requirements for certain voters**\nSection 303 of the Help America Vote Act of 2002 ( 52 U.S.C. 21083 ) is amended\u2014\n**(A)**\nin the heading, by striking and requirements for voters who register by mail ;\n**(B)**\nin subsection (b)\u2014\n**(i)**\nin the heading, by striking for Voters Who Register by Mail and inserting for Mail-In Registration Forms ; and\n**(ii)**\nby striking paragraphs (1), (2), and (3) and redesignating paragraphs (4) and (5) as paragraphs (1) and (2), respectively; and\n**(C)**\nin subsection (c), by striking subsections (a)(5)(A)(i)(II) and (b)(3)(B)(i)(II) and inserting subsection (a)(5)(A)(i)(II) .\n**(2) Conforming amendment related to enforcement**\nSection 401 of such Act ( 52 U.S.C. 21111 ) is amended by striking sections 301, 302, 303, and 304 and inserting subtitle A of title III .\n**(3) Clerical amendment**\nThe table of contents of such Act is amended\u2014\n**(A)**\nby amending the item relating to section 303 to read as follows:\nSec. 303. Computerized statewide voter registration list requirements. ; and\n**(B)**\nby inserting after the item relating to section 303 the following:\nSec. 303A. Proof of United States citizenship to vote in Federal elections. .\n##### (d) Effective date\nThis section and the amendments made by this section shall apply with respect to any regularly scheduled general election for Federal office occurring in November 2026 and any Federal election thereafter.",
+      "versionDate": "2026-01-02",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-07-29",
+        "text": "Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "4798",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "Making American Elections Great Again Act",
+      "type": "HR"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Government Operations and Politics",
+        "updateDate": "2026-02-18T15:07:48Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-01-02",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6936ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "___ Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-02-10T06:08:20Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "___ Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-02-10T06:08:19Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To require that individuals provide government photo identification and proof of United States citizenship to vote in Federal elections, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-02-10T06:03:25Z"
+    }
+  ]
+}
+```

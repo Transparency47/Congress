@@ -1,0 +1,74 @@
+# HR 6840: ARMENIA Security Partnership Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-12-18
+- Latest action: 2025-12-18 - Introduced in House
+- Policy area: International Affairs
+- Sponsor: Rep. Bilirakis, Gus M. [R-FL-12]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6840
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-12-18
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6840ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-12-18
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6840ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 6840
+IN THE HOUSE OF REPRESENTATIVES
+December 18, 2025 Mr. Bilirakis (for himself, Mr. Pallone , Mr. Valadao , Mr. Sherman , Mr. Smith of New Jersey , Mr. Min , Mr. Fitzpatrick , Ms. Schakowsky , and Mr. Amo ) introduced the following bill; which was referred to the Committee on Foreign Affairs
+A BILL
+To require the Secretary of Defense to certify that the Government of Azerbaijan has taken certain meaningful steps with respect to Armenia and the Nagorno-Karabakh region, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Advancing Readiness, Military Exchange, and National Integration with Armenia Security Partnership Act Security Partnership Act or the ARMENIA Security Partnership Act .
+#### 2. Review of Security Assistance for Armenia
+##### (a) In general
+Not later than 180 days after the date of the enactment of this section, and not less than annually thereafter, the Secretary of Defense, in coordination with each other national security agency such Secretary determines appropriate, shall certify to the congressional defense committees that the Government of Azerbaijan has taken meaningful steps towards the following:
+**(1)**
+Uphold its commitments under the Joint Declaration.
+**(2)**
+Completely withdraw all military forces from the sovereign territory of Armenia.
+**(3)**
+Unconditionally release all Armenian prisoners.
+**(4)**
+Cease engaging in hostilities towards Armenia.
+**(5)**
+Recognize a right of return for ethnic Armenians to their homes in Nagorno-Karabakh and commit to the preservation of Armenian cultural and religious sites in Nagorno-Karabakh.
+##### (b) Security assistance review
+If the Secretary of Defense cannot certify the information under subsection (a), such Secretary shall, not later than 14 days after the date on which any such certification is required to be made, conduct an immediate review of United States security assistance for the Republic of Armenia (hereinafter Armenia ) to assess gaps in Armenia’s deterrence and self-defense capabilities.
+##### (c) Report
+Upon the completion the review required under subsection (b), the Secretary of Defense, in coordination with the Commander of the United States European Command and each other national security agency such Secretary determines appropriate, shall submit a report to the congressional defense committees that includes the following:
+**(1)**
+An assessment of the scale and nature of threats to Armenia.
+**(2)**
+An evaluation of historical and current United States security assistance for Armenia including International Security Cooperation Programs, Foreign Military Financing, and International Military Education and Training support.
+**(3)**
+Identification of gaps in Armenia’s immediate and long-term defense needs, including defense articles, services, and military training.
+**(4)**
+A summary of immediate steps the Department of Defense is taking to increase security cooperation with Armenia.
+**(5)**
+Recommendations for further increasing security assistance for Armenia to address shortfalls in Armenia’s self-defense capabilities to deter aggression.
+##### (d) FREEDOM Support Act waiver disqualified
+If the Secretary of Defense cannot certify the information under subsection (a), the President may not, after the date that is 14 days after the date on which any such certification is required to be made, exercise the waiver authority provided pursuant to title II of the Foreign Operations, Export Financing and related Programs Appropriations Act, 2002 ( Public Law 107–115 ; 22 U.S.C. 5812 note) under subsection (g) under the heading Assistance for the independent states of the former Soviet Union .
+##### (e) Congressional defense committees defined
+The term congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives.
+
+
+## Timeline
+
+- 2025-12-18: Introduced in House
+- 2025-12-18 - IntroReferral: Introduced in House
+- 2025-12-18 - IntroReferral: Introduced in House
+- 2025-12-18 - IntroReferral: Referred to the House Committee on Foreign Affairs.
+- Latest action: 2025-12-18: Introduced in House

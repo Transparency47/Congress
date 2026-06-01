@@ -1,0 +1,71 @@
+# HR 3403: SEAT Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-05-14
+- Latest action: 2025-05-14 - Introduced in House
+- Policy area: Commerce
+- Sponsor: Rep. Mace, Nancy [R-SC-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/3403
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-05-14
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3403ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-05-14
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3403ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3403
+IN THE HOUSE OF REPRESENTATIVES
+May 14, 2025 Ms. Mace introduced the following bill; which was referred to the Committee on Energy and Commerce
+A BILL
+To prohibit third-party restaurant reservation services from offering or arranging unauthorized reservations for food service establishments, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Supporting Equal Access to Tables Act of 2025 or the SEAT Act of 2025 .
+#### 2. Limitation on third-party restaurant reservation services
+##### (a) Requirement
+A provider of a third-party restaurant reservation service may only list, promote, sell, or otherwise advertise or make available a reservation for a food service establishment if there is a written agreement between such service and such establishment, or a contractual designee of such establishment who obtained reservation distribution rights directly from the establishment, that permits such service to list, promote, sell, or otherwise advertise or make available such reservation.
+##### (b) Enforcement by commission
+**(1) Unfair or deceptive acts or practices**
+A violation of this section shall be treated as a violation of a regulation under section 18(a)(1)(B) of the Federal Trade Commission Act ( 15 U.S.C. 57a(a)(1)(B) ) regarding unfair or deceptive acts or practices.
+**(2) Powers of commission**
+The Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ( 15 U.S.C. 41 et seq. ) were incorporated into and made a part of this section. Any person who violates this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act.
+##### (c) Applicability
+This section shall apply to a provider of a third-party restaurant reservation service beginning on the date that is 180 days after the date of the enactment of this Act.
+##### (d) Indemnification provisions
+An agreement entered into pursuant to subsection (a) may not include a provision that requires a food service establishment to indemnify a third-party restaurant reservation service, any independent contractor acting on behalf of such third-party restaurant reservation service, or any registered agent of such third-party restaurant reservation service for any damages or harm by an act or omission initiated by the third-party restaurant reservation service. If an agreement entered into pursuant to subsection (a) contains such a provision, such provision shall be deemed void and unenforceable.
+##### (e) Definitions
+In this section:
+**(1) Commission**
+The term Commission means the Federal Trade Commission.
+**(2) Food service establishment**
+The term food service establishment —
+**(A)**
+means a restaurant, food stand, food truck, food cart, saloon, inn, tavern, bar, lounge, brewpub, tasting room, taproom, licensed facility or premise of a beverage alcohol producer where the public may taste, sample, or purchase products, or other similar place of business in or at which the public or patrons assemble for the primary purpose of being served food or drink; and
+**(B)**
+includes an entity described in subparagraph (A) that is located in a larger establishment or complex, including an airport terminal or other transportation facility, amusement park, sports stadium, entertainment venue, hotel or hotel complex, or retail store or retail complex.
+**(3) Third-party restaurant reservation service**
+The term third-party restaurant reservation service means any website, mobile application, or other internet-based service that—
+**(A)**
+lists, promotes, sells, or otherwise advertises or makes available reservations for on-premises service for a customer at a food service establishment; and
+**(B)**
+is provided by a person other than the person who provides such food service establishment.
+
+
+## Timeline
+
+- 2025-05-14: Introduced in House
+- 2025-05-14 - IntroReferral: Introduced in House
+- 2025-05-14 - IntroReferral: Introduced in House
+- 2025-05-14 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2025-05-14: Introduced in House

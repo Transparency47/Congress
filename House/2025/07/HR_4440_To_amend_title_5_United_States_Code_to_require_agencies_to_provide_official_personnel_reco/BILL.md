@@ -1,0 +1,50 @@
+# HR 4440: Protecting Federal Employee Rights to Personnel Files Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-07-16
+- Latest action: 2025-07-16 - Introduced in House
+- Policy area: Government Operations and Politics
+- Sponsor: Rep. Brownley, Julia [D-CA-26]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/4440
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-07-16
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4440ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-07-16
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4440ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 4440
+IN THE HOUSE OF REPRESENTATIVES
+July 16, 2025 Ms. Brownley (for herself, Mr. Landsman , Ms. Norton , Ms. Elfreth , Mrs. Cherfilus-McCormick , Ms. Williams of Georgia , Mr. Carson , Ms. Simon , Ms. Budzinski , Ms. Jayapal , Mrs. Sykes , Mr. Pocan , Ms. Chu , Mr. Thanedar , and Mrs. McIver ) introduced the following bill; which was referred to the Committee on Oversight and Government Reform
+A BILL
+To amend title 5, United States Code, to require agencies to provide official personnel record files to Federal employees and former Federal employees, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Protecting Federal Employee Rights to Personnel Files Act of 2025 .
+#### 2. Requirement to provide official personnel record files to employees and former employees
+##### (a) In general
+Subchapter I of chapter 33 of title 5, United States Code, is amended by inserting after section 3330f the following:
+3330g. Requirement to provide official personnel record files to employees and former employees (a) Current employees Not later than seven days after the date an employee of an agency requests a copy of the employee’s official personnel record file, the head of such agency shall provide to such employee, in electronic and physical form, a copy of such file. (b) Former employees (1) In general With respect to any employee separating from an agency on or after the date of the enactment of this section, not later than seven days after the date of such separation, the head of such agency shall provide to such employee, in electronic and physical form, a copy of the employee’s official personnel record file. (2) Previously separated employees With respect to any individual who separated from an agency before the date of the enactment of this section, not later than 21 days after the date such an individual requests a copy of the employee’s official personnel record file from the Director of the Office of Personnel Management, the Director shall provide, in electronic and physical form, a copy of such file to the individual. (c) Agency defined In this section, the term agency has the meaning given that term in section 551. .
+##### (b) Clerical amendment
+The table of sections for such subchapter is amended by inserting after the item relating to section 3330f the following:
+3330g. Requirement to provide official personnel record files to employees and former employees. .
+
+
+## Timeline
+
+- 2025-07-16: Introduced in House
+- 2025-07-16 - IntroReferral: Introduced in House
+- 2025-07-16 - IntroReferral: Introduced in House
+- 2025-07-16 - IntroReferral: Referred to the House Committee on Oversight and Government Reform.
+- Latest action: 2025-07-16: Introduced in House

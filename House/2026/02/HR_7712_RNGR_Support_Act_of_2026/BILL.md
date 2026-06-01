@@ -1,0 +1,105 @@
+# HR 7712: RNGR Support Act of 2026
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-02-25
+- Latest action: 2026-02-25 - Introduced in House
+- Policy area: Agriculture and Food
+- Sponsor: Rep. Schrier, Kim [D-WA-8]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7712
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-02-25
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7712ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-02-25
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7712ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7712
+IN THE HOUSE OF REPRESENTATIVES
+February 25, 2026 Ms. Schrier (for herself and Mr. Bergman ) introduced the following bill; which was referred to the Committee on Agriculture
+A BILL
+To direct the Secretary of Agriculture to collaborate with various entities, and to establish a grant program, as a means of supporting nurseries and seed orchards, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Reforestation, Nurseries, and Genetic Resources Support Act of 2026 or the RNGR Support Act of 2026 .
+#### 2. Nursery and seed orchard support
+##### (a) Partnerships, collaboration, and other assistance in support of nurseries and seed orchards
+The Secretary of Agriculture, acting through the Chief of the Forest Service, shall—
+**(1)**
+partner with Federal and State agencies, Indian Tribes, institutions of higher education, nonprofit organizations, and private nurseries to provide training, technical assistance, and research to nursery and tree establishment programs that support natural regeneration, reforestation, agroforestry, and afforestation;
+**(2)**
+promote information sharing to improve technical knowledge and practices, and to better understand reforestation needs, relating to seeds or seedlings, effects of climate change, tree genetics for resistance to pathogens and drought, and other issues necessary to address all facets of the reforestation supply chain;
+**(3)**
+provide technical and financial assistance to international nursery and tree establishment programs through the Forest Service International Programs, the Institute of Pacific Islands Forestry, and the International Institute of Tropical Forestry;
+**(4)**
+collaborate with other relevant Federal departments and agencies, including the Foreign Agricultural Service of the Department of Agriculture, the United States Agency for International Development, the United States Fish and Wildlife Service, and international organizations, including the Food and Agriculture Organization of the United Nations, to provide technical and financial assistance related to nurseries and reforestation;
+**(5)**
+coordinate the efforts of the Department of Agriculture—
+**(A)**
+to address the challenges associated with the reforestation supply chain, including workforce development; and
+**(B)**
+to leverage economic development assistance for work with private nurseries;
+**(6)**
+expand reforestation supply chains through science and research, seed collection and storage, workforce development, and nursery infrastructure and operations; and
+**(7)**
+shorten the timeline for approval of permits to collect seeds on National Forest System lands.
+##### (b) Nursery and seed orchard grant program
+**(1) Establishment**
+Not later than 2 years after the date of enactment of this Act, the Secretary shall establish a program to provide grants to eligible recipients to support nurseries and seed orchards.
+**(2) Allowable uses**
+A recipient of grant funds under paragraph (1) may use such funds to carry out a project comprised of 1 or more of the following:
+**(A)**
+The development, expansion, enhancement, or improvement of nursery production capacity or other infrastructure—
+**(i)**
+to improve seed collection and storage;
+**(ii)**
+to increase seedling production, storage, and distribution; or
+**(iii)**
+to enhance seedling survival and properly manage tree genetic resources.
+**(B)**
+The establishment or expansion of a nursery or seed orchard, including by acquiring equipment for a nursery or seed orchard.
+**(C)**
+The development or implementation of quality control measures at nurseries or seed orchards.
+**(D)**
+The promotion of workforce development within any facet of the reforestation supply chain.
+**(E)**
+Any other activity determined appropriate by the Secretary.
+##### (c) Reforestation Trust Fund
+Notwithstanding subsection (d) of section 303 of Public Law 96–451 ( 16 U.S.C. 1606a ), of amounts in the Reforestation Trust Fund established by subsection (a) of that section that are not otherwise obligated, the Secretary may obligate not more than $5,000,000 for each fiscal year to carry out this section.
+##### (d) Definitions
+In this section:
+**(1) Eligible recipient**
+The term eligible recipient means—
+**(A)**
+a State forestry agency;
+**(B)**
+an Indian Tribe; and
+**(C)**
+a private nursery that has experience growing high-quality native trees of appropriate genetic sources in bareroot or container stocktypes specific for reforestation, restoration, or conservation, including native plants and seeds that are of cultural significance to Indian Tribes.
+**(2) National Forest System**
+The term National Forest System has the meaning given the term in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ( 16 U.S.C. 1609(a) ).
+**(3) Nursery**
+The term nursery means a tree or native plant nursery.
+**(4) Seed orchard**
+The term seed orchard means a tree or native plant seed orchard.
+**(5) State**
+The term State means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+
+
+## Timeline
+
+- 2026-02-25: Introduced in House
+- 2026-02-25 - IntroReferral: Introduced in House
+- 2026-02-25 - IntroReferral: Introduced in House
+- 2026-02-25 - IntroReferral: Referred to the House Committee on Agriculture.
+- Latest action: 2026-02-25: Introduced in House

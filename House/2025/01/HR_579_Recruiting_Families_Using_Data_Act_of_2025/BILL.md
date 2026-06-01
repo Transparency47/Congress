@@ -1,0 +1,159 @@
+# HR 579: Recruiting Families Using Data Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-01-21
+- Latest action: 2025-01-21 - Introduced in House
+- Policy area: Families
+- Sponsor: Rep. Feenstra, Randy [R-IA-4]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/579
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Recruiting Families Using Data Act of 2025**
+
+This bill requires state plans for child welfare services to provide for the development and implementation of a family partnership plan to improve foster care placement stability, increase rates of kinship placements, and align the composition of foster and adoptive families with the needs of children in or entering foster care.
+
+The Children's Bureau of the Administration for Children and Families also must include in its annual report information from states about the number, demographics, and characteristics of foster and adoptive families as well as a summary of the challenges related to recruiting and being foster or adoptive parents.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-01-21
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr579ih.xml
+
+### Referred in Senate
+- Date: 2025-03-05
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr579rfs.xml
+
+### Engrossed in House
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr579eh.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-01-21
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr579ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 579
+IN THE HOUSE OF REPRESENTATIVES
+January 21, 2025 Mr. Feenstra (for himself and Mr. Boyle of Pennsylvania ) introduced the following bill; which was referred to the Committee on Ways and Means
+A BILL
+To amend parts B and E of title IV of the Social Security Act to improve foster and adoptive parent recruitment and retention, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Recruiting Families Using Data Act of 2025 .
+#### 2. State plan amendment
+##### (a) In general
+Section 422 of the Social Security Act ( 42 U.S.C. 622 ) is amended—
+**(1)**
+in subsection (b)(7), by inserting through the development and implementation of a family partnership plan which meets the requirements of subsection (d) for identification, recruitment, screening, licensing, support, and retention of foster and adoptive families after are needed ; and
+**(2)**
+by adding at the end the following:
+(d) Family Partnership Plan Requirements For purposes of subsection (b)(7), the requirements for a family partnership plan (in this subsection referred to as the plan ) are the following: (1) The plan is developed in consultation with birth, kinship, foster and adoptive families, community-based service providers, technical assistance providers, and youth with lived experience with foster care and adoption. (2) The plan describes— (A) how the State plans to identify, notify, engage, and support relatives (and others connected to the child) as potential placement resources for children; (B) how the State plans to develop and implement child-specific recruitment plans for every child in or entering foster care who needs a foster or adoptive family; (C) how the State plans to authentically engage children and youth in recruitment efforts on their behalf; (D) how the State plans to use data to establish goals, assess needs, measure progress, reduce unnecessary placements in congregate care, increase permanency, improve placement stability, increase the rate of kinship placements, improve recruitment and retention of families for teens, sibling groups, and other special populations, and align the composition of foster and adoptive families with the needs of children in or entering foster care; and (E) how that State will stand up or support foster family advisory boards for the purpose of improving recruitment and retention of foster and adoptive families. (3) The plan provides that, not less than annually, the State shall collect and report on the State’s actual foster family capacity and congregate care utilization, including the number, demographics, and characteristics of licensed foster families, including prospective adoptive families, the number of such families that haven’t received a placement or are not being fully utilized and the reasons therefor, and the number, demographics, and characteristics of children placed in congregate care in-State and out-of-State. (4) The plan includes, and shall update not less than annually, a summary of the most recent feedback from foster and adoptive parents and youth regarding licensure, training, support, and reasons why parents stop fostering or why adoptive or legal guardianship placements out of foster care fail or foster and such adoptive of legal guardianship families struggle to meet children’s needs. (5) The plan includes, and shall update annually, a report on the State’s analysis of specific challenges or barriers to recruiting, licensing, and utilizing families who reflect the racial and ethnic background of children in foster care in the State, and the State’s efforts to overcome those challenges and barriers. (6) The plan includes such other information relating to foster and adoptive parent recruitment and retention as the Secretary may require. .
+##### (b) Effective date
+**(1) In general**
+Except as provided in paragraph (2), the amendment made by this subsection shall take effect on October 1, 2026.
+**(2) Delay permitted if state legislation required**
+In the case of a State plan approved under subpart 1 of part B of title IV of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this subsection, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this subsection. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
+#### 3. Inclusion of information on foster and adoptive families in annual child welfare outcomes report to Congress
+Section 479A(a) of the Social Security Act ( 42 U.S.C. 679b(a) ) is amended—
+**(1)**
+in paragraph (6)(C), by striking and after the semicolon;
+**(2)**
+in paragraph (7)(B), by striking the period and inserting ; and ; and
+**(3)**
+by adding at the end the following:
+(8) include in the report submitted pursuant to paragraph (5) for fiscal year 2025 or any succeeding fiscal year— (A) State-by-State data on the number, demographics, and characteristics of foster and adoptive families in the State, and the number of potential foster and adoptive families not being utilized in the State and the reasons why; (B) a summary of the challenges of, and barriers to, being a foster or adoptive parent, including with respect to recruitment, licensure, engagement, retention, and why parents stop fostering, adoptions disrupt or dissolve, or foster or adoptive families struggle, as reported by States based on surveys of foster and adoptive parents; and (C) a summary of the challenges and barriers States reported on efforts to recruit a pool of families that reflect the racial and ethnic background of children in foster care in the State, and efforts to overcome those barriers. .
+
+### Referred in Senate
+- Date: 2025-03-05
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr579rfs.xml
+
+IIB
+119th CONGRESS
+1st Session
+H. R. 579
+IN THE SENATE OF THE UNITED STATES
+March 5, 2025 Received; read twice and referred to the Committee on Finance
+AN ACT
+To amend parts B and E of title IV of the Social Security Act to improve foster and adoptive parent recruitment and retention, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Recruiting Families Using Data Act of 2025 .
+#### 2. State plan amendment
+##### (a) In general
+Section 422 of the Social Security Act ( 42 U.S.C. 622 ) is amended—
+**(1)**
+in subsection (b)(7), by inserting through the development and implementation of a family partnership plan which meets the requirements of subsection (d) for identification, recruitment, screening, licensing, support, and retention of foster and adoptive families after are needed ; and
+**(2)**
+by adding at the end the following:
+(d) Family Partnership Plan Requirements For purposes of subsection (b)(7), the requirements for a family partnership plan (in this subsection referred to as the plan ) are the following: (1) The plan is developed in consultation with birth, kinship, foster and adoptive families, community-based service providers, technical assistance providers, and youth with lived experience with foster care and adoption. (2) The plan describes— (A) how the State plans to identify, notify, engage, and support relatives (and others connected to the child) as potential placement resources for children; (B) how the State plans to develop and implement child-specific recruitment plans for every child in or entering foster care who needs a foster or adoptive family; (C) how the State plans to authentically engage children and youth in recruitment efforts on their behalf; (D) how the State plans to use data to establish goals, assess needs, measure progress, reduce unnecessary placements in congregate care, increase permanency, improve placement stability, increase the rate of kinship placements, improve recruitment and retention of families for teens, sibling groups, and other special populations, and align the composition of foster and adoptive families with the needs of children in or entering foster care; and (E) how that State will stand up or support foster family advisory boards for the purpose of improving recruitment and retention of foster and adoptive families. (3) The plan provides that, not less than annually, the State shall collect and report on the State’s actual foster family capacity and congregate care utilization, including the number, demographics, and characteristics of licensed foster families, including prospective adoptive families, the number of such families that haven’t received a placement or are not being fully utilized and the reasons therefor, and the number, demographics, and characteristics of children placed in congregate care in-State and out-of-State. (4) The plan includes, and shall update not less than annually, a summary of the most recent feedback from foster and adoptive parents and youth regarding licensure, training, support, and reasons why parents stop fostering or why adoptive or legal guardianship placements out of foster care fail or foster and such adoptive of legal guardianship families struggle to meet children’s needs. (5) The plan includes, and shall update annually, a report on the State’s analysis of specific challenges or barriers to recruiting, licensing, and utilizing families who reflect the racial and ethnic background of children in foster care in the State, and the State’s efforts to overcome those challenges and barriers. (6) The plan includes such other information relating to foster and adoptive parent recruitment and retention as the Secretary may require. .
+##### (b) Effective date
+**(1) In general**
+Except as provided in paragraph (2), the amendment made by this subsection shall take effect on October 1, 2026.
+**(2) Delay permitted if state legislation required**
+In the case of a State plan approved under subpart 1 of part B of title IV of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this subsection, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this subsection. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
+#### 3. Inclusion of information on foster and adoptive families in annual child welfare outcomes report to Congress
+Section 479A(a) of the Social Security Act ( 42 U.S.C. 679b(a) ) is amended—
+**(1)**
+in paragraph (6)(C), by striking and after the semicolon;
+**(2)**
+in paragraph (7)(B), by striking the period and inserting ; and ; and
+**(3)**
+by adding at the end the following:
+(8) include in the report submitted pursuant to paragraph (5) for fiscal year 2025 or any succeeding fiscal year— (A) State-by-State data on the number, demographics, and characteristics of foster and adoptive families in the State, and the number of potential foster and adoptive families not being utilized in the State and the reasons why; (B) a summary of the challenges of, and barriers to, being a foster or adoptive parent, including with respect to recruitment, licensure, engagement, retention, and why parents stop fostering, adoptions disrupt or dissolve, or foster or adoptive families struggle, as reported by States based on surveys of foster and adoptive parents; and (C) a summary of the challenges and barriers States reported on efforts to recruit a pool of families that reflect the racial and ethnic background of children in foster care in the State, and efforts to overcome those barriers. .
+
+### Engrossed in House
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr579eh.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 579
+IN THE HOUSE OF REPRESENTATIVES
+AN ACT
+To amend parts B and E of title IV of the Social Security Act to improve foster and adoptive parent recruitment and retention, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Recruiting Families Using Data Act of 2025 .
+#### 2. State plan amendment
+##### (a) In general
+Section 422 of the Social Security Act ( 42 U.S.C. 622 ) is amended—
+**(1)**
+in subsection (b)(7), by inserting through the development and implementation of a family partnership plan which meets the requirements of subsection (d) for identification, recruitment, screening, licensing, support, and retention of foster and adoptive families after are needed ; and
+**(2)**
+by adding at the end the following:
+(d) Family Partnership Plan Requirements For purposes of subsection (b)(7), the requirements for a family partnership plan (in this subsection referred to as the plan ) are the following: (1) The plan is developed in consultation with birth, kinship, foster and adoptive families, community-based service providers, technical assistance providers, and youth with lived experience with foster care and adoption. (2) The plan describes— (A) how the State plans to identify, notify, engage, and support relatives (and others connected to the child) as potential placement resources for children; (B) how the State plans to develop and implement child-specific recruitment plans for every child in or entering foster care who needs a foster or adoptive family; (C) how the State plans to authentically engage children and youth in recruitment efforts on their behalf; (D) how the State plans to use data to establish goals, assess needs, measure progress, reduce unnecessary placements in congregate care, increase permanency, improve placement stability, increase the rate of kinship placements, improve recruitment and retention of families for teens, sibling groups, and other special populations, and align the composition of foster and adoptive families with the needs of children in or entering foster care; and (E) how that State will stand up or support foster family advisory boards for the purpose of improving recruitment and retention of foster and adoptive families. (3) The plan provides that, not less than annually, the State shall collect and report on the State’s actual foster family capacity and congregate care utilization, including the number, demographics, and characteristics of licensed foster families, including prospective adoptive families, the number of such families that haven’t received a placement or are not being fully utilized and the reasons therefor, and the number, demographics, and characteristics of children placed in congregate care in-State and out-of-State. (4) The plan includes, and shall update not less than annually, a summary of the most recent feedback from foster and adoptive parents and youth regarding licensure, training, support, and reasons why parents stop fostering or why adoptive or legal guardianship placements out of foster care fail or foster and such adoptive of legal guardianship families struggle to meet children’s needs. (5) The plan includes, and shall update annually, a report on the State’s analysis of specific challenges or barriers to recruiting, licensing, and utilizing families who reflect the racial and ethnic background of children in foster care in the State, and the State’s efforts to overcome those challenges and barriers. (6) The plan includes such other information relating to foster and adoptive parent recruitment and retention as the Secretary may require. .
+##### (b) Effective date
+**(1) In general**
+Except as provided in paragraph (2), the amendment made by this subsection shall take effect on October 1, 2026.
+**(2) Delay permitted if state legislation required**
+In the case of a State plan approved under subpart 1 of part B of title IV of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this subsection, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this subsection. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
+#### 3. Inclusion of information on foster and adoptive families in annual child welfare outcomes report to Congress
+Section 479A(a) of the Social Security Act ( 42 U.S.C. 679b(a) ) is amended—
+**(1)**
+in paragraph (6)(C), by striking and after the semicolon;
+**(2)**
+in paragraph (7)(B), by striking the period and inserting ; and ; and
+**(3)**
+by adding at the end the following:
+(8) include in the report submitted pursuant to paragraph (5) for fiscal year 2025 or any succeeding fiscal year— (A) State-by-State data on the number, demographics, and characteristics of foster and adoptive families in the State, and the number of potential foster and adoptive families not being utilized in the State and the reasons why; (B) a summary of the challenges of, and barriers to, being a foster or adoptive parent, including with respect to recruitment, licensure, engagement, retention, and why parents stop fostering, adoptions disrupt or dissolve, or foster or adoptive families struggle, as reported by States based on surveys of foster and adoptive parents; and (C) a summary of the challenges and barriers States reported on efforts to recruit a pool of families that reflect the racial and ethnic background of children in foster care in the State, and efforts to overcome those barriers. .
+
+
+## Timeline
+
+- 2025-01-21: Introduced in House
+- 2025-01-21 - IntroReferral: Introduced in House
+- 2025-01-21 - IntroReferral: Introduced in House
+- 2025-01-21 - IntroReferral: Referred to the House Committee on Ways and Means.
+- 2025-03-04 14:06:06 - Floor: Mr. Smith (MO) moved to suspend the rules and pass the bill.
+- 2025-03-04 14:06:22 - Floor: Considered under suspension of the rules. (consideration: CR H962-964)
+- 2025-03-04 14:06:24 - Floor: DEBATE - The House proceeded with forty minutes of debate on H.R. 579.
+- 2025-03-04 14:16:17 - Floor: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H962-963)
+- 2025-03-04 14:16:17 - Floor: Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H962-963)
+- 2025-03-04 14:16:19 - Floor: Motion to reconsider laid on the table Agreed to without objection.
+- 2025-03-05 - IntroReferral: Received in the Senate and Read twice and referred to the Committee on Finance.
+- Latest action: 2025-01-21: Introduced in House

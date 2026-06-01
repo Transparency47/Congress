@@ -1,0 +1,57 @@
+# HR 3469: Tax Relief for Victims of Crimes, Scams, and Disasters Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-05-15
+- Latest action: 2025-05-15 - Introduced in House
+- Policy area: Taxation
+- Sponsor: Rep. Steube, W. Gregory [R-FL-17]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/3469
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-05-15
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3469ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-05-15
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3469ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3469
+IN THE HOUSE OF REPRESENTATIVES
+May 15, 2025 Mr. Steube (for himself, Mr. Panetta , Mr. Diaz-Balart , Mr. Ezell , Mr. Raskin , and Mr. McGovern ) introduced the following bill; which was referred to the Committee on Ways and Means
+A BILL
+To amend the Internal Revenue Code of 1986 to reinstate the deduction for personal casualty losses as in effect prior to the enactment of Public Law 115–97 .
+#### 1. Short title
+This Act may be cited as the Tax Relief for Victims of Crimes, Scams, and Disasters Act .
+#### 2. Reinstatement of deduction for personal casualty loss
+##### (a) In general
+Section 165(h) of the Internal Revenue Code of 1986 is amended by striking paragraph (5).
+##### (b) Effective date
+The amendment made by this section shall apply to taxable years beginning after December 31, 2017.
+#### 3. Extension of time to file claim for credit or refund for personal casualty loss deduction
+##### (a) In general
+In the case of a taxpayer who filed a return for a taxable year ending before January 1, 2025, with respect to which a deduction could have been taken by the taxpayer under section 165(a) of the Internal Revenue Code of 1986 but for the fact that such deduction was suspended under section 165(h)(5) at the time of filing—
+**(1)**
+the period of limitation prescribed by section 6511(a) of such Code on filing a claim for credit or refund for any such taxable year shall be extended until the date prescribed by law (including extensions) for filing the return of tax for the taxable year that includes the date of the enactment of this Act, and
+**(2)**
+section 6511(b)(2) of such Code shall not apply to any claim of credit or refund with respect to such return.
+##### (b) Extension restricted to personal casualty loss deduction
+Subsection (a) shall apply only with respect to a claim for credit or refund of a taxpayer to the extent such claim relates to an overpayment attributable to the deduction under section 165(a) for personal casualty losses described in section 165(c)(3) of the Internal Revenue Code of 1986.
+
+
+## Timeline
+
+- 2025-05-15: Introduced in House
+- 2025-05-15 - IntroReferral: Introduced in House
+- 2025-05-15 - IntroReferral: Introduced in House
+- 2025-05-15 - IntroReferral: Referred to the House Committee on Ways and Means.
+- Latest action: 2025-05-15: Introduced in House

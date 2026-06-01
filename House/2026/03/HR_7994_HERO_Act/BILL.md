@@ -1,0 +1,112 @@
+# HR 7994: HERO Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-03-19
+- Latest action: 2026-03-19 - Introduced in House
+- Policy area: Education
+- Sponsor: Rep. Ruiz, Raul [D-CA-25]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7994
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-03-19
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7994ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-03-19
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7994ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7994
+IN THE HOUSE OF REPRESENTATIVES
+March 19, 2026 Mr. Ruiz introduced the following bill; which was referred to the Committee on Energy and Commerce , and in addition to the Committee on Education and Workforce , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To establish a grant program to provide schools with opioid overdose reversal drugs, to direct schools receiving Federal funds to report to certain Federal information systems any distribution of an opioid overdose reversal drug, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Helping Educators Respond to Overdoses Act or the HERO Act .
+#### 2. School grants for opioid overdose reversal drugs
+##### (a) In general
+Beginning not later than 90 days after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use (in this section referred to as the Secretary ), in consultation with the Secretary of Education, shall award grants, on a competitive basis, to eligible entities—
+**(1)**
+to purchase opioid overdose reversal drugs that are approved under section 505 of the Federal Food, Drug, and Cosmetic Act ( 21 U.S.C. 355 ); and
+**(2)**
+to develop and implement the educational programming or resources referred to in subsection (b)(2)(C).
+##### (b) Applications
+**(1) In general**
+To be eligible for a grant under this section, an eligible entity shall submit to the Secretary an application in such form, at such time, and containing such information as the Secretary determines appropriate, which shall include the material required under paragraph (2).
+**(2) Application requirements**
+An application submitted by an eligible entity under paragraph (1) shall include the following:
+**(A)**
+A description of how the eligible entity will use a grant received under this section.
+**(B)**
+An assurance that the eligible entity will, in consultation with the local health department, develop and implement—
+**(i)**
+in the case of an eligible entity that is a private school, a comprehensive emergency response plan for the staff of the school; and
+**(ii)**
+in the case of an eligible entity that is a local educational agency, such a plan for the staff of each school that is served by the local educational agency.
+**(C)**
+An assurance that the eligible entity will develop and implement educational programming or resources (which may include programming or resources developed by the Secretary) to promote student and community knowledge of cardiopulmonary resuscitation (commonly known as CPR ), drug-use prevention and intervention, and emergency responses to drug overdoses.
+##### (c) Priority
+In awarding grants under this section, the Secretary shall give priority to any eligible entity that is in a city or county with a high rate of drug overdoses involving opioids.
+##### (d) Grant period
+A grant awarded under this section shall be for a period of 1 year.
+##### (e) Reports
+**(1) Grant recipients**
+Not later than 1 year after the date on which the grant period referred to in subsection (d) ends, the recipient of a grant under this section shall submit to the Secretary a report that contains the following:
+**(A)**
+A description of the use the recipient made of the opioid overdose reversal drugs purchased with the grant.
+**(B)**
+A description of the comprehensive emergency response plan referred to in subsection (b)(2)(B).
+**(C)**
+A description of the educational programming or resources referred to in subsection (b)(2)(C).
+**(2) Secretary**
+Not later than 2 years after the date of enactment of this Act, and annually thereafter, the Secretary, in consultation with the Secretary of Education, shall submit to Congress a report that summarizes all information received by the Secretary in the reports referred to in paragraph (1).
+##### (f) Definitions
+In this section:
+**(1) Charter school**
+The term charter school has the meaning given such term in section 4310 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7221i ).
+**(2) Elementary school, secondary school, and local educational agency**
+The terms elementary school , secondary school , and local educational agency have the meanings given such terms, respectively, in section 8101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ).
+**(3) Eligible entity**
+The term eligible entity means—
+**(A)**
+a private elementary school or private secondary school; and
+**(B)**
+a local educational agency, including a charter school that is a local educational agency, or a consortium of local educational agencies.
+#### 3. Reporting to Federal information systems of school distribution of opioid overdose reversal drugs
+##### (a) In general
+Beginning not later than 90 days after the date of enactment of this Act, a covered educational institution receiving Federal funds shall submit a description of any distribution of an opioid overdose reversal drug by such institution to—
+**(1)**
+the National Emergency Medical Services Information System (commonly known as NEMSIS ); and
+**(2)**
+the Overdose Detection Mapping Application Program of the Washington/Baltimore High Intensity Drug Trafficking Area (commonly known as ODMAP ).
+##### (b) Definitions
+In this section:
+**(1) Charter school**
+The term charter school has the meaning given such term in section 4310 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7221i ).
+**(2) Covered educational institution**
+The term covered educational institution means—
+**(A)**
+a private elementary school or private secondary school; and
+**(B)**
+a local educational agency, including a charter school that is a local educational agency.
+**(3) Elementary school, secondary school, and local educational agency**
+The terms elementary school , secondary school , and local educational agency have the meanings given such terms, respectively, in section 8101 of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 7801 ).
+
+
+## Timeline
+
+- 2026-03-19: Introduced in House
+- 2026-03-19 - IntroReferral: Introduced in House
+- 2026-03-19 - IntroReferral: Introduced in House
+- 2026-03-19 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-03-19 - IntroReferral: Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2026-03-19: Introduced in House

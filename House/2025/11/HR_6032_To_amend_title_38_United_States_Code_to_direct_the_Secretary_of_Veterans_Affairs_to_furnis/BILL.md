@@ -1,0 +1,103 @@
+# HR 6032: Headstones for Honor Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-11-12
+- Latest action: 2025-11-12 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Horsford, Steven [D-NV-4]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6032
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-11-12
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6032ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-11-12
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6032ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 6032
+IN THE HOUSE OF REPRESENTATIVES
+November 12, 2025 Mr. Horsford (for himself and Mr. Bacon ) introduced the following bill; which was referred to the Committee on Veterans' Affairs
+A BILL
+To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to furnish headstones, markers, and medallions for graves of certain enslaved individuals and individuals who performed military functions despite ineligibility to serve in the Armed Forces.
+#### 1. Short title
+This Act may be cited as the Headstones for Honor Act .
+#### 2. Eligibility for headstones, markers, and medallions, furnished by the Secretary of Veterans Affairs, for graves of certain enslaved individuals and individuals who performed military functions despite ineligibility to serve in the Armed Forces
+##### (a) Establishment
+Section 2306 of title 38, United States Code, is amended—
+**(1)**
+in subsection (a)—
+**(A)**
+in paragraph (3), by inserting and Navies after Armies ; and
+**(B)**
+by inserting, after paragraph (5), the following new paragraphs:
+(6) Any enslaved individual, determined by the Secretary to have— (A) accompanied a member of the Armed Forces or a Civil War veteran (as that term is defined in section 1501 of this title) during active military or naval service of such member or Civil War veteran; or (B) served in the Armed Forces (or Confederate Army or Navy) in lieu of another individual. (7) Any individual determined by the Secretary to have performed a military function while prohibited from serving as a member of the Armed Forces— (A) by Federal, State, or Tribal law; and (B) on the basis of race, gender, sex, or ethnicity. ;
+**(2)**
+in subsection (d)(1), by striking or (5) and inserting , (5), (6), or (7) ;
+**(3)**
+by redesignating subsections (j) and (k) as subsections (l) and (m), respectively; and
+**(4)**
+by inserting after subsection (i) the following new subsections:
+(j) With respect to an individual described in paragraph (6) of subsection (a), who served in the military or naval forces of the Confederate States of America during the Civil War, a headstone, marker, or medallion, furnished by the Secretary, shall include language that denotes such individual was forced to support their own enslavement. (k) With respect to an individual described in paragraph (6) or (7) of subsection (a), a request to the Secretary for a headstone, marker, or medallion may be made only by— (1) a direct descendant of the individual described in such paragraph; or (2) an individual whom the Secretary determines has made a sufficiently reasonable attempt to solicit, from such a known direct descendant, consent to make such request on behalf of such direct descendant. .
+##### (b) Regulations
+Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall prescribe regulations to implement the amendments made by subsection (a). Such regulations shall—
+**(1)**
+be informed by comment, solicited by the Secretary, from—
+**(A)**
+Civil War historians;
+**(B)**
+civil rights organizations; and
+**(C)**
+direct descendants of individuals described in under paragraphs (6) and (7) of section 2306(a) of title 38, United States Code (as added by such subsection);
+**(2)**
+define the term military function for purposes of such section; and
+**(3)**
+establish what evidence the Secretary may consider when determining the performance of military functions of such individuals or family relationships to such individuals, which shall include—
+**(A)**
+Federal or State pay records;
+**(B)**
+Federal or State pension records;
+**(C)**
+Confederate pay records;
+**(D)**
+regimental histories;
+**(E)**
+newspapers;
+**(F)**
+photographs;
+**(G)**
+ship logs;
+**(H)**
+diaries;
+**(I)**
+family records, including bibles; and
+**(J)**
+church records.
+##### (c) Effective date
+The amendments made by subsection (a) shall take effect on the earlier of—
+**(1)**
+the date on which the Secretary prescribes regulations under subsection (b); and
+**(2)**
+the date that is one year after the date of the enactment of this Act.
+##### (d) Report
+Not later than 15 months after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the implementation of the amendments made by subsection (a) and the regulations prescribed under subsection (b).
+
+
+## Timeline
+
+- 2025-11-12: Introduced in House
+- 2025-11-12 - IntroReferral: Introduced in House
+- 2025-11-12 - IntroReferral: Introduced in House
+- 2025-11-12 - IntroReferral: Referred to the House Committee on Veterans' Affairs.
+- 2025-11-17 - Committee: Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- Latest action: 2025-11-12: Introduced in House

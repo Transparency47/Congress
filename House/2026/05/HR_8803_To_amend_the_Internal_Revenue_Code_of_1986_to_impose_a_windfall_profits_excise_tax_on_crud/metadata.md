@@ -1,0 +1,153 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/8803?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/8803
+- Title: To amend the Internal Revenue Code of 1986 to impose a windfall profits excise tax on crude oil and to rebate the tax collected back to individual taxpayers until the President declares that all hostilities with Iran have ceased, the Strait of Hormuz is fully reopened, and the price of oil drops below $75 per barrel.
+- Congress: 119
+- Bill type: HR
+- Bill number: 8803
+- Origin chamber: House
+- Introduced date: 2026-05-13
+- Update date: 2026-05-14T08:07:30Z
+- Update date including text: 2026-05-14T15:58:24Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, titles
+
+## Timeline
+
+- 2026-05-13: Introduced in House
+- 2026-05-13 - IntroReferral: Introduced in House
+- 2026-05-13 - IntroReferral: Introduced in House
+- 2026-05-13 - IntroReferral: Referred to the House Committee on Ways and Means.
+- Latest action: 2026-05-13: Introduced in House
+
+## Actions
+
+- 2026-05-13 - IntroReferral: Introduced in House
+- 2026-05-13 - IntroReferral: Introduced in House
+- 2026-05-13 - IntroReferral: Referred to the House Committee on Ways and Means.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-05-13",
+    "latestAction": {
+      "actionDate": "2026-05-13",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/8803",
+    "number": "8803",
+    "originChamber": "House",
+    "policyArea": {},
+    "sponsors": [
+      {
+        "bioguideId": "S000344",
+        "district": "32",
+        "firstName": "Brad",
+        "fullName": "Rep. Sherman, Brad [D-CA-32]",
+        "lastName": "Sherman",
+        "party": "D",
+        "state": "CA"
+      }
+    ],
+    "title": "To amend the Internal Revenue Code of 1986 to impose a windfall profits excise tax on crude oil and to rebate the tax collected back to individual taxpayers until the President declares that all hostilities with Iran have ceased, the Strait of Hormuz is fully reopened, and the price of oil drops below $75 per barrel.",
+    "type": "HR",
+    "updateDate": "2026-05-14T08:07:30Z",
+    "updateDateIncludingText": "2026-05-14T15:58:24Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-05-13",
+      "committees": {
+        "item": {
+          "name": "Ways and Means Committee",
+          "systemCode": "hswm00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Ways and Means.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2026-05-13",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2026-05-13",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-05-13T14:02:10Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "To amend the Internal Revenue Code of 1986 to impose a windfall profits excise tax on crude oil and to rebate the tax collected back to individual taxpayers until the President declares that all hostilities with Iran have ceased, the Strait of Hormuz is fully reopened, and the price of oil drops below $75 per barrel.",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-05-14T08:07:30Z"
+    },
+    {
+      "title": "To amend the Internal Revenue Code of 1986 to impose a windfall profits excise tax on crude oil and to rebate the tax collected back to individual taxpayers until the President declares that all hostilities with Iran have ceased, the Strait of Hormuz is fully reopened, and the price of oil drops below $75 per barrel.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-05-14T08:07:30Z"
+    }
+  ]
+}
+```

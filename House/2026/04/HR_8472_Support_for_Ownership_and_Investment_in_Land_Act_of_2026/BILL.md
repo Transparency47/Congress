@@ -1,0 +1,55 @@
+# HR 8472: Support for Ownership and Investment in Land Act of 2026
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-04-23
+- Latest action: 2026-04-23 - Introduced in House
+- Policy area: Agriculture and Food
+- Sponsor: Rep. Bacon, Don [R-NE-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/8472
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-04-23
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8472ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-04-23
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8472ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 8472
+IN THE HOUSE OF REPRESENTATIVES
+April 23, 2026 Mr. Bacon introduced the following bill; which was referred to the Committee on Agriculture
+A BILL
+To establish a pilot program for an expedited qualification and approval process for direct farm ownership loans, and for guaranteed farm ownership loans serviced by a Preferred Certified Lender, at the Department of Agriculture.
+#### 1. Short title
+This Act may be cited as the Support for Ownership and Investment in Land Act of 2026 .
+#### 2. Expedited approval pilot program
+##### (a) In general
+Subtitle D of the Consolidated Farm and Rural Development Act is amended by inserting after section 333D ( 7 U.S.C. 1983d ) the following:
+333E. Expedited approval pilot program (a) In general Not later than 1 year after the date of enactment of this section, the Secretary shall carry out a pilot program to establish an expedited qualification and approval process for borrowers seeking— (1) a direct farm ownership loan under this Act; or (2) a guaranteed farm ownership loan under this Act that is serviced by a Preferred Certified Lender under section 339(d) and provided to a creditworthy borrower, as determined by the Preferred Certified Lender. (b) Loan assessments In carrying out this section, the Secretary shall consider streamlining the process for making— (1) determinations necessary to make the certifications and assessments referred to in section 339(c)(5); and (2) determinations under section 360(b). (c) Rule of interpretation Except as otherwise provided in subsections (a) and (b), this section shall not be interpreted to authorize the waiver or modification of any requirement, other than an application process timing requirement, imposed by or under this Act. (d) Report Not later than 1 year after the date of enactment of this section, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report examining the actions undertaken under, and the results of, the pilot program. (e) Termination of effectiveness The authority provided by this section shall terminate effective September 30, 2031. .
+##### (b) Conforming amendments
+Section 346(b)(2) of such Act ( 7 U.S.C. 1994(b)(2) ) is amended—
+**(1)**
+in subparagraph (A)(i)(II), by inserting , to the extent practicable after April 1 of the fiscal year ;
+**(2)**
+in subparagraph (A)(iii), by inserting , to the extent practicable after September 1 of the fiscal year ; and
+**(3)**
+in subparagraph (B)(iii), by inserting , to the extent practicable after April 1 of the fiscal year .
+
+
+## Timeline
+
+- 2026-04-23: Introduced in House
+- 2026-04-23 - IntroReferral: Introduced in House
+- 2026-04-23 - IntroReferral: Introduced in House
+- 2026-04-23 - IntroReferral: Referred to the House Committee on Agriculture.
+- Latest action: 2026-04-23: Introduced in House

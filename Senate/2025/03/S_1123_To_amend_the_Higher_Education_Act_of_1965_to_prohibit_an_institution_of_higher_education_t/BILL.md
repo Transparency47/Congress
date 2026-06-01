@@ -1,0 +1,57 @@
+# S 1123: College Employment Accountability Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-03-25
+- Latest action: 2025-03-25 - Introduced in Senate
+- Policy area: Education
+- Sponsor: Sen. Banks, Jim [R-IN]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/1123
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-03-25
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1123is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-03-25
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1123is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1123
+IN THE SENATE OF THE UNITED STATES
+March 25, 2025 Mr. Banks (for himself and Mr. Hawley ) introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions
+A BILL
+To amend the Higher Education Act of 1965 to prohibit an institution of higher education that employs unauthorized aliens from receiving funds from Federal student assistance or Federal institutional aid and to require institutions of higher education to participate in the E-Verify Program in order to be eligible to participate in any program authorized under title IV of such Act.
+#### 1. Short title
+This Act may be cited as the College Employment Accountability Act .
+#### 2. Ineligibility due to employment of unauthorized aliens
+Part B of title I of the Higher Education Act of 1965 ( 20 U.S.C. 1011 et seq. ) is amended by adding at the end the following:
+124. Ineligibility due to employment of unauthorized aliens Notwithstanding any other provision of law, no institution of higher education shall be eligible to receive funds from Federal student assistance or Federal institutional aid under this Act if the institution is found to be in violation of section 274A of the Immigration and Nationality Act ( 8 U.S.C. 1324a ). .
+#### 3. Requirement to participate in the E-Verify Program
+Section 487(a) of the Higher Education Act of 1965 ( 20 U.S.C. 1094(a) ) is amended by adding at the end the following:
+(30) The institution will participate in the E-Verify Program under section 403(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ( 8 U.S.C. 1324a note). .
+#### 4. Department of Homeland Security monitoring and notification requirements
+##### (a) Monitoring
+The Secretary of Homeland Security shall monitor every 6 months whether an institution of higher education is participating in the E-Verify Program under section 403(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ( 8 U.S.C. 1324a note).
+##### (b) Notification
+The Secretary of Homeland Security shall notify the Secretary of Education, not later than 10 days after the Secretary of Homeland Security finds—
+**(1)**
+an institution of higher education to be in violation of section 274A of the Immigration and Nationality Act ( 8 U.S.C. 1324a ); or
+**(2)**
+that an institution of higher education is not participating in the E-Verify Program under section 403(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ( 8 U.S.C. 1324a note).
+
+
+## Timeline
+
+- 2025-03-25: Introduced in Senate
+- 2025-03-25 - IntroReferral: Introduced in Senate
+- 2025-03-25 - IntroReferral: Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- Latest action: 2025-03-25: Introduced in Senate

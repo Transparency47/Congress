@@ -1,0 +1,220 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/sjres/164?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-joint-resolution/164
+- Title: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to "Consumer Financial Protection Circular 2022-04: Insufficient Data Protection or Security for Sensitive Consumer Information".
+- Congress: 119
+- Bill type: SJRES
+- Bill number: 164
+- Origin chamber: Senate
+- Introduced date: 2026-04-13
+- Update date: 2026-05-21T14:35:52Z
+- Update date including text: 2026-05-21T14:35:52Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2026-04-13: Introduced in Senate
+- 2026-04-13 - IntroReferral: Introduced in Senate
+- 2026-04-13 - IntroReferral: Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- Latest action: 2026-04-13: Introduced in Senate
+
+## Actions
+
+- 2026-04-13 - IntroReferral: Introduced in Senate
+- 2026-04-13 - IntroReferral: Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-04-13",
+    "latestAction": {
+      "actionDate": "2026-04-13",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-joint-resolution/164",
+    "number": "164",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Finance and Financial Sector"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000608",
+        "district": "",
+        "firstName": "Jacky",
+        "fullName": "Sen. Rosen, Jacky [D-NV]",
+        "lastName": "Rosen",
+        "party": "D",
+        "state": "NV"
+      }
+    ],
+    "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2022-04: Insufficient Data Protection or Security for Sensitive Consumer Information\".",
+    "type": "SJRES",
+    "updateDate": "2026-05-21T14:35:52Z",
+    "updateDateIncludingText": "2026-05-21T14:35:52Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2026-04-13",
+      "committees": {
+        "item": {
+          "name": "Banking, Housing, and Urban Affairs Committee",
+          "systemCode": "ssbk00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2026-04-13",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-04-13T20:15:32Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "Senate",
+      "name": "Banking, Housing, and Urban Affairs Committee",
+      "systemCode": "ssbk00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/2/sjres/BILLS-119sjres164is.xml",
+      "text": "IIA\n119th CONGRESS\n2d Session\nS. J. RES. 164\nIN THE SENATE OF THE UNITED STATES\nApril 13, 2026 Ms. Rosen introduced the following joint resolution; which was read twice and referred to the Committee on Banking, Housing, and Urban Affairs\nJOINT RESOLUTION\nProviding for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to Consumer Financial Protection Circular 2022\u201304: Insufficient Data Protection or Security for Sensitive Consumer Information .\nThat Congress disapproves the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to Consumer Financial Protection Circular 2022\u201304: Insufficient Data Protection or Security for Sensitive Consumer Information (87 Fed. Reg. 54346 (August 6, 2022)) (90 Fed. Reg. 20084 (May 12, 2025)), and such rule shall have no force or effect.",
+      "versionDate": "2026-04-13",
+      "versionType": "IS"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2026-05-07",
+        "text": "Referred to the House Committee on Financial Services."
+      },
+      "number": "179",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2022-04: Insufficient Data Protection or Security for Sensitive Consumer Information\".",
+      "type": "HJRES"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Finance and Financial Sector",
+        "updateDate": "2026-04-20T19:11:29Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-04-13",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/2/sjres/BILLS-119sjres164is.xml"
+        }
+      ],
+      "type": "IS"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2022-04: Insufficient Data Protection or Security for Sensitive Consumer Information\".",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-04-15T06:03:28Z"
+    },
+    {
+      "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2022-04: Insufficient Data Protection or Security for Sensitive Consumer Information\".",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-04-14T10:56:21Z"
+    }
+  ]
+}
+```

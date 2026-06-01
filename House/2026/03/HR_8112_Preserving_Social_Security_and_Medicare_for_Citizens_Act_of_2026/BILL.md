@@ -1,0 +1,70 @@
+# HR 8112: Preserving Social Security and Medicare for Citizens Act of 2026
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-03-26
+- Latest action: 2026-03-26 - Introduced in House
+- Policy area: Immigration
+- Sponsor: Rep. Mace, Nancy [R-SC-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/8112
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-03-26
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8112ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-03-26
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr8112ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 8112
+IN THE HOUSE OF REPRESENTATIVES
+March 26, 2026 Ms. Mace (for herself and Mr. Burchett ) introduced the following bill; which was referred to the Committee on Ways and Means , and in addition to the Committee on Energy and Commerce , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To amend titles II and XVIII of the Social Security Act to limit Social Security and Medicare benefits to certain individuals, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Preserving Social Security and Medicare for Citizens Act of 2026 .
+#### 2. Limiting Medicare eligibility to certain individuals
+##### (a) In general
+Section 1899C of the Social Security Act is amended—
+**(1)**
+in subsection (a)—
+**(A)**
+in paragraph (1), by adding or at the end;
+**(B)**
+in paragraph (2), by striking the semicolon and inserting a period; and
+**(C)**
+by striking paragraphs (3) and (4); and
+**(2)**
+in subsection (b), by striking in any of paragraphs (1) through (4) and inserting in paragraph (1) or (2) .
+##### (b) Special application rule for certain individuals
+In the case of an individual who is entitled to benefits under part A or enrolled under part B of title XVIII the Social Security Act ( 42 U.S.C. 1395 et seq. ) as of the date of the enactment of this section but who was not so entitled or enrolled as of the date of the enactment of Public Law 119–21 , such individual shall be deemed to have been so entitled or enrolled as of the date of the enactment of such Public Law for purposes of section 1899C(b) of such Act.
+#### 3. Limiting Social Security benefits eligibility to certain individuals
+##### (a) In general
+Section 202(y) of the Social Security Act is amended to read as follows:
+(y) Notwithstanding any other provision of law, no monthly benefit under this title shall be payable to an individual who is not— (1) a citizen or national of the United States; or (2) an alien who is lawfully admitted for permanent residence under the Immigration and Nationality Act. .
+##### (b) Effective date
+The amendment made by this section shall apply with respect to monthly benefits for months beginning after the date of enactment of this Act.
+#### 4. Expanding FICA tax to include remuneration paid to certain individuals
+##### (a) In general
+Section 3121(b) of the Internal Revenue Code of 1986 is amended by striking paragraphs (1), (18), and (19).
+##### (b) Effective date
+The amendments made by this section shall apply with remuneration paid in taxable years beginning after December 31 of the calendar year in which this Act is enacted.
+
+
+## Timeline
+
+- 2026-03-26: Introduced in House
+- 2026-03-26 - IntroReferral: Introduced in House
+- 2026-03-26 - IntroReferral: Introduced in House
+- 2026-03-26 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-03-26 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2026-03-26: Introduced in House

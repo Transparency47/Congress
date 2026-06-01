@@ -1,0 +1,73 @@
+# HR 4679: FASTER Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-07-23
+- Latest action: 2025-07-23 - Introduced in House
+- Policy area: Immigration
+- Sponsor: Rep. Johnson, Dusty [R-SD-At Large]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/4679
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-07-23
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4679ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-07-23
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4679ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 4679
+IN THE HOUSE OF REPRESENTATIVES
+July 23, 2025 Mr. Johnson of South Dakota (for himself and Mr. Weber of Texas ) introduced the following bill; which was referred to the Committee on Homeland Security
+A BILL
+To direct the Secretary of Homeland Security to conduct a biennial survey of tactical infrastructure along the southern border, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Furthering American Security by Tempering Environmental Regulations Act or the FASTER Act .
+#### 2. Biennial survey of tactical infrastructure along the southern border
+##### (a) Biennial surveys
+**(1) In general**
+Not later than 180 days after the date of the enactment of this Act and biennially thereafter, the Secretary of Homeland Security shall conduct a survey of existing tactical infrastructure along the southern border. Each such survey shall include the following:
+**(A)**
+A measurement of the number of miles of the southern border that are without tactical infrastructure.
+**(B)**
+A description of any deficiencies in the structure of existing tactical infrastructure along the southern border.
+**(C)**
+A description of any deficiencies in technology along the southern border.
+**(2) Reports**
+**(A) In general**
+Not later than 90 days after the conclusion of each survey under paragraph (1), the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report containing the findings and results of such survey.
+**(B) Form**
+Each report under subparagraph (A) shall be submitted in unclassified format but may include a classified annex if the Secretary of Homeland Security determines such is appropriate.
+##### (b) Implementation of certain authority
+If the Secretary of Homeland Security determines, pursuant to a survey under subsection (a), that there is a deficiency described paragraph (1) of such subsection, the Secretary shall take such actions as may be necessary, including exercising the authority provided pursuant to paragraph (1) of section 102(c) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 ( 8 U.S.C. 1103 note), to waive all legal requirements to correct in an expedited manner such a deficiency.
+##### (c) Definition
+In this section, the term deficiency , when used with respect to tactical infrastructure or technology, means that any such tactical infrastructure or technology, as the case may be—
+**(1)**
+is not operational; or
+**(2)**
+cannot serve the intended function or purpose as a result of—
+**(A)**
+damage;
+**(B)**
+deterioration; or
+**(C)**
+unmet maintenance or repair.
+
+
+## Timeline
+
+- 2025-07-23: Introduced in House
+- 2025-07-23 - IntroReferral: Introduced in House
+- 2025-07-23 - IntroReferral: Introduced in House
+- 2025-07-23 - IntroReferral: Referred to the House Committee on Homeland Security.
+- 2025-07-24 - Committee: Referred to the Subcommittee on Border Security and Enforcement.
+- Latest action: 2025-07-23: Introduced in House

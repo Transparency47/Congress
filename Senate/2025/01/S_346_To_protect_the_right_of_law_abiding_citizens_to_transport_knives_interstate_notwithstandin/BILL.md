@@ -1,0 +1,98 @@
+# S 346: Knife Owners’ Protection Act of 2025
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-01-30
+- Latest action: 2025-01-30 - Introduced in Senate
+- Policy area: Crime and Law Enforcement
+- Sponsor: Sen. Lee, Mike [R-UT]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/346
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Knife Owners’ Protection Act of 2025**
+
+This bill permits an individual to transport a knife between two places (e.g., states) where knife possession, carry, or transport is legal. The knife must be transported in compliance with the bill's accessibility and secure storage requirements, unless it is an emergency knife or tool designed to cut seat belts.
+
+An individual who is transporting a knife in compliance with this bill may not be arrested or detained for a knife violation unless there is probable cause to believe the individual failed to comply with the accessibility or secure storage requirements. An individual may assert compliance with this bill as a claim or defense in any civil or criminal proceeding.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-01-30
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s346is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-01-30
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s346is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 346
+IN THE SENATE OF THE UNITED STATES
+January 30, 2025 Mr. Lee (for himself, Mr. Cassidy , and Ms. Lummis ) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+A BILL
+To protect the right of law-abiding citizens to transport knives interstate, notwithstanding a patchwork of State and local prohibitions that burden citizens.
+#### 1. Short title
+This Act may be cited as the Knife Owners’ Protection Act of 2025 .
+#### 2. Interstate transportation of knives
+##### (a) Definitions
+As used in this section—
+**(1)**
+the term State means any of the 50 States, the District of Columbia, American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory of the United States; and
+**(2)**
+the term transport —
+**(A)**
+includes staying in temporary lodging overnight, common carrier misrouting or delays, stops for food, fuel, vehicle maintenance, emergencies, medical treatment, and all other activity related to the overall journey of the individual; and
+**(B)**
+does not include any transportation of 1 or more knives with the intent to commit any offense punishable by imprisonment for a term exceeding 1 year involving the use or threatened use of force against another, or with knowledge, or reasonable cause to believe, that such an offense is to be committed in the course of, or arising from, such journey.
+##### (b) Requirements
+Notwithstanding any provision of any law or any rule or regulation of the United States, or of a State or any political subdivision of a State, any individual who is not otherwise prohibited by Federal law from possessing, transporting, shipping, or receiving a knife or knives shall be entitled to transport a knife or knives from any place where the individual may lawfully possess, carry, or transport such a knife or knives to any other place where the individual may lawfully possess, carry, or transport such a knife or knives if—
+**(1)**
+in the case of transportation by motor vehicle, the knife is, or the knives are, not directly accessible from the passenger compartment of the transporting motor vehicle, or, in the case of a motor vehicle without a compartment separate from the passenger compartment, the knife is, or the knives are, contained in a locked container, locked glove compartment, or locked console;
+**(2)**
+in the case of transportation by air, the knife is, or the knives are, contained in a locked container and are not in the passenger cabin of the aircraft; or
+**(3)**
+in the case of transportation by other means (including any conveyance over land, or on or through water), the knife is, or the knives are, contained in a locked container.
+##### (c) Emergency knives
+**(1) In general**
+Subject to paragraph (2), any knife or tool designed for enabling escape in an emergency incorporating a blunt tipped safety blade , a guarded blade, or both, for cutting safety belts—
+**(A)**
+may be carried in the passenger compartment of a transporting motor vehicle; and
+**(B)**
+shall not be required to be secured in a locked container, locked glove compartment, or locked console.
+**(2) Exception**
+This subsection shall not apply to the transport of any knife or tool described in paragraph (1) in the passenger cabin of an aircraft the passengers of which are subject to airport screening procedures of the Transportation Security Administration.
+##### (d) Temporary lodging
+Subject to the requirements under subsection (b), a knife or knives may be kept accessible in any form of temporary lodging overnight, as described in subsection (a)(2)(A).
+##### (e) No arrest or detention
+An individual who is transporting a knife or knives in compliance with this section may not be arrested or otherwise detained for violation of any law or any rule or regulation of a State or any political subdivision of a State related to the possession, transportation, or carrying of knives, unless there is probable cause to believe that the individual is in violation of 1 or more of the requirements under subsection (b).
+##### (f) Claim or defense
+**(1) In general**
+An individual may assert this section as a claim or defense in any civil or criminal action or proceeding.
+**(2) Burden of proof**
+If an individual asserts this section as a claim or defense in a criminal proceeding, the relevant State or political subdivision shall bear the burden of proving, beyond a reasonable doubt, that the individual was not in compliance with the requirements under subsection (b).
+##### (g) Right of action
+**(1) In general**
+Any individual who, under color of any statute, ordinance, regulation, custom, or usage, of any State or political subdivision of a State, subjects, or causes to be subjected, any individual to the deprivation of the rights, privileges, or immunities set forth in this section, shall be liable to the individual so deprived in an action at law, suit in equity, or other proper proceeding for redress.
+**(2) Attorney's fees**
+When an individual asserts this section as a claim or defense, the court shall award the prevailing party (including any party who receives a favorable resolution through a decision by a court, settlement of a claim, withdrawal of criminal charges, or change of a statute or regulation), other than a State or any political subdivision of a State or its employees or representatives, a reasonable attorney’s fee.
+##### (h) Rule of construction
+Nothing in this section shall be construed in any way—
+**(1)**
+to limit any right to possess, carry, or transport a knife or knives under applicable State law; or
+**(2)**
+to impose additional restrictions or requirements on interstate travel by air with a knife or knives.
+
+
+## Timeline
+
+- 2025-01-30: Introduced in Senate
+- 2025-01-30 - IntroReferral: Introduced in Senate
+- 2025-01-30 - IntroReferral: Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- Latest action: 2025-01-30: Introduced in Senate

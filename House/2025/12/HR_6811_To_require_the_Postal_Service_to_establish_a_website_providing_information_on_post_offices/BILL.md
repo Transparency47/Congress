@@ -1,0 +1,52 @@
+# HR 6811: Postal Suspension Transparency Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-12-17
+- Latest action: 2025-12-17 - Introduced in House
+- Policy area: Government Operations and Politics
+- Sponsor: Rep. Pappas, Chris [D-NH-1]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6811
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-12-17
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6811ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-12-17
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6811ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 6811
+IN THE HOUSE OF REPRESENTATIVES
+December 17, 2025 Mr. Pappas (for himself, Mr. Bergman , Ms. Budzinski , and Mr. Garbarino ) introduced the following bill; which was referred to the Committee on Oversight and Government Reform
+A BILL
+To require the Postal Service to establish a website providing information on post offices experiencing emergency suspensions, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Postal Suspension Transparency Act .
+#### 2. Post office emergency suspension website
+##### (a) In general
+Subchapter VII of chapter 36 of title 39, United States Code, is amended by adding at the end the following new section:
+3693. Post office emergency suspension website (a) In general The Postal Service shall develop and maintain a publicly available website with an interactive web-tool that provides information about each covered post office, including the information described in subsection (b). (b) Emergency suspension information The information provided on the website shall include— (1) a list of each covered post office; and (2) for each covered post office— (A) a street address; (B) the date on which the relevant emergency suspension for such covered post office took effect; (C) the reason for such emergency suspension; (D) alternative services available, including how to request curbside delivery; (E) the location of, and hours of operation for, the nearest facility providing retail access to postal services; and (F) to the extent practicable, the estimated date on which operations at such covered post office will resume. (c) Address search functionality The website shall include functionality enabling a user to search for information about covered post offices by street address, ZIP Code, or post office box. (d) Format The information described in subsection (a) shall be provided on the website— (1) in a manner that— (A) presents such information on an interactive dashboard; (B) is searchable and may be sorted and filtered by the elements described in subsection (b)(2); and (C) to the extent practicable, enables any person or entity to download in bulk— (i) such information; and (ii) the results of a search by the elements described in subsection (b)(2); (2) in an open format that permits any individual or entity to reuse and analyze such information; and (3) in a structured data format, to the extent practicable. (e) Suspension notice Information provided on the website shall not be considered as providing notice to any person that the operations of a post office have been temporarily suspended pursuant to subchapter 61 of the Postal Service Handbook PO–101, or any successor policy. (f) Definitions In this section: (1) Covered post office The term covered post office means a post office at which operations have been temporarily suspended pursuant to subchapter 61 of the Postal Service Handbook PO–101, or any successor policy. (2) Emergency suspension The term emergency suspension means the temporary suspension of operations at a post office pursuant to subchapter 61 of the Postal Service Handbook PO–101, or any successor policy. (3) Post office The term post office means a Post Office, as such term is defined in section 241.1 of title 39, Code of Federal Regulations, or any successor regulation, and includes a post office branch or post office station. (4) Website The term Website means the website described in subsection (a). .
+##### (b) Implementation deadline
+Not later than one year after the date of the enactment of this Act, the Postal Service shall establish the website required under section 3693(a) of title 39, United States Code, as added by this Act.
+##### (c) Clerical amendment
+The table of sections for chapter 36 of title 39, United States Code, is amended by inserting after the item relating to section 3692 the following new item:
+3693. Post office emergency suspension website. .
+
+
+## Timeline
+
+- 2025-12-17: Introduced in House
+- 2025-12-17 - IntroReferral: Introduced in House
+- 2025-12-17 - IntroReferral: Introduced in House
+- 2025-12-17 - IntroReferral: Referred to the House Committee on Oversight and Government Reform.
+- Latest action: 2025-12-17: Introduced in House

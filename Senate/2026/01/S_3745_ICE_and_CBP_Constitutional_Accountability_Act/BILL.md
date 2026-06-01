@@ -1,0 +1,62 @@
+# S 3745: ICE and CBP Constitutional Accountability Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2026-01-29
+- Latest action: 2026-01-29 - Introduced in Senate
+- Policy area: Immigration
+- Sponsor: Sen. Merkley, Jeff [D-OR]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/3745
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2026-01-29
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s3745is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2026-01-29
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s3745is.xml
+
+II
+119th CONGRESS
+2d Session
+S. 3745
+IN THE SENATE OF THE UNITED STATES
+January 29, 2026 Mr. Merkley (for himself and Mr. Wyden ) introduced the following bill; which was read twice and referred to the Committee on the Judiciary
+A BILL
+To provide a civil remedy for any individual whose rights have been violated by an officer or agent of U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement.
+#### 1. Short title
+This Act may be cited as the ICE and CBP Constitutional Accountability Act .
+#### 2. Findings
+Congress finds the following:
+**(1)**
+The First, Fourth, Fifth, and Fourteenth Amendments to the Constitution of the United States were passed by Congress and ratified by the State legislatures to ensure the protection of fundamental rights for the people of the United States.
+**(2)**
+U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection officers and agents have undermined the fundamental rights guaranteed by those amendments, including—
+**(A)**
+violating due process;
+**(B)**
+racial profiling based on individuals’ skin color and languages spoken;
+**(C)**
+conducting unreasonable and warrantless searches and seizures; and
+**(D)**
+violating individuals’ rights to privacy and free speech.
+**(3)**
+The recent and ongoing reckless conduct by U.S. Immigration and Customs Enforcement and U.S. Customs and Border Protection has resulted in needless injuries, deaths, and public distrust of the Federal Government.
+**(4)**
+Civil suits provide individuals a remedy when their fundamental rights are violated by Government officials.
+#### 3. Civil remedy for victims of unlawful immigration enforcement actions
+Chapter 171 of title 28, United States Code (commonly known as the Federal Tort Claims Act ) is amended, in section 2674, by inserting after punitive damages. the following: If, while acting under color of law, an officer or agent of U.S. Customs and Border Protection or U.S. Immigration and Customs Enforcement, or any other person acting under the direction of any such officer or agent, subjects, or causes to be subjected, any individual within the jurisdiction of the United States to the deprivation of any rights, privileges, or immunities secured by the United States Constitution or laws, the United States Government shall be liable to the aggrieved party in an action at law, a suit in equity, or any other proper proceeding for redress, regardless of whether a policy or custom of the Department of Homeland Security caused the violation and without regard to whether the officer, agent or other person was acting consistent with an official policy, practice, or custom. Monetary damages awarded in cases authorized under this paragraph shall be derived from any amounts appropriated under title IX and sections 100051 and 100052 of Public Law 119–21 and, if such amounts have been depleted, amounts appropriated pursuant to section 1304 of title 31, United States Code. Section 2675(a) of title 28, United States Code, shall not apply to a civil action authorized under this paragraph. Notwithstanding any other provision of law, in cases authorized under this paragraph, a plaintiff may seek punitive damages. This paragraph shall constitute a waiver of sovereign immunity of the United States with respect to U.S. Customs and Border Protection and U.S. Immigration and Customs Enforcement for any claim brought under this section. Nothing in this paragraph may be construed to limit or preclude any legal, equitable, or other remedy that is otherwise available against an individual officer, agent, or other person. .
+
+
+## Timeline
+
+- 2026-01-29: Introduced in Senate
+- 2026-01-29 - IntroReferral: Introduced in Senate
+- 2026-01-29 - IntroReferral: Read twice and referred to the Committee on the Judiciary.
+- Latest action: 2026-01-29: Introduced in Senate

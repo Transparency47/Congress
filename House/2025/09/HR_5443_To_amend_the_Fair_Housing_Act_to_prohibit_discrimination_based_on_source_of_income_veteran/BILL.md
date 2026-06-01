@@ -1,0 +1,71 @@
+# HR 5443: Fair Housing Improvement Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-09-17
+- Latest action: 2025-09-17 - Introduced in House
+- Policy area: Housing and Community Development
+- Sponsor: Rep. Peters, Scott H. [D-CA-50]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/5443
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-09-17
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5443ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-09-17
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5443ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 5443
+IN THE HOUSE OF REPRESENTATIVES
+September 17, 2025 Mr. Peters (for himself, Ms. Bonamici , Mr. Evans of Pennsylvania , Mr. Garcia of California , Mr. Gomez , Ms. Jacobs , Mr. Magaziner , Ms. McClellan , Mr. McGarvey , Ms. Norton , Mrs. Ramirez , Mrs. Dingell , Ms. Craig , and Mr. Thanedar ) introduced the following bill; which was referred to the Committee on the Judiciary
+A BILL
+To amend the Fair Housing Act to prohibit discrimination based on source of income, veteran status, or military status.
+#### 1. Short title
+This Act may be cited as the Fair Housing Improvement Act of 2025 .
+#### 2. Prohibiting housing discrimination based on source of income, veteran status, or military status
+##### (a) In general
+The Fair Housing Act ( 42 U.S.C. 3601 et seq. ) is amended—
+**(1)**
+in section 802 ( 42 U.S.C. 3602 ), by adding at the end the following:
+(p) Military status means the status of a person as a member of the uniformed services, as defined in section 101 of title 10, United States Code. (q) Source of income includes— (1) a housing voucher under section 8 of the United States Housing Act of 1937 ( 42 U.S.C. 1437f ) and any form of Federal, State, or local housing assistance provided to a person or family or provided to a housing owner on behalf of a person or family, including— (A) rental vouchers; (B) rental assistance; (C) rental subsidies from nongovernmental organizations; and (D) homeownership subsidies; (2) income received as a monthly benefit under title II of the Social Security Act ( 42 U.S.C. 401 et seq. ), as a supplemental security income benefit under title XVI of the Social Security Act ( 42 U.S.C. 1381 et seq. ), or as a benefit under the Railroad Retirement Act of 1974 ( 45 U.S.C. 231 et seq. ), including any such benefit to which the individual is entitled for which payment is made to a representative payee; (3) income received by court order, including spousal support and child support; (4) any payment from a trust, guardian, conservator, cosigner, or relative; and (5) any other lawful source of income or funds, including savings accounts and investments. (r) Veteran status means the status of a person as a former member of the Armed Forces. ;
+**(2)**
+in section 804 ( 42 U.S.C. 3604 )—
+**(A)**
+by inserting source of income, veteran status, military status, after familial status, each place that term appears; and
+**(B)**
+in subsection (f), by adding at the end the following:
+(10) Nothing in this title shall be construed to prohibit any entity from providing or otherwise making available any services or other assistance to individuals receiving Federal, State or local housing assistance. ;
+**(3)**
+in section 805 ( 42 U.S.C. 3605 )—
+**(A)**
+in subsection (a), by inserting source of income, veteran status, military status, after familial status, ; and
+**(B)**
+in subsection (c), by inserting source of income, veteran status, military status, after handicap, ;
+**(4)**
+in section 806 ( 42 U.S.C. 3606 ), by inserting source of income, veteran status, military status, after familial status, ;
+**(5)**
+in section 808(e)(6) ( 42 U.S.C. 3608(e)(6) ), by inserting source of income, veteran status, military status, after handicap, ; and
+**(6)**
+in section 810(f) ( 42 U.S.C. 3610(f) ), by striking paragraph (4) and inserting the following:
+(4) During the period beginning on the date of enactment of the Fair Housing Improvement Act of 2025 and ending on the date that is 40 months after such date of enactment, each agency certified for purposes of this title on the day before such date of enactment shall, for purposes of this subsection, be considered certified under this subsection with respect to those matters for which the agency was certified on that date. If the Secretary determines in an individual case that an agency has not been able to meet the certification requirements within this 40-month period due to exceptional circumstances, such as the infrequency of legislative sessions in that jurisdiction, the Secretary may extend such period by not more than 6 months. .
+##### (b) Prevention of intimidation in fair housing cases
+Section 901 of the Civil Rights Act of 1968 ( 42 U.S.C. 3631 ) is amended by inserting source of income (as defined in section 802), veteran status (as defined in section 802), military status (as defined in section 802), before or national origin each place that term appears.
+
+
+## Timeline
+
+- 2025-09-17: Introduced in House
+- 2025-09-17 - IntroReferral: Introduced in House
+- 2025-09-17 - IntroReferral: Introduced in House
+- 2025-09-17 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2025-09-17: Introduced in House

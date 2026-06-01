@@ -1,0 +1,82 @@
+# HR 7594: Workforce Development Through Post-Graduation Scholarships Act of 2026
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-02-17
+- Latest action: 2026-02-17 - Introduced in House
+- Policy area: Taxation
+- Sponsor: Rep. LaHood, Darin [R-IL-16]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7594
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-02-17
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7594ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-02-17
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7594ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7594
+IN THE HOUSE OF REPRESENTATIVES
+February 17, 2026 Mr. LaHood (for himself and Ms. Sewell ) introduced the following bill; which was referred to the Committee on Ways and Means
+A BILL
+To amend the Internal Revenue Code of 1986 to exclude certain post-graduation scholarship grants from gross income in the same manner as qualified scholarships to promote economic growth.
+#### 1. Short title
+This Act may be cited as the Workforce Development Through Post-Graduation Scholarships Act of 2026 .
+#### 2. Post-graduation scholarship grants excluded from gross income in same manner as qualified scholarships
+##### (a) In general
+Section 117(a) of the Internal Revenue Code of 1986 is amended—
+**(1)**
+by striking the period at the end and inserting , or ,
+**(2)**
+by striking any amount received and inserting the following:
+any amount which— (1) is received , and
+**(3)**
+by adding at the end the following new paragraph:
+(2) is received as a post-graduation scholarship grant paid on behalf of an individual. .
+##### (b) Post-Graduation scholarship grant
+Section 117(b) of such Code is amended by redesignating paragraph (2) as paragraph (3) and by inserting after paragraph (1) the following new paragraph:
+(2) Post-graduation scholarship grant (A) In general The term post-graduation scholarship grant means any grant program— (i) which is established by an organization which— (I) is described in section 501(c)(3) and exempt from tax under section 501(a), and (II) is either a private foundation or community trust described in section 170(b)(1)(A)(vi), (other than an organization established by an organization described in section 170(b)(1)(A)(ii) or an organization described in section 170(b)(1)(A)(iii) the principal purpose or function of which is the provision of medical education), (ii) under which, in accordance with the conditions of a grant, such organization repays any portion of an applicable education loan incurred by an individual, (iii) which requires a grantee to live and work in an applicable community, (iv) under which payments are made directly to the holder of the loan, and (v) which is not provided to an employee of the granting organization or a related entity of the granting organization. (B) Applicable education loan For purposes of subparagraph (A), the term applicable education loan means, with respect to any individual, a qualified education loan (as defined in section 221(d)(1)) incurred to pay qualified higher education expenses (as defined in section 221(d)(2)) of such individual. (C) Applicable community For purposes of subparagraph (A), the term applicable community means any area that has a bachelor’s degree attainment rate for the population that is below the state or national average for such population (as determined based on data collected by the Census Bureau). .
+##### (c) Amount not treated as taxable expenditure by private foundation
+Section 4945(g) of such Code is amended by striking or at the end of paragraph (2), by striking the period at the end of paragraph (3) and inserting , or , and by adding at the end the following new paragraph:
+(4) the grant is a post-graduation scholarship grant (as defined in section 117(b)(2)). .
+##### (d) Denial of double benefit
+Section 221(e) of such Code is amended by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively, and by inserting after paragraph (1) the following new paragraph:
+(2) Denial of double benefit in case of post-graduation scholarship grants Any interest which is paid as part of a post-graduation scholarship grant and excluded from gross income under section 117 shall not be taken into account under this section. .
+##### (e) Regulatory authority
+Section 117 of such Code is amended by adding at the end the following new subsection:
+(e) Regulations The Secretary shall prescribe such reporting requirements and regulations as may be necessary or appropriate to carry out subsection (a)(2). .
+##### (f) Reports
+**(1) Secretary of Treasury**
+Not later than 3 years after the date of the enactment of this Act, and periodically thereafter, the Secretary of the Treasury, or the Secretary’s delegate, shall submit to Congress a report on the implementation and effectiveness of the amendments made by this section.
+**(2) Comptroller General**
+**(A) In general**
+Not later than 5 years after the date of enactment of this Act, the Comptroller General of the United States shall publish the result of a study on post-graduation scholarship grants to which section 117 of the Internal Revenue Code of 1986 (as amended by this section) applies.
+**(B) Contents of report**
+The information published under subparagraph (A) shall include the following:
+**(i)**
+The length of time involved in such grants.
+**(ii)**
+The amount paid out under such grants.
+**(iii)**
+The disposition of any funds paid under such grants, including the identity of any loan holders who benefit from such funds.
+##### (g) Effective date
+The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
+
+
+## Timeline
+
+- 2026-02-17: Introduced in House
+- 2026-02-17 - IntroReferral: Introduced in House
+- 2026-02-17 - IntroReferral: Introduced in House
+- 2026-02-17 - IntroReferral: Referred to the House Committee on Ways and Means.
+- Latest action: 2026-02-17: Introduced in House

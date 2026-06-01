@@ -1,0 +1,83 @@
+# S 1372: Tax Cut for Workers Act of 2025
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-04-09
+- Latest action: 2025-04-09 - Introduced in Senate
+- Policy area: Taxation
+- Sponsor: Sen. Cortez Masto, Catherine [D-NV]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/1372
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-04-09
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1372is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-04-09
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1372is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1372
+IN THE SENATE OF THE UNITED STATES
+April 9, 2025 Ms. Cortez Masto (for herself, Mr. Bennet , Ms. Alsobrooks , Ms. Baldwin , Mr. Blumenthal , Ms. Blunt Rochester , Mr. Booker , Ms. Cantwell , Mr. Coons , Ms. Duckworth , Mr. Durbin , Mr. Fetterman , Mr. Gallego , Mrs. Gillibrand , Mr. Heinrich , Mr. Hickenlooper , Ms. Hirono , Mr. Kaine , Mr. Kelly , Mr. Kim , Mr. King , Ms. Klobuchar , Mr. Luján , Mr. Markey , Mr. Merkley , Mr. Murphy , Mrs. Murray , Mr. Padilla , Mr. Peters , Mr. Reed , Ms. Rosen , Mr. Sanders , Mr. Schatz , Mr. Schiff , Mr. Schumer , Mrs. Shaheen , Ms. Slotkin , Ms. Smith , Mr. Van Hollen , Mr. Warner , Mr. Warnock , Ms. Warren , Mr. Welch , Mr. Whitehouse , and Mr. Wyden ) introduced the following bill; which was read twice and referred to the Committee on Finance
+A BILL
+To amend the Internal Revenue Code of 1986 to expand, and make permanent certain modifications of, the earned income credit.
+#### 1. Short title
+This Act may be cited as the Tax Cut for Workers Act of 2025 .
+#### 2. Permanent extension of earned income credit rules for individuals without qualifying children
+##### (a) Decrease in minimum age for credit
+**(1) In general**
+Subclause (II) of section 32(c)(1)(A)(ii) of the Internal Revenue Code of 1986 is amended by striking age 25 and inserting the applicable minimum age .
+**(2) Applicable minimum age**
+Paragraph (1) of section 32(c) of such Code is amended by adding at the end the following new subparagraph:
+(F) Applicable minimum age For purposes of this paragraph— (i) In general The term applicable minimum age means— (I) except as otherwise provided in this clause, age 19, (II) in the case of a student (as defined in section 152(f)(2)), other than a qualified former foster youth or a qualified homeless youth, age 24, and (III) in the case of a qualified former foster youth or a qualified homeless youth, age 18. (ii) Qualified former foster youth For purposes of this subparagraph, the term qualified former foster youth means an individual who— (I) on or after the date that such individual attained age 14, was in foster care provided under the supervision or administration of an entity administering (or eligible to administer) a plan under part B or part E of title IV of the Social Security Act (without regard to whether Federal assistance was provided with respect to such child under such part E), and (II) provides (in such manner as the Secretary may provide) consent for entities which administer a plan under part B or part E of title IV of the Social Security Act to disclose to the Secretary information related to the status of such individual as a qualified former foster youth. (iii) Qualified homeless youth For purposes of this subparagraph, the term qualified homeless youth means, with respect to any taxable year, an individual who certifies, in a manner as provided by the Secretary, that such individual is either an unaccompanied youth who is a homeless child or youth, or is unaccompanied, at risk of homelessness, and self-supporting. .
+##### (b) Elimination of maximum age for credit
+Subclause (II) of section 32(c)(1)(A)(ii) of the Internal Revenue Code of 1986 is amended by striking but not attained age 65 .
+##### (c) Increase in credit and phaseout percentages
+The table contained in paragraph (1) of section 32(b) of the Internal Revenue Code of 1986 is amended by striking 7.65 each place it appears and inserting 15.3 .
+##### (d) Increase in earned income and phaseout amounts
+The table contained in subparagraph (A) of section 32(b)(2) of the Internal Revenue Code of 1986 is amended—
+**(1)**
+by striking $4,220 and inserting $9,820 , and
+**(2)**
+by striking $5,280 and inserting $11,610 .
+##### (e) Inflation adjustments
+**(1) In general**
+Paragraph (1) of section 32(j) of the Internal Revenue Code of 1986 is amended to read as follows:
+(1) In general In the case of any taxable year beginning after— (A) 2021, in the case of the dollar amount in subsection (i)(1), (B) 2026, in the case of the dollar amounts in the third row of the table in subsection (b)(2)(A), and (C) 2015, in any other case, each of the dollar amounts in subsections (b)(2) and (i)(1) shall be increased by an amount equal to the inflation amount. .
+**(2) Inflation amount**
+Subsection (j) of section 32 of such Code is amended by adding at the end the following new paragraph:
+(3) Inflation amount For purposes of paragraph (1), the inflation amount with respect to any dollar amount for any taxable year is the amount equal to— (A) such dollar amount, multiplied by (B) the percentage (if any) by which— (i) the CPI (as defined in section 1(f)(4)) for the calendar year preceding the year in which the taxable year begins, exceeds (ii) the CPI (as so defined) for— (I) in the case of amounts in the third row of the table in subsection (b)(2)(A), 2025, (II) in the case of any other amount in subsection (b)(2)(A), 1995, (III) in the case of the $5,000 amount in subsection (b)(2)(B), 2008, and (IV) in the case of the $10,000 amount in subsection (i)(1), 2020. .
+##### (f) Conforming amendment
+Section 32 of the Internal Revenue Code of 1986 is amended by striking subsection (n).
+##### (g) Effective date
+The amendments made by this section shall apply to taxable years beginning after December 31, 2025.
+#### 3. Application of earned income credit to possessions of the United States
+##### (a) Puerto Rico
+Subparagraph (B) of section 7530(a)(1) of the Internal Revenue Code of 1986 is amended by striking in the case of calendar years 2021 through 2025, .
+##### (b) Possessions with mirror code tax systems
+Subparagraph (B) of section 7530(b)(1) of the Internal Revenue Code of 1986 is amended by striking in the case of calendar years 2021 through 2025, .
+##### (c) American Samoa
+Subparagraph (B) of section 7530(c)(1) of the Internal Revenue Code of 1986 is amended by striking in the case of calendar years 2021 through 2025, .
+#### 4. Election to use prior year earned income
+##### (a) In general
+Paragraph (2) of section 32(c) of the Internal Revenue Code of 1986 is amended by adding at the end the following new subparagraph:
+(C) Election to use prior year earned income (i) In general If the earned income of the taxpayer for any taxable year is less than the earned income of the taxpayer for the preceding taxable year, the credit allowed under subsection (a) may, at the election of the taxpayer, be determined by substituting— (I) such earned income for such preceding taxable year, for (II) such earned income for the taxable year for which such credit is being determined. (ii) Application to joint returns For purposes of clause (i), in the case of a joint return, the earned income of the taxpayer for the preceding taxable year shall be the sum of the earned income of each spouse for such taxable year. (iii) Special rules (I) Errors treated as mathematical errors For purposes of section 6213, an incorrect use on a return of earned income pursuant to clause (i) shall be treated as a mathematical or clerical error. (II) No effect on determination of gross income, etc Except as otherwise provided in this subparagraph, this title shall be applied without regard to any substitution under clause (i). .
+##### (b) Effective date
+The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2025.
+
+
+## Timeline
+
+- 2025-04-09: Introduced in Senate
+- 2025-04-09 - IntroReferral: Introduced in Senate
+- 2025-04-09 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2025-04-09: Introduced in Senate

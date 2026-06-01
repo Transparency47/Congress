@@ -1,0 +1,73 @@
+# S 1665: OATH Act of 2025
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-05-07
+- Latest action: 2025-05-07 - Introduced in Senate
+- Policy area: Armed Forces and National Security
+- Sponsor: Sen. Blumenthal, Richard [D-CT]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/1665
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-05-07
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1665is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-05-07
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1665is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1665
+IN THE SENATE OF THE UNITED STATES
+May 7, 2025 Mr. Blumenthal introduced the following bill; which was read twice and referred to the Committee on Veterans' Affairs
+A BILL
+To amend title 38, United States Code, to ensure veterans of secrecy oath programs receive the full benefits they have earned, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Obligations to Aberdeen’s Trusted Heroes Act of 2025 or the OATH Act of 2025 .
+#### 2. Definition of secrecy oath program
+Section 5100 of title 38, United States Code, is amended by adding at the end the following new paragraph:
+(3) The term secrecy oath program means a United States Government program in which participants are required to sign a non-disclosure agreement preventing the disclosure of any information regarding the program under penalty of court-martial or criminal punishment. .
+#### 3. Notice to veterans of secrecy oath programs regarding benefits
+##### (a) Notice required
+**(1) In general**
+Section 6303 of title 38, United States Code, is amended—
+**(A)**
+by redesignating subsections (c), (d), and (e) as subsections (d), (e), and (f), respectively; and
+**(B)**
+by inserting after subsection (b) the following new subsection (c):
+(c) Notice to veterans of secrecy oath programs (1) Not later than 90 days after the date on which participants in a secrecy oath program are released from the oath taken under such program, the Secretary shall— (A) identify the veterans who participated in the program; (B) notify each such veteran of all benefits and services under laws administered by the Department for which the veteran may be eligible; and (C) distribute the information described in subsection (d)(1) as required by such subsection. (2) If the Secretary identifies any veterans who are entitled to notice under paragraph (1) and did not receive such notice, the Secretary shall, not later than 90 days after the date of any such identification— (A) notify each such veteran of all benefits and services under laws administered by the Department for which the veteran may be eligible; and (B) distribute the information described in subsection (d)(1) as required by such subsection. (3) In this subsection, the term secrecy oath program has the meaning given that term in section 5100 of this title. .
+**(2) Conforming amendments**
+Section 6303 of such title is further amended—
+**(A)**
+in subsection (a), by striking through (d) and inserting through (e) ; and
+**(B)**
+in subsection (e), as redesignated by subsection (a)(1)(A), by striking subsections (b) and (c) and inserting subsections (b), (c), and (d) .
+##### (b) Edgewood Arsenal program
+Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall—
+**(1)**
+identify the veterans who participated in the secrecy oath program at Edgewood Arsenal at Aberdeen Proving Ground, Maryland, at any time during the period beginning on January 1, 1948, and ending on December 31, 1975;
+**(2)**
+notify each such veteran of all benefits and services under laws administered by the Department of Veterans Affairs for which the veteran may be eligible; and
+**(3)**
+distribute the information described in section 6303(d)(1) of title 38, United States Code, as amended by subsection (a), as required by such section.
+#### 4. Effective dates of awards of disability compensation for participants in secrecy oath programs
+Section 5110(b) of title 38, United States Code, is amended by adding at the end the following new paragraph:
+(5) (A) The effective date of an award of disability compensation to a veteran described in subparagraph (B) shall be the day following the date of the veteran’s discharge or release. (B) A veteran described in this subparagraph is a veteran who— (i) participated in the secrecy oath program at Edgewood Arsenal at Aberdeen Proving Ground, Maryland, at any time during the period beginning on January 1, 1948, and ending on December 31, 1975; or (ii) participated in any other secrecy oath program not described in clause (i). .
+
+
+## Timeline
+
+- 2025-05-07: Introduced in Senate
+- 2025-05-07 - IntroReferral: Introduced in Senate
+- 2025-05-07 - IntroReferral: Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-12-10 - Committee: Committee on Veterans' Affairs. Hearings held.
+- 2026-03-18 - Committee: Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- Latest action: 2025-05-07: Introduced in Senate

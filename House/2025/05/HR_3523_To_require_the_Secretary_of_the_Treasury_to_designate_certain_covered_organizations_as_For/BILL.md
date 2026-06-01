@@ -1,0 +1,76 @@
+# HR 3523: To require the Secretary of the Treasury to designate certain covered organizations as Foreign Financial Threat Organizations, and for other purposes.
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-05-20
+- Latest action: 2025-05-20 - Introduced in House
+- Policy area: Finance and Financial Sector
+- Sponsor: Rep. Shreve, Jefferson [R-IN-6]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hr/3523
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-05-20
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3523ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-05-20
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3523ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3523
+IN THE HOUSE OF REPRESENTATIVES
+May 20, 2025 Mr. Shreve (for himself and Ms. Van Duyne ) introduced the following bill; which was referred to the Committee on Foreign Affairs , and in addition to the Committees on Financial Services , and Energy and Commerce , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To require the Secretary of the Treasury to designate certain covered organizations as Foreign Financial Threat Organizations, and for other purposes.
+#### 1. Designation of Foreign Financial Threat Organizations
+##### (a) Designation
+The Secretary of the Treasury shall designate covered organizations to be known as Foreign Financial Threat Organizations . The Secretary shall make the first such designations not later than 90 days after the date of the enactment of this Act.
+##### (b) Procedure
+**(1) Notice**
+Before making a designation under this section, the Secretary shall notify, in writing, the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees of Congress of the intent to designate an organization under this section as a Foreign Financial Threat Organization and the factual basis for such designation.
+**(2) Publication in Federal Register**
+The Secretary shall publish a designation made under this section in the Federal Register seven days after providing the notification under paragraph (1).
+**(3) Freezing of assets**
+Upon notification under paragraph (1), the Secretary may require United States financial institutions possessing or controlling any assets of a Foreign Financial Threat Organization to block all financial transactions involving those assets until further direction from the Secretary of the Treasury, an Act of Congress, or an order of a court.
+**(4) Effect of designation**
+A Foreign Financial Threat Organization shall be subject to the same penalties and procedures as an organization that has been designated as a specially designated global terrorist organization by the Secretary of State or the Secretary of the Treasury, as the case may be, pursuant to Executive Order 13224 ( 50 U.S.C. 1701 note; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism).
+##### (c) Enforcement
+The Federal Government may take such actions as necessary against a Foreign Financial Threat Organization to protect the cybersecurity of the United States and limit the ability of the Foreign Financial Threat Organization to access internet or cellular services.
+##### (d) Prohibition on contact
+The Secretary of the Treasury shall take such actions as may be necessary to prevent a Foreign Financial Threat Organization from contacting United States citizens or aliens who are lawful permanent residents of the United States by phone, internet, or email.
+##### (e) Report
+**(1) In general**
+Not later than 2 years after the date of the enactment of this Act, and annually thereafter, the Secretary of the Treasury shall submit to Committees on Foreign Affairs and Financial Services of the House of Representatives and the Committees on Foreign Relations and Banking, Housing, and Urban Affairs of the Senate a report on the implementation of this Act.
+**(2) Contents**
+Such report shall include—
+**(A)**
+an identification of covered organizations that have been designated as Foreign Financial Threat Organizations;
+**(B)**
+the amount of assets seized from such Foreign Financial Threat Organizations;
+**(C)**
+the actions taken by the Secretary to identify such Foreign Financial Threat Organizations; and
+**(D)**
+the amount of funds the Secretary was able to return to victims of fraud by such Foreign Financial Threat Organizations.
+**(3) Form**
+The Secretary shall make publicly available a version of the report required under this subsection that does not include any sensitive information.
+##### (f) Covered organization defined
+In this Act, the term covered organization means a foreign entity (as defined in section 800.220(a) of title 31, Code of Federal Regulations), including any subsidiary or affiliate of a foreign entity, that engages in fraudulent activity in an attempt to deceive United States citizens or aliens who are lawful permanent residents of the United States to provide cash or other assets to such foreign entity, as jointly determined by the Secretary of the Treasury and the Attorney General.
+
+
+## Timeline
+
+- 2025-05-20: Introduced in House
+- 2025-05-20 - IntroReferral: Introduced in House
+- 2025-05-20 - IntroReferral: Introduced in House
+- 2025-05-20 - IntroReferral: Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-05-20 - IntroReferral: Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-05-20 - IntroReferral: Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-05-20: Introduced in House

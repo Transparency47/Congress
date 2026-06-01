@@ -1,0 +1,60 @@
+# S 4461: Visual Protection of Strategic Assets Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2026-04-30
+- Latest action: 2026-04-30 - Introduced in Senate
+- Policy area: Crime and Law Enforcement
+- Sponsor: Sen. Cotton, Tom [R-AR]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/4461
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2026-04-30
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4461is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2026-04-30
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/s/BILLS-119s4461is.xml
+
+II
+119th CONGRESS
+2d Session
+S. 4461
+IN THE SENATE OF THE UNITED STATES
+April 30, 2026 Mr. Cotton introduced the following bill; which was read twice and referred to the Committee on the Judiciary
+A BILL
+To amend chapter 37 of title 18, United States Code, to improve the prohibition on espionage.
+#### 1. Short title
+This Act may be cited as the Visual Protection of Strategic Assets Act .
+#### 2. Improvements to the prohibition on espionage
+##### (a) Gathering, transmitting, or losing defense information
+Section 793 of title 18, United States Code, is amended by adding at the end the following:
+(i) (1) In this subsection— (A) the term country of concern means— (i) the Democratic People's Republic of Korea; (ii) the People's Republic of China; (iii) the Russian Federation; and (iv) the Islamic Republic of Iran; (B) the term covered person means— (i) a citizen or national of a country of concern; or (ii) a person acting on behalf of a citizen or national of a country of concern; (C) the term high-value asset means an asset included on the list maintained under paragraph (3); and (D) the term tier-1 installation means a military installation designated as a tier-1 installation by the Secretary of Defense under paragraph (4). (2) (A) For purposes of this section, there shall be a rebuttable presumption that a covered person who photographs, videos, or tracks a high-value asset or tier-1 installation photographed, videoed, or tracked the high-value asset or tier-1 installation with intent or reason to believe the information would injure the United States or advantage a foreign nation. (B) A covered person may rebut the presumption under subparagraph (A) by demonstrating, by clear and convincing evidence, that the covered person photographed, videoed, or tracked the high-value asset or tier-1 installation with prior approval from the Secretary of Defense. (3) The Secretary of Defense shall maintain a list of high-value assets of the Department of Defense, which shall include— (A) the Boeing E–4B Nightwatch aircraft; (B) the Boeing RC–135 aircraft; (C) the Northrop B–2 Spirit aircraft; (D) the Rockwell B–1 Lancer aircraft; and (E) any nuclear command platform. (4) The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff and the Secretaries of the military departments, shall designate as a tier-1 installation each military installation that— (A) houses, supports, or serves as a primary operating location for 1 or more high-value assets; or (B) is critical to the execution of national strategic missions, including nuclear deterrence, global strike, or strategic intelligence collection. (5) The Secretary of Defense shall— (A) not less frequently than annually, make publicly available an updated list of high-value assets and tier-1 installations; and (B) install signs and other markers— (i) identifying high-value assets and tier-1 installations; and (ii) stating that photography and other surveillance of the high-value assets and tier-1 installations are strictly prohibited. .
+##### (b) Modernizing and strengthening the prohibition on photographing and sketching defense installations
+**(1) In general**
+Section 795 of title 18, United States Code, is amended—
+**(A)**
+in subsection (a), by striking photograph, and inserting photograph (including a digital photograph), video (including the transmission of video content over the internet contemporaneously with, or nearly contemporaneously with, the capturing of the video content), visual depiction enhanced using artificial intelligence (as defined in section 5002 of the National Artificial Intelligence Initiative Act of 2020 ( 15 U.S.C. 9401 )), ; and
+**(B)**
+by striking subsection (b) and inserting the following:
+(b) (1) In this subsection, the terms country of concern , high-value asset , and tier-1 installation have the meanings given such terms in section 793(i)(1). (2) Whoever violates this section— (A) shall be fined under this title, imprisoned for not more than 1 year, or both; (B) if the violation involved a high-value asset or a tier-1 installation, shall be fined under this title, imprisoned for not more than 7 years, or both; or (C) if the defendant is a citizen or national of a country of concern, shall be fined under this title, imprisoned for not less than 5 years and not more than 10 years, or both. (c) Any person who violates this section shall— (1) forfeit to the United States, irrespective of any provision of State law, any electronic or other device used in the commission of the violation; and (2) be subject to a civil penalty of not more than $100,000. .
+**(2) Visa revocation**
+Any citizen or national of a country of concern (as defined in section 793(i)(1) of title 18, United States Code), as added by subsection (a), who has been convicted of a violation described in section 795 of title 18, United States Code, as amended by paragraph (1), shall—
+**(A)**
+have his or her visa revoked, in accordance with section 221(i) of the Immigration and Nationality Act ( 8 U.S.C. 1201(i) ); and
+**(B)**
+shall be placed in removal proceedings, in accordance with sections 239 and 240 of such Act (8 U.S.C. 1229 and 1229a).
+
+
+## Timeline
+
+- 2026-04-30: Introduced in Senate
+- 2026-04-30 - IntroReferral: Introduced in Senate
+- 2026-04-30 - IntroReferral: Read twice and referred to the Committee on the Judiciary.
+- Latest action: 2026-04-30: Introduced in Senate

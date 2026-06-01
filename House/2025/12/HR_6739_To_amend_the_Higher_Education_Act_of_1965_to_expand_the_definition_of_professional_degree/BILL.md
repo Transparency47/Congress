@@ -1,0 +1,58 @@
+# HR 6739: Clarity in Professional Degree Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-12-16
+- Latest action: 2025-12-16 - Introduced in House
+- Policy area: Education
+- Sponsor: Rep. Dingell, Debbie [D-MI-6]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6739
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-12-16
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6739ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-12-16
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6739ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 6739
+IN THE HOUSE OF REPRESENTATIVES
+December 16, 2025 Mrs. Dingell introduced the following bill; which was referred to the Committee on Education and Workforce
+A BILL
+To amend the Higher Education Act of 1965 to expand the definition of professional degree.
+#### 1. Short title
+This Act may be cited as the Clarity in Professional Degree Act .
+#### 2. Findings
+Congress finds the following:
+**(1)**
+The Department of Education modified the definition of professional degree programs eligible for Federal student aid programs under title IV of the Higher Education Act of 1965 ( 20 U.S.C. 1070 et seq. ), removing many health, education, and graduate credentials from the list of definitions at the detriment of students with disabilities.
+**(2)**
+This reclassification is part of a new student loan policy and is expected to take effect on July 1, 2026.
+**(3)**
+Students in affected programs could now lose their qualification for such Federal student aid programs which experts fear would exacerbate workforce shortages. These fields are the foundation of the United States economy, ensuring that the Nation remains safe, educated, and healthy.
+#### 3. Professional degree defined
+Section 455(a)(4)(C) of the Higher Education Act of 1965 ( 20 U.S.C. 1087e(a)(4)(C) ) is amended—
+**(1)**
+in clause (ii), by striking , as defined under section 668.2 of title 34, Code of Federal Regulations (as in effect on the date of enactment of this paragraph), ; and
+**(2)**
+by adding at the end the following:
+(iii) Professional degree In this paragraph, the term professional degree has the meaning given the term in section 668.2 of title 34, Code of Federal Regulations (as in effect on the date of enactment of this paragraph), except that such term also includes the following degrees: (I) Nursing (A.D.N., R.N., or B.S.N.). (II) Occupational Therapy (M.O.T.). (III) Physical Therapy (D.P.T.). (IV) Social Work (M.S.W.). (V) Accounting (MAcc). (VI) Architecture (M.Arch.). (VII) Special and Secondary Education (M.Ed., M.S.Ed., or M.A.T.). (VIII) Music Education (M.S. or M.M.E.). (IX) World Languages (M.Ed.). (X) Public Health (M.P.H.). .
+
+
+## Timeline
+
+- 2025-12-16: Introduced in House
+- 2025-12-16 - IntroReferral: Introduced in House
+- 2025-12-16 - IntroReferral: Introduced in House
+- 2025-12-16 - IntroReferral: Referred to the House Committee on Education and Workforce.
+- Latest action: 2025-12-16: Introduced in House

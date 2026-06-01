@@ -1,0 +1,494 @@
+# HR 7432: Fostering the Future Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-02-09
+- Latest action: 2026-02-09 - Introduced in House
+- Policy area: Families
+- Sponsor: Rep. LaHood, Darin [R-IL-16]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7432
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Foster Youth Housing Opportunity Act**
+
+This bill expands states' permissible uses of federal funds under the John H. Chafee Foster Care Program for Successful Transition to Adulthood (Chafee program) to include supportive housing services.
+
+The Chafee program is administered by the Department of Health and Human Services (HHS) Children's Bureau and provides funding to support youth and young adults who are in, or were formerly in, foster care with their transition to adulthood. The program is funded through formula grants awarded to child welfare agencies in states, certain territories, and participating tribes.
+
+The bill allows states to use such funds to provide supportive services (e.g., financial counseling) for youth up to the age of 26 who are seeking to obtain or retain housing and who have experienced foster care and receive assistance under the Department of Housing and Urban Development (HUD) Section 8 Family Unification Program.
+
+Additionally, HHS and HUD must jointly develop and issue guidance to state public child welfare agencies and public housing authorities to improve alignment and coordination of housing supportive services.
+
+HHS, in consultation with HUD, also must report information about foster youth who are receiving federal housing assistance and the outcomes for such youth, including the extent to which such youth are able to access stable housing and the rates of homelessness. The report must include findings from any evaluations of state programs and recommendations for improving coordination between public child welfare agencies and federal housing programs.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-02-09
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7432ih.xml
+
+### Reported in House
+- Date: 2026-05-11
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7432rh.xml
+
+### Referred in Senate
+- Date: 2026-05-20
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7432rfs.xml
+
+### Engrossed in House
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7432eh.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-02-09
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7432ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7432
+IN THE HOUSE OF REPRESENTATIVES
+February 9, 2026 Mr. LaHood (for himself and Ms. Moore of Wisconsin ) introduced the following bill; which was referred to the Committee on Ways and Means , and in addition to the Committee on Financial Services , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To amend section 477 of the Social Security Act to improve coordination with Federal housing assistance programs for youth who have experienced foster care.
+#### 1. Short title
+This Act may be cited as the Foster Youth Housing Opportunity Act .
+#### 2. Improving access to housing for foster youth
+Section 477 of the Social Security Act ( 42 U.S.C. 677 ) is amended—
+**(1)**
+in subsection (a)(1)—
+**(A)**
+by striking and preventive and inserting preventive ; and
+**(B)**
+by inserting , and access to housing for youth age 18 or older before the semicolon;
+**(2)**
+in subsection (a)(4), by inserting current and before former ;
+**(3)**
+in subsection (b)(2)(D), by inserting , including by collaborating with public housing agencies that administer Federal housing programs serving foster youth under section 8(x)(2)(B) of the United States Housing Act of 1937 and receive funding to partner with public child welfare agencies to serve youth who have experienced foster care before the period;
+**(4)**
+in subsection (b)(3)(B), by striking not more than 30 percent of the amounts paid to the State from its allotment under subsection (c) for a fiscal year and inserting an average of not more than 30 percent of the amounts paid to the State from its allotment under subsection (c) for the 5 fiscal years covered by the application submitted by the State pursuant to paragraph (1) of this subsection ;
+**(5)**
+in subsection (d), by adding at the end the following:
+(6) Housing supportive services (A) In general A State may use amounts from its allotment under subsection (c) to provide supportive services to assist eligible youth who experienced foster care to obtain or retain suitable housing. (B) Definitions (i) Eligible youth In this subsection, the term eligible youth means an individual who receives assistance provided under section 8(x) of the United States Housing Act of 1937. (ii) Supportive services The term supportive services may include— (I) basic life skills information and counseling on financial literacy, use of credit, and money management; (II) counseling on rental lease contracts and assistance with rental insurance; and (III) assistance with security deposits, utility connection fees, moving costs, and other fees associated with establishing tenancy. (C) Exception Expenditures in accordance with this paragraph shall not be considered expenditures for room and board for purposes of subsection (b)(3)(B). (D) Aligning age eligibility Notwithstanding subsection (b)(3)(A)(ii), a State may use funds from its allotment under subsection (c) to provide supportive services to eligible youth who have not attained 26 years of age for the purpose of supporting continued access to housing. ; and
+**(6)**
+in subsection (g)(1), by inserting access to housing, before and personal .
+#### 3. Joint agency guidance
+##### (a) In general
+Within 1 year after the date of the enactment of this Act, the Secretary of Health and Human Services and the Secretary of Housing and Urban Development, shall develop and issue joint guidance to State public child welfare agencies and public housing authorities to improve alignment and coordination of housing supportive services provided under section 477 of the Social Security Act and housing assistance provided under section 8(x) of the United States Housing Act of 1937.
+##### (b) Contents
+The joint guidance shall include the following:
+**(1)**
+Clarification and alignment of Federal policies to improve access to housing for youth who have experienced foster care, including youth who are in independent living arrangements while in extended foster care.
+**(2)**
+Guidance on State use of funds provided under section 477 of the Social Security Act for supportive services (as defined in subsection (d)(6) of such section) to improve access to housing programs administered by the Department of Housing and Urban Development.
+**(3)**
+Best practices for building partnerships between public child welfare agencies and public housing authorities, including ways to improve access to the supportive services.
+**(4)**
+Additional information the Secretaries deem necessary to effectively coordinate Federal programs serving current and former foster youth.
+##### (c) Production
+The Secretary of Health and Human Services shall designate an official of the Department of Health and Human Services to lead development of the joint guidance in collaboration with the Department of Housing and Urban Development.
+#### 4. Report to Congress
+Within 3 years after the date of the enactment of this Act, the Secretary of Health and Human Services, in consultation with the Secretary of Housing and Urban Development shall submit to the Committee on Ways and Means and the Committee on Financial Services of the House of Representatives, and the Committee on Finance and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that sets forth—
+**(1)**
+aggregate data on the number of eligible youth who have experienced foster care who are receiving Federal housing assistance;
+**(2)**
+a description of the outcomes for the youth, including the extent to which youth are able to access stable housing and rates of homelessness;
+**(3)**
+the findings from any evaluations of State programs conducted pursuant to section 477(g)(1) of the Social Security Act; and
+**(4)**
+statutory recommendations for improving coordination between public child welfare agencies and Federal housing programs.
+#### 5. Effective date
+This Act and the amendments made by this Act shall take effect on the date that is 1 year after the date of the enactment of this Act.
+
+### Reported in House
+- Date: 2026-05-11
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7432rh.xml
+
+IB
+Union Calendar No. 560
+119th CONGRESS
+2d Session
+H. R. 7432
+[Report No. 119–643, Part I]
+IN THE HOUSE OF REPRESENTATIVES
+February 9, 2026 Mr. LaHood (for himself and Ms. Moore of Wisconsin ) introduced the following bill; which was referred to the Committee on Ways and Means , and in addition to the Committee on Financial Services , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+May 11, 2026 Additional sponsors: Ms. Malliotakis , Mr. Buchanan , Mr. Schweikert , Mr. Davis of Illinois , and Mr. Lawler
+May 11, 2026 Reported from the Committee on Ways and Means with an amendment Strike out all after the enacting clause and insert the part printed in italic
+May 11, 2026 Committee on Financial Services discharged; committed to the Committee of the Whole House on the State of the Union and ordered to be printed For text of introduced bill, see copy of bill as introduced on February 9, 2026
+A BILL
+To amend section 477 of the Social Security Act to improve coordination with Federal housing assistance programs for youth who have experienced foster care.
+#### 1. Short title
+This Act may be cited as the Foster Youth Housing Opportunity Act .
+#### 2. Improving access to housing for foster youth
+Section 477 of the Social Security Act ( 42 U.S.C. 677 ) is amended—
+**(1)**
+in subsection (a)(1)—
+**(A)**
+by striking and preventive and inserting preventive ; and
+**(B)**
+by inserting , and access to housing for youth age 18 or older before the semicolon;
+**(2)**
+in subsection (a)(4), by inserting current and before former ;
+**(3)**
+in subsection (b)(2)(D), by inserting , including by collaborating with public housing agencies that administer Federal housing programs serving foster youth under section 8(x)(2)(B) of the United States Housing Act of 1937 and receive funding to partner with public child welfare agencies to serve youth who have experienced foster care before the period;
+**(4)**
+in subsection (b)(3)(B), by striking not more than 30 percent of the amounts paid to the State from its allotment under subsection (c) for a fiscal year and inserting an average of not more than 30 percent of the amounts paid to the State from its allotment under subsection (c) for the 5 fiscal years covered by the application submitted by the State pursuant to paragraph (1) of this subsection ;
+**(5)**
+in subsection (d), by adding at the end the following:
+(6) Housing supportive services (A) In general A State may use amounts from its allotment under subsection (c) to provide supportive services to assist eligible youth who experienced foster care to obtain or retain suitable housing. (B) Definitions (i) Eligible youth In this subsection, the term eligible youth means an individual who receives assistance provided under section 8(x) of the United States Housing Act of 1937. (ii) Supportive services The term supportive services may include— (I) basic life skills information and counseling on financial literacy, use of credit, and money management; (II) counseling on rental lease contracts and assistance with rental insurance; and (III) assistance with security deposits, utility connection fees, moving costs, and other fees associated with establishing tenancy. (C) Exception Expenditures in accordance with this paragraph shall not be considered expenditures for room and board for purposes of subsection (b)(3)(B). (D) Aligning age eligibility Notwithstanding subsection (b)(3)(A)(ii), a State may use funds from its allotment under subsection (c) to provide supportive services to eligible youth who have not attained 26 years of age for the purpose of supporting continued access to housing. ; and
+**(6)**
+in subsection (g)(1), by inserting access to housing, before and personal .
+#### 3. Joint agency guidance
+##### (a) In general
+Within 1 year after the date of the enactment of this Act, the Secretary of Health and Human Services and the Secretary of Housing and Urban Development, shall develop and issue joint guidance to State public child welfare agencies and public housing authorities to improve alignment and coordination of housing supportive services provided under section 477 of the Social Security Act and housing assistance provided under section 8(x) of the United States Housing Act of 1937.
+##### (b) Contents
+The joint guidance shall include the following:
+**(1)**
+Clarification and alignment of Federal policies to improve access to housing for youth who have experienced foster care, including youth who are in independent living arrangements while in extended foster care.
+**(2)**
+Guidance on State use of funds provided under section 477 of the Social Security Act for supportive services (as defined in subsection (d)(6) of such section) to improve access to housing programs administered by the Department of Housing and Urban Development.
+**(3)**
+Best practices for building partnerships between public child welfare agencies and public housing authorities, including ways to improve access to supportive services.
+**(4)**
+Additional information the Secretaries deem necessary to effectively coordinate Federal programs serving current and former foster youth.
+##### (c) Production
+The Secretary of Health and Human Services shall designate an official of the Department of Health and Human Services to lead development of the joint guidance in collaboration with the Department of Housing and Urban Development.
+#### 4. Report to Congress
+Within 3 years after the date of the enactment of this Act, the Secretary of Health and Human Services, in consultation with the Secretary of Housing and Urban Development shall submit to the Committee on Ways and Means and the Committee on Financial Services of the House of Representatives, and the Committee on Finance and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that sets forth—
+**(1)**
+aggregate data on the number of eligible youth who have experienced foster care who are receiving Federal housing assistance;
+**(2)**
+a description of the outcomes for the youth, including the extent to which youth are able to access stable housing and rates of homelessness;
+**(3)**
+the findings from any evaluations of State programs conducted pursuant to section 477(g)(1) of the Social Security Act; and
+**(4)**
+statutory recommendations for improving coordination between public child welfare agencies and Federal housing programs.
+#### 5. Effective date
+This Act and the amendments made by this Act shall take effect on the date that is 1 year after the date of the enactment of this Act.
+
+### Referred in Senate
+- Date: 2026-05-20
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7432rfs.xml
+
+IIB
+119th CONGRESS
+2d Session
+H. R. 7432
+IN THE SENATE OF THE UNITED STATES
+May 20, 2026 Received; read twice and referred to the Committee on Finance
+AN ACT
+To modernize section 477 of part E of title IV of the Social Security Act to improve connections to housing, expand education and training opportunities, and modernize services to improve outcomes for foster youth transitioning into adulthood.
+#### 1. Short title
+This Act may be cited as the Fostering the Future Act .
+#### 2. Expansion of education and workforce training opportunities for youth who have experienced foster care
+Section 477 of the Social Security Act ( 42 U.S.C. 677 ) is amended—
+**(1)**
+in subsection (a)(5), by striking aged out of foster care and inserting experienced foster care at age 14 or older ;
+**(2)**
+in subsection (h)(2), by striking age out of foster care and inserting experience foster care at age 14 or older ;
+**(3)**
+in each of subsections (a)(6) and (i)(2), by striking 16 and inserting 14 ;
+**(4)**
+in subsection (i)(3), by striking in no event may a youth participate in the program for more than 5 years (whether or not consecutive) and inserting may not allow a youth to participate in the program for more than 5 years (or, in the case of a youth who was involved in a remedial education activity referred to in paragraph (4)(B), for more than 6 years), whether or not consecutive ;
+**(5)**
+in subsection (i)(4)—
+**(A)**
+by amending subparagraph (A) to read as follows:
+(A) may be available for the cost of attendance— (i) at an institution of higher education, as defined in section 102 of the Higher Education Act of 1965, including a community college or postsecondary vocational institution; or (ii) at a short-term training program that is eligible for the Workforce Pell program under section 401(k), as described in section 481(b)(3) of the Higher Education Act of 1965 ( 20 U.S.C. 1088(b)(3) ), as added by section 83002(b) of Public Law 119–21 ; ;
+**(B)**
+by redesignating subparagraph (B) as subparagraph (C); and
+**(C)**
+by inserting after subparagraph (A), as so amended, the following:
+(B) may be available for costs— (i) associated with participation in an apprenticeship program; (ii) to obtain a general equivalency degree; or (iii) to receive remedial education; and ; and
+**(6)**
+in subsection (i), by adding at the end the following:
+(7) In this section, the term remedial education means education or skill training needed to support obtaining a high school diploma or qualifying for postsecondary education, training, or an apprenticeship that is— (A) not already available through the school district of the student or another free local, State, or Federal program; and (B) is provided by an instructor with credentials relevant to the subject area of instruction, as determined by the State. .
+#### 3. Increase in maximum education and training voucher amount and provision of greater support for foster youth pursuing postsecondary education
+##### (a) In general
+Section 477(i) of the Social Security Act ( 42 U.S.C. 677(i) ) is amended—
+**(1)**
+in paragraph (3)—
+**(A)**
+by striking that program and inserting that education or training program, (except that the State may establish a grace period to allow a youth to continue participation in activities described in paragraph (4)(A), after an assessment and consultation with the youth, if the State determines that reasonable circumstances warrant the grace period) ; and
+**(B)**
+by striking the program and inserting the voucher program ; and
+**(2)**
+in paragraph (4)(C) (as so redesignated by section 2(5)(C) of this Act), by striking $5,000 and inserting $12,000 .
+##### (b) Guidance
+The Secretary of Health and Human Services, in consultation with youth who have experienced foster care, shall develop and issue model guidance to States and jurisdictions receiving allotments under section 477(c) of the Social Security Act for implementation of the amendment made by subsection (a)(1) of this section.
+#### 4. Improving accessibility and youth awareness of education and training vouchers
+##### (a) In general
+Section 477(i) of the Social Security Act ( 42 U.S.C. 677(i) ), as amended by section 2(6) of this Act, is amended by adding at the end the following:
+(8) The State shall make reasonable efforts to ensure that eligible youth are aware of potential benefits provided under this subsection, including by coordinating with programs funded under subsection (h)(1). (9) The program shall include a simplified, user-tested, and standard form for youth to use to apply for vouchers under the program, using standard terminology, that is easily accessible and available electronically. .
+##### (b) Use of funds
+Section 477(d)(1) of such Act ( 42 U.S.C. 677(d)(1) ) is amended to read as follows:
+(1) In general A State to which an amount is paid from its allotment under subsection (c)(1) may use the amount in any manner that is reasonably calculated to accomplish the purposes of this section, including outreach related to subsection (i)(8). A State to which an amount is paid from its allotment under subsection (c)(3) may use the amount for any purpose related to the program described in subsection (i)(8). .
+#### 5. Improving access to housing for foster youth
+Section 477 of the Social Security Act ( 42 U.S.C. 677 ) is amended—
+**(1)**
+in subsection (a)(1)—
+**(A)**
+by striking and preventive and inserting preventive ; and
+**(B)**
+by inserting , and access to housing for youth age 18 or older before the semicolon;
+**(2)**
+in subsection (a)(4), by inserting current and before former ;
+**(3)**
+in subsection (b)(2)(D), by inserting , including by collaborating with public housing agencies that administer Federal housing programs serving foster youth under section 8(x)(2)(B) of the United States Housing Act of 1937 and receive funding to partner with public child welfare agencies to serve youth who have experienced foster care before the period;
+**(4)**
+in subsection (b)(3)(B), by striking not more than 30 percent of the amounts paid to the State from its allotment under subsection (c) for a fiscal year and inserting an average of not more than 30 percent of the amounts paid to the State from its allotment under subsection (c) for the 5 fiscal years covered by the application submitted by the State pursuant to paragraph (1) of this subsection ;
+**(5)**
+in subsection (d), by adding at the end the following:
+(6) Housing supportive services (A) In general A State may use amounts from its allotment under subsection (c) to provide supportive services to assist eligible youth who experienced foster care to obtain or retain suitable housing. (B) Definitions (i) Eligible youth In this subsection, the term eligible youth means an individual who receives assistance provided under section 8(x) of the United States Housing Act of 1937. (ii) Supportive services The term supportive services may include— (I) basic life skills information and counseling on financial literacy, use of credit, and money management; (II) counseling on rental lease contracts and assistance with rental insurance; and (III) assistance with security deposits, utility connection fees, moving costs, and other fees associated with establishing tenancy. (C) Exception Expenditures in accordance with this paragraph shall not be considered expenditures for room and board for purposes of subsection (b)(3)(B). (D) Aligning age eligibility Notwithstanding subsection (b)(3)(A)(ii), a State may use funds from its allotment under subsection (c) to provide supportive services to eligible youth who have not attained 26 years of age for the purpose of supporting continued access to housing. ; and
+**(6)**
+in subsection (g)(1), by inserting access to housing, before and personal .
+#### 6. Joint agency guidance
+##### (a) In general
+Within 1 year after the date of the enactment of this Act, the Secretary of Health and Human Services and the Secretary of Housing and Urban Development, shall develop and issue joint guidance to State public child welfare agencies and public housing authorities to improve alignment and coordination of housing supportive services provided under section 477 of the Social Security Act and housing assistance provided under section 8(x) of the United States Housing Act of 1937.
+##### (b) Contents
+The joint guidance shall include the following:
+**(1)**
+Clarification and alignment of Federal policies to improve access to housing for youth who have experienced foster care, including youth who are in independent living arrangements while in extended foster care.
+**(2)**
+Guidance on State use of funds provided under section 477 of the Social Security Act for supportive services (as defined in subsection (d)(6) of such section) to improve access to housing programs administered by the Department of Housing and Urban Development.
+**(3)**
+Best practices for building partnerships between public child welfare agencies and public housing authorities, including ways to improve access to supportive services.
+**(4)**
+Additional information the Secretaries deem necessary to effectively coordinate Federal programs serving current and former foster youth.
+##### (c) Production
+The Secretary of Health and Human Services shall designate an official of the Department of Health and Human Services to lead development of the joint guidance in collaboration with the Department of Housing and Urban Development.
+#### 7. Report to Congress
+Within 3 years after the date of the enactment of this Act, the Secretary of Health and Human Services, in consultation with the Secretary of Housing and Urban Development shall submit to the Committee on Ways and Means and the Committee on Financial Services of the House of Representatives, and the Committee on Finance and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that sets forth—
+**(1)**
+aggregate data on the number of eligible youth who have experienced foster care who are receiving Federal housing assistance;
+**(2)**
+a description of the outcomes for the youth, including the extent to which youth are able to access stable housing and rates of homelessness;
+**(3)**
+the findings from any evaluations of State programs conducted pursuant to section 477(g)(1) of the Social Security Act; and
+**(4)**
+statutory recommendations for improving coordination between public child welfare agencies and Federal housing programs.
+#### 8. Legal consulting and access under the John H. Chafee Foster Care Program for Successful Transition to Adulthood
+Section 477 of the Social Security Act ( 42 U.S.C. 677 ) is amended—
+**(1)**
+in subsection (a)(4), by inserting legal counseling access, after education, ; and
+**(2)**
+in subsection (b)(3), by adding at the end the following:
+(L) A certification by the chief executive officer of the State that the relevant case planning and other processes employed by the State take into consideration certain legal issues affecting housing, education, entry into employment, and family connections of current and former foster youth and the efforts required to address the issues, including with respect to State court records, legal recognition of family relationships, and matters relating to custody and permanency. .
+#### 9. Ensuring expectant and parenting youth have access to services provided through the Maternal, Infant, and Early Childhood Home Visiting Program
+##### (a) Purpose
+Section 477(a) of the Social Security Act ( 42 U.S.C. 677(a) ) is amended—
+**(1)**
+in paragraph (6), by striking and ;
+**(2)**
+in paragraph (7), by striking the period and inserting ; and ; and
+**(3)**
+by adding at the end the following:
+(8) to connect foster youth in eligible families (as such term is defined in section 511) who receive services under this part with evidence-based home visiting and support services provided under section 511. .
+##### (b) Applications
+Section 477(b)(3) of such Act ( 42 U.S.C. 677(b)(3) ) is amended by adding at the end the following:
+(M) A certification by the chief executive officer of the State that the State has processes in place to ensure that a youth participating in the program under this section who is in an eligible family (as such term is defined in section 511) is provided with information regarding evidence-based home visiting and support services provided in the State under section 511. .
+#### 10. Tailored case management and resource coordination services for parenting and expectant youth who have experienced foster care
+Section 477(d)(1) of the Social Security Act ( 42 U.S.C. 677(d)(1) ) is amended to read as follows:
+(1) In general A State to which an amount is paid from its allotment under subsection (c)(1) may use the amount— (A) to provide tailored case management and resource coordination services to youth otherwise eligible for services under the State program under this section who are expectant or parenting; or (B) in any manner that is reasonably calculated to accomplish the purposes of this section. .
+#### 11. Updating the purposes of the John H. Chafee Foster Care Program for Successful Transition to Adulthood
+##### (a) Updating of purposes
+Section 477(a) of the Social Security Act ( 42 U.S.C. 677(a) ), as amended by section 9(a)(3) of this Act, is amended—
+**(1)**
+by striking paragraph (2);
+**(2)**
+by redesignating paragraphs (1) and (3) through (8) as paragraphs (3) through (9), respectively; and
+**(3)**
+by inserting after conducted— the following:
+(1) to help children who have experienced foster care at age 14 or older to develop and maintain sustained, supportive relationships with adults (including kin or fictive kin who are not serving as placement), mentors, and peers (including peers who have experienced foster care), with a goal of providing multiple and varied paths to reduce isolation and ensuring that the youth develop lifelong connections and support networks; (2) to support youth still in foster care who have experienced foster care at age 14 or older in exercising the rights referred to in section 475A to participate in developing their permanency plan and receive written information about available services and steps the agency is taking to support the plan, as well as to facilitate pre- and post-permanency peer support, mentoring, connections with kin, and referrals to additional appropriate programs and services to help youth achieve their permanency goals; .
+##### (b) Guidance
+Within 1 year after the date of the enactment of this Act and after consulting with youth with lived experience in foster care, the Secretary of Health and Human Services shall issue guidance to States and Tribal child welfare agencies regarding the purposes set forth in paragraphs (1) and (2) of section 477(a) of the Social Security Act, that includes, at a minimum—
+**(1)**
+examples of services and support eligible for Federal funding under part B of title IV of such Act, under part E of such title as part of completing and following the case plan requirements provided for in section 475A of such Act, or under section 477 of such Act, including individual youth support, family support, and peer support to engage youth during reunification, guardianship, or adoption proceedings;
+**(2)**
+best practices for facilitating peer support, mentoring, and the development and maintenance of lifelong connections, including practices that support sibling, tribal, and community connections, including minimum qualifications and training for persons providing mentoring and peer support;
+**(3)**
+standards of outreach to and notification of eligible youth, including youth with a planned permanent living arrangement, to ensure referrals to appropriate programs and services; and
+**(4)**
+protocols for documentation of support and relationship-building activities under section 477 of such Act that are required by section 475A of such Act to be included in a child's case plan, sufficient to permit review under the case review system described in section 475(5) of such Act.
+#### 12. Effective date
+##### (a) In general
+Except as otherwise provided in this Act, this Act and the amendments made by this Act shall take effect on the date that is 1 year after the date of the enactment of this Act.
+##### (b) Delayed permitted if State legislation required
+If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under section 477 of the Social Security Act to meet the additional requirements imposed by the amendments made by sections 5(3), 5(4), 8(2), and 9(b) of this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the preceding sentence, if the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.
+
+### Engrossed in House
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7432eh.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7432
+IN THE HOUSE OF REPRESENTATIVES
+AN ACT
+To modernize section 477 of part E of title IV of the Social Security Act to improve connections to housing, expand education and training opportunities, and modernize services to improve outcomes for foster youth transitioning into adulthood.
+#### 1. Short title
+This Act may be cited as the Fostering the Future Act .
+#### 2. Expansion of education and workforce training opportunities for youth who have experienced foster care
+Section 477 of the Social Security Act ( 42 U.S.C. 677 ) is amended—
+**(1)**
+in subsection (a)(5), by striking aged out of foster care and inserting experienced foster care at age 14 or older ;
+**(2)**
+in subsection (h)(2), by striking age out of foster care and inserting experience foster care at age 14 or older ;
+**(3)**
+in each of subsections (a)(6) and (i)(2), by striking 16 and inserting 14 ;
+**(4)**
+in subsection (i)(3), by striking in no event may a youth participate in the program for more than 5 years (whether or not consecutive) and inserting may not allow a youth to participate in the program for more than 5 years (or, in the case of a youth who was involved in a remedial education activity referred to in paragraph (4)(B), for more than 6 years), whether or not consecutive ;
+**(5)**
+in subsection (i)(4)—
+**(A)**
+by amending subparagraph (A) to read as follows:
+(A) may be available for the cost of attendance— (i) at an institution of higher education, as defined in section 102 of the Higher Education Act of 1965, including a community college or postsecondary vocational institution; or (ii) at a short-term training program that is eligible for the Workforce Pell program under section 401(k), as described in section 481(b)(3) of the Higher Education Act of 1965 ( 20 U.S.C. 1088(b)(3) ), as added by section 83002(b) of Public Law 119–21 ; ;
+**(B)**
+by redesignating subparagraph (B) as subparagraph (C); and
+**(C)**
+by inserting after subparagraph (A), as so amended, the following:
+(B) may be available for costs— (i) associated with participation in an apprenticeship program; (ii) to obtain a general equivalency degree; or (iii) to receive remedial education; and ; and
+**(6)**
+in subsection (i), by adding at the end the following:
+(7) In this section, the term remedial education means education or skill training needed to support obtaining a high school diploma or qualifying for postsecondary education, training, or an apprenticeship that is— (A) not already available through the school district of the student or another free local, State, or Federal program; and (B) is provided by an instructor with credentials relevant to the subject area of instruction, as determined by the State. .
+#### 3. Increase in maximum education and training voucher amount and provision of greater support for foster youth pursuing postsecondary education
+##### (a) In general
+Section 477(i) of the Social Security Act ( 42 U.S.C. 677(i) ) is amended—
+**(1)**
+in paragraph (3)—
+**(A)**
+by striking that program and inserting that education or training program, (except that the State may establish a grace period to allow a youth to continue participation in activities described in paragraph (4)(A), after an assessment and consultation with the youth, if the State determines that reasonable circumstances warrant the grace period) ; and
+**(B)**
+by striking the program and inserting the voucher program ; and
+**(2)**
+in paragraph (4)(C) (as so redesignated by section 2(5)(C) of this Act), by striking $5,000 and inserting $12,000 .
+##### (b) Guidance
+The Secretary of Health and Human Services, in consultation with youth who have experienced foster care, shall develop and issue model guidance to States and jurisdictions receiving allotments under section 477(c) of the Social Security Act for implementation of the amendment made by subsection (a)(1) of this section.
+#### 4. Improving accessibility and youth awareness of education and training vouchers
+##### (a) In general
+Section 477(i) of the Social Security Act ( 42 U.S.C. 677(i) ), as amended by section 2(6) of this Act, is amended by adding at the end the following:
+(8) The State shall make reasonable efforts to ensure that eligible youth are aware of potential benefits provided under this subsection, including by coordinating with programs funded under subsection (h)(1). (9) The program shall include a simplified, user-tested, and standard form for youth to use to apply for vouchers under the program, using standard terminology, that is easily accessible and available electronically. .
+##### (b) Use of funds
+Section 477(d)(1) of such Act ( 42 U.S.C. 677(d)(1) ) is amended to read as follows:
+(1) In general A State to which an amount is paid from its allotment under subsection (c)(1) may use the amount in any manner that is reasonably calculated to accomplish the purposes of this section, including outreach related to subsection (i)(8). A State to which an amount is paid from its allotment under subsection (c)(3) may use the amount for any purpose related to the program described in subsection (i)(8). .
+#### 5. Improving access to housing for foster youth
+Section 477 of the Social Security Act ( 42 U.S.C. 677 ) is amended—
+**(1)**
+in subsection (a)(1)—
+**(A)**
+by striking and preventive and inserting preventive ; and
+**(B)**
+by inserting , and access to housing for youth age 18 or older before the semicolon;
+**(2)**
+in subsection (a)(4), by inserting current and before former ;
+**(3)**
+in subsection (b)(2)(D), by inserting , including by collaborating with public housing agencies that administer Federal housing programs serving foster youth under section 8(x)(2)(B) of the United States Housing Act of 1937 and receive funding to partner with public child welfare agencies to serve youth who have experienced foster care before the period;
+**(4)**
+in subsection (b)(3)(B), by striking not more than 30 percent of the amounts paid to the State from its allotment under subsection (c) for a fiscal year and inserting an average of not more than 30 percent of the amounts paid to the State from its allotment under subsection (c) for the 5 fiscal years covered by the application submitted by the State pursuant to paragraph (1) of this subsection ;
+**(5)**
+in subsection (d), by adding at the end the following:
+(6) Housing supportive services (A) In general A State may use amounts from its allotment under subsection (c) to provide supportive services to assist eligible youth who experienced foster care to obtain or retain suitable housing. (B) Definitions (i) Eligible youth In this subsection, the term eligible youth means an individual who receives assistance provided under section 8(x) of the United States Housing Act of 1937. (ii) Supportive services The term supportive services may include— (I) basic life skills information and counseling on financial literacy, use of credit, and money management; (II) counseling on rental lease contracts and assistance with rental insurance; and (III) assistance with security deposits, utility connection fees, moving costs, and other fees associated with establishing tenancy. (C) Exception Expenditures in accordance with this paragraph shall not be considered expenditures for room and board for purposes of subsection (b)(3)(B). (D) Aligning age eligibility Notwithstanding subsection (b)(3)(A)(ii), a State may use funds from its allotment under subsection (c) to provide supportive services to eligible youth who have not attained 26 years of age for the purpose of supporting continued access to housing. ; and
+**(6)**
+in subsection (g)(1), by inserting access to housing, before and personal .
+#### 6. Joint agency guidance
+##### (a) In general
+Within 1 year after the date of the enactment of this Act, the Secretary of Health and Human Services and the Secretary of Housing and Urban Development, shall develop and issue joint guidance to State public child welfare agencies and public housing authorities to improve alignment and coordination of housing supportive services provided under section 477 of the Social Security Act and housing assistance provided under section 8(x) of the United States Housing Act of 1937.
+##### (b) Contents
+The joint guidance shall include the following:
+**(1)**
+Clarification and alignment of Federal policies to improve access to housing for youth who have experienced foster care, including youth who are in independent living arrangements while in extended foster care.
+**(2)**
+Guidance on State use of funds provided under section 477 of the Social Security Act for supportive services (as defined in subsection (d)(6) of such section) to improve access to housing programs administered by the Department of Housing and Urban Development.
+**(3)**
+Best practices for building partnerships between public child welfare agencies and public housing authorities, including ways to improve access to supportive services.
+**(4)**
+Additional information the Secretaries deem necessary to effectively coordinate Federal programs serving current and former foster youth.
+##### (c) Production
+The Secretary of Health and Human Services shall designate an official of the Department of Health and Human Services to lead development of the joint guidance in collaboration with the Department of Housing and Urban Development.
+#### 7. Report to Congress
+Within 3 years after the date of the enactment of this Act, the Secretary of Health and Human Services, in consultation with the Secretary of Housing and Urban Development shall submit to the Committee on Ways and Means and the Committee on Financial Services of the House of Representatives, and the Committee on Finance and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that sets forth—
+**(1)**
+aggregate data on the number of eligible youth who have experienced foster care who are receiving Federal housing assistance;
+**(2)**
+a description of the outcomes for the youth, including the extent to which youth are able to access stable housing and rates of homelessness;
+**(3)**
+the findings from any evaluations of State programs conducted pursuant to section 477(g)(1) of the Social Security Act; and
+**(4)**
+statutory recommendations for improving coordination between public child welfare agencies and Federal housing programs.
+#### 8. Legal consulting and access under the John H. Chafee Foster Care Program for Successful Transition to Adulthood
+Section 477 of the Social Security Act ( 42 U.S.C. 677 ) is amended—
+**(1)**
+in subsection (a)(4), by inserting legal counseling access, after education, ; and
+**(2)**
+in subsection (b)(3), by adding at the end the following:
+(L) A certification by the chief executive officer of the State that the relevant case planning and other processes employed by the State take into consideration certain legal issues affecting housing, education, entry into employment, and family connections of current and former foster youth and the efforts required to address the issues, including with respect to State court records, legal recognition of family relationships, and matters relating to custody and permanency. .
+#### 9. Ensuring expectant and parenting youth have access to services provided through the Maternal, Infant, and Early Childhood Home Visiting Program
+##### (a) Purpose
+Section 477(a) of the Social Security Act ( 42 U.S.C. 677(a) ) is amended—
+**(1)**
+in paragraph (6), by striking and ;
+**(2)**
+in paragraph (7), by striking the period and inserting ; and ; and
+**(3)**
+by adding at the end the following:
+(8) to connect foster youth in eligible families (as such term is defined in section 511) who receive services under this part with evidence-based home visiting and support services provided under section 511. .
+##### (b) Applications
+Section 477(b)(3) of such Act ( 42 U.S.C. 677(b)(3) ) is amended by adding at the end the following:
+(M) A certification by the chief executive officer of the State that the State has processes in place to ensure that a youth participating in the program under this section who is in an eligible family (as such term is defined in section 511) is provided with information regarding evidence-based home visiting and support services provided in the State under section 511. .
+#### 10. Tailored case management and resource coordination services for parenting and expectant youth who have experienced foster care
+Section 477(d)(1) of the Social Security Act ( 42 U.S.C. 677(d)(1) ) is amended to read as follows:
+(1) In general A State to which an amount is paid from its allotment under subsection (c)(1) may use the amount— (A) to provide tailored case management and resource coordination services to youth otherwise eligible for services under the State program under this section who are expectant or parenting; or (B) in any manner that is reasonably calculated to accomplish the purposes of this section. .
+#### 11. Updating the purposes of the John H. Chafee Foster Care Program for Successful Transition to Adulthood
+##### (a) Updating of purposes
+Section 477(a) of the Social Security Act ( 42 U.S.C. 677(a) ), as amended by section 9(a)(3) of this Act, is amended—
+**(1)**
+by striking paragraph (2);
+**(2)**
+by redesignating paragraphs (1) and (3) through (8) as paragraphs (3) through (9), respectively; and
+**(3)**
+by inserting after conducted— the following:
+(1) to help children who have experienced foster care at age 14 or older to develop and maintain sustained, supportive relationships with adults (including kin or fictive kin who are not serving as placement), mentors, and peers (including peers who have experienced foster care), with a goal of providing multiple and varied paths to reduce isolation and ensuring that the youth develop lifelong connections and support networks; (2) to support youth still in foster care who have experienced foster care at age 14 or older in exercising the rights referred to in section 475A to participate in developing their permanency plan and receive written information about available services and steps the agency is taking to support the plan, as well as to facilitate pre- and post-permanency peer support, mentoring, connections with kin, and referrals to additional appropriate programs and services to help youth achieve their permanency goals; .
+##### (b) Guidance
+Within 1 year after the date of the enactment of this Act and after consulting with youth with lived experience in foster care, the Secretary of Health and Human Services shall issue guidance to States and Tribal child welfare agencies regarding the purposes set forth in paragraphs (1) and (2) of section 477(a) of the Social Security Act, that includes, at a minimum—
+**(1)**
+examples of services and support eligible for Federal funding under part B of title IV of such Act, under part E of such title as part of completing and following the case plan requirements provided for in section 475A of such Act, or under section 477 of such Act, including individual youth support, family support, and peer support to engage youth during reunification, guardianship, or adoption proceedings;
+**(2)**
+best practices for facilitating peer support, mentoring, and the development and maintenance of lifelong connections, including practices that support sibling, tribal, and community connections, including minimum qualifications and training for persons providing mentoring and peer support;
+**(3)**
+standards of outreach to and notification of eligible youth, including youth with a planned permanent living arrangement, to ensure referrals to appropriate programs and services; and
+**(4)**
+protocols for documentation of support and relationship-building activities under section 477 of such Act that are required by section 475A of such Act to be included in a child's case plan, sufficient to permit review under the case review system described in section 475(5) of such Act.
+#### 12. Effective date
+##### (a) In general
+Except as otherwise provided in this Act, this Act and the amendments made by this Act shall take effect on the date that is 1 year after the date of the enactment of this Act.
+##### (b) Delayed permitted if State legislation required
+If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan under section 477 of the Social Security Act to meet the additional requirements imposed by the amendments made by sections 5(3), 5(4), 8(2), and 9(b) of this Act, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the preceding sentence, if the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.
+
+
+## Timeline
+
+- 2026-02-09: Introduced in House
+- 2026-02-09 - IntroReferral: Introduced in House
+- 2026-02-09 - IntroReferral: Introduced in House
+- 2026-02-09 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-02-09 - IntroReferral: Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-04-29 - Committee: Committee Consideration and Mark-up Session Held
+- 2026-04-29 - Committee: Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 40 - 0.
+- 2026-05-11 - Discharge: Committee on Financial Services discharged.
+- 2026-05-11 - Committee: Committee on Financial Services discharged.
+- 2026-05-11 - Calendars: Placed on the Union Calendar, Calendar No. 560.
+- 2026-05-11 - Committee: Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-643, Part I.
+- 2026-05-11 - Committee: Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-643, Part I.
+- 2026-05-19 14:39:44 - Floor: Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
+- 2026-05-19 14:39:56 - Floor: Considered under suspension of the rules. (consideration: CR H3558-3564)
+- 2026-05-19 14:39:57 - Floor: DEBATE - The House proceeded with forty minutes of debate on H.R. 7432.
+- 2026-05-19 15:21:39 - Floor: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3558-3560)
+- 2026-05-19 15:21:39 - Floor: Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3558-3560)
+- 2026-05-19 15:21:46 - Floor: Motion to reconsider laid on the table Agreed to without objection.
+- 2026-05-19 15:21:48 - Floor: The title of the measure was amended. Agreed to without objection.
+- 2026-05-20 - IntroReferral: Received in the Senate and Read twice and referred to the Committee on Finance.
+- Latest action: 2026-02-09: Introduced in House

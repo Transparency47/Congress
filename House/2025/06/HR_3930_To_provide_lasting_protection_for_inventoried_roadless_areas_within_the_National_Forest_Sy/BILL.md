@@ -1,0 +1,113 @@
+# HR 3930: Roadless Area Conservation Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-06-11
+- Latest action: 2025-06-11 - Introduced in House
+- Policy area: Public Lands and Natural Resources
+- Sponsor: Rep. Salinas, Andrea [D-OR-6]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/3930
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-06-11
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3930ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-06-11
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3930ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3930
+IN THE HOUSE OF REPRESENTATIVES
+June 11, 2025 Ms. Salinas (for herself, Ms. Ansari , Mr. Beyer , Ms. Brownley , Mr. Casten , Ms. Chu , Ms. Craig , Ms. Davids of Kansas , Ms. DeGette , Ms. DelBene , Mr. Huffman , Ms. Jacobs , Mr. Krishnamoorthi , Ms. Lofgren , Mr. Mullin , Mr. Neguse , Ms. Norton , Mr. Panetta , Ms. Pingree , Mr. Quigley , Mr. Smith of Washington , Ms. Stansbury , and Ms. Tokuda ) introduced the following bill; which was referred to the Committee on Agriculture , and in addition to the Committee on Natural Resources , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
+A BILL
+To provide lasting protection for inventoried roadless areas within the National Forest System.
+#### 1. Short title
+This Act may be cited as the Roadless Area Conservation Act of 2025 .
+#### 2. Findings and purpose
+##### (a) In general
+Congress finds that—
+**(1)**
+there is a compelling need to establish national protection for inventoried roadless areas of the National Forest System in order to protect the unique social and ecological values of those irreplaceable resources;
+**(2)**
+roadless areas protect healthy watersheds and the numerous benefits of healthy watersheds, which include—
+**(A)**
+providing the setting for many forms of outdoor recreation;
+**(B)**
+ensuring a supply of clean water for domestic, agricultural, and industrial uses;
+**(C)**
+providing drinking water to tens of millions of citizens of the United States; and
+**(D)**
+helping maintain abundant and healthy fish and wildlife populations and habitats;
+**(3)**
+maintaining roadless areas in a relatively undisturbed condition—
+**(A)**
+saves downstream communities millions of dollars in water filtration costs; and
+**(B)**
+is crucial to preserve the flow of affordable, clean water to a growing population;
+**(4)**
+the protection of roadless areas can maintain biological strongholds and refuges for many imperiled species by halting the ongoing fragmentation of the landscape into smaller and smaller parcels of land divided by road corridors;
+**(5)**
+roadless areas conserve native biodiversity by serving as a bulwark against the spread of nonnative invasive species;
+**(6)**
+roadless areas provide important back­country fish and game habitat, creating opportunities for hunting and commercial and sport fishing;
+**(7)**
+roadless areas provide unparalleled opportunities for outdoor recreation, including hiking, camping, picnicking, wildlife viewing, hunting, fishing, cross-country skiing, canoeing, mountain biking, and similar activities;
+**(8)**
+while roadless areas may have many wilderness-like attributes, unlike wilderness areas, the use of mechanized means of travel is allowed in many roadless areas;
+**(9)**
+roadless areas contain many sites sacred to Native Americans, Alaska Natives, and other groups that use roadless areas for spiritual and religious practices and access, including customary and traditional uses and activities;
+**(10)**
+from the inception of Federal land management, the mission of the Forest Service has been to manage the National Forest System for multiple uses, including resource utilization, conservation, and other uses;
+**(11)**
+consistent with the multiple-use mission described in paragraph (10), this Act—
+**(A)**
+ensures the continued protection of social and ecological values, while allowing for many multiple uses of inventoried roadless areas; and
+**(B)**
+does not impose any new limitations on—
+**(i)**
+inventoried roadless areas; or
+**(ii)**
+the use of, or access to, National Forest System, State, or private land outside inventoried roadless areas;
+**(12)**
+enacting a law for the protection of inventoried roadless areas—
+**(A)**
+provides additional reliability to areas with recreation-based economies that depend on public land without roads for jobs, revenue, and consumer spending; and
+**(B)**
+encourages forest managers to continue giving priority to conducting fuel reduction treatments in the areas in which the treatments will have the most impact;
+**(13)**
+wildfires are almost twice as likely to occur in roaded areas as in roadless areas, because road­less areas are generally located further away from communities and are harder to access;
+**(14)**
+the Forest Service has an enormous backlog of maintenance needs for the existing 368,102-mile road system of the Forest Service that will cost $5,980,000,000 to eliminate; and
+**(15)**
+continued protection of roadless areas will continue to allow for the development of hydropower projects.
+##### (b) Purpose
+The purpose of this Act is to provide, within the context of multiple-use management, lasting protection for inventoried roadless areas within the National Forest System.
+#### 3. Definitions
+In this Act:
+**(1) Inventoried roadless area**
+The term inventoried roadless area means any area in which road construction, road reconstruction, or logging is subject to regulation under the Roadless Rule.
+**(2) Roadless Rule**
+The term Roadless Rule means part 294 of title 36, Code of Federal Regulations, as adopted on January 12, 2001, and modified for Idaho on October 16, 2008, and for Colorado on July 3, 2012, and December 19, 2016.
+**(3) Secretary**
+The term Secretary means the Secretary of Agriculture, acting through the Chief of the Forest Service.
+#### 4. Protection of inventoried roadless areas
+The Secretary shall not allow road construction, road reconstruction, or logging in an inventoried roadless area where those activities are prohibited by the Roadless Rule.
+
+
+## Timeline
+
+- 2025-06-11: Introduced in House
+- 2025-06-11 - IntroReferral: Introduced in House
+- 2025-06-11 - IntroReferral: Introduced in House
+- 2025-06-11 - IntroReferral: Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-06-11 - IntroReferral: Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-06-11: Introduced in House

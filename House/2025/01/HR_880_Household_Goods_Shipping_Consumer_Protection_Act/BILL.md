@@ -1,0 +1,156 @@
+# HR 880: Household Goods Shipping Consumer Protection Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-01-31
+- Latest action: 2025-01-31 - Introduced in House
+- Policy area: Transportation and Public Works
+- Sponsor: Del. Norton, Eleanor Holmes [D-DC-At Large]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/880
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Household Goods Shipping Consumer Protection Act**
+
+This bill allows the Federal Motor Carrier Safety Administration (FMCSA) to assess civil penalties against motor carriers, brokers, and freight forwarders for violations related to the interstate transportation of household goods and provides states with additional related authorities.
+
+As background, a broker is the “middle person” between a shipper and a motor carrier and arranges for the transportation of household goods. A freight forwarder organizes shipments for individuals or corporations. Unlike a broker, freight forwarders assume responsibility for transportation and may transport the freight itself.
+
+The bill expands the FMCSA registration requirements to require motor carriers, brokers, and freight forwarders to designate a principal place of business (i.e., a single physical location where management officials report to work, a significant portion of the transportation business is conducted, and records are maintained). FMCSA may withhold, suspend, amend, or revoke any part of a registration for failure to designate.
+
+In addition, brokers and freight forwarders must disclose any common ownership, management, control, or familial relationship with any other carrier, freight forwarder, broker, or applicant in the previous three years. Under current law, motor carriers must disclose this information.
+
+Further, states may use certain grant funds to enforce federal household goods statutes and regulations for the interstate transportation of these goods by motor carriers and brokers. This applies to Motor Carrier Safety Assistance Program (MCSAP) grant funds and MCSAP High Priority discretionary grant funds. A state shall retain collected fines that are a result of enforcement.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-01-31
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr880ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-01-31
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr880ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 880
+IN THE HOUSE OF REPRESENTATIVES
+January 31, 2025 Ms. Norton (for herself, Mr. Ezell , Ms. Brownley , Mr. Carter of Louisiana , Mr. Hill of Arkansas , Mr. Garamendi , Mr. Cuellar , Ms. Scholten , and Mr. Burchett ) introduced the following bill; which was referred to the Committee on Transportation and Infrastructure
+A BILL
+A bill to amend title 49, United States Code, to clarify the authority of the Administrator of the Federal Motor Carrier Safety Administration relating to the shipping of household goods, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Household Goods Shipping Consumer Protection Act .
+#### 2. Administrative Assessment of Civil Penalties for Violations of Commercial Regulations
+##### (a) Enforcement by Secretary
+Section 14914 of title 49, United States Code, is amended—
+**(1)**
+by redesignating subsections (b), (c), and (d) as subsections (c), (d), and (e), respectively;
+**(2)**
+by inserting after subsection (a) the following:
+(b) Enforcement by Secretary If, after notice and an opportunity for a hearing, the Secretary finds that a person violated a provision of part B of subtitle IV of this title, or a regulation or order issued pursuant to such part, the Secretary shall assess a civil penalty by written notice. ;
+**(3)**
+in subsection (c), as redesignated by paragraph (1), by inserting or the Secretary after Board ; and
+**(4)**
+in subsection (d), as redesignated by paragraph (1), by inserting or the Secretary after Board .
+##### (b) Application
+Section 501(b) of title 49, United States Code, is amended—
+**(1)**
+by inserting 5, after 20303 and chapters ; and
+**(2)**
+by inserting 311, 313, after chapters), .
+#### 3. State Use of Grant Funds for Commercial Enforcement and Consumer Protection
+Section 31102 of title 49, United States Code, is amended—
+**(1)**
+in subsection (h)—
+**(A)**
+in paragraph (1)(B), by striking and at the end;
+**(B)**
+in paragraph (2)(B), by striking the period at the end and inserting ; and ; and
+**(C)**
+by adding at the end the following:
+(3) for the enforcement of Federal household goods statutes and regulations for the interstate transportation of household goods by household goods motor carriers and brokers, and for the intrastate transportation of household goods by household goods motor carriers if the State has adopted laws or regulations that are compatible with Federal household goods regulations. ;
+**(2)**
+in subsection (l)(2)—
+**(A)**
+in subparagraph (I), by striking and at the end;
+**(B)**
+by redesignating subparagraph (J) as subparagraph (K); and
+**(C)**
+by inserting after subparagraph (I) the following:
+(J) enforce Federal household goods statutes and regulations for the interstate transportation of household goods by household goods motor carriers and brokers, and for the intrastate transportation of household goods by household goods motor carriers if the State has adopted laws or regulations that are compatible with Federal household goods regulations; and ; and
+**(3)**
+by adding at the end the following:
+(m) State discretion The activities described in subsections (h)(3) and (l)(2)(J) are— (1) optional at the discretion of a State; and (2) not a condition on funds received under this section. .
+#### 4. State Retention of Penalties and Fines
+Section 14711 of title 49, United States Code, is amended by adding at the end the following:
+(g) Penalties Notwithstanding any other provision of law, any fine or penalty imposed on a carrier or broker in a proceeding under this section shall be paid to, and retained by, the State that imposed such fine or penalty. .
+#### 5. Registration Requirements
+##### (a) Definitions
+Section 13102 of title 49, United States Code, is amended by adding at the end the following:
+(28) Principal place of business The term principal place of business means a single physical business location of a specified entity where— (A) management officials of such specified entity report to work; (B) such specified entity conducts a significant portion of its business relating to the transportation of persons or property; and (C) such specified entity maintains records required by part B of subtitle IV or part B of subtitle VI. (29) Specified entity The term specified entity means— (A) an employer, as such term is defined in section 31132; (B) a person; (C) a motor carrier, including a foreign motor carrier or foreign motor private carrier; (D) a broker; or (E) a freight forwarder. .
+##### (b) Motor Carrier Generally
+Section 13902(a)(1) of title 49, United States Code, is amended—
+**(1)**
+in subparagraph (C), by striking and at the end;
+**(2)**
+in subparagraph (D), by striking the period at the end and inserting ; and ; and
+**(3)**
+by adding at the end the following:
+(E) has designated a principal place of business. .
+##### (c) Registration of freight forwarders
+Section 13903(a) of title 49, United States Code, is amended—
+**(1)**
+in paragraph (1), by striking and at the end;
+**(2)**
+in paragraph (2), by striking the period at the end and inserting a semicolon; and
+**(3)**
+by adding at the end the following:
+(3) has designated a principal place of business; and (4) has disclosed any relationship involving common ownership, common management, common control, or common familial relationship between such person and any other motor carrier, freight forwarder, broker, or any other applicant for motor carrier, freight forwarder, or broker registration, if the relationship occurred in the 3-year period preceding the date of the filing of the application for registration. .
+##### (d) Registration of brokers
+Section 13904(a) of title 49, United States Code, is amended—
+**(1)**
+in subsection (1) by striking and after the semicolon;
+**(2)**
+in subsection (2) by striking the period and inserting a semicolon; and
+**(3)**
+by inserting at the end the following:
+(3) has designated a principal place of business; and (4) has disclosed any relationship involving common ownership, common management, common control, or common familial relationship between such person and any other motor carrier, freight forwarder, or broker, or any other applicant for motor carrier, freight forwarder, or broker registration, if the relationship occurred in the 3-year period preceding the date of the filing of the application for registration. .
+##### (e) Complaints and actions on Secretary initiatives
+Section 13905(d)(2) of title 49, United States Code, is amended—
+**(1)**
+in subparagraph (C)(iii), by striking or at the end;
+**(2)**
+in subparagraph (D), by striking the period at the end and inserting ; or ; and
+**(3)**
+by adding at the end the following:
+(E) withhold, suspend, amend, or revoke any part of a registration of a motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder if the Secretary finds that the motor carrier, foreign motor carrier, foreign motor private carrier, broker, or freight forwarder failed to designate a valid principal place of business. .
+##### (f) Requirement for registration and USDOT number
+Section 31134 of title 49, United States Code, is amended—
+**(1)**
+in subsection (b)—
+**(A)**
+in paragraph (2), by striking or at the end;
+**(B)**
+in paragraph (3), by striking the period at the end and inserting ; or ; and
+**(C)**
+by adding at the end the following:
+(4) the employer or person seeking registration has designated a principal place of business, as defined in section 13102. ; and
+**(2)**
+in subsection (c)(2), by striking subsection (b)(1) and inserting subsection (b) .
+
+
+## Timeline
+
+- 2025-01-31: Introduced in House
+- 2025-01-31 - IntroReferral: Introduced in House
+- 2025-01-31 - IntroReferral: Introduced in House
+- 2025-01-31 - IntroReferral: Referred to the House Committee on Transportation and Infrastructure.
+- 2025-01-31 - IntroReferral: Sponsor introductory remarks on measure. (CR E80-81)
+- 2025-02-01 - Committee: Referred to the Subcommittee on Highways and Transit.
+- Latest action: 2025-01-31: Introduced in House

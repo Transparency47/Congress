@@ -1,0 +1,412 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/4811?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/4811
+- Title: Cell-Site Simulator Warrant Act of 2025
+- Congress: 119
+- Bill type: HR
+- Bill number: 4811
+- Origin chamber: House
+- Introduced date: 2025-07-29
+- Update date: 2026-05-27T20:57:18Z
+- Update date including text: 2026-05-27T20:57:18Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, summaries, text, titles
+
+## Timeline
+
+- 2025-07-29: Introduced in House
+- 2025-07-29 - IntroReferral: Introduced in House
+- 2025-07-29 - IntroReferral: Introduced in House
+- 2025-07-29 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-29 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-29 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-29 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2025-07-29: Introduced in House
+
+## Actions
+
+- 2025-07-29 - IntroReferral: Introduced in House
+- 2025-07-29 - IntroReferral: Introduced in House
+- 2025-07-29 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-29 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-29 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-07-29 - IntroReferral: Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-07-29",
+    "latestAction": {
+      "actionDate": "2025-07-29",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4811",
+    "number": "4811",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Crime and Law Enforcement"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000582",
+        "district": "36",
+        "firstName": "Ted",
+        "fullName": "Rep. Lieu, Ted [D-CA-36]",
+        "lastName": "Lieu",
+        "party": "D",
+        "state": "CA"
+      }
+    ],
+    "title": "Cell-Site Simulator Warrant Act of 2025",
+    "type": "HR",
+    "updateDate": "2026-05-27T20:57:18Z",
+    "updateDateIncludingText": "2026-05-27T20:57:18Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-07-29",
+      "committees": {
+        "item": {
+          "name": "Energy and Commerce Committee",
+          "systemCode": "hsif00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-07-29",
+      "committees": {
+        "item": {
+          "name": "Armed Services Committee",
+          "systemCode": "hsas00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-07-29",
+      "committees": {
+        "item": {
+          "name": "Intelligence (Permanent Select) Committee",
+          "systemCode": "hlig00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-07-29",
+      "committees": {
+        "item": {
+          "name": "Judiciary Committee",
+          "systemCode": "hsju00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on the Judiciary, and in addition to the Committees on Intelligence (Permanent Select), Armed Services, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-07-29",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-07-29",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-29T21:00:40Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Energy and Commerce Committee",
+      "systemCode": "hsif00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-29T21:00:35Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Armed Services Committee",
+      "systemCode": "hsas00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-29T21:00:30Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Intelligence (Permanent Select) Committee",
+      "systemCode": "hlig00",
+      "type": "Select"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-29T21:00:25Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Judiciary Committee",
+      "systemCode": "hsju00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "M001177",
+      "district": "5",
+      "firstName": "Tom",
+      "fullName": "Rep. McClintock, Tom [R-CA-5]",
+      "isOriginalCosponsor": "True",
+      "lastName": "McClintock",
+      "party": "R",
+      "sponsorshipDate": "2025-07-29",
+      "state": "CA"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4811ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 4811\nIN THE HOUSE OF REPRESENTATIVES\nJuly 29, 2025 Mr. Lieu (for himself and Mr. McClintock ) introduced the following bill; which was referred to the Committee on the Judiciary , and in addition to the Committees on Intelligence (Permanent Select) , Armed Services , and Energy and Commerce , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned\nA BILL\nTo amend title 18, United States Code, to regulate the use of cell-site simulators, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Cell-Site Simulator Warrant Act of 2025 .\n#### 2. Prohibition on cell-site simulator use\n##### (a) Prohibition\nChapter 205 of title 18, United States Code, is amended by adding at the end the following:\n3119. Cell-site simulators (a) Prohibition of use (1) In general Except as provided in subsection (d), it shall be unlawful\u2014 (A) for any individual or entity to knowingly use a cell-site simulator in the United States; or (B) for an element of the intelligence community to use a cell-site simulator outside the United States if the subject of the surveillance is a United States person. (2) Rule of construction Nothing in paragraph (1) shall be construed to authorize a law enforcement agency of a governmental entity to use a cell-site simulator outside the United States. (b) Penalty Any individual or entity that violates subsection (a)(1) shall be fined not more than $250,000. (c) Prohibition of use as evidence (1) In general Except as provided in paragraph (2), no information acquired through the use of a cell-site simulator in violation of subsection (a)(1), and no evidence derived therefrom, may be received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof. (2) Exception for enforcement Information acquired through the use of a cell-site simulator in violation of subsection (a)(1) by a person, and evidence derived therefrom, may be received in evidence in any trial, hearing, or other proceeding described in paragraph (1) of this subsection relating to the alleged violation of subsection (a)(1) in connection with such use. (d) Exceptions (1) In general (A) Warrant (i) In general Subsection (a)(1) shall not apply to the use of a cell-site simulator by a law enforcement agency of a governmental entity under a warrant issued\u2014 (I) in accordance with this subparagraph; and (II) using the procedures described in, and in accordance with the requirements for executing and returning a warrant under, the Federal Rules of Criminal Procedure (or, in the case of a State court, issued using State warrant and execution and return procedures and, in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title and in accordance with the requirements for executing and returning such a warrant, in accordance with regulations prescribed by the President) by a court of competent jurisdiction. (ii) Requirements A court may issue a warrant described in clause (i) (except, with respect to a State court, to the extent use of a cell-site simulator by a law enforcement agency of a governmental entity is prohibited by the law of the State) only if the law enforcement agency\u2014 (I) demonstrates that other investigative procedures, including electronic location tracking methods that solely collect records of the investigative target\u2014 (aa) have been tried and have failed; or (bb) reasonably appear to be\u2014 (AA) unlikely to succeed if tried; or (BB) too dangerous; (II) specifies the likely area of effect of the cell-site simulator to be used and the time that the cell-site simulator will be in operation; (III) certifies that the requested area of effect and time of operation are the narrowest reasonably possible to obtain the necessary information; and (IV) demonstrates that the requested use of a cell-site simulator would be in compliance with applicable provisions of the Communications Act of 1934 ( 47 U.S.C. 151 et seq. ) and the rules of the Federal Communications Commission. (iii) Considerations In considering an application for a warrant described in clause (i), the court shall\u2014 (I) weigh the need of the government to enforce the law and apprehend criminals against the likelihood and impact of any potential negative side effects disclosed by the government under subparagraph (C); and (II) not grant a request for a warrant that would put public safety at risk or unreasonably inconvenience the community. (iv) Period of initial authorization No warrant described in clause (i) may authorize the use of a cell site simulator for any period longer than is necessary to achieve the objective of the authorization, nor in any event for longer than 30 days. (v) Extensions (I) In general A court may grant extensions of a warrant described in clause (i), but only upon application for an extension made in accordance with clause (i) and the court considering the factors described in clause (iii) and determining the requirements under clause (ii) are met. (II) Period of extension The period of an extension of a warrant shall be no longer than the authorizing judge determines necessary to achieve the purposes for which the extension was granted, nor in any event for longer than 30 days. (vi) Termination provision Each warrant described in clause (i), and each extension thereof, shall contain a provision that the authorization to use the cell site simulator shall be executed as soon as practicable and shall terminate upon attainment of the authorized objective, or in any event in 30 days. (vii) Start of 30-day periods The 30-day periods described in clauses (iv), (v)(II), and (vi) shall begin on the earlier of\u2014 (I) the date on which a law enforcement agency first begins to use the cell site simulator as authorized by the warrant, or extension thereof; or (II) the date that is 10 days after the warrant, or extension thereof, is issued. (B) Emergency (i) In general Subject to clause (ii), subsection (a)(1) shall not apply to the use of a cell-site simulator by a law enforcement agency of a governmental entity, or use of a cell-site simulator as part of assistance provided by a component of the Department of Defense or an Armed Force to such a law enforcement agency, if\u2014 (I) the governmental entity reasonably determines an emergency exists that\u2014 (aa) involves\u2014 (AA) immediate danger of death or serious physical injury to any person; (BB) conspiratorial activities characteristic of organized crime; or (CC) an immediate threat to a national security interest; and (bb) requires use of a cell-site simulator before a warrant described in subparagraph (A) can, with due diligence, be obtained; and (II) except in an instance in which the governmental entity is trying to locate a lost or missing person, locate someone believed to have been abducted or kidnapped, or find victims, dead or alive, in an area where a natural disaster, terrorist attack, or other mass casualty event has taken place\u2014 (aa) there are grounds upon which a warrant described in subparagraph (A) could be entered to authorize such use; and (bb) the governmental entity applies for a warrant described in subparagraph (A) approving such use not later than 48 hours after such use begins, and takes such steps to expedite the consideration of such application as may be possible. (ii) Termination of emergency use (I) In general A law enforcement agency of a governmental entity shall immediately terminate use of a cell-site simulator under clause (i) of this subparagraph at the earlier of the time the information sought is obtained or the time the application for a warrant described in subparagraph (A) is denied. (II) Warrant denied If an application for a warrant described in clause (i)(II)(bb) is denied\u2014 (aa) any information or evidence derived from use of the cell-site simulator shall be\u2014 (AA) subject to subsection (c); and (BB) promptly destroyed by the applicable law enforcement agency; and (bb) the applicable law enforcement agency shall serve an inventory on each person named in the application. (C) Disclosures required in application In any application for a warrant authorizing the use of a cell-site simulator under subparagraph (A) or (B), the governmental entity shall include the following: (i) A disclosure of any potential disruption of the ability of the subject of the surveillance or bystanders to use commercial mobile radio services or private mobile services, including using advanced communications services, to make or receive, as applicable\u2014 (I) emergency calls (including 9\u20131\u20131 calls); (II) calls to the universal telephone number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system designated under paragraph (4) of section 251(e) of the Communications Act of 1934 ( 47 U.S.C. 251(e) ); (III) calls to the nationwide toll-free number for the poison control centers established under section 1271 of the Public Health Service Act ( 42 U.S.C. 300d\u201371 ); (IV) calls using telecommunications relay services; or (V) any other communications or transmissions. (ii) A certification that the specific model of the cell-site simulator to be used has been inspected by a third party that is an accredited testing laboratory recognized by the Federal Communications Commission to verify the accuracy of the disclosure under clause (i). (iii) A disclosure of the methods and precautions that will be used to minimize disruption, including\u2014 (I) any limit on the length of time the cell-site simulator can be in continuous operation; and (II) any user-defined limit on the transmission range of the cell-site simulator. (iv) A disclosure as to whether the cell-site simulator will primarily be used at a gathering where constitutionally protected activity, including speech, will occur. (D) Notice (i) In general Within a reasonable time, but, subject to clause (ii), not later than 90 days after the filing of an application for a warrant authorizing the use of a cell-site simulator which is denied or the termination of the period of such a warrant, or extensions thereof, the issuing or denying judge shall cause to be served on the persons named in the warrant or the application, and, as the judge may determine, in the discretion of the judge, is in the interest of justice, other persons about whose devices the government obtained information with the cell site simulator, an inventory which shall include notice of\u2014 (I) the fact of the entry of the warrant or the application; (II) the date of the entry and the period of authorized, approved or disapproved use of a cell-site simulator, or the denial of the application; and (III) whether, during the period\u2014 (aa) information about their device was, or was not, obtained by the government; (bb) their location was, or was not, tracked; and (cc) their communications were, or were not, intercepted. (ii) Delay of notice On an ex parte showing of good cause to a court of competent jurisdiction, the serving of the inventory required under clause (i) may be postponed. (2) Foreign intelligence surveillance Use of a cell-site simulator by an element of the intelligence community shall not be subject to subsection (a)(1) if it is conducted in a manner that is in accordance with\u2014 (A) title I of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 et seq. ) (including testing or training authorized under paragraph (1) or (3) of section 105(g) of such Act ( 50 U.S.C. 1805(g) ) (including such testing or training conducted in conjunction with a component of the Department of Defense or an Armed Force), if any information obtained during such testing or training (including metadata) is destroyed after its use for such testing or training); or (B) section 704(c)(1)(E) of such Act ( 50 U.S.C. 1881c(c)(1)(E) ). (3) Research Subsection (a)(1) shall not apply to the use of a cell-site simulator in order to engage, in good-faith, in research or teaching by a person that is not\u2014 (A) a law enforcement agency of a governmental entity; (B) an element of the intelligence community; or (C) acting as an agent thereof. (4) Protective services (A) In general Subsection (a)(1) shall not apply to the use of a cell-site simulator in the performance of protective duties pursuant to section 3056 of this title, or as otherwise authorized by law. (B) Prohibition on use as evidence No information acquired through the use of a cell-site simulator under the authority under subparagraph (A), and no evidence derived therefrom, may be received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority of the United States, a State, or a political subdivision thereof. (C) No bar to other authorized use Nothing in subparagraph (A) or (B) shall be construed to prohibit the United States Secret Service from using a cell-site simulator in accordance with a provision of this section other than subparagraph (A). (5) Contraband interdiction by correctional facilities Subsection (a)(1) shall not apply to the use of a contraband interdiction system if the correctional facility or the entity operating the contraband interdiction system for the benefit of the correctional facility\u2014 (A) has\u2014 (i) taken reasonable steps to restrict transmissions by the contraband interdiction system to cellular devices physically located within the property of the correctional facility; (ii) posted signs around the correctional facility informing visitors and staff that the correctional facility employs such a contraband interdiction system; and (iii) complied with any relevant regulations promulgated by the Federal Communications Commission and, as applicable, policies issued by the National Telecommunications and Information Administration; (B) annually tests and evaluates compliance with subparagraph (A) in accordance with best practices, which shall be issued by the Federal Communications Commission; and (C) not later than 10 business days after identifying an issue relating to the use of the contraband interdiction system, whether in the course of normal business operations or conducting testing and evaluation, submits to the Federal Communications Commission a report describing the issues identified and the steps taken to address the issues. (6) Testing and training by law enforcement Subsection (a)(1) shall not apply to the use of a cell-site simulator by a law enforcement agency of a governmental entity in the normal course of official duties that is not targeted against the communications of any particular person or persons, under procedures approved by the Attorney General, solely to\u2014 (A) test the capability of electronic equipment, if\u2014 (i) it is not reasonable to obtain the consent of the persons incidentally subjected to the surveillance; (ii) the test is limited in extent and duration to that necessary to determine to capability of the equipment; (iii) any information obtained during such testing (including metadata) is retained and used only for the purpose of determining the capability of the equipment, is disclosed only to test personnel, and is destroyed before or immediately upon completion of the test; and (iv) the test is for a period of not longer than 90 days, unless the law enforcement agency obtains the prior approval of the Attorney General; or (B) train law enforcement personnel in the use of electronic surveillance equipment, if\u2014 (i) it is not reasonable to\u2014 (I) obtain the consent of the persons incidentally subjected to the surveillance; (II) train persons in the course of otherwise authorized law enforcement activities; or (III) train persons in the use of such equipment without engaging in surveillance; (ii) such surveillance is limited in extent and duration to that necessary to train the personnel in the use of the equipment; and (iii) any information obtained during such training (including metadata) is destroyed after its use for such training. (7) FCC Testing Subsection (a)(1) shall not apply to the use of a cell-site simulator by the Federal Communications Commission, or an accredited testing laboratory recognized by the Federal Communications Commission, in order to test the cell-site simulator. (8) Rule of construction Nothing in this subsection shall be construed to exempt a State or local government from complying with regulations promulgated by the Federal Communications Commission, including the requirement to obtain authorization to transmit on spectrum regulated by the Federal Communications Commission. (e) Limit on certain use not conducted pursuant to warrants and orders The use of a cell-site simulator under subsection (d)(1)(B) of this section (which shall not include such a use by a component of the Department of Defense or an Armed Force providing assistance to a law enforcement agency of a governmental entity under such subsection (d)(1)(B)), under section 105(e) of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1805(e) ), or under clause (i) or (ii) of section 102(a)(1)(A) of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1802(a)(1)(A) ) may only be carried out lawfully using a specific model of a cell-site simulator for which the disclosures required under clauses (i) and (ii) of subsection (d)(1)(C) were included with respect to the specific model in connection with\u2014 (1) for use by an element of the intelligence community under title I of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 et seq. ), an application for an order under such Act that was approved; or (2) for use by a law enforcement agency of a governmental entity, an application for a warrant\u2014 (A) under the Federal Rules of Criminal Procedure that was approved by a judge of the judicial district in which the law enforcement agency intends to use the cell-site simulator; or (B) using State warrant procedures that was approved by a judge of the State in which the law enforcement agency intends to use the cell-site simulator. (f) Minimization (1) In general The Attorney General shall adopt specific procedures that are reasonably designed to minimize the acquisition and retention, and prohibit the dissemination, of information obtained through the use of a cell-site simulator under an exception under paragraph (1) or (2) of subsection (d) that pertains to any person who is not an authorized subject of the use. (2) Publication The Attorney General shall make publicly available on the website of the Department of Justice the procedures adopted under paragraph (1) and any revisions to such procedures. (3) Use by agencies If a law enforcement agency of a governmental entity or element of the intelligence community acquires information pertaining to a person who is not an authorized subject of the use of a cell-site simulator under an exception under paragraph (1) or (2) of subsection (d), the law enforcement agency or element of the intelligence community shall\u2014 (A) minimize the acquisition and retention, and prohibit the dissemination, of the information in accordance with the procedures adopted under paragraph (1); and (B) destroy the information (including metadata) at the earliest possible opportunity. (g) Disclosure to defendant Any information acquired through the operation of a cell-site simulator, or derived from such information, shall be disclosed to the defendant in any action in which the information is introduced into evidence. (h) Scope of collection (1) Authorized use Information collected under this section may only include information identifying nearby electronic devices communicating with the cell-site simulator and the strength and direction of transmissions from those electronic devices. (2) Compliance with wiretapping requirements to obtain contents In the case of any interception of a wire or electronic communication by the cell-site simulator\u2014 (A) with respect to an interception by a law enforcement agency of a governmental entity, the provisions of chapter 119 shall apply in addition to the provisions of this section; and (B) with respect to an interception by an element of the intelligence community, the element of the intelligence community may only conduct the surveillance using the cell-site simulator in accordance with an order authorizing the use issued in accordance with title I of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 et seq. ), in addition to complying with the provisions of this section. (3) Compliance with tracking device requirements (A) In general If a cell-site simulator is to be used by a law enforcement agency of a governmental entity to locate or track the movement of a person or object, the provisions of section 3117 and rule 41 of the Federal Rules of Criminal Procedure shall apply in addition to the provisions of this section. (B) Court For purposes of applying section 3117 and rule 41 of the Federal Rules of Criminal Procedure to the use of a cell-site simulator, a court may authorize such use within the jurisdiction of the court, and outside that jurisdiction if\u2014 (i) the use commences within that jurisdiction; or (ii) at the time the application is presented to the court, the governmental entity certifies that it has probable cause to believe that the target is physically located within that jurisdiction. (i) Civil action Any person subject to an unlawful operation of a cell-site simulator may bring a civil action for appropriate relief (including declaratory and injunctive relief, actual damages, statutory damages of not more than $500 for each violation, and attorney fees) against the person, including a governmental entity, that conducted that unlawful operation before a court of competent jurisdiction. (j) Administrative discipline If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this section, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination. (k) Definitions As used in this section\u2014 (1) the terms defined in section 2711 have, respectively, the definitions given such terms in that section; (2) the term advanced communications services has the meaning given that term in section 3 of the Communications Act of 1934 ( 47 U.S.C. 153 ); (3) the term cell-site simulator means any device that functions as or simulates a base station for commercial mobile services or private mobile services in order to identify, locate, or intercept transmissions from cellular devices for purposes other than providing ordinary commercial mobile services or private mobile services; (4) the term commercial mobile radio service has the meaning given that term in section 20.3 of title 47, Code of Federal Regulations, or any successor thereto; (5) the term contraband interdiction system means any device that functions as or simulates a base station for commercial mobile services or private mobile services for purposes of identifying, locating, or intercepting transmissions from contraband cellular devices in correctional facilities; (6) the term derived means, with respect to information or evidence, that the government would not have originally possessed the information or evidence but for the use of a cell-site simulator, and regardless of any claim that the information or evidence is attenuated from the surveillance would inevitably have been discovered, or was subsequently reobtained through other means; (7) the term electronic communication has the meaning given that term in section 2510; (8) the term electronic device has the meaning given the term computer in section 1030(e); (9) the term emergency call has the meaning given that term in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 ( 47 U.S.C. 1401 ); (10) the term intelligence community has the meaning given that term in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 ); (11) the term mitigation means the deletion of all information collected about a person who is not the subject of the warrant or investigation; (12) the term private mobile service has the meaning given that term in section 332 of the Communications Act of 1934 ( 47 U.S.C. 332 ); (13) the term telecommunications relay service has the meaning given that term in section 225 of the Communications Act of 1934 ( 47 U.S.C. 225 ); and (14) the term United States person has the meaning given that term in section 101 of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 ). .\n##### (b) Foreign Intelligence Surveillance Act of 1978 requirements\nThe Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 et seq. ) is amended\u2014\n**(1)**\nin section 101 ( 50 U.S.C. 1801 ), by adding at the end the following:\n(q) Cell-site simulator has the meaning given that term in section 3119 of title 18, United States Code. ;\n**(2)**\nin section 102(a) ( 50 U.S.C. 1802(a) ), by adding at the end the following:\n(5) The Government may only use a cell-site simulator pursuant to the authority under clause (i) or (ii) of paragraph (1)(A) without obtaining an order under this title authorizing such use if the Government has implemented measures that are reasonably likely to limit the collection activities to\u2014 (A) means of communications used exclusively between or among foreign powers, as defined in paragraph (1), (2), or (3) of section 101(a); or (B) property or premises under the open and exclusive control of a foreign power, as defined in paragraph (1), (2), or (3) of section 101(a). ;\n**(3)**\nin section 105 ( 50 U.S.C. 1805 ), by adding at the end the following:\n(k) (1) A judge having jurisdiction under section 103 may issue an order under this section that authorizes the use of a cell-site simulator only if the applicant\u2014 (A) demonstrates that other investigative procedures, including electronic location tracking methods that solely collect records of the investigative target\u2014 (i) have been tried and have failed; or (ii) reasonably appear to be\u2014 (I) unlikely to succeed if tried; or (II) too dangerous; (B) specifies the likely area of effect of the cell-site simulator to be used and the time that the cell-site simulator will be in operation; (C) certifies that the requested area of effect and time of operation are the narrowest reasonably possible to obtain the necessary information; and (D) demonstrates that the requested use of a cell-site simulator would be in compliance with applicable provisions of the Communications Act of 1934 ( 47 U.S.C. 151 et seq. ) and the rules of the Federal Communications Commission. (2) In any application for an order under this section authorizing the use of a cell-site simulator, the applicant shall include the following: (A) A disclosure of any potential disruption of the ability of the subject of the surveillance or bystanders to use commercial mobile radio services or private mobile services, including using advanced communications services, to make or receive, as applicable\u2014 (i) emergency calls (including 9\u20131\u20131 calls); (ii) calls to the universal telephone number within the United States for the purpose of the national suicide prevention and mental health crisis hotline system under designated under paragraph (4) of section 251(e) of the Communications Act of 1934 ( 47 U.S.C. 251(e) ); (iii) calls to the nationwide toll-free number for the poison control centers established under section 1271 of the Public Health Service Act ( 42 U.S.C. 300d\u201371 ); (iv) calls using telecommunications relay services; or (v) any other communications or transmissions. (B) A certification that the specific model of the cell-site simulator to be used has been inspected by a third party that is an accredited testing laboratory recognized by the Federal Communications Commission to verify the accuracy of the disclosure under subparagraph (A). (C) A disclosure of the methods and precautions that will be used to minimize disruption, including\u2014 (i) any limit on the length of time the cell-site simulator can be in continuous operation; and (ii) any user-defined limit on the transmission range of the cell-site simulator. (D) A disclosure as to whether the cell-site simulator will primarily be used at a gathering where constitutionally protected activity, including speech, will occur. (3) In considering an application for an order under this section that authorizes the use of a cell-site simulator, the court shall\u2014 (A) weigh the need of the Government to obtain the information sought against the likelihood and impact of any potential negative side effects disclosed by the Government under paragraph (2); and (B) not grant a request for an order that would put public safety at risk or unreasonably inconvenience the community. ; and\n**(4)**\nin section 704(c)(1) ( 50 U.S.C. 1881c(c)(1) )\u2014\n**(A)**\nin subparagraph (C), by striking and at the end;\n**(B)**\nin subparagraph (D), by striking the period at the end and inserting ; and ; and\n**(C)**\nby adding at the end the following:\n(E) if the applicant is seeking to use a cell-site simulator (as defined in section 101), the requirements that would apply for the use of a cell-site simulator in the United States under section 105(k) have been satisfied. .\n##### (c) Conforming amendment\nSection 3127 of title 18, United States Code, is amended\u2014\n**(1)**\nin paragraph (3) by striking but such term does not include any and inserting except such term does not include any cell-site simulator, as that term is defined in section 3119, or ; and\n**(2)**\nin paragraph (4) by striking of any communication and inserting of any communication, except such term does not include any cell-site simulator, as that term is defined in section 3119 .\n##### (d) Inspector General reports\n**(1) Definition**\nIn this subsection, the term covered Federal entity means\u2014\n**(A)**\na law enforcement agency of a department or agency of the Federal Government; and\n**(B)**\nan element of the intelligence community (as defined in section 3 of the National Security Act of 1947 ( 50 U.S.C. 3003 )).\n**(2) Reports**\nThe Inspector General of the Department of Justice, the Inspector General of the Department of Homeland Security, the Inspector General of the Department of Defense, and the Inspector General of the Intelligence Community shall annually submit to Congress a joint report, and publish an unclassified version of the report on the website of each such inspector general, on\u2014\n**(A)**\nthe overall compliance of covered Federal entities with this Act and the amendments made by this Act;\n**(B)**\nthe number of applications by covered Federal entities for use of a cell-site simulator that were applied for and the number that were granted;\n**(C)**\nthe number of emergency uses of a cell-site simulator under section 3119(d)(1)(B) of title 18, United States Code, as added by this Act;\n**(D)**\nthe number of such emergency uses for which a court subsequently issued a warrant authorizing the use and the number of such emergency uses in which an application for a warrant was denied;\n**(E)**\nthe number of devices that were targeted with a cell-site simulator, which shall be provided separately for targeting conducted pursuant to a warrant or court order and targeting conducted pursuant to an authority to use a cell-site simulator without a warrant or order;\n**(F)**\nthe number of devices that were not the target of the use of a cell-site simulator about which information was obtained with the cell-site simulator, which shall\u2014\n**(i)**\nbe provided separately for use conducted pursuant to a warrant or court order and use conducted pursuant to an authority to use a cell-site simulator without a warrant or order; and\n**(ii)**\ninclude the number of such devices about which the information was not destroyed as a result of the minimization requirements under section 3119(f) of title 18, United States Code, as added by this section, which shall be provided separately for use conducted pursuant to a warrant or court order and use conducted pursuant to an authority to use a cell-site simulator without a warrant or order;\n**(G)**\nwhich components of a law enforcement agency of a department or agency of the Federal Government are using cell-site simulators and how many are available to that component; and\n**(H)**\ninstances in which a law enforcement agency of a department or agency of the Federal Government made cell-site simulators available to a State or unit of local government.\n**(3) Form of reports**\nEach report submitted under paragraph (2) shall be submitted in unclassified form, but may include a classified annex.\n##### (e) FCC regulations\n**(1) In general**\nNot later than 180 days after the date of enactment of this Act, the Federal Communications Commission shall initiate any proceeding that may be necessary to promulgate or modify regulations promulgated by the Federal Communications Commission to implement this Act and the amendments made by this Act.\n**(2) Construction**\nNothing in this Act or an amendment made by this Act shall be construed to expand or contract the authority of the Federal Communications Commission.\n##### (f) Effective date\n**(1) In general**\nExcept as provided in paragraph (2), subsections (a), (b), (c), and (d) of this section, and the amendments made by such subsections, shall apply on and after the date that is 2 years after the date of enactment of this Act.\n**(2) Exceptions**\n**(A) Definition**\nIn this paragraph, the term cell-site simulator has the meaning given that term in section 3119 of title 18, United States Code, as added by subsection (a).\n**(B) Extension for existing cell-site simulators**\nFor any model of a cell-site simulator in use before the date of enactment of this Act, including such use in a contraband interdiction system at a correctional facility, if the Attorney General certifies that additional time is necessary to obtain independent tests of the model of cell-site simulator, subsections (a), (b), (c), and (d) of this section, and the amendments made by such subsections, shall apply to the use of the model of cell-site simulator on and after the date that is 3 years after the date of enactment of this Act.",
+      "versionDate": "2025-07-29",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-07-29",
+        "text": "Read twice and referred to the Committee on the Judiciary."
+      },
+      "number": "2522",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "Cell-Site Simulator Warrant Act of 2025",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Crime and Law Enforcement",
+        "updateDate": "2025-09-18T17:58:22Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: summaries
+
+```json
+{
+  "govinfoBulk": {
+    "introducedDate": "2025-07-29",
+    "originChamber": "House",
+    "payload": {
+      "dublinCore": {
+        "contributor": "Congressional Research Service, Library of Congress",
+        "description": "This file contains bill summaries for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is \"to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives\". For more information, refer to the User Guide that accompanies this file.",
+        "format": "text/xml",
+        "language": "EN",
+        "rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      },
+      "item": {
+        "@attributes": {
+          "congress": "119",
+          "measure-id": "id119hr4811",
+          "measure-number": "4811",
+          "measure-type": "hr",
+          "orig-publish-date": "2025-07-29",
+          "originChamber": "HOUSE",
+          "update-date": "2026-05-27"
+        },
+        "summary": {
+          "@attributes": {
+            "currentChamber": "HOUSE",
+            "summary-id": "id119hr4811v00",
+            "update-date": "2026-05-27"
+          },
+          "action-date": "2025-07-29",
+          "action-desc": "Introduced in House",
+          "summary-text": "<p><strong>Cell-Site Simulator Warrant Act of 2025</strong></p><p>This bill establishes a federal statutory framework to regulate the use of cell-site simulators. Cell-site simulators (commonly known as Stingrays) are devices that function as or simulate a cell-phone tower to identify, locate, or intercept transmissions from a cell phone for purposes other than providing ordinary commercial mobile services or private mobile services.</p><p>The framework generally prohibits the knowing use of a cell-site simulator domestically by an individual or entity or the use of a cell-site simulator by an element of the intelligence community outside the United States to conduct surveillance of a U.S. person. It imposes a civil fine on an individual or entity that violates the prohibition and restricts the use of unlawfully acquired information as evidence in a legal proceeding or official proceeding.</p><p>The framework contains exceptions to permit the use of a cell-site simulator in certain circumstances, such as by a law enforcement agency pursuant to a warrant or by an element of the intelligence community to conduct surveillance under the Foreign Intelligence Surveillance Act of 1978.</p><p>Finally, an individual who is the subject of unlawful use of a cell-site simulator may bring a private right of action.</p>"
+        },
+        "title": "Cell-Site Simulator Warrant Act of 2025"
+      }
+    },
+    "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSUM/119/hr/BILLSUM-119hr4811.xml",
+    "summary": {
+      "actionDate": "2025-07-29",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Cell-Site Simulator Warrant Act of 2025</strong></p><p>This bill establishes a federal statutory framework to regulate the use of cell-site simulators. Cell-site simulators (commonly known as Stingrays) are devices that function as or simulate a cell-phone tower to identify, locate, or intercept transmissions from a cell phone for purposes other than providing ordinary commercial mobile services or private mobile services.</p><p>The framework generally prohibits the knowing use of a cell-site simulator domestically by an individual or entity or the use of a cell-site simulator by an element of the intelligence community outside the United States to conduct surveillance of a U.S. person. It imposes a civil fine on an individual or entity that violates the prohibition and restricts the use of unlawfully acquired information as evidence in a legal proceeding or official proceeding.</p><p>The framework contains exceptions to permit the use of a cell-site simulator in certain circumstances, such as by a law enforcement agency pursuant to a warrant or by an element of the intelligence community to conduct surveillance under the Foreign Intelligence Surveillance Act of 1978.</p><p>Finally, an individual who is the subject of unlawful use of a cell-site simulator may bring a private right of action.</p>",
+      "updateDate": "2026-05-27",
+      "versionCode": "id119hr4811"
+    },
+    "title": "Cell-Site Simulator Warrant Act of 2025"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-07-29",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Cell-Site Simulator Warrant Act of 2025</strong></p><p>This bill establishes a federal statutory framework to regulate the use of cell-site simulators. Cell-site simulators (commonly known as Stingrays) are devices that function as or simulate a cell-phone tower to identify, locate, or intercept transmissions from a cell phone for purposes other than providing ordinary commercial mobile services or private mobile services.</p><p>The framework generally prohibits the knowing use of a cell-site simulator domestically by an individual or entity or the use of a cell-site simulator by an element of the intelligence community outside the United States to conduct surveillance of a U.S. person. It imposes a civil fine on an individual or entity that violates the prohibition and restricts the use of unlawfully acquired information as evidence in a legal proceeding or official proceeding.</p><p>The framework contains exceptions to permit the use of a cell-site simulator in certain circumstances, such as by a law enforcement agency pursuant to a warrant or by an element of the intelligence community to conduct surveillance under the Foreign Intelligence Surveillance Act of 1978.</p><p>Finally, an individual who is the subject of unlawful use of a cell-site simulator may bring a private right of action.</p>",
+      "updateDate": "2026-05-27",
+      "versionCode": "id119hr4811"
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-07-29",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4811ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Cell-Site Simulator Warrant Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-08-15T04:53:18Z"
+    },
+    {
+      "title": "Cell-Site Simulator Warrant Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-08-15T04:53:18Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend title 18, United States Code, to regulate the use of cell-site simulators, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-08-15T04:48:21Z"
+    }
+  ]
+}
+```

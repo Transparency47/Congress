@@ -1,0 +1,60 @@
+# HR 5916: Grandfamily Housing Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-11-04
+- Latest action: 2025-11-04 - Introduced in House
+- Policy area: Housing and Community Development
+- Sponsor: Rep. McGovern, James P. [D-MA-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/5916
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-11-04
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5916ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-11-04
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr5916ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 5916
+IN THE HOUSE OF REPRESENTATIVES
+November 4, 2025 Mr. McGovern (for himself and Ms. Pressley ) introduced the following bill; which was referred to the Committee on Financial Services
+A BILL
+To provide grants to owners of intergenerational dwelling units, and for other purposes.
+#### 1. Short title
+This Act may be cited to as the Grandfamily Housing Act of 2025 .
+#### 2. Grant program for grandfamily housing
+##### (a) In general
+Title II of the LEGACY Act of 2003 ( 12 U.S.C. 1790q note) is amended by adding at the end the following:
+206. Grant program (a) In general The Secretary shall, not later than 180 days after the date of enactment of this section, establish a program to provide grants to owners of intergenerational dwelling units. (b) Application To be eligible to receive a grant under this section, an owner of an intergenerational dwelling unit shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. (c) Use of grant amounts An owner of an intergenerational dwelling unit that receives a grant under this section shall use amounts provided to cover costs associated with— (1) employing a service coordinator to— (A) offer onsite services to intergenerational families, including tutoring, health care services, afterschool care, and activities that are age appropriate for children of various ages of development; and (B) coordinate with any local kinship navigator program (as described in section 474(a)(7) of the Social Security Act ( 42 U.S.C. 674(a)(7) )); (2) facilitating outreach to intergenerational families as described in subsection (d); (3) planning and providing services to intergenerational families; and (4) retrofitting and maintaining existing spaces within the property that contains the intergenerational dwelling unit for the services and programs provided to intergenerational families. (d) Outreach (1) In general An owner of an intergenerational dwelling unit that receives a grant under this section shall engage with intergenerational families in the community surrounding the property that contains the grandfamily housing owned by the grant recipient by— (A) performing periodic informational outreach; and (B) planning and offering events for intergenerational families. (2) Coordination Outreach under this subsection shall, where possible, be in coordination with a local kinship navigator program (as described in section 474(a)(7) of the Social Security Act ( 42 U.S.C. 674(a)(7) )) or a comparable program or entity in the State in which the intergenerational dwelling unit is located. (e) Authorization of appropriations There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section for each of fiscal years 2026 through 2030. (f) Nondiscrimination The program established under this section shall be implemented by the Secretary in a manner that is consistent with the Fair Housing Act ( 42 U.S.C. 3601 et seq. ). .
+##### (b) VAWA protections
+Section 41411(a)(3) of the Violence Against Women Act of 1994 ( 34 U.S.C. 12491(a)(3) ) is amended—
+**(1)**
+by redesignating subparagraphs (O) and (P) as subparagraphs (P) and (Q), respectively; and
+**(2)**
+by inserting after subparagraph (N) the following:
+(O) the program established under section 206 of the LEGACY Act of 2003; .
+##### (c) Report
+Not later than 2 years after the date of enactment of this section, the Secretary of Housing and Urban Development shall submit to the Congress a report that—
+**(1)**
+describes the effectiveness of the grant program established under section 206 of the LEGACY Act of 2003, as added by subsection (a); and
+**(2)**
+makes recommendations for legislative changes that could allow for the grant program to be more effective.
+
+
+## Timeline
+
+- 2025-11-04: Introduced in House
+- 2025-11-04 - IntroReferral: Introduced in House
+- 2025-11-04 - IntroReferral: Introduced in House
+- 2025-11-04 - IntroReferral: Referred to the House Committee on Financial Services.
+- Latest action: 2025-11-04: Introduced in House

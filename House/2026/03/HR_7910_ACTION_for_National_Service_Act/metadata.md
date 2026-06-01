@@ -1,0 +1,469 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/7910?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/7910
+- Title: ACTION for National Service Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 7910
+- Origin chamber: House
+- Introduced date: 2026-03-12
+- Update date: 2026-04-30T19:59:03Z
+- Update date including text: 2026-04-30T19:59:03Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2026-03-12: Introduced in House
+- 2026-03-12 - IntroReferral: Introduced in House
+- 2026-03-12 - IntroReferral: Introduced in House
+- 2026-03-12 - IntroReferral: Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-03-12 - IntroReferral: Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- Latest action: 2026-03-12: Introduced in House
+
+## Actions
+
+- 2026-03-12 - IntroReferral: Introduced in House
+- 2026-03-12 - IntroReferral: Introduced in House
+- 2026-03-12 - IntroReferral: Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-03-12 - IntroReferral: Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2026-03-12",
+    "latestAction": {
+      "actionDate": "2026-03-12",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/7910",
+    "number": "7910",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Labor and Employment"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "L000557",
+        "district": "1",
+        "firstName": "John",
+        "fullName": "Rep. Larson, John B. [D-CT-1]",
+        "lastName": "Larson",
+        "party": "D",
+        "state": "CT"
+      }
+    ],
+    "title": "ACTION for National Service Act",
+    "type": "HR",
+    "updateDate": "2026-04-30T19:59:03Z",
+    "updateDateIncludingText": "2026-04-30T19:59:03Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-03-12",
+      "committees": {
+        "item": {
+          "name": "Ways and Means Committee",
+          "systemCode": "hswm00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "H11100",
+      "actionDate": "2026-03-12",
+      "committees": {
+        "item": {
+          "name": "Education and Workforce Committee",
+          "systemCode": "hsed00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2026-03-12",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2026-03-12",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2026-03-12T13:33:05Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Ways and Means Committee",
+      "systemCode": "hswm00",
+      "type": "Standing"
+    },
+    {
+      "activities": {
+        "item": {
+          "date": "2026-03-12T13:33:00Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "L000562",
+      "district": "8",
+      "firstName": "Stephen",
+      "fullName": "Rep. Lynch, Stephen F. [D-MA-8]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Lynch",
+      "middleName": "F.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "MA"
+    },
+    {
+      "bioguideId": "Q000023",
+      "district": "5",
+      "firstName": "Mike",
+      "fullName": "Rep. Quigley, Mike [D-IL-5]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Quigley",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "M001160",
+      "district": "4",
+      "firstName": "Gwen",
+      "fullName": "Rep. Moore, Gwen [D-WI-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Moore",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "WI"
+    },
+    {
+      "bioguideId": "D000617",
+      "district": "1",
+      "firstName": "Suzan",
+      "fullName": "Rep. DelBene, Suzan K. [D-WA-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "DelBene",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "WA"
+    },
+    {
+      "bioguideId": "D000197",
+      "district": "1",
+      "firstName": "Diana",
+      "fullName": "Rep. DeGette, Diana [D-CO-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "DeGette",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "CO"
+    },
+    {
+      "bioguideId": "G000559",
+      "district": "8",
+      "firstName": "John",
+      "fullName": "Rep. Garamendi, John [D-CA-8]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Garamendi",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "G000583",
+      "district": "5",
+      "firstName": "Josh",
+      "fullName": "Rep. Gottheimer, Josh [D-NJ-5]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Gottheimer",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "NJ"
+    },
+    {
+      "bioguideId": "C001080",
+      "district": "28",
+      "firstName": "Judy",
+      "fullName": "Rep. Chu, Judy [D-CA-28]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Chu",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "M001196",
+      "district": "6",
+      "firstName": "Seth",
+      "fullName": "Rep. Moulton, Seth [D-MA-6]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Moulton",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "MA"
+    },
+    {
+      "bioguideId": "C001112",
+      "district": "24",
+      "firstName": "Salud",
+      "fullName": "Rep. Carbajal, Salud O. [D-CA-24]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Carbajal",
+      "middleName": "O.",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "CA"
+    },
+    {
+      "bioguideId": "N000147",
+      "district": "0",
+      "firstName": "Eleanor",
+      "fullName": "Del. Norton, Eleanor Holmes [D-DC-At Large]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Norton",
+      "middleName": "Holmes",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "DC"
+    },
+    {
+      "bioguideId": "C001117",
+      "district": "6",
+      "firstName": "Sean",
+      "fullName": "Rep. Casten, Sean [D-IL-6]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Casten",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "E000299",
+      "district": "16",
+      "firstName": "Veronica",
+      "fullName": "Rep. Escobar, Veronica [D-TX-16]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Escobar",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "TX"
+    },
+    {
+      "bioguideId": "K000391",
+      "district": "8",
+      "firstName": "Raja",
+      "fullName": "Rep. Krishnamoorthi, Raja [D-IL-8]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Krishnamoorthi",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "IL"
+    },
+    {
+      "bioguideId": "L000601",
+      "district": "1",
+      "firstName": "Greg",
+      "fullName": "Rep. Landsman, Greg [D-OH-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Landsman",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "OH"
+    },
+    {
+      "bioguideId": "S001231",
+      "district": "12",
+      "firstName": "Lateefah",
+      "fullName": "Rep. Simon, Lateefah [D-CA-12]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Simon",
+      "party": "D",
+      "sponsorshipDate": "2026-03-12",
+      "state": "CA"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7910ih.xml",
+      "text": "I\n119th CONGRESS\n2d Session\nH. R. 7910\nIN THE HOUSE OF REPRESENTATIVES\nMarch 12, 2026 Mr. Larson of Connecticut (for himself, Mr. Lynch , Mr. Quigley , Ms. Moore of Wisconsin , Ms. DelBene , Ms. DeGette , Mr. Garamendi , Mr. Gottheimer , Ms. Chu , Mr. Moulton , Mr. Carbajal , Ms. Norton , Mr. Casten , Ms. Escobar , Mr. Krishnamoorthi , Mr. Landsman , and Ms. Simon ) introduced the following bill; which was referred to the Committee on Education and Workforce , and in addition to the Committee on Ways and Means , for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned\nA BILL\nTo establish an AmeriCorps Administration to carry out the national and volunteer service programs, to expand participation in such programs, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the America\u2019s Call To Improve Opportunities Now for National Service Act or the ACTION for National Service Act .\n#### 2. Table of contents; references\n##### (a) Table of contents\nThe table of contents for this Act is as follows:\nSec. 1. Short title.\nSec. 2. Table of contents; references.\nSec. 3. Establishment of AmeriCorps Administration.\nSec. 4. Advisory Board.\nSec. 5. Director.\nSec. 6. National service educational awards.\nSec. 7. Interagency working group.\nSec. 8. National Service Foundation.\nSec. 9. 21st Century American service outreach program.\nSec. 10. Living allowance amounts.\nSec. 11. Authorization of appropriations.\nSec. 12. Report on matching requirements.\nSec. 13.\n                        Exclusion from gross income of national service educational\n                        awards.\nSec. 14.\n                        Income tax exclusion for living allowance.\nSec. 15. Conforming amendments to the National and Community Service Act of 1990.\nSec. 16. Conforming amendments to the Domestic Volunteer Service Act of 1973.\nSec. 17. Conforming amendments to other laws.\n##### (b) References\nExcept as otherwise expressly provided in this Act, wherever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to that section or other provision of the National and Community Service Act of 1990 ( 42 U.S.C. 12501 et seq. ).\n#### 3. Establishment of AmeriCorps Administration\n##### (a) In general\nSection 191 ( 42 U.S.C. 12651 ) is amended\u2014\n**(1)**\nby striking a Corporation for National and Community Service and inserting an AmeriCorps Administration ; and\n**(2)**\nby striking The Corporation shall be a Government corporation, as defined in section 103 and inserting The Administration shall be an Executive department, as defined in section 101. .\n##### (b) Conforming amendment\nSection 101 of title 5, United States Code, is amended by adding at the end the following:\nThe AmeriCorps Administration. .\n#### 4. Advisory Board\n##### (a) Appointment and terms\nSection 192 ( 42 U.S.C. 12651a ) is amended\u2014\n**(1)**\nin subsection (a)\u2014\n**(A)**\nby striking paragraph (1) and inserting the following:\n(1) Advisory Board (A) Initial board members (i) Board of Directors members electing to serve There shall be in the Administration an Advisory Board initially composed of the voting members of the Board of Directors of the Corporation for National and Community Service (as in existence the day before the date of enactment of the ACTION for National Service Act ) who elect to serve on the Advisory Board. (ii) Appointed initial members If fewer than seven members of the Board of Directors elect to serve, the Administrator shall appoint additional members to achieve a total of seven members of the Advisory Board, to serve for the term of their predecessors. For purposes of this section, members appointed under this clause shall be treated as if they had been voting members described in clause (i). (iii) Board of seven members After the expiration of the terms of the members described in clauses (i) and (ii), and the seven appointments set forth in subparagraph (B), the Advisory Board shall be composed of seven members. (B) Appointment of replacement members Upon the expiration of the term of any of the first seven members of the Advisory Board whose term shall expire, a new member of the Advisory Board shall be appointed as follows: (i) The first three members shall be appointed by the President, and shall include\u2014 (I) an individual not younger than 18 or older than 25 who\u2014 (aa) has served in a school-based or community-based service-learning program; or (bb) is or was a participant or a supervisor in a program; and (II) an individual who\u2014 (aa) is age 55 or older; and (bb) has served in the National Senior Service Corps, in a program carried out under title II of the Domestic Volunteer Service Act of 1973 ( 42 U.S.C. 5000 et seq. ) or served in a service-based or community-based program under subtitle B of title I. (ii) The next member shall be appointed by the Speaker of the House of Representatives. (iii) The next member shall be appointed by the minority leader of the House of Representatives. (iv) The next member shall be appointed by the majority leader of the Senate. (v) The next member shall be appointed by the minority leader of the Senate. (C) Expiration of the term of remaining initial members Upon the expiration of the terms on the Advisory Board of the remaining members (after the first seven) who served on the Board of Directors of the Corporation for National and Community Service (as in effect the day before the date of enactment of the ACTION for National Service Act ), no new members shall be appointed to replace those remaining members. ; and\n**(B)**\nin paragraph (2)(D), by striking the Board and inserting the Advisory Board (referred to in this subtitle as the Board ) ; and\n**(2)**\nby striking subsections (c), (d), and (e) and inserting the following:\n(c) Terms Members appointed in accordance with any of clauses (i) through (v) of subsection (a)(1)(B) or under subsection (d) shall serve for a term of 5 years. (d) Appointment of new members and vacancies When the term of a member appointed in accordance with any of clauses (i) through (v) of subsection (a)(1)(B) expires, or if a vacancy occurs on the Advisory Board, a new member shall be appointed by the appointing individual and in the manner described in that clause, and, in the case of a vacancy, shall serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Board. .\n##### (b) Meetings and duties\nSection 192A ( 42 U.S.C. 12651b ) is amended\u2014\n**(1)**\nin subsection (a), by striking 3 times each year and inserting four times each year, with one of the four meetings being an annual meeting to review the Administration\u2019s long-term and strategic goals, ; and\n**(2)**\nby striking subsections (e), (f), and (g) and inserting the following:\n(e) Advisory duties The Board shall have responsibility for making recommendations to the Director concerning the programs and activities of the Administration and the overall policy for the Administration and shall\u2014 (1) advise the Director with respect to policies, programs, and procedures for carrying out the Director\u2019s functions, duties, or responsibilities under this Act; (2) advise the Director on establishing requirements and criteria for qualifying service programs, and on monitoring and evaluating the performance of personnel in carrying out programs and activities; (3) make recommendations regarding priorities for the applications for service programs submitted for approval under this Act; (4) review and make recommendations to the Director\u2014 (A) with respect to any grants, allotments, contracts, financial assistance, or other payment of the Administration; and (B) regarding the regulations, standards, policies, procedures, programs, and initiatives of the Administration; (5) review, and advise the Director regarding, the actions of the Director with respect to the personnel of the Administration, and with respect to such standards, policies, procedures, programs, and initiatives as are necessary or appropriate to carry out the programs and activities of the Administration, including those carried out under the national service laws on the day before the date of enactment of the ACTION for National Service Act ; (6) make recommendations relating to a program of research for the Administration with respect to national and community service programs; (7) ensure effective dissemination of information regarding the programs and activities of the Administration; (8) prepare and make recommendations to the Director and the appropriate committees of Congress for changes in the national service laws resulting from the studies and demonstrations conducted by the Administration, which recommendations shall be submitted to the Director and the appropriate committees of Congress not later than January 1 of each year; (9) make recommendations to the Director on candidates to serve on the Board of the National Service Foundation described in section 199P; and (10) advise on such other matters as the Director may request. .\n#### 5. Director\n##### (a) Appointment\nSection 193(a) ( 42 U.S.C. 12651c ) is amended\u2014\n**(1)**\nby striking an individual who shall serve as Chief Executive Officer of the Corporation, and and inserting a Director, ; and\n**(2)**\nby adding at the end the following: and who shall hold the same rank and status as the head of an executive department listed in section 101 of title 5, United States Code. .\n##### (b) Duties\nSection 193A(b) ( 42 U.S.C. 12651d(b) ) is amended\u2014\n**(1)**\nin paragraph (24), by striking and at the end;\n**(2)**\nin paragraph (25), by striking the period at the end and inserting ; and ; and\n**(3)**\nby adding at the end the following:\n(26) notwithstanding any other provision of law\u2014 (A) make grants to or contracts with Federal and other public departments or agencies, and private nonprofit organizations, for the assignment or referral of volunteers under the provisions of title I of the Domestic Volunteer Service Act of 1973 ( 42 U.S.C. 4951 et seq. ) (except as provided in section 108 of such Act ( 42 U.S.C. 4958 )), which may provide that the agency or organization shall pay all or a part of the costs of the program; and (B) enter into agreements with other Federal agencies or private nonprofit organizations for the support of programs under the national service laws, which\u2014 (i) may provide that the agency or organization shall pay all or a part of the costs of the program, except as is provided in section 121(b); and (ii) shall provide that the program (including any program operated by another Federal agency) will comply with all requirements related to evaluation, performance, and other goals applicable to similar programs under the national service laws, as determined by the Administration. .\n##### (c) Initial Director\nThe Chief Executive Officer of the Corporation for National and Community Service (as in existence the day before the date of enactment of this Act) may serve as the initial Director of the AmeriCorps Administration.\n##### (d) Conforming amendment\nSection 19(d)(1) of title 3, United States Code, is amended by inserting , Director of the AmeriCorps Administration after Secretary of Homeland Security .\n#### 6. National service educational awards\nSection 147(a) ( 42 U.S.C. 12603(a) ) is amended\u2014\n**(1)**\nby striking Except as provided and inserting the following:\n(1) In general Except as provided ;\n**(2)**\nby striking shall receive a national service educational award and all that follows through appropriations) and inserting shall be entitled to a national service educational award equal to the award amount specified in paragraph (2) ; and\n**(3)**\nby adding at the end the following:\n(2) Award amount The award referred to in paragraph (1), payable to an individual described in such paragraph, shall be in an amount that is equal to twice the amount of the national average of the yearly cost for in-State tuition and fees at public, 4-year institutions of higher education, for the award year for which the national service position is approved by the Administration. (3) Definition In this subsection, the term institution of higher education has the meaning given the term in section 148(h). .\n#### 7. Interagency working group\nThe Director of the AmeriCorps Administration, using funds made available under section 501(a)(5) of the National and Community Service Act of 1990 ( 42 U.S.C. 12681(a)(5) ), shall establish an interagency working group to\u2014\n**(1)**\nevaluate and make recommendations regarding a process for evaluating the eligibility, for national service educational awards, of individuals who have participated in national service programs that are not administered under this Act but are described in section 123(2) of that Act ( 42 U.S.C. 12573(2) );\n**(2)**\nevaluate the feasibility and advisability of granting Federal hiring preference under chapter 33 of title 5, United States Code, to an individual who has completed a term of service in an approved national service position equivalent in duration to the term described in section 139(b)(1) and is entitled to the award authorized under section 147(a)(2) of that Act (as amended by section 6 of this Act) for that service; and\n**(3)**\nnot later than 12 months after the date of enactment of this Act, prepare and submit to Congress a report containing the results of the evaluations described in paragraphs (1) and (2).\n#### 8. National Service Foundation\n##### (a) Elimination of current authority for donations of property\nSection 196(a) ( 42 U.S.C. 12651g(a) ) is amended\u2014\n**(1)**\nby striking paragraph (2);\n**(2)**\nby redesignating clause (iii) of paragraph (1)(C) as paragraph (2); and\n**(3)**\nin paragraph (2), as redesignated by paragraph (2) of this subsection, by striking all that precedes this term and inserting the following:\n(2) Inherently governmental function As used in this subsection, .\n##### (b) Foundation\nTitle I ( 42 U.S.C. 12511 et seq. ) is further amended by adding at the end the following new subtitle:\nK National Service Foundation 199P. National Service Foundation (a) Establishment In order to encourage private gifts of real and personal property or any income from that property or other interest in that property for the benefit of, or in connection with, the Administration, and its activities, services, or former participants, and through those gifts to further the mission and purpose of the Administration and to provide greater opportunities for volunteer service, there is established a charitable and nonprofit corporation to be known as the National Service Foundation (referred to in this subtitle as the Foundation ) to accept and administer such gifts. (b) Board of the Foundation (1) In general The National Service Foundation shall consist of a Board of the Foundation, having as members the Director of the Administration, as an ex officio, nonvoting member, and not less than 6 individuals, who are not officers or employees of the Federal Government, appointed by the Director after considering the recommendations of the Advisory Board described in section 192. (2) Terms (A) Initial members The terms of the initial members of the Board of the Foundation shall be staggered to ensure continuity of administration. (B) Subsequent members A subsequent member shall serve for a term of 6 years. (C) Vacancies If a vacancy occurs on the Board of the Foundation, a new member shall be appointed by the Director and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Board of the Foundation. (3) Chairman The Director shall be the Chairman of the Board of the Foundation. (4) Status Members and staff of the Board of the Foundation shall not be considered to be officers or employees of the Federal Government. (5) Quorum A majority of the members of the Board of the Foundation serving at any one time shall constitute a quorum for the transaction of business, and the Foundation shall have an official seal, which shall be judicially noticed. (6) Meetings The Board of the Foundation shall meet at the call of the Chairman, and not less often than once each year. (7) Compensation and travel expenses (A) Compensation A member of the Board of the Foundation shall serve without compensation. Notwithstanding section 1342 of title 31, United States Code, the Board may accept and use voluntary and uncompensated services as the Commission determines necessary. (B) Travel expenses A member of the Board shall be allowed travel expenses (out of Foundation funds), including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from the member's home or regular places of business in the performance of services for the Board. (c) Authorization To accept and use gifts and bequests The Foundation is authorized to accept, receive, solicit, hold, administer, and use any gifts, devises, or bequests, either absolutely or in trust of real or personal property or any income from the property or other interest in the property for the benefit of or in connection with, the Administration, its activities, or its services. The Foundation may not accept any such gift, devise, or bequest that entails any expenditure other than from the resources of the Foundation. An interest in such real property includes, among other things, easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources. A gift, devise, or bequest relating to property may be accepted by the Foundation even though the property is encumbered, restricted, or subject to beneficial interests of private persons, if any current or future interest in the property is for the benefit of the Administration, its activities, or its services. (d) Use of funds, investment (1) In general Except as otherwise required by the instrument of transfer to the Foundation, the Foundation may sell, lease, invest, reinvest, retain, or otherwise dispose of or deal with any property transferred to the Foundation or income from the property as the Board of the Foundation may from time to time determine to be appropriate. The Foundation shall not engage in any business, nor shall the Foundation make any investment, that may not lawfully be engaged in or made by a trust company in the District of Columbia, except that the Foundation may make any investment authorized by the instrument of transfer, and may retain any property accepted by the Foundation. (2) Services and facilities The Foundation may utilize the services and facilities of the Administration, and such services and facilities may be made available on request to the extent practicable without reimbursement. (e) Succession, liability, and powers (1) Succession The Foundation shall have perpetual succession, with all the usual powers and obligations of a corporation acting as a trustee, including the power to sue and to be sued in its own name. (2) Liability Notwithstanding paragraph (1), the members of the Board of the Foundation shall not be personally liable for acts or omissions related to the Foundation, except for malfeasance. (3) Powers The Foundation shall have the power to enter into contracts, to execute instruments, and generally to do any and all lawful acts necessary or appropriate to its purposes. (f) Bylaws In carrying out the provisions of this Act, the Board of the Foundation may adopt bylaws, rules, and regulations necessary for the administration of its functions and enter into contracts for any necessary services. (g) Tax-Exempt status (1) In general The Foundation and any income or property received or owned by it, and all transactions relating to such income or property, shall be exempt from all Federal, State, and local taxation. (2) Contributions to local government The Foundation may, however, in the discretion of the Board of the Foundation\u2014 (A) contribute toward the costs of local government in amounts not in excess of those costs that it would be obligated to pay such government if it were not exempt from taxation because of this subsection or because of its status as a charitable and nonprofit corporation; and (B) agree to so contribute property transferred to the Foundation and the income derived from the property if such agreement is a condition of the transfer. (3) Use of the United States Contributions, gifts, and other transfers made to or for the use of the Foundation shall be regarded as contributions, gifts, or transfers to or for the use of the United States. (h) Nonliability of the United States The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation. (i) Reports The Foundation shall, as soon as practicable after the end of each fiscal year, prepare and submit to Congress an annual report on its proceedings and activities, including a full and complete statement of its receipts, expenditures, and investments. (j) Initial Funding For the purposes of assisting the Foundation in establishing an office and meeting initial administrative, project, and other startup expenses, there is authorized to be appropriated $2,500,000 for fiscal year 2027. Such funds shall remain available to the Foundation until they are expended for authorized purposes. .\n#### 9. 21st Century American service outreach program\nSubtitle F of title I ( 42 U.S.C. 12631 et seq. ) is amended by adding at the end the following:\n189E. 21st Century American service outreach program (a) Definitions In this section: (1) Covered individual The term covered individual means an individual who is not younger than age 17 or older than age 30. (2) National service program The term national service program means a program under\u2014 (A) this Act; or (B) title I of the Domestic Volunteer Service Act of 1973 ( 42 U.S.C. 4951 et seq. ). (b) Program In order to ensure that every covered individual who may want to participate in service programs is informed of the opportunities to participate, the Administration shall\u2014 (1) determine how the Administration will work with Federal or State agencies and other entities to\u2014 (A) contact each covered individual upon such individual's 17th birthday to notify the individual about\u2014 (i) the individual's eligibility to participate in national service programs; (ii) the national service programs and how to apply for a specific program; (iii) other service programs for which the individual may be eligible, including service with the Peace Corps (as established by the Peace Corps Act ( 22 U.S.C. 2501 et seq. )) and military service; and (iv) the individual's option to opt out of receiving any notifications, or just notifications in a paper format, under this paragraph; and (B) after contacting a covered individual under subparagraph (A), notify the individual every 2 years thereafter of the information described in clauses (i) through (iv) of subparagraph (A), unless\u2014 (i) the individual is serving in a national service program or other program described in subparagraph (A); or (ii) the individual has opted out of receiving such notifications under subparagraph (A)(iv); (2) determine how the Administration will enable covered individuals to, and then enable eligible individuals to, apply for a specific national service program and ensure that such application process is the most effective process for the purpose of applying for such a program; and (3) develop a long-term strategy to gradually increase the number of opportunities in national service programs so that any covered individual who applies to and is eligible to participate in a national service program will be offered at least one service position. .\n#### 10. Living allowance amounts\n##### (a) Domestic Volunteer Service Act of 1973\nSection 105(b) of the Domestic Volunteer Service Act of 1973 ( 42 U.S.C. 4955(b)(2) ) is amended\u2014\n**(1)**\nin paragraph (2)\u2014\n**(A)**\nin subparagraph (A), by striking 95 percent and inserting 175 percent ; and\n**(B)**\nin subparagraph (B), by striking 105 percent and inserting 210 percent ; and\n**(2)**\nby adding at the end the following:\n(4) (A) A stipend or allowance under this subsection shall not be increased as a result of amendments made by the ACTION for National Service Act , or any other amendment made to this subsection unless the funds appropriated for carrying out this part are sufficient to maintain for the fiscal year in question a number of participants to serve under this part at least equal to the number of such participants serving during the preceding fiscal year. (B) In the event that sufficient appropriations for any fiscal year are not available to increase any such stipend or allowance provided to the minimum amount specified in paragraph (2), the Director shall increase the stipend or allowance to such amount as appropriations for such year permit consistent with subparagraph (A). .\n##### (b) National and Community Service Act of 1990\n**(1) National Civilian Community Corps living allowances**\nSection 158(b) ( 42 U.S.C. 12618(b) ) is amended\u2014\n**(A)**\nby striking The Director the first place it appears and inserting the following:\n(1) In general The Director ;\n**(B)**\nby striking 100 percent and inserting 200 percent ; and\n**(C)**\nby adding at the end the following:\n(2) Increases limited by appropriations (A) Limit on increases An allowance under this subsection or section 140 shall not be increased as a result of amendments made by the ACTION for National Service Act , or any other amendment made to this subsection or section 140, respectively, unless the funds appropriated for carrying out this subtitle or subtitle C, respectively, are sufficient to maintain for the fiscal year in question a number of participants to serve under this subtitle or subtitle C, respectively, at least equal to the number of such participants serving during the preceding fiscal year. (B) Partial increase In the event that sufficient appropriations for any fiscal year are not available to increase an allowance under this subsection above the amount provided for fiscal year 2026 or under section 140 to the minimum amount specified in section 140, respectively, the Director shall increase the allowance to such amount as appropriations for such year permit consistent with subparagraph (A). .\n**(2) Grants**\nSection 189 ( 42 U.S.C. 12645c ) is amended\u2014\n**(A)**\nin subsection (a), by striking $18,000 and inserting $30,000 ;\n**(B)**\nin subsection (e)(1), by striking $19,500 and inserting $39,000 ; and\n**(C)**\nby adding at the end the following:\n(f) Insufficient appropriations Notwithstanding the increased limitation on grant amounts per full-time equivalent position described in subsection (a) and the increased limitation described in subsection (e)(1) as a result of amendments made by the ACTION for National Service Act , or any other amendment made to this section, the amount of funds per full-time equivalent position approved by the Administration for a grant, as described in those subsections, shall not be increased unless the funds appropriated for carrying out this subtitle are sufficient to make such increase while maintaining for the fiscal year in question a number of approved national service positions at least equal to the number of such positions during the preceding fiscal year. .\n#### 11. Authorization of appropriations\nSection 501 ( 42 U.S.C. 12681 ) is amended\u2014\n**(1)**\nin subsection (a)\u2014\n**(A)**\nby striking paragraph (2) and inserting the following:\n(2) Subtitles C and D (A) Subtitle C There are authorized to be appropriated for each of fiscal years 2027 through fiscal year 2036, such sums as may be necessary to provide financial assistance under subtitle C of title I for the number of participants in programs and activities under subtitle C for fiscal year 2026. (B) Subtitle D There are authorized to be appropriated, and there are appropriated, for fiscal year 2027 and each subsequent fiscal year, such sums as may be necessary to provide national service educational awards under subtitle D of title I for the number of participants for whom the Administration recorded an obligation under section 149(a)(1)(B) for fiscal year 2026. ;\n**(B)**\nin paragraph (6), by striking subsection (b) and inserting subsection (c) ; and\n**(C)**\nby adding at the end the following:\n(7) Subtitle K There are authorized to be appropriated such sums as may be necessary for fiscal year 2027 and each subsequent fiscal year to carry out subtitle K of title I. ;\n**(2)**\nby redesignating subsection (b) as subsection (c); and\n**(3)**\nby adding after subsection (a) the following:\n(b) Additional authorization of appropriations (1) Authorization There is authorized to be appropriated to the Administration to carry out its programs and functions, including the programs and activities carried out under this Act and the Domestic Volunteer Service Act of 1973 ( 42 U.S.C. 4950 et seq. ), such additional sums as may be necessary to achieve the goal set forth in paragraph (2). (2) Ten-year goal It is the sense of Congress that sums appropriated under paragraph (1) should be sufficient to provide or facilitate the provision of national service programs and activities under the national service laws (in addition to programs and activities funded under subsection (a) for fiscal year 2027) for not fewer than 1,000,000 participants per year by September 30, 2036. (3) Plan for approved national service positions The Administration shall\u2014 (A) prepare a plan to\u2014 (i) establish the number of the approved national service positions as 250,000 for fiscal year 2027; and (ii) increase the number of the approved positions in each fiscal year through fiscal year 2035, so that the number of approved positions in fiscal year 2036 is sufficient to support the goal in paragraph (2); (B) ensure that the increases described in subparagraph (A)(ii) are achieved through an appropriate balance of full- and part-time service positions; (C) not later than 1 year after the date of enactment of the ACTION for National Service Act , submit a report to the authorizing committees on the status of the plan described in subparagraph (A); (D) not later than 8 years after the date of enactment of the ACTION for National Service Act , submit a report to the authorizing committees on the progress of the Administration towards the goal described in paragraph (2), and the potential for exceeding that goal in fiscal year 2036 and beyond; and (E) subject to the availability of appropriations and quality service opportunities, implement the plan described in subparagraph (A). .\n#### 12. Report on matching requirements\nNot later than 90 days after the date of enactment of this Act, the Director of the AmeriCorps Administration shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Workforce of the House of Representatives a report on any recommendations for changes needed to matching funds or share requirements for recipients of funding for programs under the AmeriCorps Administration to achieve the 10-year goal described in section 501(b)(2) of the National and Community Service Act of 1990 ( 42 U.S.C. 12681(b)(2) ) and increase the number of national service programs, activities, and participants, in underserved communities.\n#### 13. Exclusion from gross income of national service educational awards\n##### (a) In general\nSection 117 of the Internal Revenue Code of 1986 (relating to qualified scholarships) is amended by adding at the end the following new subsection:\n(e) National service educational awards Gross income shall not include any amounts for payments specified in section 145(c) of the National and Community Service Act of 1990. .\n##### (b) Exclusion of discharge of student loan debt\nSubsection (f) of section 108 of such Code is amended by adding at the end the following new paragraph:\n(6) Payments under national service educational award programs In the case of an individual, gross income shall not include any amount received from a national service educational award under subtitle D of title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12601 et seq. ). .\n##### (c) Effective Date\nThe amendments made by this section shall apply to taxable years ending after the date of the enactment of this Act.\n#### 14. Income tax exclusion for living allowance\n##### (a) In general\nPart III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting before section 140 the following new section:\n139M. Living allowance for national service participants Gross income does not include the amount of any living allowance provided under section 140 of the National and Community Service Act of 1990. .\n##### (b) Clerical amendment\nThe table of sections for part III of subchapter B of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting before the item relating to section 140 the following new item:\nSec. 139M. Living allowance for national service participants. .\n##### (c) Effective date\nThe amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.\n#### 15. Conforming amendments to the National and Community Service Act of 1990\n##### (a) Definitions\nSection 101 ( 42 U.S.C. 12511 ) is amended\u2014\n**(1)**\nby striking paragraph (9) and inserting the following:\n(9) Director The term Director means the Director of the AmeriCorps Administration appointed under section 193. ;\n**(2)**\nby striking paragraph (12) and inserting the following:\n(12) Administration The term Administration means the AmeriCorps Administration established under section 191. ;\n**(3)**\nby redesignating paragraphs (12), (1) through (8), (10), (11), and (9) as paragraphs (1) through (12), respectively; and\n**(4)**\nby transferring the redesignated paragraphs so the paragraphs appear in numerical order.\n##### (b) Service-Learning Programs\n**(1)**\nSection 113(a) ( 42 U.S.C. 12525(a) ), section 114(c) ( 42 U.S.C. 12526(c) ), and section 116(a) ( 42 U.S.C. 12528(a) ) are amended, in the subsection headings, by striking Corporation and inserting Administration .\n**(2)**\nSection 116(a)(2) ( 42 U.S.C. 12528(a)(2) ) is amended, in the paragraph heading, by striking Noncorporation and inserting Nonadministration .\n##### (c) National Service Trust Program\n**(1)**\nSection 121 is amended\u2014\n**(A)**\nin subsection (e)(5)(B) ( 42 U.S.C. 12571(e)(5)(B) ), in the subparagraph heading, by striking Corporation and inserting Administration ; and\n**(B)**\nby striking subsection (f).\n**(2)**\nSection 122 ( 42 U.S.C. 12572 ) is amended\u2014\n**(A)**\nin subsection (d)(1), in the paragraph heading, by striking corporation and inserting administration ; and\n**(B)**\nin subsection (f)(1)(A)\u2014\n**(i)**\nin the subparagraph heading, by striking corporation and inserting administration ; and\n**(ii)**\nby striking the strategic plan approved under section 192A(g)(1,) and inserting the strategic plan recommended by the Board .\n**(3)**\nSection 129A(b) ( 42 U.S.C. 12581a(b) ) and section 131(f) ( 42 U.S.C. 12583(f) ) are amended, in the subsection headings, by striking Corporation and inserting Administration .\n##### (d) National Service Trust\nSection 145 ( 42 U.S.C. 12601 ) is amended, in subsections (a)(2) and (d)(1), by striking section 196(a)(2) and inserting section 199P .\n##### (e) National Civilian Community Corps\n**(1)**\nSection 159 ( 42 U.S.C. 12619 ) is amended\u2014\n**(A)**\nin subsection (a)\u2014\n**(i)**\nin paragraph (1), by striking , including those recommended by the Board, and inserting , after reviewing any recommendations by the Board, ; and\n**(ii)**\nby striking paragraph (3) and inserting the following:\n(3) at the election of the Director, carry out any other activities recommended by the Board. ; and\n**(B)**\nin subsection (b)\u2014\n**(i)**\nin paragraph (1), by adding and at the end;\n**(ii)**\nin paragraph (2), by striking ; and and inserting a period; and\n**(iii)**\nby striking paragraph (3).\n**(2)**\nSection 165(1) ( 42 U.S.C. 12626(1) ) is amended by striking Board of Directors and inserting Advisory Board .\n##### (f) Administration\n**(1)**\nSection 172(b) ( 42 U.S.C. 12632(b) ) is amended, in the subsection heading, by striking Corporation and inserting Administration .\n**(2)**\nSection 178 ( 42 U.S.C. 12638 ) is amended\u2014\n**(A)**\nin subsection (c)(3), in the paragraph heading, by striking Corporation and inserting Administration ; and\n**(B)**\nin subsection (j)(1), in the paragraph heading, by striking corporation and inserting administration .\n##### (g) AmeriCorps Administration\n**(1)**\nSubtitle G of title I ( 42 U.S.C. 12651 et seq. ) is amended by striking the subtitle heading and inserting the following:\nG AmeriCorps Administration .\n**(2)**\nSection 191 ( 42 U.S.C. 12651 ) is amended by striking the section heading and inserting the following:\n191. AmeriCorps Administration .\n**(3)**\nSection 192 ( 42 U.S.C. 12651a ) is amended by striking the section heading and inserting the following:\n192. Advisory board .\n**(4)**\nSection 192A ( 42 U.S.C. 12651b ) is amended by striking the section heading and inserting the following:\n192A. Authorities and duties of the board .\n**(5)**\nSection 193 ( 42 U.S.C. 12651c ) and section 193A ( 42 U.S.C. 12651d ) are amended, in the section headings, by striking Chief Executive Officer and inserting Director .\n**(6)**\nSection 193A ( 42 U.S.C. 12651d ) is amended\u2014\n**(A)**\nin subsection (a), by striking that are not reserved to the Board, and inserting , after reviewing any recommendations from the Board ;\n**(B)**\nin subsection (b)\u2014\n**(i)**\nin paragraphs (1), (2)(A), (3)(A), (4)(A), and (8) by striking prepare and submit to the Board and inserting after reviewing any recommendations from the Board, prepare and submit to the authorizing committees ;\n**(ii)**\nin paragraph (2)(B), by striking an approved proposal under section 192A(g)(2) and inserting a proposal recommended by the Board ;\n**(iii)**\nin paragraph (3)(B), by striking an approved proposal under section 192A(g)(3) and inserting a proposal recommended by the Board ;\n**(iv)**\nin paragraph (4)(B), by striking an approved proposal under section 192A(g)(4) and inserting a plan recommended by the Board ;\n**(v)**\nin paragraph (7), by striking prepare and submit to the authorizing committees and the Board and inserting after reviewing any recommendations from the Board, prepare and submit to the authorizing committees ;\n**(vi)**\nin paragraph (9)(B)\u2014\n**(I)**\nin clause (i), by striking approved by the Board under section 192A(g)(1) and inserting recommended by the Board ;\n**(II)**\nin clause (ii), by striking approved by the Board under paragraph (2) or (3) of section 192A(g) and inserting recommended by the Board ; and\n**(III)**\nin clause (iii), by striking approved by the Board under section 192A(g)(4) and inserting recommended by the Board ;\n**(vii)**\nin paragraph (10)(A), by striking the services referred to in paragraph (1), and the money and property referred to in paragraph (2), of section 196(a) and inserting the services referred to in section 196(a)(1), and the money and property referred to in section 199P, ;\n**(viii)**\nin paragraph (11), by striking prepare and submit to the Board periodically, and inserting , after reviewing any recommendations from the Board, periodically prepare and submit to the authorizing committees ; and\n**(ix)**\nin paragraph (12)\u2014\n**(I)**\nby striking members of the Board and ;\n**(II)**\nby striking each member of the Board and ; and\n**(III)**\nby striking such member of the Board or ; and\n**(C)**\nin subsection (d), by striking paragraph (3).\n**(7)**\nSection 195 ( 42 U.S.C. 12651f ) is amended\u2014\n**(A)**\nin subsection (c), in the subsection heading, by striking Corporation and inserting Administration ; and\n**(B)**\nin subsection (f)(1), by striking The Chief Executive Officer, acting upon the recommendation of the Board, may establish advisory committees in the Corporation to advise the Board and inserting The Director may establish advisory committees in the Administration to advise the Director .\n**(8)**\nSections 196A ( 42 U.S.C. 12651h ) and 198 ( 42 U.S.C. 12653 ) are amended in the section headings by striking Corporation and inserting Administration .\n##### (h) Investment for quality and innovation\nPart I of subtitle H of title I ( 42 U.S.C. 12653 et seq. ) is amended by striking the part heading and inserting the following:\nI Additional Administration Activities To Support National Service .\n##### (i) Authorization of appropriations\nSection 501(a)(5)(B) ( 42 U.S.C. 12681(a)(5)(B) ) is amended, in the subparagraph heading, by striking Corporation and inserting Administration .\n##### (j) Global references to Corporation\nExcept in section 101(21)(A)(ii), section 132(b), or section 601(b) of the National and Community Service Act of 1990 ( 42 U.S.C. 12511(21)(A)(ii) , 12584(b)), and except as provided in the table of contents or any heading of the Act, the Act is amended by striking Corporation each place it appears and inserting Administration .\n##### (k) Global references to Chief Executive Officer\nExcept as provided in the table of contents or any heading of the National and Community Service Act of 1990, the Act is amended by striking Chief Executive Officer each place it appears and inserting Director .\n##### (l) Table of contents\nThe table of contents in section 1(b) ( 42 U.S.C. 12501 note) is amended\u2014\n**(1)**\nin the items relating to subtitle G of title I\u2014\n**(A)**\nby striking the item relating to the subtitle heading for subtitle G and inserting the following:\nSubtitle G\u2014AmeriCorps Administration ;\n**(B)**\nby striking the item relating to section 191 and inserting the following:\nSec. 191. AmeriCorps Administration. ;\n**(C)**\nby striking the item relating to section 193 and inserting the following:\nSec. 193. Director. ;\n**(D)**\nby striking the item relating to section 193A and inserting the following:\nSec. 193A. Authorities and duties of the Director. ;\nand\n**(E)**\nby striking the item relating to section 196A and inserting the following:\nSec. 196A. Administration State offices. ;\n**(2)**\nin the items relating to part I of subtitle H of title I\u2014\n**(A)**\nby striking the item relating to the part heading and inserting the following:\nPart I\u2014Additional Administration Activities To Support National Service ;\nand\n**(B)**\nby striking the item relating to section 198 and inserting the following:\nSec. 198. Additional Administration activities to support national service. ;\nand\n**(3)**\nin the items relating to title I, by adding at the end the following:\nSubtitle K\u2014National Service Foundation Sec. 199P. National Service Foundation. .\n#### 16. Conforming amendments to the Domestic Volunteer Service Act of 1973\n##### (a) Definitions\nSection 421 of the Domestic Volunteer Service Act of 1973 ( 42 U.S.C. 5061 ) is amended\u2014\n**(1)**\nby striking paragraph (1) and inserting the following:\n(1) the term Director means the Director of the AmeriCorps Administration appointed under section 193 of the National and Community Service Act of 1990; ;\n**(2)**\nby striking paragraph (7) and inserting the following:\n(7) the term Administration means the AmeriCorps Administration established under section 191 of the National and Community Service Act of 1990; ;\n**(3)**\nby redesignating paragraphs (7), (20), (1), (8), (9), (10), (11), (13), (12), (3), (4), (6), (5), (14), (15), (16), (17), (2), (18), and (19) as paragraphs (1) through (20), respectively; and\n**(4)**\ntransferring such redesignated paragraphs so that the paragraphs appear in numerical order.\n##### (b) References to names\nThe Domestic Volunteer Service Act of 1973 is amended\u2014\n**(1)**\nin section 2(b) ( 42 U.S.C. 4950(b) ), by striking Corporation for National and Community Service and inserting Director of the AmeriCorps Administration ;\n**(2)**\nexcept as provided in subsection (a) and paragraph (1) of this subsection, by striking Corporation each place it appears and inserting Administration ; and\n**(3)**\nin section 201(h) ( 42 U.S.C. 5001(h) ), by striking Chief Executive Officer and inserting Director .\n#### 17. Conforming amendments to other laws\n##### (a) Civil service retirement\nChapter 83 of title 5, United States Code, is amended\u2014\n**(1)**\nin section 8332(j)(1), by striking Chief Executive Officer of the Corporation for National and Community Service and inserting Director of the AmeriCorps Administration ; and\n**(2)**\nin section 8334(l)(3), by striking Chief Executive Officer of the Corporation for National and Community Service and inserting Director of the AmeriCorps Administration .\n##### (b) Federal employees' retirement system\nSection 8422(f)(3) of title 5, United States Code, is amended by striking Chief Executive Officer of the Corporation for National and Community Service and inserting Director of the AmeriCorps Administration .\n##### (c) Inspector general act of 1978\nTitle 5, United States Code, is amended\u2014\n**(1)**\nin section 414\u2014\n**(A)**\nby striking the title and inserting the following:\n8F. Special provisions concerning the americorps administration ;\n**(B)**\nby striking Corporation for National and Community Service each place it appears and inserting AmeriCorps Administration ;\n**(C)**\nby striking Chief Executive Officer each place it appears and inserting Director ;\n**(D)**\nin subsection (b), by striking such Corporation. and inserting such Administration. ;\n**(E)**\nin subsection (c), by striking the Corporation shall and inserting the Administration shall ; and\n**(F)**\nin subsection (d), by striking the Corporation, and inserting the Administration, ; and\n**(2)**\nin section 12\u2014\n**(A)**\nin paragraph (1), by striking Corporation for National and Community Service and inserting AmeriCorps Administration ; and\n**(B)**\nin paragraph (3), by striking Chief Executive Officer of the Corporation for National and Community Service and inserting Director of the AmeriCorps Administration .\n##### (d) Homeland Security Act of 2002\nSection 509(b)(2)(A) of the Homeland Security Act of 2002 ( 6 U.S.C. 319(b)(2)(A) ) is amended by striking Corporation for National and Community Service and inserting AmeriCorps Administration .\n##### (e) Volunteers in the National Forests Act of 1972\nSection 4 of the Volunteers in the National Forests Act of 1972 ( 16 U.S.C. 558c ) is amended by striking Corporation for National and Community Service and inserting AmeriCorps Administration .\n##### (f) Public Lands Corps of 1993\nSection 209 of the Public Lands Corps Act of 1993 ( 16 U.S.C. 1727a ) is amended by striking Chief Executive Officer of the Corporation for National and Community Service each place it appears and inserting Director of the AmeriCorps Administration .\n##### (g) Museum and Library Services Act\nSection 204(g) of the Museum and Library Services Act ( 20 U.S.C. 9103(g) ) is amended by striking Chief Executive Officer of the Corporation for National and Community Service and inserting Director of the AmeriCorps Administration .\n##### (h) Indian Financing Act of 1974\nSection 502 of the Indian Financing Act of 1974 ( 25 U.S.C. 1542 ) is amended by striking ACTION and inserting the AmeriCorps Administration .\n##### (i) Government corporations\nSection 9101 of title 31, United States Code, is amended by striking Corporation for National and Community Service and inserting AmeriCorps Administration .\n##### (j) Juvenile Justice and Delinquency Prevention Act of 1974\nSection 206 of the Juvenile Justice and Delinquency Prevention Act of 1974 ( 34 U.S.C. 11116 ) is amended by striking Chief Executive Officer of the Corporation for National and Community Service and inserting Director of the AmeriCorps Administration .\n##### (k) Patient protection and affordable care act\nSection 4001(c)(12) of the Patient Protection and Affordable Care Act ( 42 U.S.C. 300u\u201310(c)(12) ) is amended by striking the Chairman of the Corporation for National and Community Service and inserting the Director of the AmeriCorps Administration .\n##### (l) Property management\nSection 550(g) of title 40, United States Code, is amended\u2014\n**(1)**\nin paragraph (1), by striking Chief Executive Officer of the Corporation for National and Community Service and inserting Director of the AmeriCorps Administration ; and\n**(2)**\nexcept as provided in paragraph (1), by striking Chief Executive Officer each place it appears and inserting Director .\n##### (m) Social Security Act\nThe Social Security Act ( 42 U.S.C. 301 et seq. ) is amended\u2014\n**(1)**\nin section 1612(b)(25) ( 42 U.S.C. 1382a(b)(25) ), by striking Corporation for National and Community Service and inserting AmeriCorps Administration ; and\n**(2)**\nin section 2056(b)(2)(J) ( 42 U.S.C. 1397n\u20135(b)(2)(J) ), by striking Corporation for National and Community Service and inserting AmeriCorps Administration .\n##### (n) Older Americans Act of 1965\nThe Older Americans Act of 1965 is amended\u2014\n**(1)**\nin section 202(c) ( 42 U.S.C. 3012(c) ), in the matter preceding paragraph (1), by striking Chief Executive Officer of the Corporation for National and Community Service and inserting Director of the AmeriCorps Administration ;\n**(2)**\nin section 203(a)(1) ( 42 U.S.C. 3013(a)(1) ), by striking Corporation for National and Community Service and inserting AmeriCorps Administration ;\n**(3)**\nin section 301(a)(2)(F) ( 42 U.S.C. 3021(a)(2)(F) ), by striking Corporation for National and Community Service and inserting AmeriCorps Administration ;\n**(4)**\nin section 306(a)(6)(C)(iii) ( 42 U.S.C. 3026(a)(6)(C)(iii) ), by striking Corporation for National and Community Service and inserting AmeriCorps Administration ; and\n**(5)**\nin section 373(d) ( 42 U.S.C. 3030s\u20131(d) ), by striking Corporation for National and Community Service and inserting AmeriCorps Administration .\n##### (o) McKinney-Vento Homeless Assistance Act\nSection 202(a)(12) of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11312(a)(12) ) is amended\u2014\n**(1)**\nby striking Corporation for National and Community Service and inserting AmeriCorps Administration ; and\n**(2)**\nby striking Chief Executive Officer each place it appears and inserting Director .\n##### (p) Anti-Drug Abuse Act of 1988\nSection 3601(5) of the Anti-Drug Abuse Act of 1988 ( 42 U.S.C. 11851(5) ) is amended by striking Chief Executive Officer of the Corporation for National and Community Service and inserting Director of the AmeriCorps Administration .\n##### (q) Claude Pepper Young Americans Act of 1990\nSection 916(b) of the Claude Pepper Young Americans Act of 1990 ( 42 U.S.C. 12312(b) ) is amended by striking Chief Executive Officer of the Corporation for National and Community Service and inserting Director of the AmeriCorps Administration .\n##### (r) National and Community Service Trust Act of 1993\nSection 205 of the National and Community Service Trust Act of 1993 ( 42 U.S.C. 12682 ) is amended by striking Corporation for National and Community Service and inserting AmeriCorps Administration .\n##### (s) Continuing Appropriations Resolution, 2007\nSection 20638 of the Continuing Appropriations Resolution, 2007 ( 42 U.S.C. 12651i ) is amended\u2014\n**(1)**\nby striking Corporation for National and Community Service the second, third, and fourth places it appears and inserting AmeriCorps Administration ; and\n**(2)**\nby striking Chief Executive Officer each place it appears and inserting Director .\n##### (t) References\nAny reference in any other Federal law, Executive order, rule, regulation, delegation of authority, or document to\u2014\n**(1)**\nthe Corporation for National and Community Service is deemed to refer to the AmeriCorps Administration; and\n**(2)**\nthe Chief Executive Officer of the Corporation for National and Community Service is deemed to refer to the Director of the AmeriCorps Administration.",
+      "versionDate": "2026-03-12",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2026-03-12",
+        "text": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S1048-1049)"
+      },
+      "number": "4068",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "ACTION for National Service Act",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Labor and Employment",
+        "updateDate": "2026-04-20T19:25:28Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2026-03-12",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7910ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "ACTION for National Service Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-04-16T04:23:27Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "ACTION for National Service Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-04-16T04:23:26Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "America\u2019s Call To Improve Opportunities Now for National Service Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-04-16T04:23:26Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To establish an AmeriCorps Administration to carry out the national and volunteer service programs, to expand participation in such programs, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-04-16T04:18:35Z"
+    }
+  ]
+}
+```

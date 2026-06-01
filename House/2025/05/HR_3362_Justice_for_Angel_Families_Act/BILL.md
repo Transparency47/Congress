@@ -1,0 +1,64 @@
+# HR 3362: Justice for Angel Families Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-05-13
+- Latest action: 2025-05-13 - Introduced in House
+- Policy area: Crime and Law Enforcement
+- Sponsor: Rep. Nehls, Troy E. [R-TX-22]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/3362
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-05-13
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3362ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-05-13
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3362ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3362
+IN THE HOUSE OF REPRESENTATIVES
+May 13, 2025 Mr. Nehls (for himself, Mr. Gosar , Mr. Bacon , Mr. Weber of Texas , Mr. Gooden , Mr. Moore of Alabama , Mr. Tiffany , and Mr. Babin ) introduced the following bill; which was referred to the Committee on the Judiciary
+A BILL
+To authorize grants for crime victims to be distributed to angel families, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Justice for Angel Families Act .
+#### 2. Grants for angel families
+Section 1403 of the Victims of Crime Act of 1984 ( 34 U.S.C. 20102 ) is amended—
+**(1)**
+in subsection (b), by amending paragraph (1) to read as follows:
+(1) such program is operated by a State and offers compensation to— (A) victims and survivors of victims of criminal violence, including drunk driving and domestic violence, for— (i) medical expenses attributable to a physical injury resulting from a compensable crime, including expenses for mental health counseling and care; (ii) loss of wages attributable to a physical injury resulting from a compensable crime; and (iii) funeral expenses attributable to a death resulting from a compensable crime; or (B) angel families for— (i) medical expenses attributable to any injury resulting from a compensable crime, including expenses for mental health counseling and care; (ii) loss of wages attributable to emotional distress resulting from a compensable crime; and (iii) funeral expenses attributable to a death resulting from a compensable crime; ; and
+**(2)**
+in subsection (d)—
+**(A)**
+in paragraph (4), by striking ; and and inserting a semicolon;
+**(B)**
+in paragraph (5), by striking the period at the end and inserting ; and ; and
+**(C)**
+by adding at the end the following:
+(6) the term angel family means the immediate family members of any individual who is a victim of homicide committed by— (A) an alien described in section 212(a)(6)(A)(i) of the Immigration and Nationality Act ( 8 U.S.C. 1182(a)(6)(A)(i) ) who is unlawfully present in the United States; or (B) any member of an international criminal organization involved in the unlawful trafficking of controlled substances (as defined in section 102 of the Controlled Substances Act ( 21 U.S.C. 802 )), including an international drug cartel. .
+#### 3. Victims of Immigration Crime Engagement Office
+##### (a) Establishment
+Title I of the Homeland Security Act of 2002 ( 6 U.S.C. 111 et seq. ) is amended by adding at the end the following:
+104. Victims of Immigration Crime Engagement Office (a) Definitions In this section: (1) Alien The term alien means an individual who— (A) is described in section 212(a)(6)(A)(i) of the Immigration and Nationality Act ( 8 U.S.C. 1182(a)(6)(A)(i) ); and (B) is unlawfully present in the United States. (2) Director The term Director means the Director of the Victims of Immigration Crime Engagement Office established pursuant to subsection (b). (b) In general The Secretary shall establish, within the Office of the Secretary, the Victims of Immigration Crime Engagement Office to provide proactive, timely, and professional services to victims of crimes committed by aliens who are inadmissible under section 212(a), deportable under section 237(a), or otherwise unlawfully present in the United States, and to the family members of such victims. (c) Duties The Office shall be headed by a Director, who shall— (1) create a hotline for victims described in subsection (b) and for the family members of such victims— (A) to ensure that such victims and family members receive the support they need, including by— (i) providing information available to help victims and their family members understand the immigration enforcement and removal process; (ii) liaising with social service professionals to assist in providing support services referral information; and (iii) directing victims and their family members to a wide range of available resources; (B) to assist victims and family members of victims to register for automated custody status information related to the criminal alien; (C) to provide victims and their family members with releasable criminal or immigration history about the criminal alien; and (D) to provide immediate services to victims and their family members and collect metrics and information to determine additional resource needs and how to improve services to victims; and (2) conduct a case study on providing proactive, timely, and professional services to victims of crimes, and the family members of such victims, that are committed by aliens who are inadmissible under section 212(a), deportable under section 237(a), or otherwise unlawfully present in the United States. (d) Annual report Not later than 1 year after the date of the enactment of the Justice for Angel Families Act , and annually thereafter, the Director shall submit to Congress a report regarding the impact on victims of crimes committed by aliens who are inadmissible under section 212(a), deportable under section 237(a), or otherwise unlawfully present in the United States that includes— (1) a summary of the case study described in subsection (c)(2); and (2) information regarding— (A) the demographics of such victims and criminal aliens; (B) the locations of such crimes; (C) the type of crimes committed; and (D) whether the criminal aliens have committed multiple crimes. .
+##### (b) Clerical amendment
+The table of contents of the Homeland Security Act of 2002 ( 6 U.S.C. 101 et seq. ) is amended by inserting after the item relating to section 103 the following:
+Sec. 104. Victims of Immigration Crime Engagement Office. .
+
+
+## Timeline
+
+- 2025-05-13: Introduced in House
+- 2025-05-13 - IntroReferral: Introduced in House
+- 2025-05-13 - IntroReferral: Introduced in House
+- 2025-05-13 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2025-05-13: Introduced in House

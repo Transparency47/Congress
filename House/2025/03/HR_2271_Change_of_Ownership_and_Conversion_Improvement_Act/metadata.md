@@ -1,0 +1,277 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/2271?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/2271
+- Title: Change of Ownership and Conversion Improvement Act
+- Congress: 119
+- Bill type: HR
+- Bill number: 2271
+- Origin chamber: House
+- Introduced date: 2025-03-21
+- Update date: 2025-12-19T21:04:06Z
+- Update date including text: 2025-12-19T21:04:06Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, subjects, summaries, text, titles
+
+## Timeline
+
+- 2025-03-21: Introduced in House
+- 2025-03-21 - IntroReferral: Introduced in House
+- 2025-03-21 - IntroReferral: Introduced in House
+- 2025-03-21 - IntroReferral: Referred to the House Committee on Education and Workforce.
+- Latest action: 2025-03-21: Introduced in House
+
+## Actions
+
+- 2025-03-21 - IntroReferral: Introduced in House
+- 2025-03-21 - IntroReferral: Introduced in House
+- 2025-03-21 - IntroReferral: Referred to the House Committee on Education and Workforce.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-03-21",
+    "latestAction": {
+      "actionDate": "2025-03-21",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/2271",
+    "number": "2271",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Education"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "O000086",
+        "district": "4",
+        "firstName": "Burgess",
+        "fullName": "Rep. Owens, Burgess [R-UT-4]",
+        "lastName": "Owens",
+        "party": "R",
+        "state": "UT"
+      }
+    ],
+    "title": "Change of Ownership and Conversion Improvement Act",
+    "type": "HR",
+    "updateDate": "2025-12-19T21:04:06Z",
+    "updateDateIncludingText": "2025-12-19T21:04:06Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-03-21",
+      "committees": {
+        "item": {
+          "name": "Education and Workforce Committee",
+          "systemCode": "hsed00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Education and Workforce.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-03-21",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-03-21",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-03-21T20:03:05Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Education and Workforce Committee",
+      "systemCode": "hsed00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2271ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 2271\nIN THE HOUSE OF REPRESENTATIVES\nMarch 21, 2025 Mr. Owens introduced the following bill; which was referred to the Committee on Education and Workforce\nA BILL\nTo amend the Higher Education Act of 1965 to modify the application and review process for changes of control, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Change of Ownership and Conversion Improvement Act .\n#### 2. Findings\nCongress finds the following:\n**(1)**\nInstitutions of higher education in the United States frequently merge with, consolidate, and acquire other institutions that result in a change in ownership.\n**(2)**\nThese transactions are generally good for students, as they promote innovation, drive competition, and prevent stagnation.\n**(3)**\nChanging demographics and evolving higher education enrollment patterns may lead to more mergers and acquisitions in the future.\n**(4)**\nProprietary institutions that voluntarily convert to nonprofit status or are acquired by nonprofit and public entities can have a positive impact on students and society.\n**(5)**\nThe Department of Education has an interest in safeguarding Federal student aid funds and therefore should conduct thorough and comprehensive reviews of all changes in ownership involving institutions of higher education.\n**(6)**\nThese reviews are necessary to ensure that the acquiring entity has the financial and administrative capacity to manage the target institutions.\n**(7)**\nThe Department of Education should conduct these reviews in a thorough and comprehensive manner but should do so as quickly as possible to promote the execution of these transactions.\n**(8)**\nAs of May 2021, the Department of Education had very few staff assigned to evaluate pretransaction, change of control, and conversion applications on a full-time basis.\n**(9)**\nConsequently, these transactions are processed by the Department of Education at an extraordinary slow rate of speed, with some institutions waiting up to 5 years before receiving a final determination.\n**(10)**\nOne of the primary challenges in processing these applications quickly is the lack of funding to hire enough qualified staff.\n**(11)**\nCurrently, general taxpayers are bearing the cost of reviewing these transactions.\n**(12)**\nIt is in the interest of institutions and the United States to charge a fee for applications involving changes in ownership at institutions of higher education that are submitted to the Department of Education.\n**(13)**\nIn consideration for the fee, the Department of Education will be required to guarantee an expedited review process for all applicants, absent compelling circumstances where good cause exists for delay.\n**(14)**\nThe Government Accountability Office has identified weaknesses in the Department of Education\u2019s post-transaction monitoring process, which will likewise require additional staff to be hired to conduct monitoring.\n**(15)**\nInstitutions that have converted from proprietary status to nonprofit status and have an ongoing financial relationship with the former owners of the institution are at highest risk of entering into financial arrangements that result in improper private inurement.\n**(16)**\nThese institutions should be closely monitored for a period after these transactions occur and should be required to pay a fee to support the hiring of staff to conduct this monitoring.\n**(17)**\nThe Government Accountability Office has likewise found weaknesses in the Internal Revenue Service review process for conversion requests and the post-transaction monitoring process.\n**(18)**\nIn order to support a more thorough review of these applications and to conduct monitoring, the Department of Education will remit part of the fee paid by institutions to the Internal Revenue Service for these purposes.\n#### 3. Modifying the approval process for changes of control\n##### (a) Amendments\nSection 498(i) of the Higher Education Act of 1965 ( 20 U.S.C. 1099c(i) ) is amended\u2014\n**(1)**\nin the subsection heading, by inserting and Proposed Changes of Ownership after Ownership ;\n**(2)**\nin paragraph (1)\u2014\n**(A)**\nby striking (1) An eligible institution , and inserting the following: (1)(A) An eligible institution ;\n**(B)**\nby striking the requirements of section 102 (other than the requirements in subsections (b)(5) and (c)(3)) and inserting the applicable requirements of section 102 or 103(13) ; and\n**(C)**\nby adding at the end the following:\n(B) (i) Prior to a change in ownership resulting in a change of control, an institution may seek a pretransaction determination about whether the institution will meet the applicable requirements of section 102 or 103(13) and this section after such proposed change in ownership by submitting to the Secretary a materially complete pretransaction review application. (ii) In reviewing applications submitted under clause (i), the Secretary shall only provide a comprehensive review of each such application, and may not provide an abbreviated or partial review. (iii) If an institution submits a materially complete pretransaction review application at least 90 days prior to the transaction and the Secretary approves the application, the subsequent change in ownership application shall also be approved and the institution shall be certified as meeting the requirements for such transaction, provided that the institution\u2014 (I) complies with the applicable terms of this section; and (II) the transaction resulting in a change of control does not differ materially in its terms from the transaction proposed in the pretransaction review application. ;\n**(3)**\nin paragraph (2)\u2014\n**(A)**\nin subparagraph (E), by striking or at the end;\n**(B)**\nin subparagraph (F), by striking the period at the end and inserting ; or ; and\n**(C)**\nby adding the following at the end:\n(G) in the case of a proprietary institution of higher education, a conversion to a public or other nonprofit institution of higher education. ; and\n**(4)**\nby adding at the end the following:\n(5) (A) Subject to subparagraph (B), when any institution submits an application for a change in ownership resulting in a change in control under this section or submits a pretransaction review application under paragraph (1)(B) (other than in the case of a conversion transaction), the institution shall be required to pay to the Secretary an administrative fee that shall\u2014 (i) be in an amount equal to 0.15 percent of the total institutional revenue derived from this title by such institution for the most fiscal year for which data is available; and (ii) be used exclusively for expenses related to the processing of such application, and be available to the Secretary without further appropriation, exclusively for expenses related to the processing of such approval or application. (B) In the case of a proprietary institution submitting an application for conversion, or a pretransaction review application for conversion, the institution shall be required to pay to the Secretary an administrative fee that shall\u2014 (i) be in an amount equal to 0.30 percent of the total institutional revenue derived from this title by such institution for the most fiscal year for which data is available; and (ii) be used exclusively for expenses related to the processing of such application, and of which\u2014 (I) 50 percent shall be available to the Secretary without further appropriation, exclusively for expenses related to the processing of such application; and (II) 50 percent shall be remitted by the Secretary to the Commissioner of the Internal Revenue, and shall be available, without further appropriation, to the Commissioner of Internal Revenue exclusively for purposes of determining whether the institution seeking such conversion or pretransaction review is an institution exempt from tax and is otherwise in compliance with applicable requirements of the Internal Revenue Code of 1986. (C) An institution that pays a fee under subparagraph (A) or (B) for a pretransaction application with respect to a proposed transaction shall not be required to pay another fee under such subparagraph for a change in ownership application with respect to such transaction. (D) In no case may any fee remitted under subparagraph (A) or (B) exceed $120,000 for any transaction (or pretransaction) application, nor may the Secretary require an institution that has paid a fee under subparagraph (B) to pay an additional fee under subparagraph (A). (6) (A) The Secretary shall approve or deny a materially complete application (including pretransaction reviews and conversion applications) submitted under this section as soon as practicable and not later than the 90-day period beginning on the date of receipt of such an application, except that in a case in which the Secretary determines, on a nondelegable basis, that good cause exists to not make the determination during such 90-day period, the Secretary shall notify the institution in writing detailing the reasons for a good cause extension. (B) If the Secretary fails to approve or deny a materially complete application during the period described in subparagraph (A) and does not find good cause for extension, the materially complete application shall be deemed approved. (C) In no case may the Secretary grant a good cause extension under this section to an institution for more than one month at a time, or for a total of more than more than 12 months. (D) To ensure timely submission of all relevant documentation, the Secretary may deny an application if an institution does not make a good faith effort to submit to the Secretary, in a timely manner\u2014 (i) all relevant documentation; or (ii) a materially complete application. (E) (i) Upon approving or denying an application under this paragraph, the Secretary shall publish in the Federal Register the reasoning for such approval or denial, including\u2014 (I) a copy of the approval or denial letter sent to the institution; and (II) any analysis regarding how the Secretary determined under paragraph 7(A)(iii) that a director of the institution was an interested or disinterested party to the transaction. (ii) The Secretary shall not publish under clause (i) any information that is otherwise exempt from disclosure under section 552 of title 5, United States Code (relating to the Freedom of Information Act), including trade secrets and commercial or financial information that is privileged or confidential. (7) (A) In the case of a proprietary institution that subsequent to the transaction would be owned and operated by an entity (in this paragraph referred to as the buyer ) seeking to be recognized as a public or other nonprofit institution, the buyer shall meet the definition of a nonprofit institution under section 103(13) if\u2014 (i) the buyer pays no more than fair market value for any assets of the proprietary institution; (ii) the buyer pays no more than fair market value for any service or lease contracts, including such service and lease contracts provided by the entity selling the proprietary institution; and (iii) to prevent self-dealing in the case where one or more individuals with a substantial ownership or controlling interests in the proprietary institution will also have substantial or controlling interests in the institution seeking to be recognized as a public or other nonprofit institution (meaning that one or more individuals are on both sides of the transaction), the change of control transaction, and any substantial asset acquisition, service, or lease agreements with the proprietary institution shall be approved by a disinterested committee of directors of the entity that seeks to be recognized as a public or other nonprofit institution. (B) For the purposes of this paragraph, parties to the transaction are entitled to a rebuttable presumption that the assets, lease contracts, and service contracts that are part of the transaction are purchased at fair market value if\u2014 (i) the acquiring entity pays no more than fair market value for such assets, lease contracts, or service contracts; and (ii) the value of the assets, lease contracts, or service contracts are evaluated by at least one independent third-party entity hired by parties on both sides of the transaction. (8) (A) An institution that has been approved for conversion by the Secretary shall be subject to a monitoring period for a 5-year period beginning on the day after the date of such approval. In conducting the monitoring of the institution under this paragraph, the Secretary\u2014 (i) shall only conduct monitoring to ensure that the institution is in compliance with the requirements of section 103(13) and paragraph (7) of this subsection; and (ii) may require the institution to submit regular reports or conduct audits of such institution relating to such compliance. (B) Each institution that is subject to the monitoring period under this paragraph shall remit an annual fee to the Secretary\u2014 (i) in an amount equal to 0.15 percent of the total revenue derived from this title by such institution for the most recent fiscal year for which data is available; and (ii) that shall be exclusively for expenses related to monitoring of the institution for the period described in subparagraph (A)\u2014 (I) of which 50 percent shall be used by the Secretary, without further appropriation, exclusively for expenses related to monitoring of the institution during such period; and (II) of which 50 percent shall be remitted by the Secretary to the Commissioner of Internal Revenue, to be available to such Commissioner, without further appropriation, exclusively for monitoring compliance with the Internal Revenue Code of such institution during such period. (C) An institution may not be subject to an annual fee under subparagraph (B) for monitoring related to a conversion that exceeds $60,000. (D) If the Secretary determines that an institution should be subject to the monitoring under this paragraph beyond the 5-year period described in subparagraph (A), the Secretary shall provide the reasons justifying an extension in writing to the institution (and in the Federal Register) at least 30 days before the expiration of such period. (E) Any institution that is subject to monitoring under this paragraph may seek a waiver to be exempt from such monitoring (including the annual fee under subparagraph (B)) on an annual basis for any year during the monitoring period and the Secretary shall grant such waiver if there is no ongoing contractual or financial relationship between the institution and the former entity or individuals that previously owned the institution. The Secretary may grant a waiver for more than 1 year in the case where the entity that formerly owned the proprietary institution has closed or no longer exists and the Secretary determines the institution is not at risk of violating the requirements of section 103(13) or paragraph (7) of this subsection. (9) Any institution that submits an application for conversion shall not promote or market itself, in any manner, as a public or other nonprofit institution of higher education unless\u2014 (A) the Secretary has provided final approval of the conversion of the institution to a public or other nonprofit institution of higher education under this section; (B) an accrediting agency or association recognized by the Secretary pursuant to section 496 has approved such public or nonprofit status of the institution; (C) the State has given final approval to the institution as a public or nonprofit institution of higher education, as applicable; and (D) in the case of an institution seeking nonprofit status, the Commissioner of Internal Revenue has approved the institution as tax exempt pursuant to the Internal Revenue Code of 1986. (10) Not later than 270 days after the date of enactment of the Change of Ownership and Conversion Improvement Act , and periodically thereafter, the Secretary shall publish (and update as necessary) in the Federal Register\u2014 (A) descriptions of the documents and materials the Secretary expects or requires institutions of higher education to submit (including any standardized forms) as part of any pretransaction application or change in ownership application under this section, including a description of what the Secretary considers to be a materially complete application; and (B) after at least a 30-day notice and comment period, responses to any public comments received with respect to such descriptions or updates to such descriptions. (11) In a case in which the Secretary requests a document under this section as part of a pretransaction or change in ownership application that is not described in the Federal Register under paragraph (10), the Secretary shall\u2014 (A) substantiate, in writing to the institution, the reasons why the Secretary is requesting such documents; and (B) publish such reasons in the Federal Register, including whether the Secretary may request other institutions that submit applications under this section to produce similar documentation. (12) (A) Not later than 18 months after the date of enactment of the Change of Ownership and Conversion Improvement Act , and annually thereafter, the Secretary shall submit a report to authorizing committees, and post such report on a publicly available website regarding implementation of the amendments made to this section by such Act, including the following information: (i) The mean and median length of time taken by the Secretary to review applications under this section during the preceding 12-month period. (ii) The number of applications approved or denied during the preceding 12-month period. (iii) For any application not processed during the 90-day period beginning on the date of receipt of the application for which the Secretary found good cause under paragraph (6)(A) to extend the deadline in which the application shall be processed, a copy of the letter sent to the institution explaining why the Secretary believed good cause existed for such extension. (iv) For any application not processed during such 90-day period, which was deemed to be automatically approved by the requirements of this section under paragraph (6)(B), the name of each institution involved and an explanation for why the application was not processed in a timely manner. (v) Any legislative suggestions the Secretary may have to improve the application or monitoring process under this section. (B) If the Secretary fails to submit a report under this paragraph by not later than 90 days after the deadline for such submission under subparagraph (A), the Secretary may not, for the 12-month period following such failure, spend the fees remitted by institutions under this section or remit such fees to the Commissioner unless Congress provides for such use by further appropriation. (13) For the purposes of this subsection, the term conversion means any transaction under which\u2014 (A) a proprietary institution is reorganized and seeks recognition as a public or other nonprofit institution; or (B) the control of a proprietary institution is transferred as a result of a sale, donation, or other method to an entity that seeks certification under this section as a public or other nonprofit institution. .\n##### (b) Application\nThe amendments made by this section shall be apply with respect to applications submitted for change of control or conversion submitted on or after January 1, 2026.\n#### 4. Government Accountability Office\nNot later than 5 years after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Education and Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report on the implementation of the amendments made by this Act, including recommendations to improve\u2014\n**(1)**\nthe application process under section 498(i) of the Higher Education Act of 1965 ( 20 U.S.C. 1099c(i) ), as amended by section 3, for institutions of higher education seeking a change in ownership resulting in a change in control; or\n**(2)**\nthe monitoring process under such section for institutions of higher education that have recently converted from being recognized as a proprietary institution to a public or other nonprofit institution.",
+      "versionDate": "2025-03-21",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Education",
+        "updateDate": "2025-05-09T13:21:03Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: summaries
+
+```json
+{
+  "govinfoBulk": {
+    "introducedDate": "2025-03-21",
+    "originChamber": "House",
+    "payload": {
+      "dublinCore": {
+        "contributor": "Congressional Research Service, Library of Congress",
+        "description": "This file contains bill summaries for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is \"to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives\". For more information, refer to the User Guide that accompanies this file.",
+        "format": "text/xml",
+        "language": "EN",
+        "rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      },
+      "item": {
+        "@attributes": {
+          "congress": "119",
+          "measure-id": "id119hr2271",
+          "measure-number": "2271",
+          "measure-type": "hr",
+          "orig-publish-date": "2025-03-21",
+          "originChamber": "HOUSE",
+          "update-date": "2025-12-19"
+        },
+        "summary": {
+          "@attributes": {
+            "currentChamber": "HOUSE",
+            "summary-id": "id119hr2271v00",
+            "update-date": "2025-12-19"
+          },
+          "action-date": "2025-03-21",
+          "action-desc": "Introduced in House",
+          "summary-text": "<p><strong>Change of Ownership and Conversion Improvement Act</strong></p><p>This bill revises the application and review process for institutions of higher education (IHEs) to change ownership or for a proprietary (i.e., for-profit) IHE to\u00a0convert to public or other nonprofit status.</p><p>Specifically, the bill\u00a0(1) establishes a pretransaction review application, and (2) requires an IHE to pay an administrative fee to the Department of Education (ED) for change in ownership or conversion transactions or pretransaction reviews. In the case of a\u00a0for-profit IHE seeking conversion or a pretransaction review for conversion, ED must remit 50%\u00a0of the administrative fee to the Internal Revenue Service (IRS) to determine whether the\u00a0IHE is exempt from tax and is otherwise in compliance with the\u00a0applicable requirements of the Internal Revenue Code of 1986 (IRC).</p><p>The bill establishes time frames for ED to approve or deny applications. The bill also includes various reporting requirements.</p><p>An\u00a0IHE that has been approved for conversion by ED must be subject to a five-year monitoring period and must also pay an annual fee for this monitoring. ED must remit 50% of the annual fee to the IRS for monitoring the IHE's compliance with the\u00a0IRC.</p><p>The Government Accountability Office must report on the implementation of this bill's provisions.</p>"
+        },
+        "title": "Change of Ownership and Conversion Improvement Act"
+      }
+    },
+    "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSUM/119/hr/BILLSUM-119hr2271.xml",
+    "summary": {
+      "actionDate": "2025-03-21",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Change of Ownership and Conversion Improvement Act</strong></p><p>This bill revises the application and review process for institutions of higher education (IHEs) to change ownership or for a proprietary (i.e., for-profit) IHE to\u00a0convert to public or other nonprofit status.</p><p>Specifically, the bill\u00a0(1) establishes a pretransaction review application, and (2) requires an IHE to pay an administrative fee to the Department of Education (ED) for change in ownership or conversion transactions or pretransaction reviews. In the case of a\u00a0for-profit IHE seeking conversion or a pretransaction review for conversion, ED must remit 50%\u00a0of the administrative fee to the Internal Revenue Service (IRS) to determine whether the\u00a0IHE is exempt from tax and is otherwise in compliance with the\u00a0applicable requirements of the Internal Revenue Code of 1986 (IRC).</p><p>The bill establishes time frames for ED to approve or deny applications. The bill also includes various reporting requirements.</p><p>An\u00a0IHE that has been approved for conversion by ED must be subject to a five-year monitoring period and must also pay an annual fee for this monitoring. ED must remit 50% of the annual fee to the IRS for monitoring the IHE's compliance with the\u00a0IRC.</p><p>The Government Accountability Office must report on the implementation of this bill's provisions.</p>",
+      "updateDate": "2025-12-19",
+      "versionCode": "id119hr2271"
+    },
+    "title": "Change of Ownership and Conversion Improvement Act"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-03-21",
+      "actionDesc": "Introduced in House",
+      "text": "<p><strong>Change of Ownership and Conversion Improvement Act</strong></p><p>This bill revises the application and review process for institutions of higher education (IHEs) to change ownership or for a proprietary (i.e., for-profit) IHE to\u00a0convert to public or other nonprofit status.</p><p>Specifically, the bill\u00a0(1) establishes a pretransaction review application, and (2) requires an IHE to pay an administrative fee to the Department of Education (ED) for change in ownership or conversion transactions or pretransaction reviews. In the case of a\u00a0for-profit IHE seeking conversion or a pretransaction review for conversion, ED must remit 50%\u00a0of the administrative fee to the Internal Revenue Service (IRS) to determine whether the\u00a0IHE is exempt from tax and is otherwise in compliance with the\u00a0applicable requirements of the Internal Revenue Code of 1986 (IRC).</p><p>The bill establishes time frames for ED to approve or deny applications. The bill also includes various reporting requirements.</p><p>An\u00a0IHE that has been approved for conversion by ED must be subject to a five-year monitoring period and must also pay an annual fee for this monitoring. ED must remit 50% of the annual fee to the IRS for monitoring the IHE's compliance with the\u00a0IRC.</p><p>The Government Accountability Office must report on the implementation of this bill's provisions.</p>",
+      "updateDate": "2025-12-19",
+      "versionCode": "id119hr2271"
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-03-21",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2271ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Change of Ownership and Conversion Improvement Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-04-01T04:23:22Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Change of Ownership and Conversion Improvement Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-04-01T04:23:20Z"
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To amend the Higher Education Act of 1965 to modify the application and review process for changes of control, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-04-01T04:18:33Z"
+    }
+  ]
+}
+```

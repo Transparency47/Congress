@@ -1,0 +1,116 @@
+# HR 7522: Improving Access to Nutrition Act of 2026
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-02-12
+- Latest action: 2026-02-12 - Introduced in House
+- Policy area: Agriculture and Food
+- Sponsor: Rep. Adams, Alma S. [D-NC-12]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7522
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-02-12
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7522ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-02-12
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7522ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7522
+IN THE HOUSE OF REPRESENTATIVES
+February 12, 2026 Ms. Adams (for herself, Mrs. Hayes , Ms. Lee of Pennsylvania , Ms. Simon , Mr. McGovern , Mr. Moulton , Mr. Thanedar , Ms. Norton , Ms. Wilson of Florida , Mr. Fields , Ms. Rivas , and Mr. Correa ) introduced the following bill; which was referred to the Committee on Agriculture
+A BILL
+To amend the Food and Nutrition Act of 2008 to repeal the particular work requirement that disqualifies able-bodied adults for eligibility to participate in the supplemental nutrition assistance program.
+#### 1. Short title
+This Act may be cited as the Improving Access to Nutrition Act of 2026 .
+#### 2. Findings
+The Congress makes the following findings:
+**(1)**
+SNAP helps restore access to healthy food, improves overall health, and reduces poverty. SNAP participation is also associated with educational advancement of children in poverty and improvements in math and reading scores.
+**(2)**
+SNAP has a proven record of effectiveness in promoting food security and health as well as in providing economic stimulus. Each $1 in SNAP benefits during a downturn generates between $1.50 and $1.80 in economic activity.
+**(3)**
+Studies have also demonstrated that work requirements do not reduce poverty.
+**(4)**
+About 6.1 million individuals are subject to SNAP work requirements and are at risk of losing critical food assistance if they cannot comply.
+**(5)**
+Some live in households with school-aged children where benefit reductions or terminations could jeopardize children’s health, development, and future success.
+**(6)**
+Children in poverty also often depend on pooled resources (including SNAP benefits) from extended family members who do not claim them as dependents.
+**(7)**
+Studies show that health impediments are a primary cause of why many SNAP recipients are unable to meet a work requirement.
+**(8)**
+Work requirements also cause an increase in the administrative bureaucracy, which some studies have shown, cause a significant reduction in SNAP participation.
+**(9)**
+Studies show that Black Americans are particularly vulnerable and are most likely to face recent unemployment, and work requirements would disproportionately prevent Black people from having access to this important benefit.
+**(10)**
+Families experiencing homelessness are most likely to leave programs like SNAP when there is a work requirement, thereby increasing their vulnerability.
+#### 3. Amendments
+##### (a) Work requirement
+Section 6 of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2015 ) is amended—
+**(1)**
+in subsections (d)(4)(B)(ii)(I)(bb), (d)(4)(N)(iii)(I)(bb), (d)(4)(N)(iv)(II), and (d)(4)(N)(v)(IV) by striking or subsection (o) , and
+**(2)**
+by striking subsection (o).
+##### (b) Additional allocations for states that ensure availability of work opportunities
+Section 16(h)(1) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2025(h)(1) ) is amended by striking subparagraph (E).
+##### (c) Technical amendments
+**(1)**
+Section 7(i)(1) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2016(i)(1) ) is amended by striking section 6(o)(2) of this Act or .
+**(2)**
+Section 16(h) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2025(h) ) is amended—
+**(A)**
+in paragraph (1)—
+**(i)**
+in subparagraph (B)—
+**(I)**
+by striking that— and all that follows through (I) , and
+**(II)**
+by striking ; and and all that follows through 6(o) , and
+**(ii)**
+in subparagraph (F)(ii)(III)(ee)(AA) by striking , individuals subject to the requirements under section 6(o), , and
+**(B)**
+in paragraph (5)(C)—
+**(i)**
+in clause (ii) by inserting and at the end, and
+**(ii)**
+in clause (iii) by striking ; and and all that follows through appropriate .
+#### 4. Conforming amendments
+##### (a) Internal revenue code
+Section 51(d)(8)(A)(ii) of the Internal Revenue Code of 1986 ( 26 U.S.C. 51(d)(8)(A)(ii) ) is amended—
+**(1)**
+by striking family— and all that follows through (I) and inserting family , and
+**(2)**
+by striking , or and all that follows through of 2008 .
+##### (b) Workforce innovation and opportunity act
+The Workforce Innovation and Opportunity Act ( 29 U.S.C. 3101 et seq. ) is amended—
+**(1)**
+in section 103(a)(2) by striking subparagraph (D), and
+**(2)**
+in section 121(b)(2)(B) by striking clause (iv).
+#### 5. Effective date; application of amendments
+##### (a) Effective date
+Except as provided in subsection (b), this Act and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act.
+##### (b) Application of amendments
+**(1)**
+The amendments made by section 2 shall not apply with respect to an allotment issued under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq. ) before the effective date of this Act.
+**(2)**
+The amendments made by section 3(a) shall not apply to individuals hired before the expiration of the 90-day period that begins on the effective date of this Act.
+
+
+## Timeline
+
+- 2026-02-12: Introduced in House
+- 2026-02-12 - IntroReferral: Introduced in House
+- 2026-02-12 - IntroReferral: Introduced in House
+- 2026-02-12 - IntroReferral: Referred to the House Committee on Agriculture.
+- Latest action: 2026-02-12: Introduced in House

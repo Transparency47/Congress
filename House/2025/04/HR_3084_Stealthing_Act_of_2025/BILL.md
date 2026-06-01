@@ -1,0 +1,88 @@
+# HR 3084: Stealthing Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-04-29
+- Latest action: 2025-04-29 - Introduced in House
+- Policy area: Law
+- Sponsor: Rep. Torres, Norma J. [D-CA-35]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hr/3084
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-04-29
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3084ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-04-29
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3084ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3084
+IN THE HOUSE OF REPRESENTATIVES
+April 29, 2025 Mrs. Torres of California (for herself, Ms. Stansbury , Ms. Norton , Ms. Clarke of New York , Ms. Schakowsky , Mr. Larson of Connecticut , Ms. Tlaib , and Mrs. Cherfilus-McCormick ) introduced the following bill; which was referred to the Committee on the Judiciary
+A BILL
+To create a civil action for non-consensual sexual protection barrier removal, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Stealthing Act of 2025 .
+#### 2. Findings
+Congress finds the following:
+**(1)**
+Stealthing is a type of sexual violence used to describe non-consensual condom removal during sex.
+**(2)**
+In October 2021, California became the first State to outlaw stealthing at the State level. This law creates a civil remedy so that victims of stealthing can sue for damages.
+**(3)**
+A 2019 study from Health Psychology reported that almost 10 percent of male participants reported engaging in non-consensual condom removal since the age of 14 years, with an average of 3.62 times and a range of 1–21 times.
+**(4)**
+A 2019 study from the Jacobs Institute of Women’s Health found that 12 percent of women have experienced stealthing.
+**(5)**
+A 2018 Australian study from PLoS ONE found that one in three female respondents and one in five gay male respondents have experienced stealthing.
+**(6)**
+Stealthing is a grave violation of autonomy, dignity, and trust that is considered emotional and sexual abuse.
+**(7)**
+Stealthing exposes victims to physical risks including pregnancy and sexually transmitted diseases.
+**(8)**
+People engaging in sexual intercourse have the right to make decisions about whether to use a condom or other sexual protection barrier.
+#### 3. Non-consensual sexual protection barrier removal
+##### (a) Civil action
+Any person may commence a civil action against a person who, in a circumstance described in subsection (b), engages in non-consensual sexual protection barrier removal.
+##### (b) Circumstances described
+For the purposes of subsection (a), the circumstances described in this subsection are that—
+**(1)**
+the defendant traveled in interstate or foreign commerce, or traveled using a means, channel, facility, or instrumentality of interstate or foreign commerce, in furtherance of or in connection with the conduct described in subsection (a);
+**(2)**
+the defendant used a means, channel, facility, or instrumentality of interstate or foreign commerce in furtherance of or in connection with the conduct described in subsection (a);
+**(3)**
+a payment of any kind was made, directly or indirectly, in furtherance of or in connection with the conduct described in subsection (a) using any means, channel, facility, or instrumentality of interstate or foreign commerce or in or affecting interstate or foreign commerce;
+**(4)**
+the defendant transmitted in interstate or foreign commerce any communication relating to or in furtherance of the conduct described in subsection (a) using any means, channel, facility, or instrumentality of interstate or foreign commerce or in or affecting interstate or foreign commerce by any means or in manner, including by computer, mail, wire, or electromagnetic transmission;
+**(5)**
+any sexual protection barrier described has traveled in interstate or foreign commerce and was used to perform the conduct described in subsection (a);
+**(6)**
+the conduct described in subsection (a) occurred within the special maritime and territorial jurisdiction of the United States, or any territory or possession of the United States; or
+**(7)**
+the conduct described in subsection (a) otherwise occurred in or affected interstate or foreign commerce.
+##### (c) Penalty
+A person bringing a civil action under subsection (a) may recover compensatory and punitive damages, injunctive and declaratory relief, and such other relief as a court may deem appropriate.
+##### (d) Definitions
+In this section:
+**(1) Non-consensual sexual protection barrier removal**
+The term non-consensual sexual protection barrier removal means removal of a sexual protection barrier from a body part, including the genitals, or an object being used by a person for sexual contact with another person without the consent of each person involved in such sexual contact, causing sexual contact between the body parts, including the genitals, or objects being used for sexual contact, and the body of any person engaged in such sexual contact.
+**(2) Sexual protection barrier**
+The term sexual protection barrier includes a condom, including an internal condom, a dental dam, or any other barrier against sexual fluids during sexual contact.
+
+
+## Timeline
+
+- 2025-04-29: Introduced in House
+- 2025-04-29 - IntroReferral: Introduced in House
+- 2025-04-29 - IntroReferral: Introduced in House
+- 2025-04-29 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2025-04-29: Introduced in House

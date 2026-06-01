@@ -1,0 +1,256 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/s/3565?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-bill/3565
+- Title: SUCCESS for BEAD Act
+- Congress: 119
+- Bill type: S
+- Bill number: 3565
+- Origin chamber: Senate
+- Introduced date: 2025-12-18
+- Update date: 2026-01-26T13:56:38Z
+- Update date including text: 2026-01-26T13:56:38Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-12-18: Introduced in Senate
+- 2025-12-18 - IntroReferral: Introduced in Senate
+- 2025-12-18 - IntroReferral: Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- Latest action: 2025-12-18: Introduced in Senate
+
+## Actions
+
+- 2025-12-18 - IntroReferral: Introduced in Senate
+- 2025-12-18 - IntroReferral: Read twice and referred to the Committee on Commerce, Science, and Transportation.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-12-18",
+    "latestAction": {
+      "actionDate": "2025-12-18",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/3565",
+    "number": "3565",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Science, Technology, Communications"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "W000437",
+        "district": "",
+        "firstName": "Roger",
+        "fullName": "Sen. Wicker, Roger F. [R-MS]",
+        "lastName": "Wicker",
+        "party": "R",
+        "state": "MS"
+      }
+    ],
+    "title": "SUCCESS for BEAD Act",
+    "type": "S",
+    "updateDate": "2026-01-26T13:56:38Z",
+    "updateDateIncludingText": "2026-01-26T13:56:38Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2025-12-18",
+      "committees": {
+        "item": {
+          "name": "Commerce, Science, and Transportation Committee",
+          "systemCode": "sscm00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2025-12-18",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-12-18T17:40:29Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "Senate",
+      "name": "Commerce, Science, and Transportation Committee",
+      "systemCode": "sscm00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "C001047",
+      "firstName": "Shelley",
+      "fullName": "Sen. Capito, Shelley Moore [R-WV]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Capito",
+      "middleName": "Moore",
+      "party": "R",
+      "sponsorshipDate": "2025-12-18",
+      "state": "WV"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s3565is.xml",
+      "text": "II\n119th CONGRESS\n1st Session\nS. 3565\nIN THE SENATE OF THE UNITED STATES\nDecember 18, 2025 Mr. Wicker (for himself and Mrs. Capito ) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation\nA BILL\nTo amend the Infrastructure Investment and Jobs Act to authorize the use of remaining funds under the Broadband Equity, Access, and Deployment Program for competitive subgrants to support the success of the broadband deployment projects funded by that program, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Supporting U.S. Critical Connectivity and Economic Strategy and Security for BEAD Act or the SUCCESS for BEAD Act .\n#### 2. Findings\nCongress finds the following:\n**(1)**\nGrant funds allocated to an eligible entity under section 60102 of the Infrastructure Investment and Jobs Act ( 47 U.S.C. 1702 ) that remain after the eligible entity\u2019s final proposal is approved should be used to enhance and sustain the success of the broadband deployment projects approved pursuant to that proposal.\n**(2)**\nStrengthening the telecommunication infrastructure of the United States, including high-capacity fiber and network interconnection, and developing an adequate, targeted workforce are essential to deploying and scaling artificial intelligence (commonly referred to as AI ) technologies, which are critical for maintaining United States leadership in emerging technologies.\n**(3)**\nFederal broadband investments to modernize and harden the networks of the United States, including the 9\u20131\u20131 networks, are also vital for public safety and national security.\n**(4)**\nThe People\u2019s Republic of China is investing heavily in AI and advanced network infrastructure and workforce training, presenting a geopolitical and technological challenge to the leadership of the United States that warrants action.\n#### 3. BEAD subgrants for public safety, national security, workforce development, and meaningful use of AI-supportive telecommunications infrastructure\n##### (a) In general\nSection 60102 of the Infrastructure Investment and Jobs Act ( 47 U.S.C. 1702 ) is amended\u2014\n**(1)**\nin subsection (a)(2)\u2014\n**(A)**\nby redesignating subparagraphs (I) through (N) as subparagraphs (P) through (U), respectively;\n**(B)**\nby redesignating subparagraph (H) as subparagraph (N);\n**(C)**\nby redesignating subparagraph (G) as subparagraph (K);\n**(D)**\nby redesignating subparagraphs (E) and (F) as subparagraphs (H) and (I), respectively;\n**(E)**\nby redesignating subparagraphs (A) through (D) as subparagraphs (C) through (F), respectively;\n**(F)**\nby inserting before subparagraph (C), as so redesignated, the following:\n(A) 9\u20131\u20131 request for emergency assistance The term 9\u20131\u20131 request for emergency assistance means a communication, such as voice, text, picture, multimedia, or any other type of data, that is sent to an emergency communications center for the purpose of requesting emergency assistance. (B) Artificial intelligence The term artificial intelligence has the meaning given the term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 ( 15 U.S.C. 9401 ). ;\n**(G)**\nby inserting after subparagraph (F), as so redesignated, the following:\n(G) Commonly accepted standards The term commonly accepted standards means the technical standards followed by the communications industry for network, device, and Internet Protocol connectivity that\u2014 (i) enable interoperability; and (ii) are\u2014 (I) developed and approved by a standards development organization that is accredited by an American standards body (such as the American National Standards Institute) or an equivalent international standards body in a process that\u2014 (aa) is open for participation by any person; and (bb) provides for a conflict resolution process; (II) subject to an open comment and input process before being finalized by the standards development organization; (III) consensus-based; and (IV) made publicly available once approved. ;\n**(H)**\nby inserting after subparagraph (I), as so redesignated, the following:\n(J) Emergency communications center (i) In general The term emergency communications center means\u2014 (I) a facility that\u2014 (aa) is designated to receive a 9\u20131\u20131 request for emergency assistance; and (bb) performs 1 or more of the functions described in clause (ii); or (II) a public safety answering point, as defined in section 222 of the Communications Act of 1934 ( 47 U.S.C. 222 ). (ii) Functions described The functions described in this clause are the following: (I) Processing and analyzing 9\u20131\u20131 requests for emergency assistance and information and data related to such requests. (II) Dispatching appropriate emergency response providers. (III) Transferring or exchanging 9\u20131\u20131 requests for emergency assistance and information and data related to such requests to or with 1 or more other emergency communications centers or emergency response providers. (IV) Analyzing any communications received from emergency response providers. (V) Supporting incident command functions. ;\n**(I)**\nby inserting after subparagraph (K), as so redesignated, the following:\n(L) Interoperability The term interoperability means the capability of emergency communications centers to receive 9\u20131\u20131 requests for emergency assistance and information and data related to such requests, such as location information and callback numbers from a person initiating the request, then process and share the 9\u20131\u20131 requests for emergency assistance and information and data related to such requests with other emergency communications centers and emergency response providers without the need for proprietary interfaces and regardless of jurisdiction, equipment, device, software, service provider, or other relevant factors. (M) Internet exchange point The term internet exchange point means a physical building and related infrastructure that\u2014 (i) enables internet service providers, transport networks, mobile networks, content delivery networks, artificial intelligence systems, and other network operators to directly interconnect and exchange data traffic among their networks; (ii) provides neutral, nondiscriminatory access to all network operators in good standing under published and reasonable rates and terms with no requirement for the purchase of network services as a condition of access; and (iii) provides access to a shared internet exchange (commonly known as an IX ) switching fabric that enables participating networks to establish Border Gateway Protocol sessions, whether directly between participants or through a shared route server. ; and\n**(J)**\nby inserting after subparagraph (N), as so redesignated, the following:\n(O) Next Generation 9\u20131\u20131 The term Next Generation 9\u20131\u20131 means an Internet Protocol-based system that\u2014 (i) ensures interoperability; (ii) is secure; (iii) employs commonly accepted standards; (iv) enables emergency communications centers to receive, process, and analyze all types of 9\u20131\u20131 requests for emergency assistance; (v) acquires and integrates additional information useful to handling 9\u20131\u20131 requests for emergency assistance; and (vi) supports sharing information related to 9\u20131\u20131 requests for emergency assistance among emergency communications centers and emergency response providers. ;\n**(2)**\nin subsection (c)(5)(C)\u2014\n**(A)**\nby striking clause (ii);\n**(B)**\nby striking Reallocation to other eligible entities .\u2014 and all that follows through The Assistant Secretary and inserting Reallocation to other eligible entities due to application failures .\u2014The Assistant Secretary ;\n**(C)**\nby redesignating subclauses (I) and (II) as clauses (i) and (ii), respectively, and adjusting the margins accordingly; and\n**(D)**\nin clause (ii), as so redesignated, by striking subclause (I) of this clause and inserting clause (i) of this subparagraph ;\n**(3)**\nin subsection (e)(4)(A)(i), in the matter preceding subclause (I), by striking approvals and inserting approves ; and\n**(4)**\nin subsection (f)\u2014\n**(A)**\nby striking paragraphs (3) through (6);\n**(B)**\nby redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and adjusting the margins accordingly;\n**(C)**\nin subparagraph (A), as so redesignated, by adding and at the end;\n**(D)**\nin subparagraph (B), as so redesignated, by striking the semicolon at the end and inserting a period;\n**(E)**\nby striking An eligible entity may use grant funds received under this section to competitively award subgrants for\u2014 and inserting the following:\n(1) Permissible uses An eligible entity may use grant funds received under this section to competitively award subgrants for\u2014 ; and\n**(F)**\nby adding at the end the following:\n(2) Use of remaining amounts for projects relating to AI-supportive telecommunications infrastructure, workforce development, public safety, and national security (A) Definitions In this paragraph: (i) Eligible project The term eligible project means a project for\u2014 (I) the construction of \u2014 (aa) lit or dark fiber that is to be made available on a wholesale basis; (bb) conduit systems, manholes, in-line amplifier facilities, and related infrastructure; (cc) carrier-neutral internet exchange points; (dd) mobile wireless communications infrastructure; (ee) facilities that house workforce development programs narrowly targeted to address worker shortages in the telecommunications, cybersecurity, artificial intelligence, and electrical distribution sectors, to the extent such programs promote or facilitate the deployment of broadband infrastructure; (ff) submarine cable systems; (gg) carrier-neutral submarine cable landing stations; (hh) mobile wireless communications infrastructure on educational facilities, including those on Tribal lands, that increases coverage, capacity, resiliency, or security capabilities of connectivity for public safety purposes; or (ii) a combination of infrastructure described in any of items (aa) through (hh); (II) the planning and implementation of workforce development programs narrowly targeted to address worker shortages in the telecommunications, artificial intelligence, and electrical distribution sectors, to the extent such programs promote or facilitate the deployment or meaningful use of broadband infrastructure; (III) the planning, implementation, or maintenance of Next Generation 9\u20131\u20131 in emergency communications centers; (IV) data collection, mapping, and planning; (V) resources for tools, personnel, systems, training, or technical assistance to accelerate, streamline, or improve the efficiency of permitting processes necessary for broadband deployment; and (VI) any use determined necessary by the Assistant Secretary to facilitate the goals of the Program. (ii) Remaining amounts The term remaining amounts , with respect to the allocations to an eligible entity under subsection (c), means any amounts remaining from those allocations upon approval of the eligible entity\u2019s final proposal under subsection (e)(4). (B) Use of remaining amounts (i) Subgrant program Notwithstanding any other provision of this section, an eligible entity shall use all remaining amounts to establish a competitive subgrant program to support 1 or more eligible projects. (ii) Noncompetitive subgrants to workforce development boards If an eligible entity wishing to support an eligible project described in subparagraph (A)(i)(II) (relating to workforce development programs) has a workforce development board, the eligible entity may satisfy clause (i) of this subparagraph by awarding a subgrant to the workforce development board without conducting a competitive subgrant program. (C) Prohibited use of funds A subgrant awarded under subparagraph (B) may not be used for the construction, operation, or expansion of a data center that has the primary purpose of processing and storing digital information. (D) Priority In awarding subgrants under subparagraph (B), an eligible entity shall prioritize proposals that\u2014 (i) develop infrastructure described in subparagraph (A) in 1 or more regions that are unserved or underserved by such infrastructure, including on Tribal lands; (ii) are strategically critical for public safety, national security, or economic development; (iii) produce a qualified workforce to support the telecommunications, cybersecurity, artificial intelligence, and electrical distribution sectors, to the extent such proposals promote or facilitate the deployment or meaningful use of broadband infrastructure; (iv) directly support enhanced connectivity to, or network capabilities of, military installations, national laboratories, or other relevant Federal facilities, including facilities of the National Oceanic and Atmospheric Administration; (v) advance the cybersecurity or meaningful use of projects for which such subgrants are awarded; (vi) support direct network interconnection between edge artificial intelligence data centers and local networks, including internet service providers, mobile networks, and research and education networks; (vii) enhance the network capacity, resiliency, hardening, or geographic reach of telecommunications backbone infrastructure; and (viii) accomplish 2 or more of the objectives described in clauses (i) through (vii). (E) Limited operational expenses A subgrant awarded under subparagraph (B) may include funding for reasonable projected operations and maintenance expenses for a period of 24 months after completion of the project, not to exceed 15 percent of the amount of the subgrant. (F) Matching requirement (i) Amount Notwithstanding any other provision of this section, in awarding subgrants under subparagraph (B), other than a subgrant awarded for an eligible activity described in subparagraph (A)(i)(III), an eligible entity shall require a subgrantee to provide a contribution of not less than 25 percent of project costs. (ii) Waiver Upon request by a subgrantee, an eligible entity may reduce or waive the required matching contribution under clause (i). (iii) Source of match A matching contribution under clause (i) may include in-kind contributions made by a subgrantee or a third-party entity. (G) Interstate projects Two or more eligible entities may execute memoranda of agreement between or among one another to facilitate subgrant awards under subparagraph (B) for eligible projects that span 2 or more eligible entities. (H) Challenge process for eligible fiber infrastructure projects (i) In general A subgrant awarded by an eligible entity under subparagraph (B) for the construction of lit or dark fiber that is to be made available on a wholesale basis, as described in subparagraph (A)(i)(I), shall be subject to a mandatory public challenge process administered by the eligible entity. (ii) Public notice and challenge window Before awarding a subgrant described in clause (i), an eligible entity shall\u2014 (I) make the proposed project routes and other relevant attributes available on a publicly accessible website maintained by the eligible entity for a period of not less than 14 days (in this subparagraph referred to as the public notice and challenge window ); and (II) allow for the submission of challenges during the public notice and challenge window on the grounds that the proposed project constitutes overbuilding. (iii) Criteria for valid challenges A proposed project described in clause (i) may only be challenged under clause (ii)(II) if the challenger demonstrates that\u2014 (I) a substantially similar fiber route already exists between defined locations; (II) the existing fiber route is available to wholesale customers on comparable terms and conditions, including price, capacity, and service level agreements; (III) the existing infrastructure meets the same intended use as the proposed project, including latency, resiliency, and interconnection capabilities; and (IV) the proposed project does not substantially improve resilient, redundant, or alternative connection paths. (iv) Determination (I) In general Upon receipt of a timely challenge under clause (ii)(II), an eligible entity shall conduct a review and issue a final determination as to the validity of the challenge not later than 30 days after the close of the public notice and challenge window. (II) Factors for determination An eligible entity shall base a final determination under subclause (I) on a holistic review of route similarity, capacity, availability, service offerings, pricing, and strategic justification. (v) Transparency required An eligible entity shall publish a summary of each challenge received under clause (ii)(II) and the corresponding final determination issued under clause (iv)(I), including the rationale for any decision to uphold or reject the challenge. (vi) Limitation The existence of any fiber route that is not made available on reasonable wholesale terms, or that does not meet the intended purpose or technical performance of the proposed project, shall not be grounds for a valid challenge under clause (ii)(II). (I) Rule of construction regarding Next Generation 9\u20131\u20131 Nothing in this paragraph, including the authority to use remaining amounts for the planning, implementation, or maintenance of Next Generation 9\u20131\u20131 in emergency communications centers as described in subparagraph (A)(i)(III), shall be construed to expand or otherwise modify the definition of the term \u2018originating service provider\u2019 in section 9.28 of title 47, Code of Federal Regulations (or any successor regulation). (J) Rule of construction regarding unspent funds Nothing in this section shall be construed to limit or prevent an eligible entity from returning to the Treasury any amounts allocated to the eligible entity under subsection (c) that are not spent. .\n##### (b) Waiver on Build America, Buy America\nSection 60102(i) of the Infrastructure Investment and Jobs Act ( 47 U.S.C. 1702(i) ) is amended\u2014\n**(1)**\nby striking The Assistant Secretary and inserting the following:\n(1) Authority to issue regulations The Assistant Secretary ; and\n**(2)**\nby adding at the end the following:\n(2) Applicability of Build America Buy America Act waiver The notice of final waiver issued by the Assistant Secretary, titled Limited General Applicability Nonavailability Waiver of the Buy America Domestic Content Procurement Preference as Applied to Recipients of Broadband Equity, Access, and Deployment Program , effective on February 22, 2024, may not be revised or rescinded. .\n##### (c) Guidance to eligible entities\n**(1) In general**\nNot later than 30 days after the date of enactment of this Act, the Assistant Secretary of Commerce for Communications and Information shall issue any guidance necessary to implement the amendments made by subsection (a), consistent with the purposes of this Act.\n**(2) Coordination with Secretary of Labor**\nIn the case of guidance described in paragraph (1) that pertains to workforce development programs, the Assistant Secretary of Commerce for Communications and Information shall develop the guidance in coordination with the Secretary of Labor.\n**(3) Application of uniform guidance**\nThe guidance issued under paragraph (1) shall incorporate and apply, to the maximum extent practicable, the requirements of part 200 of title 2, Code of Federal Regulations (commonly referred to as the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards ).\n##### (d) Coordination of projects relating to the planning, implementation, or maintenance of Next Generation 9\u20131\u20131\nParagraph (2) of section 60102(f) of the Infrastructure Investment and Jobs Act ( 47 U.S.C. 1702(f) ), as amended by subsection (a), is amended by adding at the end the following:\n(K) Coordination of projects relating to the planning, implementation, or maintenance of Next Generation 9\u20131\u20131 (i) Duties of Assistant Secretary with respect to Next Generation 9\u20131\u20131 The Assistant Secretary, acting through the Associate Administrator for Public Safety Communications, shall\u2014 (I) take actions, in coordination with State points of contact described in clause (ii)(II) as applicable, to improve coordination and communication with respect to the implementation of Next Generation 9\u20131\u20131; (II) develop, collect, and disseminate information concerning the practices, procedures, and technology used in the implementation of Next Generation 9\u20131\u20131; (III) advise and assist eligible entities in the preparation of certifications required under clause (ii); (IV) provide technical assistance to eligible entities that choose to use remaining amounts in support of efforts to explore efficiencies related to Next Generation 9\u20131\u20131; (V) review and approve or disapprove the proposed use of remaining amounts for eligible projects described in subparagraph (A)(i)(III); and (VI) oversee the use of subgrants awarded under subparagraph (B) for eligible projects described in subparagraph (A)(i)(III). (ii) Coordination required To the extent that an eligible entity proposes to use remaining amounts for the planning, implementation, or maintenance of Next Generation 9\u20131\u20131 in emergency communications centers as described in subparagraph (A)(i)(III), the eligible entity shall submit to the Assistant Secretary a certification that the eligible entity\u2014 (I) has coordinated the proposed use with each emergency communications center located within the jurisdiction of the eligible entity; (II) has designated a single officer or governmental body to serve as the point of contact to coordinate the implementation of Next Generation 9\u20131\u20131 for that eligible entity, except that such designation need not vest such officer or governmental body with direct legal authority to implement Next Generation 9\u20131\u20131 or to manage emergency communications operations; and (III) has developed a plan for the coordination and implementation of Next Generation 9\u20131\u20131 that\u2014 (aa) ensures interoperability by requiring the use of commonly accepted standards; (bb) ensures reliability; (cc) enables emergency communications centers to process, analyze, and store multimedia, data, and other information; (dd) incorporates cybersecurity tools, including intrusion detection and prevention measures; (ee) includes strategies for coordinating cybersecurity information sharing between Federal, State, Tribal, and local government partners; (ff) uses open and competitive requests for proposal processes, including through shared government procurement vehicles, for deployment of Next Generation 9\u20131\u20131; (gg) documents how input was received and accounted for from relevant rural and urban emergency communications centers, regional authorities, local authorities, and Tribal authorities; (hh) includes 1 or more governance bodies, either by creation of 1 or more new, or use of 1 or more existing, bodies, for the deployment of Next Generation 9\u20131\u20131 that ensures full notice and opportunity for participation by relevant stakeholders; (ii) creates efficiencies related to Next Generation 9\u20131\u20131 functions, including cybersecurity and the virtualization and sharing of infrastructure, equipment, and services; and (jj) utilizes an effective, competitive approach to establishing authentication, credentialing, secure connections, and access in deploying Next Generation 9\u20131\u20131, including by\u2014 (AA) requiring certificate authorities to be capable of cross-certification with other authorities; (BB) avoiding risk of a single point of failure or vulnerability; and (CC) adhering to Federal agency best practices such as those promulgated by the National Institute of Standards and Technology. .",
+      "versionDate": "2025-12-18",
+      "versionType": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-12-23",
+        "text": "Referred to the House Committee on Energy and Commerce."
+      },
+      "number": "6920",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "SUCCESS for BEAD Act",
+      "type": "HR"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Science, Technology, Communications",
+        "updateDate": "2026-01-26T13:56:38Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-12-18",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s3565is.xml"
+        }
+      ],
+      "type": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "SUCCESS for BEAD Act",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2026-01-22T03:38:20Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "SUCCESS for BEAD Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-01-22T03:38:17Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "Supporting U.S. Critical Connectivity and Economic Strategy and Security for BEAD Act",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2026-01-22T03:38:17Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A bill to amend the Infrastructure Investment and Jobs Act to authorize the use of remaining funds under the Broadband Equity, Access, and Deployment Program for competitive subgrants to support the success of the broadband deployment projects funded by that program, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2026-01-22T03:33:19Z"
+    }
+  ]
+}
+```

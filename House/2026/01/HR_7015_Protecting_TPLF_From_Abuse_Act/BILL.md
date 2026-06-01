@@ -1,0 +1,52 @@
+# HR 7015: Protecting TPLF From Abuse Act
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-01-12
+- Latest action: 2026-01-12 - Introduced in House
+- Policy area: Law
+- Sponsor: Rep. Issa, Darrell [R-CA-48]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7015
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-01-12
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7015ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-01-12
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7015ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7015
+IN THE HOUSE OF REPRESENTATIVES
+January 12, 2026 Mr. Issa (for himself, Mr. Fitzgerald , and Mr. Baumgartner ) introduced the following bill; which was referred to the Committee on the Judiciary
+A BILL
+To amend title 28, United States Code, to protect legal proceedings from manipulation and provide for transparency and oversight of third-party beneficiaries in civil actions.
+#### 1. Short title
+This Act may be cited as the Protecting Third Party Litigation Funding From Abuse Act or the Protecting TPLF From Abuse Act .
+#### 2. Transparency and oversight of third-party beneficiaries in civil cases
+##### (a) In general
+Chapter 111 of title 28, United States Code, is amended by adding at the end the following:
+1660. Initial disclosures regarding third-party beneficiaries (a) In general Except as provided in subsection (b), in any civil action, a party or any counsel of record for a party shall— (1) disclose in writing to the court and all other named parties to the civil action the identity of any person (other than counsel of record) that has a legal right to receive any payment or thing of value that is contingent in any respect on the outcome or proceeds of the civil action or a group of civil actions of which the civil action is a part, including— (A) any portion of a settlement, a judgment, or an award of attorney’s fees from the civil action or group of civil actions; or (B) any other proceeds from the civil action or group of civil actions; (2) produce to the court, for in camera review, any agreement creating a legal right described in paragraph (1), including any ancillary agreement or document; and (3) after the review conducted under paragraph (2), produce to each other named party to the civil action, for inspection and copying, each document produced under paragraph (2), subject to any protective order, use limitation, or any other limitation or exclusion ordered by the court, including— (A) any limitation or exclusion relating to attorney-client privilege, the attorney work product doctrine, or any other applicable privilege; or (B) any limitation or exclusion to protect from disclosure to any party or non-party the identity of any member, donor, or associate of the person that has a legal right described in paragraph (1), except to the extent that the member, donor, or associate also has a legal right to receive any payment or thing of value described in subsection (a)(1) and is not excepted from disclosure under subsection (b)(1). (b) Exceptions and limitations (1) In general The requirements under subsection (a) shall not apply with respect to a person that has a legal right to receive any payment or thing of value described in subsection (a)(1) if the legal right is solely regarding— (A) the repayment of the principal of a loan; (B) the repayment of the principal of a loan plus interest that does not exceed the higher of 10 percent or a rate three times the annual average 30-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the year preceding the date on which the relevant agreement was executed; (C) the reimbursement of attorney’s fees paid to counsel of record for services provided in the civil action; or (D) the reimbursement of a grant. (2) Donor, member, and associate identity The requirements under subsection (a)(1) shall not apply with respect to any donor, member, or associate of the person that has a legal right described in subsection (a)(1) unless the donor, member, or associate also has a legal right to receive any payment or thing of value described in subsection (a)(1) and is not excepted from disclosure under subsection (b)(1). (3) Donor and member list The requirements under subsections (a)(2) and (a)(3) shall not require the production of lists of members, donors, or associates, and the court shall permit redactions of the identity of any member, donor, or associate from materials disclosed pursuant to subsection (a)(3), unless that member, donor, or associate also has a legal right to receive any payment or thing of value described in subsection (a)(1) and is not excepted from disclosure under subsection (b)(1). (4) Admissibility and discovery Nothing in this Section may be construed to render admissible any disclosure, document, or thing provided under this Section, or any information therein, or to affect whether any disclosure, document, or thing is discoverable except as expressly provided in this section. (c) Timing The disclosures required by subsection (a) shall be made not later than the later of— (1) 10 days after the execution of any agreement described in subsection (a)(2); (2) the time of initial disclosures made pursuant to Federal Rule of Civil Procedure 26(a)(1); or (3) the time set by the court for such disclosures. (d) Duty to correct A party or counsel of record that made a disclosure required by this section shall supplement or correct each such disclosure in a timely manner— (1) if such party or counsel of record learns that the disclosure is or has become incomplete or incorrect in some material respect, if the additional or corrective information has not otherwise been made known to the other parties during the discovery process or in writing; or (2) as ordered by the court. .
+##### (b) Clerical amendment
+The table of sections for chapter 111 of title 28, United States Code, is amended by adding at the end the following:
+1660. Third-party beneficiary disclosure. .
+#### 3. Applicability
+The amendments made by this Act shall apply to any civil action pending on or commenced after the date of enactment of this Act.
+
+
+## Timeline
+
+- 2026-01-12: Introduced in House
+- 2026-01-12 - IntroReferral: Introduced in House
+- 2026-01-12 - IntroReferral: Introduced in House
+- 2026-01-12 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2026-01-12: Introduced in House

@@ -1,0 +1,675 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/s/787?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-bill/787
+- Title: VetPAC Act of 2025
+- Congress: 119
+- Bill type: S
+- Bill number: 787
+- Origin chamber: Senate
+- Introduced date: 2025-02-27
+- Update date: 2026-04-09T15:25:53Z
+- Update date including text: 2026-04-09T15:25:53Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, amendments, committees, cosponsors, fullTexts, subjects, summaries, text, titles
+
+## Timeline
+
+- 2025-02-27: Introduced in Senate
+- 2025-02-27 - IntroReferral: Introduced in Senate
+- 2025-02-27 - IntroReferral: Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-03-11 - Committee: Committee on Veterans' Affairs. Hearings held.
+- 2025-07-30 - Committee: Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-12-02 - Committee: Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. With written report No. 119-98.
+- 2025-12-02 - Committee: Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. With written report No. 119-98.
+- 2025-12-02 - Calendars: Placed on Senate Legislative Calendar under General Orders. Calendar No. 279.
+- 2025-12-18 - Floor: Measure laid before Senate by unanimous consent. (consideration: CR S8895-8898)
+- 2025-12-18 - Floor: Passed Senate with an amendment by Unanimous Consent. (text: CR S8897-8898)
+- 2025-12-18 - Floor: Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2025-12-18 - Floor: The committee substitute as amended agreed to by Unanimous Consent.
+- 2025-12-19 - Floor: Message on Senate action sent to the House.
+- 2025-12-19 14:33:19 - Floor: Received in the House.
+- 2025-12-19 14:40:27 - Floor: Held at the desk.
+- Latest action: 2025-02-27: Introduced in Senate
+
+## Actions
+
+- 2025-02-27 - IntroReferral: Introduced in Senate
+- 2025-02-27 - IntroReferral: Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-03-11 - Committee: Committee on Veterans' Affairs. Hearings held.
+- 2025-07-30 - Committee: Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-12-02 - Committee: Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. With written report No. 119-98.
+- 2025-12-02 - Committee: Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. With written report No. 119-98.
+- 2025-12-02 - Calendars: Placed on Senate Legislative Calendar under General Orders. Calendar No. 279.
+- 2025-12-18 - Floor: Measure laid before Senate by unanimous consent. (consideration: CR S8895-8898)
+- 2025-12-18 - Floor: Passed Senate with an amendment by Unanimous Consent. (text: CR S8897-8898)
+- 2025-12-18 - Floor: Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2025-12-18 - Floor: The committee substitute as amended agreed to by Unanimous Consent.
+- 2025-12-19 - Floor: Message on Senate action sent to the House.
+- 2025-12-19 14:33:19 - Floor: Received in the House.
+- 2025-12-19 14:40:27 - Floor: Held at the desk.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-02-27",
+    "latestAction": {
+      "actionDate": "2025-02-27",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/787",
+    "number": "787",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Armed Forces and National Security"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "C001075",
+        "district": "",
+        "firstName": "Bill",
+        "fullName": "Sen. Cassidy, Bill [R-LA]",
+        "lastName": "Cassidy",
+        "party": "R",
+        "state": "LA"
+      }
+    ],
+    "title": "VetPAC Act of 2025",
+    "type": "S",
+    "updateDate": "2026-04-09T15:25:53Z",
+    "updateDateIncludingText": "2026-04-09T15:25:53Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H15000",
+      "actionDate": "2025-12-19",
+      "actionTime": "14:40:27",
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Held at the desk.",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "H14000",
+      "actionDate": "2025-12-19",
+      "actionTime": "14:33:19",
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Received in the House.",
+      "type": "Floor"
+    },
+    {
+      "actionDate": "2025-12-19",
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Message on Senate action sent to the House.",
+      "type": "Floor"
+    },
+    {
+      "actionDate": "2025-12-18",
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Passed Senate with an amendment by Unanimous Consent. (text: CR S8897-8898)",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "17000",
+      "actionDate": "2025-12-18",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "type": "Floor"
+    },
+    {
+      "actionDate": "2025-12-18",
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "The committee substitute as amended agreed to by Unanimous Consent.",
+      "type": "Floor"
+    },
+    {
+      "actionDate": "2025-12-18",
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Measure laid before Senate by unanimous consent. (consideration: CR S8895-8898)",
+      "type": "Floor"
+    },
+    {
+      "actionDate": "2025-12-02",
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 279.",
+      "type": "Calendars"
+    },
+    {
+      "actionDate": "2025-12-02",
+      "committees": {
+        "item": {
+          "name": "Veterans' Affairs Committee",
+          "systemCode": "ssva00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. With written report No. 119-98.",
+      "type": "Committee"
+    },
+    {
+      "actionCode": "14000",
+      "actionDate": "2025-12-02",
+      "committees": {
+        "item": {
+          "name": "Veterans' Affairs Committee",
+          "systemCode": "ssva00"
+        }
+      },
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. With written report No. 119-98.",
+      "type": "Committee"
+    },
+    {
+      "actionDate": "2025-07-30",
+      "committees": {
+        "item": {
+          "name": "Veterans' Affairs Committee",
+          "systemCode": "ssva00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "type": "Committee"
+    },
+    {
+      "actionDate": "2025-03-11",
+      "committees": {
+        "item": {
+          "name": "Veterans' Affairs Committee",
+          "systemCode": "ssva00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Committee on Veterans' Affairs. Hearings held.",
+      "type": "Committee"
+    },
+    {
+      "actionDate": "2025-02-27",
+      "committees": {
+        "item": {
+          "name": "Veterans' Affairs Committee",
+          "systemCode": "ssva00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2025-02-27",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: amendments
+
+```json
+{
+  "amendments": [
+    {
+      "amendment": {
+        "actions": {
+          "actions": {
+            "item": [
+              {
+                "actionDate": "2025-12-18",
+                "sourceSystem": {
+                  "code": "0",
+                  "name": "Senate"
+                },
+                "text": "Amendment SA 4142 agreed to in Senate by Unanimous Consent.",
+                "type": "Floor"
+              },
+              {
+                "actionDate": "2025-12-18",
+                "sourceSystem": {
+                  "code": "0",
+                  "name": "Senate"
+                },
+                "text": "Amendment SA 4142 proposed by Senator Thune for Senator Moran. (consideration: CR S8897-8898) To remove the authorization of appropriations for such sums as may be necessary.",
+                "type": "Floor"
+              },
+              {
+                "actionCode": "Intro-S",
+                "actionDate": "2025-12-18",
+                "sourceSystem": {
+                  "code": "9",
+                  "name": "Library of Congress"
+                },
+                "type": "IntroReferral"
+              },
+              {
+                "actionCode": "93000",
+                "actionDate": "2025-12-18",
+                "sourceSystem": {
+                  "code": "9",
+                  "name": "Library of Congress"
+                },
+                "text": "Senate amendment proposed (on the floor): Amendment SA 4142 proposed by Senator Thune for Senator Moran.",
+                "type": "Floor"
+              },
+              {
+                "actionCode": "91000",
+                "actionDate": "2025-12-18",
+                "sourceSystem": {
+                  "code": "9",
+                  "name": "Library of Congress"
+                },
+                "text": "Senate amendment submitted",
+                "type": "Floor"
+              },
+              {
+                "actionCode": "94000",
+                "actionDate": "2025-12-18",
+                "sourceSystem": {
+                  "code": "9",
+                  "name": "Library of Congress"
+                },
+                "text": "Senate amendment agreed to: Amendment SA 4142 agreed to in Senate by Unanimous Consent.",
+                "type": "Floor"
+              }
+            ]
+          },
+          "count": "6"
+        },
+        "amendedBill": {
+          "congress": "119",
+          "number": "787",
+          "originChamber": "Senate",
+          "originChamberCode": "S",
+          "title": "VetPAC Act of 2025",
+          "type": "S",
+          "updateDateIncludingText": "2026-04-09"
+        },
+        "chamber": "Senate",
+        "congress": "119",
+        "latestAction": {
+          "actionDate": "2025-12-18",
+          "links": {
+            "link": {
+              "name": "SA 4142",
+              "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/4142"
+            }
+          },
+          "text": "Amendment SA 4142 agreed to in Senate by Unanimous Consent."
+        },
+        "number": "4142",
+        "onBehalfOfSponsor": {
+          "item": [
+            {
+              "bioguideId": "T000250",
+              "firstName": "John",
+              "fullName": "Sen. Thune, John [R-SD]",
+              "lastName": "Thune",
+              "party": "R",
+              "state": "SD",
+              "type": "Submitted on behalf of"
+            },
+            {
+              "bioguideId": "T000250",
+              "firstName": "John",
+              "fullName": "Sen. Thune, John [R-SD]",
+              "lastName": "Thune",
+              "party": "R",
+              "state": "SD",
+              "type": "Proposed on behalf of"
+            }
+          ]
+        },
+        "proposedDate": "2025-12-18T05:00:00Z",
+        "purpose": "To remove the authorization of appropriations for such sums as may be necessary.",
+        "sponsors": {
+          "item": {
+            "bioguideId": "M000934",
+            "firstName": "Jerry",
+            "fullName": "Sen. Moran, Jerry [R-KS]",
+            "lastName": "Moran",
+            "party": "R",
+            "state": "KS"
+          }
+        },
+        "submittedDate": "2025-12-18T05:00:00Z",
+        "textVersions": {
+          "count": "1"
+        },
+        "type": "SAMDT",
+        "updateDate": "2025-12-19T01:12:11Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": [
+          {
+            "date": "2025-12-02T21:27:40Z",
+            "name": "Reported By"
+          },
+          {
+            "date": "2025-07-30T20:00:12Z",
+            "name": "Markup By"
+          },
+          {
+            "date": "2025-03-11T14:30:20Z",
+            "name": "Hearings By (full committee)"
+          },
+          {
+            "date": "2025-02-27T18:20:20Z",
+            "name": "Referred To"
+          }
+        ]
+      },
+      "chamber": "Senate",
+      "name": "Veterans' Affairs Committee",
+      "systemCode": "ssva00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "H001042",
+      "firstName": "Mazie",
+      "fullName": "Sen. Hirono, Mazie K. [D-HI]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Hirono",
+      "middleName": "K.",
+      "party": "D",
+      "sponsorshipDate": "2025-02-27",
+      "state": "HI"
+    },
+    {
+      "bioguideId": "M000934",
+      "firstName": "Jerry",
+      "fullName": "Sen. Moran, Jerry [R-KS]",
+      "isOriginalCosponsor": "False",
+      "lastName": "Moran",
+      "party": "R",
+      "sponsorshipDate": "2025-12-02",
+      "state": "KS"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s787is.xml",
+      "text": "II\n119th CONGRESS\n1st Session\nS. 787\nIN THE SENATE OF THE UNITED STATES\nFebruary 27, 2025 Mr. Cassidy (for himself and Ms. Hirono ) introduced the following bill; which was read twice and referred to the Committee on Veterans' Affairs\nA BILL\nTo amend title 38, United States Code, to establish a commission to review operations at the Veterans Health Administration and submit to Congress reports with respect to that review, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the VetPAC Act of 2025 .\n#### 2. Establishment of Veterans Health Administration Policy Advisory Commission\n##### (a) In general\nSubchapter I of chapter 73 of title 38, United States Code, is amended by adding at the end the following new section:\n7310B. Veterans Health Administration Policy Advisory Commission (a) Establishment There is established the Veterans Health Administration Policy Advisory Commission (in this section referred to as the Commission ). (b) Membership (1) Composition The Commission shall be composed of 17 members appointed by the Comptroller General of the United States, of which not fewer than 2 shall be veterans. (2) Qualifications (A) In general An individual is eligible for appointment to the Commission under paragraph (1) if the individual has significant expertise in operating or advising large medical systems, including expertise in quality of care, staffing issues, information technology, artificial intelligence in health care, medical supply chains, procurement of medical supplies, medical facility construction or leasing, medical facility architecture or engineering, medical research, and managed care plans and networks. (B) Experience of members In appointing members under paragraph (1), the Comptroller General shall select individuals from backgrounds that reflect the broad diversity of health care received by veterans, including nonprofit health systems, public and private health systems, care furnished by the Veterans Health Administration, and care furnished by the Department of Defense. (3) Ethical disclosure A member of the Commission shall be considered an employee of Congress whose compensation is disbursed by the Secretary of the Senate for purposes of applying subchapter I of chapter 131 of title 5, United States Code, except that a member of the Commission is required to file public financial disclosure reports without regard to their number of days of service or rate of pay. (c) Period of appointment; vacancies (1) Terms A member of the Commission shall be appointed under subsection (b)(1) for a term of 5 years, except that the Comptroller General shall designate staggered terms for the members first appointed. (2) Vacancies (A) In general A vacancy on the Commission shall be filled in the manner in which the original appointment was made and shall be subject to any conditions that applied with respect to the original appointment. (B) Filling unexpired term An individual chosen to fill a vacancy shall be appointed for the unexpired term of the member replaced. (3) Expiration of terms The term of any member shall not expire before the date on which the member\u2019s successor takes office. (d) Meetings (1) Frequency The Commission shall meet at the call of the Chairman, but not less frequently than once per year. (2) Quorum A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold meetings. (e) Chairman and Vice Chairman The Comptroller General shall designate one member of the Commission as Chairman and one member of the Commission as Vice Chairman, at the time of appointment of such member and for the term of appointment of such member, except that in the case of vacancy of the Chairmanship or Vice Chairmanship, the Comptroller General may designate another member for the remainder of that member\u2019s term. (f) Duties of the Commission (1) Review The Commission shall\u2014 (A) review operations at the Veterans Health Administration; and (B) prepare reports for Congress based on such review, including recommendations to Congress. (2) Topics to be reviewed In conducting a review under paragraph (1)(A), the Commission shall include periodic reviews of the following, taking into consideration other independent assessments in selecting topics to limit duplicative efforts: (A) Information technology infrastructure at medical facilities of the Department, including with respect to electronic health record systems. (B) Referrals to care at facilities of the Department and under the Veterans Community Care Program under section 1703 of this title, and factors impacting those referrals. (C) Access and wait times at medical facilities of the Department and under the Veterans Community Care Program, including both primary and specialty care, and factors impacting those wait times. (D) The quality of health care furnished by the Department and through the Veterans Community Care Program. (E) Workforce issues, including workforce performance, recruitment, and retention factors. (F) Patient satisfaction and customer service at medical facilities of the Department and through the Veterans Community Care Program. (G) The training of health care providers and the standards of care at facilities of the Department and in the Veterans Community Care Program. (H) The long-term budgetary outlook of the Veterans Health Administration, as well as key components driving budgetary changes over time. (I) Procurement of supplies at medical facilities of the Department. (J) The research program of the Department, including both internal and external research. (K) Hospital construction, leasing, and capital requirements. (L) The interaction of care under the Medicare program under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq. ), the Medicaid program under title XIX of such Act ( 42 U.S.C. 1396 et seq. ), the TRICARE program under chapter 55 of title 10, and commercial health care plans with care furnished by the Veterans Health Administration. (3) Issues regarding veteran health care delivery generally In carrying out the requirements of this subsection, the Commission shall review the effect of policies under this title on the delivery of health care services to veterans and assess the implications of changes in health care delivery for veterans in the United States. (4) Transmittal of certain reports If the Secretary or the Inspector General of the Department of Veterans Affairs submits to Congress (or a committee of Congress) a report that is required by law and that relates to policies for health care furnished under the laws administered by the Secretary, the Secretary shall transmit a copy of that report to the Commission. (5) Consultation and additional reviews and studies (A) Consultation In carrying out the requirements of this subsection, the Commission shall consult periodically with the chairmen and ranking members of the Committee on Veterans\u2019 Affairs of the Senate and the Committee on Veterans\u2019 Affairs of the House of Representatives regarding the agenda of the Commission and progress towards achieving that agenda. (B) Additional reviews and reports The Commission may conduct additional reviews, and may submit additional reports to the Committee on Veterans\u2019 Affairs of the Senate and the Committee on Veterans\u2019 Affairs of the House of Representatives, from time to time on such topics relating to the activities of the Commission as may be requested by the Chairman and members and as the Commission determines appropriate. (C) Special studies The Commission may conduct special studies requested by the chairman or ranking member of the Committee on Veterans\u2019 Affairs of the Senate or the Committee on Veterans\u2019 Affairs of the House of Representatives and as the Commission determines appropriate. (6) Budgetary considerations Before making any recommendations to Congress, the Commission shall examine the budget consequences of such recommendations, directly or through consultation with appropriate expert entities. (7) Report (A) In general By not later than March 15 of each year, the Commission shall submit to Congress a report containing the results and recommendations from the review conducted under paragraph (1). (B) Inclusion of recommendations A recommendation may be included in a report under subparagraph (A) if a simple majority of the members of the Commission vote to include the recommendation in the report. (g) Powers of Commission (1) In general The Commission may\u2014 (A) employ and fix the compensation of an Executive Director (at a rate of pay not greater than that provided for level III of the Executive Schedule under section 5314 of title 5) and such other personnel as may be necessary to carry out the duties of the Commission, without regard to the provisions of title 5 governing appointments in the competitive service; (B) seek such assistance and support as may be required in the performance of its duties from appropriate departments and agencies of the United States or departments or agencies of a State; (C) enter into contracts or make other arrangements, as may be necessary for the conduct of the work of the Commission (without regard to section 3709 of the Revised Statutes ( 41 U.S.C. 6101 )); (D) make advance, progress, and other payments that relate to the work of the Commission; (E) provide transportation and subsistence for individuals serving the Commission without compensation; and (F) prescribe such rules and regulations as the Commission determines necessary with respect to the internal organization and operation of the Commission. (2) Data collection In order to carry out its functions, the Commission shall\u2014 (A) utilize existing information, both published and unpublished, if possible, collected and assessed either by its own staff or under other arrangements made in accordance with this section; (B) carry out, or award grants or contracts for, original research and experimentation, if existing information is inadequate; and (C) adopt procedures allowing any interested party to submit information for use by the Commission in making reports and recommendations. (3) Information from Federal agencies (A) In general The Commission may secure directly from any relevant department or agency of the United States health care information the Chairman determines would be helpful to enable the Commission to carry out this section. (B) Timing Upon request of the Chairman, the head of a department or agency of the United States shall furnish information requested under subparagraph (A) to the Commission on an agreed upon schedule or not later than 180 days after the date of the request. (h) Compensation (1) Members (A) In general While conducting the business of the Commission (including travel time), a member of the Commission shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5. (B) Travel expenses While conducting the business of the Commission away from home and the regular place of business of the member, a member may be allowed travel expenses, as authorized by the Chairman. (2) Physician comparability allowance for personnel The Commission may provide a physician comparability allowance to physicians serving as personnel of the Commission in the same manner as physicians of the Federal Government may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose, subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. (3) Treatment of personnel For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate. (i) Detail of Federal employees An employee of the Federal Government may be detailed to the Commission without reimbursement and without interruption or loss of civil service status or privileges. (j) Access of congressional support agencies to information The Commission shall provide to the Comptroller General, the Congressional Research Service, and the Congressional Budget Office unrestricted access to all deliberations, records, and nonproprietary data of the Commission not later than 30 days after such access is requested. (k) Authorization of appropriations (1) Request for appropriations The Commission shall submit requests for appropriations in the same manner as the Comptroller General submits requests for appropriations, but amounts appropriated for the Commission shall be separate from amounts appropriated for the Comptroller General. (2) Authorization There are authorized to be appropriated such sums as may be necessary to carry out this section. .\n##### (b) Clerical amendment\nThe table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7310A the following new item:\n7310B. Veterans Health Administration Policy Advisory Commission. .\n##### (c) Initial appointment\nNot later than 280 days after the date on which amounts are first appropriated to the Veterans Health Administration Policy Advisory Commission established under section 7310B of title 38, United States Code, as added by subsection (a), the Comptroller General of the United States shall make initial appointments of members to the Commission under subsection (b)(1) of such section.",
+      "versionDate": "2025-02-27",
+      "versionType": "Introduced in Senate"
+    },
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s787rs.xml",
+      "text": "II\nCalendar No. 279\n119th CONGRESS\n1st Session\nS. 787\n[Report No. 119\u201398]\nIN THE SENATE OF THE UNITED STATES\nFebruary 27, 2025 Mr. Cassidy (for himself, Ms. Hirono , and Mr. Moran ) introduced the following bill; which was read twice and referred to the Committee on Veterans' Affairs\nDecember 2, 2025 Reported by Mr. Moran , with an amendment Strike out all after the enacting clause and insert the part printed in italic\nA BILL\nTo amend title 38, United States Code, to establish a commission to review operations at the Veterans Health Administration and submit to Congress reports with respect to that review, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the VetPAC Act of 2025 .\n#### 2. Establishment of Veterans Health Administration Policy Advisory Commission\n##### (a) In general\nSubchapter I of chapter 73 of title 38, United States Code, is amended by adding at the end the following new section:\n7310B. Veterans Health Administration Policy Advisory Commission (a) Establishment There is established the Veterans Health Administration Policy Advisory Commission (in this section referred to as the Commission ). (b) Membership (1) Composition The Commission shall be composed of 17 members appointed by the Comptroller General of the United States, of which not fewer than 2 shall be veterans. (2) Qualifications (A) In general An individual is eligible for appointment to the Commission under paragraph (1) if the individual has significant expertise in operating or advising large medical systems, including expertise in quality of care, staffing issues, information technology, artificial intelligence in health care, medical supply chains, procurement of medical supplies, medical facility construction or leasing, medical facility architecture or engineering, medical research, and managed care plans and networks. (B) Experience of members In appointing members under paragraph (1), the Comptroller General shall select individuals from backgrounds that reflect the broad diversity of health care received by veterans, including nonprofit health systems, public and private health systems, care furnished by the Veterans Health Administration, and care furnished by the Department of Defense. (3) Ethical disclosure A member of the Commission shall be considered an employee of Congress whose compensation is disbursed by the Secretary of the Senate for purposes of applying subchapter I of chapter 131 of title 5, United States Code, except that a member of the Commission is required to file public financial disclosure reports without regard to their number of days of service or rate of pay. (c) Period of appointment; vacancies (1) Terms A member of the Commission shall be appointed under subsection (b)(1) for a term of 5 years, except that the Comptroller General shall designate staggered terms for the members first appointed. (2) Vacancies (A) In general A vacancy on the Commission shall be filled in the manner in which the original appointment was made and shall be subject to any conditions that applied with respect to the original appointment. (B) Filling unexpired term An individual chosen to fill a vacancy shall be appointed for the unexpired term of the member replaced. (3) Expiration of terms The term of any member shall not expire before the date on which the member\u2019s successor takes office. (d) Meetings (1) Frequency The Commission shall meet at the call of the Chairman, but not less frequently than once per year. (2) Quorum A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold meetings. (e) Chairman and Vice Chairman The Comptroller General shall designate one member of the Commission as Chairman and one member of the Commission as Vice Chairman, at the time of appointment of such member and for the term of appointment of such member, except that in the case of vacancy of the Chairmanship or Vice Chairmanship, the Comptroller General may designate another member for the remainder of that member\u2019s term. (f) Duties of the Commission (1) Review The Commission shall\u2014 (A) review operations at the Veterans Health Administration; and (B) prepare reports for Congress based on such review, including recommendations to Congress. (2) Topics to be reviewed In conducting a review under paragraph (1)(A), the Commission shall include periodic reviews of the following, taking into consideration other independent assessments in selecting topics to limit duplicative efforts: (A) Information technology infrastructure at medical facilities of the Department, including with respect to electronic health record systems. (B) Referrals to care at facilities of the Department and under the Veterans Community Care Program under section 1703 of this title, and factors impacting those referrals. (C) Access and wait times at medical facilities of the Department and under the Veterans Community Care Program, including both primary and specialty care, and factors impacting those wait times. (D) The quality of health care furnished by the Department and through the Veterans Community Care Program. (E) Workforce issues, including workforce performance, recruitment, and retention factors. (F) Patient satisfaction and customer service at medical facilities of the Department and through the Veterans Community Care Program. (G) The training of health care providers and the standards of care at facilities of the Department and in the Veterans Community Care Program. (H) The long-term budgetary outlook of the Veterans Health Administration, as well as key components driving budgetary changes over time. (I) Procurement of supplies at medical facilities of the Department. (J) The research program of the Department, including both internal and external research. (K) Hospital construction, leasing, and capital requirements. (L) The interaction of care under the Medicare program under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq. ), the Medicaid program under title XIX of such Act ( 42 U.S.C. 1396 et seq. ), the TRICARE program under chapter 55 of title 10, and commercial health care plans with care furnished by the Veterans Health Administration. (3) Issues regarding veteran health care delivery generally In carrying out the requirements of this subsection, the Commission shall review the effect of policies under this title on the delivery of health care services to veterans and assess the implications of changes in health care delivery for veterans in the United States. (4) Transmittal of certain reports If the Secretary or the Inspector General of the Department of Veterans Affairs submits to Congress (or a committee of Congress) a report that is required by law and that relates to policies for health care furnished under the laws administered by the Secretary, the Secretary shall transmit a copy of that report to the Commission. (5) Consultation and additional reviews and studies (A) Consultation In carrying out the requirements of this subsection, the Commission shall consult periodically with the chairmen and ranking members of the Committee on Veterans\u2019 Affairs of the Senate and the Committee on Veterans\u2019 Affairs of the House of Representatives regarding the agenda of the Commission and progress towards achieving that agenda. (B) Additional reviews and reports The Commission may conduct additional reviews, and may submit additional reports to the Committee on Veterans\u2019 Affairs of the Senate and the Committee on Veterans\u2019 Affairs of the House of Representatives, from time to time on such topics relating to the activities of the Commission as may be requested by the Chairman and members and as the Commission determines appropriate. (C) Special studies The Commission may conduct special studies requested by the chairman or ranking member of the Committee on Veterans\u2019 Affairs of the Senate or the Committee on Veterans\u2019 Affairs of the House of Representatives and as the Commission determines appropriate. (6) Budgetary considerations Before making any recommendations to Congress, the Commission shall examine the budget consequences of such recommendations, directly or through consultation with appropriate expert entities. (7) Report (A) In general By not later than March 15 of each year, the Commission shall submit to Congress a report containing the results and recommendations from the review conducted under paragraph (1). (B) Inclusion of recommendations A recommendation may be included in a report under subparagraph (A) if a simple majority of the members of the Commission vote to include the recommendation in the report. (g) Powers of Commission (1) In general The Commission may\u2014 (A) employ and fix the compensation of an Executive Director (at a rate of pay not greater than that provided for level III of the Executive Schedule under section 5314 of title 5) and such other personnel as may be necessary to carry out the duties of the Commission, without regard to the provisions of title 5 governing appointments in the competitive service; (B) seek such assistance and support as may be required in the performance of its duties from appropriate departments and agencies of the United States or departments or agencies of a State; (C) enter into contracts or make other arrangements, as may be necessary for the conduct of the work of the Commission (without regard to section 3709 of the Revised Statutes ( 41 U.S.C. 6101 )); (D) make advance, progress, and other payments that relate to the work of the Commission; (E) provide transportation and subsistence for individuals serving the Commission without compensation; and (F) prescribe such rules and regulations as the Commission determines necessary with respect to the internal organization and operation of the Commission. (2) Data collection In order to carry out its functions, the Commission shall\u2014 (A) utilize existing information, both published and unpublished, if possible, collected and assessed either by its own staff or under other arrangements made in accordance with this section; (B) carry out, or award grants or contracts for, original research and experimentation, if existing information is inadequate; and (C) adopt procedures allowing any interested party to submit information for use by the Commission in making reports and recommendations. (3) Information from Federal agencies (A) In general The Commission may secure directly from any relevant department or agency of the United States health care information the Chairman determines would be helpful to enable the Commission to carry out this section. (B) Timing Upon request of the Chairman, the head of a department or agency of the United States shall furnish information requested under subparagraph (A) to the Commission on an agreed upon schedule or not later than 180 days after the date of the request. (h) Compensation (1) Members (A) In general While conducting the business of the Commission (including travel time), a member of the Commission shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5. (B) Travel expenses While conducting the business of the Commission away from home and the regular place of business of the member, a member may be allowed travel expenses, as authorized by the Chairman. (2) Physician comparability allowance for personnel The Commission may provide a physician comparability allowance to physicians serving as personnel of the Commission in the same manner as physicians of the Federal Government may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose, subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. (3) Treatment of personnel For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate. (i) Detail of Federal employees An employee of the Federal Government may be detailed to the Commission without reimbursement and without interruption or loss of civil service status or privileges. (j) Access of congressional support agencies to information The Commission shall provide to the Comptroller General, the Congressional Research Service, and the Congressional Budget Office unrestricted access to all deliberations, records, and nonproprietary data of the Commission not later than 30 days after such access is requested. (k) Authorization of appropriations (1) Request for appropriations The Commission shall submit requests for appropriations in the same manner as the Comptroller General submits requests for appropriations, but amounts appropriated for the Commission shall be separate from amounts appropriated for the Comptroller General. (2) Authorization There are authorized to be appropriated such sums as may be necessary to carry out this section. .\n##### (b) Clerical amendment\nThe table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7310A the following new item:\n7310B. Veterans Health Administration Policy Advisory Commission. .\n##### (c) Initial appointment\nNot later than 280 days after the date on which amounts are first appropriated to the Veterans Health Administration Policy Advisory Commission established under section 7310B of title 38, United States Code, as added by subsection (a), the Comptroller General of the United States shall make initial appointments of members to the Commission under subsection (b)(1) of such section.",
+      "versionDate": "2025-02-27",
+      "versionType": "Reported in Senate"
+    },
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s787es.xml",
+      "text": "119th CONGRESS\n1st Session\nS. 787\nIN THE SENATE OF THE UNITED STATES\nAN ACT\nTo amend title 38, United States Code, to establish a commission to review operations at the Veterans Health Administration and submit to Congress reports with respect to that review, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the VetPAC Act of 2025 .\n#### 2. Establishment of Veterans Health Administration Policy Advisory Commission\n##### (a) In general\nChapter 1 of title 38, United States Code, is amended by adding at the end the following new section:\n120. Veterans Health Administration Policy Advisory Commission (a) Establishment There is established the Veterans Health Administration Policy Advisory Commission (in this section referred to as the Commission ). (b) Membership (1) Composition The Commission shall be composed of 17 members appointed by the Comptroller General of the United States, of which not fewer than 2 shall be veterans. (2) Qualifications (A) In general An individual is eligible for appointment to the Commission under paragraph (1) if the individual has significant expertise in operating or advising large medical systems, including expertise in quality of care, staffing issues, information technology, artificial intelligence in health care, medical supply chains, procurement of medical supplies, medical facility construction or leasing, medical facility architecture or engineering, medical research, and managed care plans and networks. (B) Experience of members In appointing members under paragraph (1), the Comptroller General shall select individuals from backgrounds that reflect the broad diversity of health care received by veterans, including nonprofit health systems, public and private health systems, care furnished by the Veterans Health Administration, and care furnished by the Department of Defense. (3) Ethical disclosure A member of the Commission shall be considered an employee of Congress whose compensation is disbursed by the Secretary of the Senate for purposes of applying subchapter I of chapter 131 of title 5, United States Code, except that a member of the Commission is required to file public financial disclosure reports without regard to their number of days of service or rate of pay. (c) Period of appointment; vacancies (1) Terms A member of the Commission shall be appointed under subsection (b)(1) for a term of 5 years, except that the Comptroller General shall designate staggered terms for the members first appointed. (2) Vacancies (A) In general A vacancy on the Commission shall be filled in the manner in which the original appointment was made and shall be subject to any conditions that applied with respect to the original appointment. (B) Filling unexpired term An individual chosen to fill a vacancy shall be appointed for the unexpired term of the member replaced. (3) Expiration of terms The term of any member shall not expire before the date on which the member\u2019s successor takes office. (d) Meetings (1) Frequency The Commission shall meet at the call of the Chairman, but not less frequently than once per year. (2) Quorum A majority of the members of the Commission shall constitute a quorum, but a lesser number of members may hold meetings. (e) Chairman and Vice Chairman The Comptroller General shall designate one member of the Commission as Chairman and one member of the Commission as Vice Chairman, at the time of appointment of such member and for the term of appointment of such member, except that in the case of vacancy of the Chairmanship or Vice Chairmanship, the Comptroller General may designate another member for the remainder of that member\u2019s term. (f) Duties of the Commission (1) Review The Commission shall\u2014 (A) review operations at the Veterans Health Administration; and (B) prepare reports for Congress based on such review, including recommendations to Congress. (2) Topics to be reviewed In conducting a review under paragraph (1)(A), the Commission shall include periodic reviews of the following, taking into consideration other independent assessments in selecting topics to limit duplicative efforts: (A) Information technology infrastructure at medical facilities of the Department, including with respect to electronic health record systems. (B) Referrals to care at facilities of the Department and under the Veterans Community Care Program under section 1703 of this title, and factors impacting those referrals. (C) Access and wait times at medical facilities of the Department and under the Veterans Community Care Program, including both primary and specialty care, and factors impacting those wait times. (D) The quality of health care furnished by the Department and through the Veterans Community Care Program. (E) Workforce issues, including workforce performance, recruitment, and retention factors. (F) Patient satisfaction and customer service at medical facilities of the Department and through the Veterans Community Care Program. (G) The training of health care providers and the standards of care at facilities of the Department and in the Veterans Community Care Program. (H) The long-term budgetary outlook of the Veterans Health Administration, as well as key components driving budgetary changes over time. (I) Procurement of supplies at medical facilities of the Department. (J) The research program of the Department, including both internal and external research. (K) Hospital construction, leasing, and capital requirements. (L) The interaction of care under the Medicare program under title XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq. ), the Medicaid program under title XIX of such Act ( 42 U.S.C. 1396 et seq. ), the TRICARE program under chapter 55 of title 10, and commercial health care plans with care furnished by the Veterans Health Administration. (3) Use of existing data In carrying out the requirements of this subsection, the Commission, to the extent practicable, shall use existing data that has been compiled by the Department, compiled for the Department, or purchased by the Department, including\u2014 (A) data described in subsection (c)(1) of section 1704A of this title; and (B) the results of the independent assessments conducted under such section. (4) Issues regarding veteran health care delivery generally In carrying out the requirements of this subsection, the Commission shall review the effect of policies under this title on the delivery of health care services to veterans and assess the implications of changes in health care delivery for veterans under the laws administered by the Secretary. (5) Transmittal of certain reports If the Secretary or the Inspector General of the Department of Veterans Affairs submits to Congress (or a committee of Congress) a report that is required by law and that relates to policies for health care furnished under the laws administered by the Secretary, the Secretary shall transmit a copy of that report to the Commission. (6) Consultation and additional reviews and studies (A) Consultation In carrying out the requirements of this subsection, the Commission shall consult periodically with the chairmen and ranking members of the Committee on Veterans\u2019 Affairs of the Senate and the Committee on Veterans\u2019 Affairs of the House of Representatives regarding the agenda of the Commission and progress towards achieving that agenda. (B) Additional reviews and reports The Commission may conduct additional reviews, and may submit additional reports to the Committee on Veterans\u2019 Affairs of the Senate and the Committee on Veterans\u2019 Affairs of the House of Representatives, from time to time on such topics relating to the activities of the Commission as may be requested by the Chairman and members and as the Commission determines appropriate. (C) Special studies The Commission may conduct special studies requested by the chairman or ranking member of the Committee on Veterans\u2019 Affairs of the Senate or the Committee on Veterans\u2019 Affairs of the House of Representatives and as the Commission determines appropriate. (7) Coordination In carrying out reviews, preparing reports, and conducting studies under this section, the Commission shall, to the extent practicable, coordinate with the Inspector General of the Department to ensure the work of the Commission does not interfere with investigations or remediations underway by the Inspector General. (8) Budgetary considerations Before making any recommendations to Congress, the Commission shall examine the budget consequences of such recommendations, directly or through consultation with appropriate expert entities. (9) Report (A) In general By not later than March 15 of each year, the Commission shall submit to Congress a report containing the results and recommendations from the review conducted under paragraph (1). (B) Inclusion of recommendations A recommendation may be included in a report under subparagraph (A) if a simple majority of the members of the Commission vote to include the recommendation in the report. (g) Powers of Commission (1) In general The Commission may\u2014 (A) employ and fix the compensation of an Executive Director (at a rate of pay not greater than that provided for level III of the Executive Schedule under section 5314 of title 5) and such other personnel as may be necessary to carry out the duties of the Commission, without regard to the provisions of title 5 governing appointments in the competitive service; (B) seek such assistance and support as may be required in the performance of its duties from appropriate departments and agencies of the United States or departments or agencies of a State; (C) enter into contracts or make other arrangements, as may be necessary for the conduct of the work of the Commission (without regard to section 3709 of the Revised Statutes ( 41 U.S.C. 6101 )); (D) make advance, progress, and other payments that relate to the work of the Commission; (E) provide transportation and subsistence for individuals serving the Commission without compensation; and (F) prescribe such rules and regulations as the Commission determines necessary with respect to the internal organization and operation of the Commission. (2) Data collection In order to carry out its functions, the Commission shall\u2014 (A) utilize existing information, both published and unpublished, if possible, collected and assessed either by its own staff or under other arrangements made in accordance with this section; (B) carry out, or award grants or contracts for, original research and experimentation, if existing information is inadequate; and (C) adopt procedures allowing any interested party to submit information for use by the Commission in making reports and recommendations. (3) Information from Federal agencies (A) In general The Commission may secure directly from any relevant department or agency of the United States health care information the Chairman determines would be helpful to enable the Commission to carry out this section. (B) Timing Upon request of the Chairman, the head of a department or agency of the United States shall furnish information requested under subparagraph (A) to the Commission on an agreed upon schedule or not later than 180 days after the date of the request. (h) Compensation (1) Members (A) In general While conducting the business of the Commission (including travel time), a member of the Commission shall be entitled to compensation at the per diem equivalent of the rate provided for level IV of the Executive Schedule under section 5315 of title 5. (B) Travel expenses While conducting the business of the Commission away from home and the regular place of business of the member, a member may be allowed travel expenses, as authorized by the Chairman. (2) Physician comparability allowance for personnel The Commission may provide a physician comparability allowance to physicians serving as personnel of the Commission in the same manner as physicians of the Federal Government may be provided such an allowance by an agency under section 5948 of title 5, and for such purpose, subsection (i) of such section shall apply to the Commission in the same manner as it applies to the Tennessee Valley Authority. (3) Treatment of personnel For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate. (i) Detail of Federal employees An employee of the Federal Government may be detailed to the Commission without reimbursement and without interruption or loss of civil service status or privileges. (j) Access of congressional support agencies to information The Commission shall provide to the Comptroller General, the Congressional Research Service, and the Congressional Budget Office unrestricted access to all deliberations, records, and nonproprietary data of the Commission not later than 30 days after such access is requested. (k) Authorization of appropriations The Commission shall submit requests for appropriations in the same manner as the Comptroller General submits requests for appropriations, but amounts appropriated for the Commission shall be separate from amounts appropriated for the Comptroller General. .\n##### (b) Clerical amendment\nThe table of sections at the beginning of such chapter is amended by inserting after the item relating to section 119 the following new item:\n120. Veterans Health Administration Policy Advisory Commission. .\n##### (c) Initial appointment\nNot later than 280 days after the date on which amounts are first appropriated to the Veterans Health Administration Policy Advisory Commission established under section 120 of title 38, United States Code, as added by subsection (a), the Comptroller General of the United States shall make initial appointments of members to the Commission under subsection (b)(1) of such section.",
+      "versionDate": "",
+      "versionType": "Engrossed in Senate"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": {
+        "item": [
+          {
+            "name": "Advisory bodies",
+            "updateDate": "2025-04-08T14:03:40Z"
+          },
+          {
+            "name": "Congressional oversight",
+            "updateDate": "2025-04-08T14:03:32Z"
+          },
+          {
+            "name": "Data collection, sharing, protection",
+            "updateDate": "2026-04-09T15:25:53Z"
+          },
+          {
+            "name": "Veterans' medical care",
+            "updateDate": "2025-04-08T14:03:36Z"
+          }
+        ]
+      },
+      "policyArea": {
+        "name": "Armed Forces and National Security",
+        "updateDate": "2025-04-04T20:01:47Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: summaries
+
+```json
+{
+  "govinfoBulk": {
+    "introducedDate": "2025-02-27",
+    "originChamber": "Senate",
+    "payload": {
+      "dublinCore": {
+        "contributor": "Congressional Research Service, Library of Congress",
+        "description": "This file contains bill summaries for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is \"to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives\". For more information, refer to the User Guide that accompanies this file.",
+        "format": "text/xml",
+        "language": "EN",
+        "rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      },
+      "item": {
+        "@attributes": {
+          "congress": "119",
+          "measure-id": "id119s787",
+          "measure-number": "787",
+          "measure-type": "s",
+          "orig-publish-date": "2025-02-27",
+          "originChamber": "SENATE",
+          "update-date": "2025-05-13"
+        },
+        "summary": {
+          "@attributes": {
+            "currentChamber": "SENATE",
+            "summary-id": "id119s787v00",
+            "update-date": "2025-05-13"
+          },
+          "action-date": "2025-02-27",
+          "action-desc": "Introduced in Senate",
+          "summary-text": "<p><strong>VetPAC Act of 2025</strong></p><p>This bill establishes the Veterans Health Administration Policy Advisory Commission for purposes of reviewing operations at the Veterans Health Administration and preparing reports with recommendations\u00a0for Congress based on such review.</p>"
+        },
+        "title": "VetPAC Act of 2025"
+      }
+    },
+    "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSUM/119/s/BILLSUM-119s787.xml",
+    "summary": {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>VetPAC Act of 2025</strong></p><p>This bill establishes the Veterans Health Administration Policy Advisory Commission for purposes of reviewing operations at the Veterans Health Administration and preparing reports with recommendations\u00a0for Congress based on such review.</p>",
+      "updateDate": "2025-05-13",
+      "versionCode": "id119s787"
+    },
+    "title": "VetPAC Act of 2025"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-02-27",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>VetPAC Act of 2025</strong></p><p>This bill establishes the Veterans Health Administration Policy Advisory Commission for purposes of reviewing operations at the Veterans Health Administration and preparing reports with recommendations\u00a0for Congress based on such review.</p>",
+      "updateDate": "2025-05-13",
+      "versionCode": "id119s787"
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-02-27",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s787is.xml"
+        }
+      ],
+      "type": "Introduced in Senate"
+    },
+    {
+      "date": "2025-02-27",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s787rs.xml"
+        }
+      ],
+      "type": "Reported in Senate"
+    },
+    {
+      "date": "",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s787es.xml"
+        }
+      ],
+      "type": "Engrossed in Senate"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "VetPAC Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-12-20T12:03:19Z"
+    },
+    {
+      "billTextVersionCode": "ES",
+      "billTextVersionName": "Engrossed in Senate",
+      "chamberCode": "S",
+      "chamberName": "Senate",
+      "title": "VetPAC Act of 2025",
+      "titleType": "Short Title(s) as Passed Senate",
+      "titleTypeCode": "105",
+      "updateDate": "2025-12-19T12:23:19Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A bill to amend title 38, United States Code, to establish a commission to review operations at the Veterans Health Administration and submit to Congress reports with respect to that review, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-12-19T11:56:31Z"
+    },
+    {
+      "billTextVersionCode": "RS",
+      "billTextVersionName": "Reported to Senate",
+      "chamberCode": "S",
+      "chamberName": "Senate",
+      "title": "VetPAC Act of 2025",
+      "titleType": "Short Title(s) as Reported to Senate",
+      "titleTypeCode": "103",
+      "updateDate": "2025-12-04T03:38:21Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "VetPAC Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-03-26T02:08:21Z"
+    }
+  ]
+}
+```

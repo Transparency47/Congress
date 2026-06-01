@@ -1,0 +1,59 @@
+# HR 3295: Federal Animal Research Accountability Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-05-08
+- Latest action: 2025-05-08 - Introduced in House
+- Policy area: Health
+- Sponsor: Rep. Malliotakis, Nicole [R-NY-11]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/3295
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-05-08
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3295ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-05-08
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr3295ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 3295
+IN THE HOUSE OF REPRESENTATIVES
+May 8, 2025 Ms. Malliotakis (for herself, Mr. Davis of North Carolina , Mrs. Kiggans of Virginia , Ms. Titus , Mr. Fitzpatrick , and Mr. Carson ) introduced the following bill; which was referred to the Committee on Energy and Commerce
+A BILL
+To amend the Public Health Service Act to improve the accuracy and transparency of animal use data collected by the National Institutes of Health from entities that conduct biomedical and behavioral research with funds provided under such Act.
+#### 1. Short title
+This Act may be cited as the Federal Animal Research Accountability Act of 2025 .
+#### 2. Improving the accuracy and transparency of animal use data collected by the national institutes of health
+##### (a) In general
+Section 495(b) of the Public Health Service Act ( 42 U.S.C. 289d(b) ) is amended—
+**(1)**
+in paragraph (3)—
+**(A)**
+in subparagraph (B), by striking and at the end;
+**(B)**
+in subparagraph (C), by striking the period at the end and inserting ; and ; and
+**(C)**
+by inserting after subparagraph (C) the following:
+(D) file with the Director of NIH annually a form indicating the total number of animals bred, housed, and used by the research entity in the preceding fiscal year, that includes, with respect to such total number— (i) the common species names and the numbers of each species upon which teaching, research, experiments, or tests were conducted involving no pain, distress, or use of pain-relieving drugs (including research involving only routine procedures such as injections, tattooing, and blood sampling); (ii) the common species names and the numbers of each species upon which teaching, research, experiments, or tests were conducted involving accompanying pain or distress to the animals and for which appropriate anesthetic, analgesic, or tranquilizing drugs were used; (iii) the common species names and the numbers of each species upon which teaching, research, experiments, or tests were conducted involving accompanying pain or distress to the animals and for which the use of appropriate anesthetic, analgesic, or tranquilizing drugs would have adversely affected the procedures, results, or interpretation of the research; and (iv) the common species names and the numbers of each species being bred, conditioned, or held for use in teaching, research, experiments, or tests but not yet used for such purposes. ; and
+**(2)**
+in the matter following paragraph (3), by adding at the end the following: The Director of NIH shall make available to each animal care committee of a research entity a form for collecting the information described in subparagraph (D). Not later than 3 months after such a form is filed pursuant to subparagraph (D), the Director of NIH shall make the form available online in a publicly accessible and searchable database. .
+##### (b) Delayed applicability
+The amendments made by subsection (a) shall apply beginning on the date that is 2 years after the date of the enactment of this Act.
+
+
+## Timeline
+
+- 2025-05-08: Introduced in House
+- 2025-05-08 - IntroReferral: Introduced in House
+- 2025-05-08 - IntroReferral: Introduced in House
+- 2025-05-08 - IntroReferral: Referred to the House Committee on Energy and Commerce.
+- Latest action: 2025-05-08: Introduced in House

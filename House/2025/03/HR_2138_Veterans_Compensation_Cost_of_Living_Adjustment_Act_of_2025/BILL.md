@@ -1,0 +1,74 @@
+# HR 2138: Veterans’ Compensation Cost-of-Living Adjustment Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-03-14
+- Latest action: 2025-03-14 - Introduced in House
+- Policy area: Armed Forces and National Security
+- Sponsor: Rep. Luttrell, Morgan [R-TX-8]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/2138
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Veterans' Compensation Cost-of-Living Adjustment Act of 2025** ****
+
+This bill requires the Department of Veterans Affairs (VA) to increase the amounts payable for wartime disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children. Specifically, the VA must increase the amounts by the same percentage as the cost-of-living increase in benefits for Social Security recipients that is effective on December 1, 2025. The bill requires the VA to publish the amounts payable, as increased, in the Federal Register.
+
+The VA is authorized to make a similar adjustment to the rates of disability compensation payable to persons who have not received compensation for service-connected disability or death.
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-03-14
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2138ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-03-14
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2138ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 2138
+IN THE HOUSE OF REPRESENTATIVES
+March 14, 2025 Mr. Luttrell (for himself, Mr. McGarvey , Mr. Weber of Texas , and Mr. Pfluger ) introduced the following bill; which was referred to the Committee on Veterans' Affairs
+A BILL
+To increase, effective as of December 1, 2025, the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Veterans’ Compensation Cost-of-Living Adjustment Act of 2025 .
+#### 2. Increase in rates of disability compensation and dependency and indemnity compensation
+##### (a) Rate adjustment
+Effective on December 1, 2025, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2025, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
+##### (b) Amounts To be increased
+The dollar amounts to be increased pursuant to subsection (a) are the following:
+**(1) Wartime disability compensation**
+Each of the dollar amounts under section 1114 of title 38, United States Code.
+**(2) Additional compensation for dependents**
+Each of the dollar amounts under section 1115(1) of such title.
+**(3) Clothing allowance**
+The dollar amount under section 1162 of such title.
+**(4) Dependency and indemnity compensation to surviving spouse**
+Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title.
+**(5) Dependency and indemnity compensation to children**
+Each of the dollar amounts under sections 1313(a) and 1314 of such title.
+##### (c) Determination of Increase
+Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ( 42 U.S.C. 401 et seq. ) are increased effective December 1, 2025, as a result of a determination under section 215(i) of such Act ( 42 U.S.C. 415(i) ).
+##### (d) Special rule
+The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a), the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) who have not received compensation under chapter 11 of title 38, United States Code.
+#### 3. Publication of adjusted rates
+The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ( 42 U.S.C. 415(i)(2)(D) ) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2026.
+
+
+## Timeline
+
+- 2025-03-14: Introduced in House
+- 2025-03-14 - IntroReferral: Introduced in House
+- 2025-03-14 - IntroReferral: Introduced in House
+- 2025-03-14 - IntroReferral: Referred to the House Committee on Veterans' Affairs.
+- 2025-03-26 - Committee: Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2025-03-26 - Committee: Subcommittee Hearings Held
+- Latest action: 2025-03-14: Introduced in House

@@ -1,0 +1,57 @@
+# S 1414: Expedited Access to Biosimilars Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-04-10
+- Latest action: 2025-04-10 - Introduced in Senate
+- Policy area: Health
+- Sponsor: Sen. Paul, Rand [R-KY]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/s/1414
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-04-10
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1414is.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-04-10
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1414is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 1414
+IN THE SENATE OF THE UNITED STATES
+April 10, 2025 Mr. Paul introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions
+A BILL
+To amend the Public Health Service Act to provide that clinical studies required for licensure of biological products as biosimilar shall not be required to include the assessment of immunogenicity, pharmacodynamics, or comparative clinical efficacy.
+#### 1. Short title
+This Act may be cited as the Expedited Access to Biosimilars Act .
+#### 2. Assessment of immunogenicity, pharmacodynamics, or comparative clinical efficacy in clinical studies required for licensure of biological products as biosimilar
+##### (a) In general
+Section 351(k)(2)(A) of the Public Health Service Act ( 42 U.S.C. 262(k)(2)(A) ) is amended—
+**(1)**
+in clause (i)(I)—
+**(A)**
+in item (bb), by striking and at the end; and
+**(B)**
+by striking item (cc) and inserting the following
+(cc) a clinical study or studies assessing pharmacokinetics that are sufficient to demonstrate safety, purity, and potency; and (dd) subject to clause (iv), a clinical study or studies that are sufficient to demonstrate safety, purity, and potency in 1 or more appropriate conditions of use for which the reference product is licensed and intended to be used and for which licensure is sought for the biological product; ; and
+**(2)**
+by adding at the end the following:
+(iv) Clinical studies (I) In general Subject to subclause (II), the Secretary may determine, in the Secretary's discretion, that a clinical study required under clause (i)(I)(dd) shall include the assessment of immunogenicity, pharmacodynamics, or comparative clinical efficacy. (II) Requirement The Secretary may only require the assessment of immunogenicity, pharmacodynamics, or comparative clinical efficacy pursuant to a determination under subclause (I) if the Secretary provides to the applicant notice of the requirement, including a written justification of the basis for such determination, not later than the earliest date on which the applicant may file the application under this subsection. .
+##### (b) Applicability
+The amendments made by subsection (a) shall apply with respect to an application submitted under section 351(k) of the Public Health Service Act ( 42 U.S.C. 262(k) ) on or after the date of enactment of this Act.
+
+
+## Timeline
+
+- 2025-04-10: Introduced in Senate
+- 2025-04-10 - IntroReferral: Introduced in Senate
+- 2025-04-10 - IntroReferral: Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- Latest action: 2025-04-10: Introduced in Senate

@@ -1,0 +1,228 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/s/2427?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-bill/2427
+- Title: Zero-Based Regulatory Budgeting to Unleash American Energy Act of 2025
+- Congress: 119
+- Bill type: S
+- Bill number: 2427
+- Origin chamber: Senate
+- Introduced date: 2025-07-24
+- Update date: 2026-03-24T12:48:03Z
+- Update date including text: 2026-03-24T12:48:03Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, relatedbills, subjects, text, titles
+
+## Timeline
+
+- 2025-07-24: Introduced in Senate
+- 2025-07-24 - IntroReferral: Introduced in Senate
+- 2025-07-24 - IntroReferral: Read twice and referred to the Committee on Energy and Natural Resources.
+- Latest action: 2025-07-24: Introduced in Senate
+
+## Actions
+
+- 2025-07-24 - IntroReferral: Introduced in Senate
+- 2025-07-24 - IntroReferral: Read twice and referred to the Committee on Energy and Natural Resources.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-07-24",
+    "latestAction": {
+      "actionDate": "2025-07-24",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/2427",
+    "number": "2427",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "R000584",
+        "district": "",
+        "firstName": "James",
+        "fullName": "Sen. Risch, James E. [R-ID]",
+        "lastName": "Risch",
+        "party": "R",
+        "state": "ID"
+      }
+    ],
+    "title": "Zero-Based Regulatory Budgeting to Unleash American Energy Act of 2025",
+    "type": "S",
+    "updateDate": "2026-03-24T12:48:03Z",
+    "updateDateIncludingText": "2026-03-24T12:48:03Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2025-07-24",
+      "committees": {
+        "item": {
+          "name": "Energy and Natural Resources Committee",
+          "systemCode": "sseg00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2025-07-24",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-07-24T14:31:47Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "Senate",
+      "name": "Energy and Natural Resources Committee",
+      "systemCode": "sseg00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2427is.xml",
+      "text": "II\n119th CONGRESS\n1st Session\nS. 2427\nIN THE SENATE OF THE UNITED STATES\nJuly 24, 2025 Mr. Risch introduced the following bill; which was read twice and referred to the Committee on Energy and Natural Resources\nA BILL\nTo require certain agencies to impose extendable sunset dates on certain regulations, and for other purposes.\n#### 1. Short title\nThis Act may be cited as the Zero-Based Regulatory Budgeting to Unleash American Energy Act of 2025 .\n#### 2. Definitions; statutory identification\nIn this Act:\n**(1) Covered agency**\nThe term covered agency means each of the following:\n**(A)**\nThe Department of Energy.\n**(B)**\nEach of the following offices within the Department of the Interior:\n**(i)**\nThe Bureau of Land Management.\n**(ii)**\nThe Bureau of Ocean Energy Management.\n**(iii)**\nThe Bureau of Safety and Environmental Enforcement.\n**(iv)**\nThe Office of Surface Mining Reclamation and Enforcement.\n**(C)**\nThe Federal Energy Regulatory Commission.\n**(2) Covered regulation**\nThe term covered regulation means\u2014\n**(A)**\nwith respect to the Department of Energy, any regulation promulgated by the Department of Energy under or pursuant to\u2014\n**(i)**\nthe Atomic Energy Act of 1954 ( 42 U.S.C. 2011 et seq. );\n**(ii)**\nthe Energy Independence and Security Act of 2007 ( 42 U.S.C. 17001 et seq. );\n**(iii)**\nthe Energy Policy Act of 1992 ( 42 U.S.C. 13201 et seq. );\n**(iv)**\nthe Energy Policy Act of 2005 ( 42 U.S.C. 15801 et seq. ); or\n**(v)**\npart B of title III of the Energy Policy and Conservation Act ( 42 U.S.C. 6291 et seq. );\n**(B)**\nwith respect to the Bureau of Land Management, any regulation promulgated by the Bureau of Land Management under or pursuant to\u2014\n**(i)**\nthe Energy Policy Act of 2005 ( 42 U.S.C. 15801 et seq. );\n**(ii)**\nthe Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1701 et seq. ); or\n**(iii)**\nsections 2319 through 2344 of the Revised Statutes (commonly known as the Mining Law of 1872 ) ( 30 U.S.C. 22 et seq. );\n**(C)**\nwith respect to the Bureau of Ocean Energy Management, any regulation promulgated by the Bureau of Ocean Energy Management under or pursuant to\u2014\n**(i)**\nthe Energy Policy Act of 2005 ( 42 U.S.C. 15801 et seq. ); or\n**(ii)**\nthe Outer Continental Shelf Lands Act ( 43 U.S.C. 1331 et seq. );\n**(D)**\nwith respect to the Bureau of Safety and Environmental Enforcement, any regulation promulgated by the Bureau of Safety and Environmental Enforcement under or pursuant to the Outer Continental Shelf Lands Act ( 43 U.S.C. 1331 et seq. );\n**(E)**\nwith respect to the Office of Surface Mining Reclamation and Enforcement, any regulation promulgated by the Office of Surface Mining Reclamation and Enforcement under or pursuant to the Surface Mining Control and Reclamation Act of 1977 ( 30 U.S.C. 1201 et seq. ); and\n**(F)**\nwith respect to the Federal Energy Regulatory Commission, any regulation promulgated by the Federal Energy Regulatory Commission under or pursuant to\u2014\n**(i)**\nthe Federal Power Act ( 16 U.S.C. 791a et seq. );\n**(ii)**\nthe Natural Gas Act ( 15 U.S.C. 717 et seq. ); or\n**(iii)**\nthe Powerplant and Industrial Fuel Use Act of 1978 ( 42 U.S.C. 8301 et seq. ).\n**(3) Regulation**\nThe term regulation means each part, subpart, or individual provision of a rule (as defined in section 551 of title 5, United States Code) promulgated by a covered agency.\n#### 3. Zero-based regulating\n##### (a) Sunsets required\n**(1) Existing regulations**\nNot later than 90 days after the date of enactment of this Act, the head of each covered agency shall amend each covered regulation in effect on that date to provide that each covered regulation expires not later than the date that is 1 year after the effective date of that amendment.\n**(2) New regulations**\n**(A) In general**\nSubject to subparagraph (B), for each covered regulation promulgated on or after the date of enactment of this Act, the head of the applicable covered agency shall ensure that the covered regulation expires not later than 5 years after the effective date of the covered regulation.\n**(B) Waiver**\nThe head of a covered agency may exempt a covered regulation promulgated by the covered agency on or after the date of enactment of this Act from the requirement under subparagraph (A) if the head of the covered agency\u2014\n**(i)**\ndetermines that the covered regulation has a net deregulatory effect; and\n**(ii)**\nnotifies the Director of the Office of Management and Budget of that determination.\n##### (b) Extension of sunsets\n**(1) In general**\nThe head of a covered agency may only extend an expiration date imposed pursuant to subsection (a)\u2014\n**(A)**\nto a date that is not more than 5 years after the current expiration date; and\n**(B)**\nif, before the current expiration date and except as provided in paragraph (2)(A)\u2014\n**(i)**\nthe head of the covered agency provides an opportunity for public comment on the costs and benefits of the applicable covered regulation, which may include the publication of a request for information with respect to the covered regulation; and\n**(ii)**\nfollowing the completion of the opportunity for public comment under clause (i), the head of the covered agency determines, based on the comments provided in that opportunity, that an extension of the covered regulation is warranted.\n**(2) Effect of amendments**\n**(A) Deregulatory amendments**\nIf the head of a covered agency determines that an amendment to a covered regulation of that covered agency has a net deregulatory effect, the amendment may extend the expiration date for that covered regulation without carrying out the requirements of subparagraph (B) of paragraph (1), subject to the limitation described in subparagraph (A) of that paragraph.\n**(B) Other amendments**\nIf the head of a covered agency does not make the determination described in subparagraph (A) with respect to an amendment to a covered regulation of that covered agency, the existing expiration date of the covered regulation being amended shall apply to that amendment unless the requirements described in paragraph (1)(B) have been met.\n**(3) Continued extensions**\nThe head of a covered agency may extend the expiration date of a covered regulation as many times as the head of the agency determines appropriate, subject to the condition that each extension meets the requirements of this subsection.\n**(4) Savings provision**\nSeeking public comment with respect to a covered regulation under paragraph (1)(B)(i), including through a request for information, shall not automatically extend the applicable expiration date of the covered regulation.\n##### (c) Effect of sunset\nIf the expiration date of a covered regulation is not extended in accordance with subsection (b)\u2014\n**(1)**\nthe covered regulation shall cease to have any effect as of that expiration date;\n**(2)**\nthe applicable covered agency shall not enforce the covered regulation on or after that expiration date; and\n**(3)**\nas soon as practicable after that expiration date, the head of the applicable covered agency shall remove the covered regulation from the Code of Federal Regulations.\n#### 4. Severability\nIf any provision of this Act or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of this Act, and the application of the provision to any other person or circumstance, shall not be affected.\n#### 5. Administrative provisions\n##### (a) Savings provisions\nNothing in this Act impairs or otherwise affects the authority granted by law to an executive department or agency, or the head of an executive department or agency.\n##### (b) No rights or benefits\nNothing in this Act creates any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, the departments, agencies, or entities of the United States, the officers, employees, or agents of the United States, or any other person.",
+      "versionDate": "2025-07-24",
+      "versionType": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2026-02-17",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "7592",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Related bill"
+        }
+      },
+      "title": "Zero-Based Regulatory Budgeting to Unleash American Energy Act of 2026",
+      "type": "HR"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Energy",
+        "updateDate": "2025-09-16T15:12:28Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-07-24",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s2427is.xml"
+        }
+      ],
+      "type": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Zero-Based Regulatory Budgeting to Unleash American Energy Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-08-06T04:53:22Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "Zero-Based Regulatory Budgeting to Unleash American Energy Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-08-06T04:53:20Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A bill to require certain agencies to impose extendable sunset dates on certain regulations, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-08-06T04:48:19Z"
+    }
+  ]
+}
+```

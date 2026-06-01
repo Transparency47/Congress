@@ -1,0 +1,348 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/hr/4836?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/house-bill/4836
+- Title: To designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the "Oscar J. Upham Post Office".
+- Congress: 119
+- Bill type: HR
+- Bill number: 4836
+- Origin chamber: House
+- Introduced date: 2025-08-01
+- Update date: 2025-12-19T20:17:56Z
+- Update date including text: 2025-12-19T20:17:56Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, cosponsors, fullTexts, relatedbills, subjects, summaries, text, titles
+
+## Timeline
+
+- 2025-08-01: Introduced in House
+- 2025-08-01 - IntroReferral: Introduced in House
+- 2025-08-01 - IntroReferral: Introduced in House
+- 2025-08-01 - IntroReferral: Referred to the House Committee on Oversight and Government Reform.
+- Latest action: 2025-08-01: Introduced in House
+
+## Actions
+
+- 2025-08-01 - IntroReferral: Introduced in House
+- 2025-08-01 - IntroReferral: Introduced in House
+- 2025-08-01 - IntroReferral: Referred to the House Committee on Oversight and Government Reform.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-08-01",
+    "latestAction": {
+      "actionDate": "2025-08-01",
+      "text": "Introduced in House"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/4836",
+    "number": "4836",
+    "originChamber": "House",
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B000740",
+        "district": "5",
+        "firstName": "Stephanie",
+        "fullName": "Rep. Bice, Stephanie I. [R-OK-5]",
+        "lastName": "Bice",
+        "party": "R",
+        "state": "OK"
+      }
+    ],
+    "title": "To designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+    "type": "HR",
+    "updateDate": "2025-12-19T20:17:56Z",
+    "updateDateIncludingText": "2025-12-19T20:17:56Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionCode": "H11100",
+      "actionDate": "2025-08-01",
+      "committees": {
+        "item": {
+          "name": "Oversight and Government Reform Committee",
+          "systemCode": "hsgo00"
+        }
+      },
+      "sourceSystem": {
+        "code": "2",
+        "name": "House floor actions"
+      },
+      "text": "Referred to the House Committee on Oversight and Government Reform.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "Intro-H",
+      "actionDate": "2025-08-01",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "1000",
+      "actionDate": "2025-08-01",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in House",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-08-01T14:06:50Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "House",
+      "name": "Oversight and Government Reform Committee",
+      "systemCode": "hsgo00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: cosponsors
+
+```json
+{
+  "cosponsors": [
+    {
+      "bioguideId": "C001053",
+      "district": "4",
+      "firstName": "Tom",
+      "fullName": "Rep. Cole, Tom [R-OK-4]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Cole",
+      "party": "R",
+      "sponsorshipDate": "2025-08-01",
+      "state": "OK"
+    },
+    {
+      "bioguideId": "L000491",
+      "district": "3",
+      "firstName": "Frank",
+      "fullName": "Rep. Lucas, Frank D. [R-OK-3]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Lucas",
+      "middleName": "D.",
+      "party": "R",
+      "sponsorshipDate": "2025-08-01",
+      "state": "OK"
+    },
+    {
+      "bioguideId": "H001082",
+      "district": "1",
+      "firstName": "Kevin",
+      "fullName": "Rep. Hern, Kevin [R-OK-1]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Hern",
+      "party": "R",
+      "sponsorshipDate": "2025-08-01",
+      "state": "OK"
+    },
+    {
+      "bioguideId": "B001317",
+      "district": "2",
+      "firstName": "Josh",
+      "fullName": "Rep. Brecheen, Josh [R-OK-2]",
+      "isOriginalCosponsor": "True",
+      "lastName": "Brecheen",
+      "party": "R",
+      "sponsorshipDate": "2025-08-01",
+      "state": "OK"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4836ih.xml",
+      "text": "I\n119th CONGRESS\n1st Session\nH. R. 4836\nIN THE HOUSE OF REPRESENTATIVES\nAugust 1, 2025 Mrs. Bice (for herself, Mr. Cole , Mr. Lucas , Mr. Hern of Oklahoma , and Mr. Brecheen ) introduced the following bill; which was referred to the Committee on Oversight and Government Reform\nA BILL\nTo designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the Oscar J. Upham Post Office .\n#### 1. Oscar J. Upham Post Office\n##### (a) Designation\nThe facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, shall be known and designated as the Oscar J. Upham Post Office .\n##### (b) References\nAny reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the Oscar J. Upham Post Office .",
+      "versionDate": "2025-08-01",
+      "versionType": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-12-18",
+        "text": "Became Public Law No: 119-59."
+      },
+      "number": "2283",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "A bill to designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+      "type": "S"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Government Operations and Politics",
+        "updateDate": "2025-12-08T15:44:33Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: summaries
+
+```json
+{
+  "govinfoBulk": {
+    "introducedDate": "2025-08-01",
+    "originChamber": "House",
+    "payload": {
+      "dublinCore": {
+        "contributor": "Congressional Research Service, Library of Congress",
+        "description": "This file contains bill summaries for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is \"to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives\". For more information, refer to the User Guide that accompanies this file.",
+        "format": "text/xml",
+        "language": "EN",
+        "rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      },
+      "item": {
+        "@attributes": {
+          "congress": "119",
+          "measure-id": "id119hr4836",
+          "measure-number": "4836",
+          "measure-type": "hr",
+          "orig-publish-date": "2025-08-01",
+          "originChamber": "HOUSE",
+          "update-date": "2025-08-09"
+        },
+        "summary": {
+          "@attributes": {
+            "currentChamber": "HOUSE",
+            "summary-id": "id119hr4836v00",
+            "update-date": "2025-08-09"
+          },
+          "action-date": "2025-08-01",
+          "action-desc": "Introduced in House",
+          "summary-text": "This bill designates the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\"."
+        },
+        "title": "To designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\"."
+      }
+    },
+    "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSUM/119/hr/BILLSUM-119hr4836.xml",
+    "summary": {
+      "actionDate": "2025-08-01",
+      "actionDesc": "Introduced in House",
+      "text": "This bill designates the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+      "updateDate": "2025-08-09",
+      "versionCode": "id119hr4836"
+    },
+    "title": "To designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\"."
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-08-01",
+      "actionDesc": "Introduced in House",
+      "text": "This bill designates the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+      "updateDate": "2025-08-09",
+      "versionCode": "id119hr4836"
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-08-01",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4836ih.xml"
+        }
+      ],
+      "type": "Introduced in House"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "To designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-08-09T03:33:36Z"
+    },
+    {
+      "title": "To designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the \"Oscar J. Upham Post Office\".",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-08-02T08:05:42Z"
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+# HR 7862: National Flood Insurance Program Clarification Act of 2026
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2026-03-09
+- Latest action: 2026-03-09 - Introduced in House
+- Policy area: Finance and Financial Sector
+- Sponsor: Rep. Bentz, Cliff [R-OR-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/7862
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2026-03-09
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7862ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2026-03-09
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/2/hr/BILLS-119hr7862ih.xml
+
+I
+119th CONGRESS
+2d Session
+H. R. 7862
+IN THE HOUSE OF REPRESENTATIVES
+March 9, 2026 Mr. Bentz introduced the following bill; which was referred to the Committee on Financial Services
+A BILL
+To amend the National Flood Insurance Act of 1968 to limit the application of the Endangered Species Act with respect to certain actions under the national flood insurance program, and for other purposes.
+#### 1. Short title
+This Act may be cited as the National Flood Insurance Program Clarification Act of 2026 .
+#### 2. Application of the Endangered Species Act with respect to certain actions under the national flood insurance program
+Section 1317 of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4024 ) is amended—
+**(1)**
+by striking In and inserting the following:
+(a) In general In ; and
+**(2)**
+by adding at the end the following:
+(b) Application of Endangered Species Act Section 7(a) of the Endangered Species Act ( 16 U.S.C. 1536(a) ) shall not apply to any actions by the Administrator pursuant to sections 1305(c), 1306, 1360, 1361(c), 1363 of this title, and section 100216 of the Biggert-Waters Flood Insurance Reform Act of 2012. (c) Biological opinions under the Endangered Species Act Not later than 30 days after the date of the enactment of this subsection, the Director of the United States Fish and Wildlife Service and the Assistant Administrator for Fisheries shall withdraw any existing biological opinions under section 7(a)(2) of the Endangered Species Act ( 16 U.S.C. 1536(a)(2) ) that evaluate the impacts of the national flood insurance program. Biological opinions withdrawn under this subsection shall have no effect and shall not be reissued. .
+#### 3. Criteria for land management and use with respect to the national flood insurance program
+Section 1361(c) of the National Flood Insurance Act of 1968 ( 42 U.S.C. 4102(c) ) is amended by inserting after local measures which the following: are for the sole purpose of protecting property and human health, and .
+
+
+## Timeline
+
+- 2026-03-09: Introduced in House
+- 2026-03-09 - IntroReferral: Introduced in House
+- 2026-03-09 - IntroReferral: Introduced in House
+- 2026-03-09 - IntroReferral: Referred to the House Committee on Financial Services.
+- Latest action: 2026-03-09: Introduced in House

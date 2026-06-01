@@ -1,0 +1,46 @@
+# HR 6223: Crime Gun Tracing Modernization Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-11-20
+- Latest action: 2025-11-20 - Introduced in House
+- Policy area: Crime and Law Enforcement
+- Sponsor: Rep. Pou, Nellie [D-NJ-9]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/6223
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-11-20
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6223ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-11-20
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr6223ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 6223
+IN THE HOUSE OF REPRESENTATIVES
+November 20, 2025 Ms. Pou introduced the following bill; which was referred to the Committee on the Judiciary
+A BILL
+To amend section 923 of title 18, United States Code, to require an electronic, searchable database of the importation, production, shipment, receipt, sale, or other disposition of firearms.
+#### 1. Short title
+This Act may be cited as the Crime Gun Tracing Modernization Act of 2025 .
+#### 2. Electronic, searchable databases
+Section 923(g) of title 18, United States Code, is amended by adding at the end the following:
+(8) (A) In this paragraph, the term foreign intelligence information has the meaning given the term in section 101 of the Foreign Intelligence Surveillance Act of 1978 ( 50 U.S.C. 1801 ). (B) Not later than 3 years after the date of enactment of this paragraph, the National Tracing Center of the Bureau of Alcohol, Tobacco, Firearms and Explosives shall establish and maintain electronic, searchable databases of all records within its possession of the importation, production, shipment, receipt, sale, or other disposition of firearms required to be submitted to the Bureau of Alcohol, Tobacco, Firearms and Explosives by persons licensed under this chapter. (C) Each licensee under this chapter may provide the National Tracing Center with electronic access, consistent with the requirements of this paragraph, to all records within the licensee’s possession that are required to be kept under this chapter. (D) A licensee may voluntarily relinquish possession of any non-electronic record required to be kept under this chapter to the Bureau of Alcohol, Tobacco, Firearms and Explosives if— (i) 10 years have elapsed from the date of the firearm transaction; or (ii) in the case of paper acquisition and disposition books, 10 years have elapsed without any open disposition entries and with no dispositions recorded in the record. (E) The National Tracing Center— (i) shall have remote access to and may query, search, or otherwise access the electronic databases described in this paragraph; and (ii) may, with the permission of a State, or political subdivision of a State, have remote access to, and may query, search, or otherwise access the databases of the firearms registration system or pawnbroker records system of the State or political subdivision. (F) The National Tracing Center may query, search, or otherwise access the electronic databases described in this paragraph for only the following purposes: (i) To obtain information related to a bona fide law enforcement investigation by a Federal, State, local, tribal, or foreign law enforcement agency. (ii) To obtain information that is— (I) foreign intelligence information; or (II) necessary to understand, or assess the importance of, foreign intelligence information. (iii) To obtain information necessary during a compliance inspection of an active licensee who has submitted non-electronic records in accordance with subparagraph (D). (G) The databases established under this paragraph— (i) shall be electronically searchable by date of acquisition or disposition, license number, and the information identified on each firearm or other firearm descriptor, including the manufacturer, importer, model, serial number, type, and caliber or gauge; (ii) shall not be electronically searchable by the personally identifiable information of any individual; and (iii) shall include in search results the entire contents of the relevant records kept by the licensee. (H) This paragraph shall take effect notwithstanding any other provision of law, including any temporary or permanent restrictions placed on funds made available to the Bureau of Alcohol, Tobacco, Firearms and Explosives, or the Department of Justice. (I) Not later than 1 year after the date of enactment of this paragraph, and every 2 years thereafter, the Comptroller General of the United States shall— (i) carry out an audit on compliance by the National Tracing Center and the Bureau of Alcohol, Tobacco, Firearms and Explosives with the requirements of this paragraph; and (ii) submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the audit carried out under clause (i). .
+
+
+## Timeline
+
+- 2025-11-20: Introduced in House
+- 2025-11-20 - IntroReferral: Introduced in House
+- 2025-11-20 - IntroReferral: Introduced in House
+- 2025-11-20 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2025-11-20: Introduced in House

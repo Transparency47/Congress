@@ -1,0 +1,76 @@
+# HR 2237: Farm Workforce Support Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-03-18
+- Latest action: 2025-03-18 - Introduced in House
+- Policy area: Immigration
+- Sponsor: Rep. Vasquez, Gabe [D-NM-2]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/hr/2237
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-03-18
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2237ih.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-03-18
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr2237ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 2237
+IN THE HOUSE OF REPRESENTATIVES
+March 18, 2025 Mr. Vasquez (for himself and Mr. Ciscomani ) introduced the following bill; which was referred to the Committee on the Judiciary
+A BILL
+To direct the Comptroller General of the United States to report on the H–2A program.
+#### 1. Short title
+This Act may be cited as the Farm Workforce Support Act of 2025 .
+#### 2. Report on H–2A temporary visa program
+##### (a) Report required
+Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit a report to certain Congressional committees on the H–2A program, including—
+**(1)**
+an analysis of the impact the program has on hiring, including the impact on domestic workers and guest workers and whether there is an increasing reliance on the program by American employers;
+**(2)**
+identification of any challenges in securing adequate, affordable housing for guest workers;
+**(3)**
+implications of wage rate requirements under the program on an American employer’s ability to recruit domestic workers in comparison to guest workers;
+**(4)**
+an analysis of the economic impact of lost wages from a spouse and unmarried children of a guest worker; and
+**(5)**
+examining compliance with working condition guarantees outlined in a guest worker’s contract made pursuant to the H–2A program.
+##### (b) Definitions
+In this section:
+**(1) American employer**
+The term American employer means an individual, company, or organization that hires another individual and pays such individual a salary or wage, in the United States.
+**(2) Certain Congressional committees**
+The term certain Congressional committees means the—
+**(A)**
+Committee on Education and the Workforce of the House of Representatives;
+**(B)**
+Committee on Agriculture of the House of Representatives;
+**(C)**
+Committee on Health, Education, Labor, and Pensions of the Senate; and
+**(D)**
+Committee on Agriculture, Nutrition, and Forestry of the Senate.
+**(3) Domestic worker**
+The term domestic worker means a United States citizen who is employed in the United States.
+**(4) Guest worker**
+The term guest worker means a worker who is a nonimmigrant described in section 101(a)(15)(H)(ii)(a) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii)(a) ).
+**(5) H–2A program**
+The term H–2A program means the admission of nonimmigrants described in section 101(a)(15)(H)(ii)(a) of the Immigration and Nationality Act ( 8 U.S.C. 1101(a)(15)(H)(ii)(a) ).
+
+
+## Timeline
+
+- 2025-03-18: Introduced in House
+- 2025-03-18 - IntroReferral: Introduced in House
+- 2025-03-18 - IntroReferral: Introduced in House
+- 2025-03-18 - IntroReferral: Referred to the House Committee on the Judiciary.
+- Latest action: 2025-03-18: Introduced in House

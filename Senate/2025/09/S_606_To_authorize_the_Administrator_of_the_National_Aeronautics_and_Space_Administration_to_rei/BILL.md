@@ -1,0 +1,124 @@
+# S 606: Contaminated Wells Relocation Act
+
+- Congress: 119
+- Origin chamber: Senate
+- Introduced: 2025-02-18
+- Latest action: 2025-02-18 - Introduced in Senate
+- Policy area: Science, Technology, Communications
+- Sponsor: Sen. Kaine, Tim [D-VA]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/senate-bill/606
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Summary
+
+**Contaminated Wells Relocation Act**
+
+This bill permits the National Aeronautics and Space Administration (NASA) to enter into an agreement to reimburse the town of Chincoteague, Virginia for costs directly associated with the removal and relocation of drinking water wells currently situated on NASA property.
+
+(Drinking water wells located at NASA’s Wallops Flight Facility near Chincoteague have tested positive for perfluoroalkyl or polyfluoroalkyl substances, commonly referred to as PFAS, resulting from the use of certain firefighting foams at the site beginning in the 1970s. NASA currently operates a water treatment system to remove PFAS from the affected water supply.)
+
+Any such agreement must include, to the extent practicable, (1) a provision for the removal and relocation of the wells remaining on NASA property, (2) a description of the location to which the wells are planned to be relocated, and (3) a current cost estimate of such relocation. Replacement wells must be established on property under the administrative control of the town of Chincoteague.
+
+## Text Versions
+
+### Introduced in Senate
+- Date: 2025-02-18
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s606is.xml
+
+### Reported in Senate
+- Date: 2025-09-08
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s606rs.xml
+
+
+## Full Bill Text
+
+### Introduced in Senate
+- Date: 2025-02-18
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s606is.xml
+
+II
+119th CONGRESS
+1st Session
+S. 606
+IN THE SENATE OF THE UNITED STATES
+February 18, 2025 Mr. Kaine (for himself and Mr. Warner ) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+A BILL
+To authorize the Administrator of the National Aeronautics and Space Administration to reimburse the Town of Chincoteague, Virginia, for costs directly associated with the removal and replacement of certain drinking water wells.
+#### 1. Short title
+This Act may be cited as the Contaminated Wells Relocation Act .
+#### 2. Drinking water well replacement for Chincoteague, Virginia
+##### (a) In general
+Notwithstanding any other provision of law, the Administrator of the National Aeronautics and Space Administration may enter into an agreement, as appropriate, with the Town of Chincoteague, Virginia, for a period of up to five years, for reimbursement of the Town of Chincoteague's costs directly associated with—
+**(1)**
+the development of a plan for removal of drinking water wells currently situated on property administered by the National Aeronautics and Space Administration; and
+**(2)**
+the establishment of alternative drinking water wells on property under the administrative control, through lease, ownership, or easement, of the Town of Chincoteague.
+##### (b) Elements
+An agreement under subsection (a) shall include, to the extent practicable—
+**(1)**
+a provision for the removal and relocation of the three remaining wells described in that subsection;
+**(2)**
+a description of the location of the site to which such wells will be relocated or are planned to be relocated; and
+**(3)**
+a current estimated cost of such relocation, including for the purchase, lease, or use of additional property, engineering, design, permitting, and construction.
+##### (c) Submission to Congress
+Not later than 18 months after the date of the enactment of this Act, the Administrator of the National Aeronautics and Space Administration, in coordination with the heads or other appropriate representatives of relevant entities, shall submit to the appropriate committees of Congress any agreement entered into under subsection (a).
+##### (d) Appropriate committees of Congress defined
+In this section, the term appropriate committees of Congress means—
+**(1)**
+the Committee on Commerce, Science, and Transportation of the Senate; and
+**(2)**
+the Committee on Science, Space, and Technology of the House of Representatives.
+
+### Reported in Senate
+- Date: 2025-09-08
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s606rs.xml
+
+II
+Calendar No. 149
+119th CONGRESS
+1st Session
+S. 606
+[Report No. 119–61]
+IN THE SENATE OF THE UNITED STATES
+February 18, 2025 Mr. Kaine (for himself and Mr. Warner ) introduced the following bill; which was read twice and referred to the Committee on Commerce, Science, and Transportation
+September 8, 2025 Reported by Mr. Cruz , without amendment
+A BILL
+To authorize the Administrator of the National Aeronautics and Space Administration to reimburse the Town of Chincoteague, Virginia, for costs directly associated with the removal and replacement of certain drinking water wells.
+#### 1. Short title
+This Act may be cited as the Contaminated Wells Relocation Act .
+#### 2. Drinking water well replacement for Chincoteague, Virginia
+##### (a) In general
+Notwithstanding any other provision of law, the Administrator of the National Aeronautics and Space Administration may enter into an agreement, as appropriate, with the Town of Chincoteague, Virginia, for a period of up to five years, for reimbursement of the Town of Chincoteague's costs directly associated with—
+**(1)**
+the development of a plan for removal of drinking water wells currently situated on property administered by the National Aeronautics and Space Administration; and
+**(2)**
+the establishment of alternative drinking water wells on property under the administrative control, through lease, ownership, or easement, of the Town of Chincoteague.
+##### (b) Elements
+An agreement under subsection (a) shall include, to the extent practicable—
+**(1)**
+a provision for the removal and relocation of the three remaining wells described in that subsection;
+**(2)**
+a description of the location of the site to which such wells will be relocated or are planned to be relocated; and
+**(3)**
+a current estimated cost of such relocation, including for the purchase, lease, or use of additional property, engineering, design, permitting, and construction.
+##### (c) Submission to Congress
+Not later than 18 months after the date of the enactment of this Act, the Administrator of the National Aeronautics and Space Administration, in coordination with the heads or other appropriate representatives of relevant entities, shall submit to the appropriate committees of Congress any agreement entered into under subsection (a).
+##### (d) Appropriate committees of Congress defined
+In this section, the term appropriate committees of Congress means—
+**(1)**
+the Committee on Commerce, Science, and Transportation of the Senate; and
+**(2)**
+the Committee on Science, Space, and Technology of the House of Representatives.
+
+
+## Timeline
+
+- 2025-02-18: Introduced in Senate
+- 2025-02-18 - IntroReferral: Introduced in Senate
+- 2025-02-18 - IntroReferral: Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-04-30 - Committee: Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2025-09-08 - Committee: Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-61.
+- 2025-09-08 - Committee: Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-61.
+- 2025-09-08 - Calendars: Placed on Senate Legislative Calendar under General Orders. Calendar No. 149.
+- Latest action: 2025-02-18: Introduced in Senate

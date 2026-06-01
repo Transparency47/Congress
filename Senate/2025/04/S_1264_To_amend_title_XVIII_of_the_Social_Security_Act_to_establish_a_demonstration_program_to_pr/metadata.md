@@ -1,0 +1,288 @@
+# Metadata
+
+- API URL: https://api.congress.gov/v3/bill/119/s/1264?format=json
+- Congress.gov URL: https://www.congress.gov/bill/119th-congress/senate-bill/1264
+- Title: Mental and Physical Health Care Comorbidities Act of 2025
+- Congress: 119
+- Bill type: S
+- Bill number: 1264
+- Origin chamber: Senate
+- Introduced date: 2025-04-02
+- Update date: 2025-12-05T22:00:22Z
+- Update date including text: 2025-12-05T22:00:22Z
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+- Embedded API data: bill, actions, committees, fullTexts, relatedbills, subjects, summaries, text, titles
+
+## Timeline
+
+- 2025-04-02: Introduced in Senate
+- 2025-04-02 - IntroReferral: Introduced in Senate
+- 2025-04-02 - IntroReferral: Read twice and referred to the Committee on Finance.
+- Latest action: 2025-04-02: Introduced in Senate
+
+## Actions
+
+- 2025-04-02 - IntroReferral: Introduced in Senate
+- 2025-04-02 - IntroReferral: Read twice and referred to the Committee on Finance.
+
+## Voters
+
+- Voters: No recorded votes found in bill actions.
+
+## API Data: bill
+
+```json
+{
+  "bill": {
+    "congress": 119,
+    "introducedDate": "2025-04-02",
+    "latestAction": {
+      "actionDate": "2025-04-02",
+      "text": "Introduced in Senate"
+    },
+    "legislationUrl": "https://www.congress.gov/bill/119th-congress/senate-bill/1264",
+    "number": "1264",
+    "originChamber": "Senate",
+    "policyArea": {
+      "name": "Health"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "B001267",
+        "district": "",
+        "firstName": "Michael",
+        "fullName": "Sen. Bennet, Michael F. [D-CO]",
+        "lastName": "Bennet",
+        "party": "D",
+        "state": "CO"
+      }
+    ],
+    "title": "Mental and Physical Health Care Comorbidities Act of 2025",
+    "type": "S",
+    "updateDate": "2025-12-05T22:00:22Z",
+    "updateDateIncludingText": "2025-12-05T22:00:22Z"
+  }
+}
+```
+
+## API Data: actions
+
+```json
+{
+  "actions": [
+    {
+      "actionDate": "2025-04-02",
+      "committees": {
+        "item": {
+          "name": "Finance Committee",
+          "systemCode": "ssfi00"
+        }
+      },
+      "sourceSystem": {
+        "name": "Senate"
+      },
+      "text": "Read twice and referred to the Committee on Finance.",
+      "type": "IntroReferral"
+    },
+    {
+      "actionCode": "10000",
+      "actionDate": "2025-04-02",
+      "sourceSystem": {
+        "code": "9",
+        "name": "Library of Congress"
+      },
+      "text": "Introduced in Senate",
+      "type": "IntroReferral"
+    }
+  ]
+}
+```
+
+## API Data: committees
+
+```json
+{
+  "committees": [
+    {
+      "activities": {
+        "item": {
+          "date": "2025-04-02T20:42:08Z",
+          "name": "Referred To"
+        }
+      },
+      "chamber": "Senate",
+      "name": "Finance Committee",
+      "systemCode": "ssfi00",
+      "type": "Standing"
+    }
+  ]
+}
+```
+
+## API Data: fullTexts
+
+```json
+{
+  "fullTexts": [
+    {
+      "fetchError": null,
+      "sourceFormat": "Formatted XML",
+      "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1264is.xml",
+      "text": "II\n119th CONGRESS\n1st Session\nS. 1264\nIN THE SENATE OF THE UNITED STATES\nApril 2, 2025 Mr. Bennet introduced the following bill; which was read twice and referred to the Committee on Finance\nA BILL\nTo amend title XVIII of the Social Security Act to establish a demonstration program to promote collaborative treatment of mental and physical health comorbidities under the Medicare program.\n#### 1. Short title\nThis Act may be cited as the Mental and Physical Health Care Comorbidities Act of 2025 .\n#### 2. Establishing a demonstration program to promote collaborative treatment of mental and physical health comorbidities under the Medicare program\nTitle XVIII of the Social Security Act ( 42 U.S.C. 1395 et seq. ) is amended by inserting after section 1866G the following new section:\n1866H. Mental and physical health comorbidities collaborative demonstration program (a) In general Consistent with the model described in section 1115A(b)(2)(B)(xv) (relating to promoting improved quality and reduced cost by developing a collaborative of high-quality, low-cost health care institutions), the Secretary shall conduct a demonstration program (in this section referred to as the \u2018program\u2019) to test and evaluate innovations implemented by eligible hospitals (as defined in subsection (f)) in the furnishing of items and services to applicable individuals (as defined in subsection (f)) with mental and physical health comorbidities (and those at risk of developing such comorbidities), including by addressing the adverse social determinants of health that such individuals often experience. (b) Activities under program Under the program, the Secretary shall, in coordination with eligible hospitals participating in the program\u2014 (1) identify, validate, and disseminate innovative, effective evidence-based best practices and models that improve care and outcomes for applicable individuals with mental and physical health comorbidities located in vulnerable communities, including by addressing the social determinants of health that adversely impact such individuals; and (2) assist in the identification of potential payment reforms under this title and title XIX that could more broadly effectuate such improvements. (c) Duration and scope The program conducted under this section shall operate during the period beginning on October 1, 2025, and ending no later than September 30, 2030. (d) Program elements (1) In general An eligible hospital electing to participate in the program shall enter into an agreement with the Secretary for purposes of carrying out the activities described in subsection (b). Such an agreement shall include the plan described in paragraph (2), along with an annualized payment arrangement as described in paragraph (3) to support implementation of such plan. Such agreement shall include a requirement for the hospital to\u2014 (A) engage in the learning collaborative established under subsection (e); (B) certify that all proposed innovations under such plan will supplement and not supplant existing activities, whether by augmenting existing activities or initiating new activities; and (C) remit payments made under such arrangement to the Secretary if the Secretary determines that such hospital has not complied with the terms of such agreement. (2) Program elements An eligible hospital electing to participate in the program shall submit a proposed plan and associated quality metrics for review and approval by the Secretary. Such plan and metrics shall, at a minimum, address\u2014 (A) the specific innovations addressing mental and physical health comorbidities (as defined in subsection (f)) and innovations addressing social determinants of health (as defined in such subsection) that will be employed and the evidence base supporting the proposed approach; (B) the proposed target population of applicable individuals with respect to which such innovations will be employed, including a description of the extent to which such population consists of applicable individuals described in subparagraph (A), (B), or (C) of subsection (f)(1); (C) the evidence-based data supporting a community\u2019s status as a vulnerable community through sources, such as Bureau of the Census data and measures such as the Neighborhood Deprivation Index or the Child Opportunity Index; (D) community partners, such as nonprofit organizations, federally qualified health centers, rural health clinics, and units of local government (including law enforcement and judicial entities) that will participate in the implementation of such innovations; (E) how such innovations will address mental and physical health comorbidities and social determinants of health for the target population; (F) how such innovations may inform changes in payment and other policies under this title and title XIX (such as care coordination reimbursement, mental health homes, improvements to home and community-based service portfolios, and coverage of supportive services); (G) how such innovations might contribute to a reduction in overall health care costs, including under this title and title XIX and for uninsured persons, through improvements in population health, reductions in health care utilization (such as inpatient admissions, utilization of emergency departments, and boarding of patients), and otherwise; (H) how such innovations can be expected to improve the mental and physical health status of minority populations; (I) how such innovations can be expected to reduce other non-medical public expenditures; (J) metrics to track care quality, improvement in outcomes, and the impact of such innovations on health care and other public expenditures; (K) how program outcomes will be assessed and evaluated; and (L) how the hospital will collect and organize data and fully participate in the learning collaborative established under subsection (e). (3) Participation; payments The Secretary shall negotiate an annualized payment arrangement with each eligible hospital participating in the program. Such arrangement may include an annual lump sum amount, capitated payment amount, or such other arrangement as determined appropriate by the Secretary, and which may include an arrangement that includes financial risk for the hospital, to support implementation of the innovations specified in the plan described in paragraph (2). (e) Learning collaborative (1) In general The Secretary shall establish a learning collaborative that shall convene eligible hospitals participating in the program and other interested parties on a regular basis to report on and share information regarding evidence-based innovations addressing mental and physical health comorbidities, innovations addressing social determinants of health, and associated metrics and outcomes. (2) Focused forums The Secretary may establish different focused forums within the collaborative, such as ones that specifically address different geographic regions (such as urban and rural), certain types of comorbidities, or as the Secretary otherwise determines appropriate based on the types of agreements entered into under subsection (d). (3) Dissemination of information The Secretary shall provide for the dissemination to other health care providers and interested parties of information on promising and effective activities. (f) Definitions For purposes of this section: (1) Applicable individual The term applicable individual means an individual with mental and physical health comorbidities who is\u2014 (A) a subsidy eligible individual (as defined in section 1860D\u201314(a)(3)(A)) without regard to clause (i) of such section; (B) enrolled under a State plan (or waiver of such plan) under title XIX; or (C) uninsured. (2) Eligible hospital The term eligible hospital means a hospital that is\u2014 (A) a rural hospital with a disproportionate patient percentage of at least 35 percent (as determined by the Secretary under section 1886(d)(5)(F)(vi)) or would have a disproportionate patient percentage of at least 35 percent (as so determined) if the hospital were a subsection (d) hospital (or, a percentage of inpatient days consisting of items and services furnished to individuals entitled to benefits under part A that exceeds 85 percent of all such days) that is either a critical access hospital, a sole community hospital (as defined in section 1886(d)(5)(D)(iii)), or a medicare-dependent, small rural hospital (as defined in section 1886(d)(5)(G)(iv)); (B) a large subsection (d) teaching and tertiary hospital with more than 200 beds that as of, or subsequent to July 1, 2020, has an average Medicare case mix index of at least 1.5, an intern and resident-to-bed ratio of at least 0.25 percent (or at least 150 full-time equivalent interns, residents, and fellows), and is either a public hospital with a disproportionate patient percentage of at least 35 percent (as determined by the Secretary under section 1886(d)(5)(F)(vi)) or a nonprofit hospital with a disproportionate patient percentage of at least 45 percent; or (C) a small subsection (d) urban safety net hospital (as determined by the Secretary) with less than 200 beds that is deemed to be a disproportionate share hospital under section 1923(b). (3) Innovations addressing mental and physical health comorbidities The term innovations addressing mental and physical health comorbidities means innovations implemented by an eligible hospital that seek to promote holistic care and treatment of an applicable individual\u2019s co-occurring mental and physical health comorbidities, support early detection of such comorbidities, or prevent their onset, including the following: (A) Implementation of interdisciplinary integrative coordinated care team models, including those that utilize mental health emergency department in-reach staff (and other emergency-department interventions), care coordination staff and social services support, and clinic-based services. (B) Integration of mental health services into medical homes, coordinated care organizations, accountable care entities, and in-home services. (C) Incorporation of mental health and social risk screening into medical screening, particularly in child and adolescent populations. (D) Preventing adverse impacts on mental health resulting from physical health treatments or medications, or on physical health resulting from mental health treatments or medications, through cross disciplinary provider education, quality metrics, and other mechanisms. (E) Improvements in electronic health records and other technology platforms or networks to capture, track, and monitor mental and physical health treatments and medications provided across care settings and otherwise facilitate care coordination. (F) Piloting of reimbursement modifications that utilize site-neutral payments and that address conflicts and disincentives related to chronic care management and behavioral health management and differential treatment of inpatient and outpatient settings. (G) Mitigating the incidence of admission and readmission into psychiatric inpatient settings of chronically ill elderly patients through methods such as active inpatient management, variations in initial length of stay, enhanced discharge planning, and psychosocial interventions. (H) Delivering health behavior assessments and interventions to improve physical health outcomes for patients and aid in the management of chronic health conditions. (I) In coordination with law enforcement agencies and judicial entities, interventions targeted at providing mental and physical health services (including, as appropriate, substance use disorder services) to individuals convicted of criminal offenses for purposes of mitigating recidivism. (4) Innovations addressing social determinants of health The term innovations addressing social determinants of health means innovations implemented by an eligible hospital that seek to address social determinants of health that negatively impact the health outcomes of applicable individuals, including the following: (A) Improvements in electronic health records to better integrate mental health, medical care, and social care (such as screening for social factors, facilitated or closed loop referral, risk stratification, and shared records with community-based organizations). (B) Personnel-supported wrap around services for at-risk individuals with mental and physical health comorbidities (such as nutrition and diet counseling, social services referral, respiratory therapy, medical-legal assistance, financial counseling, consumer education, pharmacy education, asthma education, and referral to food resources such as referral to the SNAP program, the WIC program, a food bank, case management assistance, employment or education support, intimate partner violence, and behavioral health support). (C) Home and community-based services that provide collaborative care to address mental and physical health comorbidities through health behavior services, nutrition support, medication management, transitional care, telehealth, mobile integrated health care, paramedic-based home visitation, or utilization of community health workers. (D) Hospital-based interventions (such as same day primary care services, skilled nursing interventions, substance use disorder and behavioral health treatment coordination of care, collaborative care models, discharge planning and medication reconciliation, long-term care management, and post-traumatic injury management). (5) Individual with mental and physical health comorbidities The term individual with mental and physical health comorbidities means an individual who is challenged by serious mental illness or serious emotional disturbance as well as 1 or more of the following conditions or characteristics: (A) Has or is at risk for one or more chronic conditions (as defined by the Secretary). (B) High-risk pregnancy. (C) History of high utilization of acute care services. (D) Frail elderly (defined by impairments in activities of daily living). (E) Disability, including traumatic brain injury. (F) Critical illness or injury requiring long-term recovery. (6) Vulnerable community The term vulnerable community means a geographic area served by an eligible hospital characterized by a population that has a statistically significant number of individuals with mental and physical health comorbidities, indicators of poor population health status, low-income status, or status as a USDA-recognized food desert. (g) Evaluation and report Not later than 1 year after the date of completion of the program under this section, the Secretary shall submit to Congress a report containing an evaluation of the activities supported by the program. Such report shall include the following: (1) A description of each such activity, including\u2014 (A) the target population of such activity; (B) how such activity addressed the adverse social determinants of health in such population; and (C) the role of community-based organizations and other community partners (such as nonprofits and units of local government) in such activity. (2) Evidence showing whether and how each such activity advanced any of the following objectives: (A) Improved access to care. (B) Improved quality of care. (C) Improved health outcomes. (D) Amelioration of disparities in care. (E) Improved care coordination. (F) Reduction in health care costs (including such reductions under this title and title XIX and such reductions occurring for uninsured individuals). (G) Reduction in health care utilization (including with respect to inpatient admissions, utilization of emergency departments, and room and board provided to individuals). (H) Reduction in non-medical public expenditures. (I) Changes in patient and provider satisfaction with care delivery. (J) Reductions in involvement with the justice system, including reductions in recidivism. (3) A description of the metrics used to track the implementation and results of each such activity. (4) Recommendations for any legislation or administrative action the Secretary determines appropriate. (h) Funding Any funds appropriated under section 1115A(f) shall be available to the Secretary without further appropriation for the purposes of carrying out this section. .",
+      "versionDate": "2025-04-02",
+      "versionType": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: relatedbills
+
+```json
+{
+  "relatedBills": [
+    {
+      "congress": "119",
+      "latestAction": {
+        "actionDate": "2025-04-02",
+        "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+      },
+      "number": "2590",
+      "relationshipDetails": {
+        "item": {
+          "identifiedBy": "CRS",
+          "type": "Identical bill"
+        }
+      },
+      "title": "Mental and Physical Health Care Comorbidities Act of 2025",
+      "type": "HR"
+    }
+  ]
+}
+```
+
+## API Data: subjects
+
+```json
+{
+  "subjects": [
+    {
+      "legislativeSubjects": "",
+      "policyArea": {
+        "name": "Health",
+        "updateDate": "2025-05-01T15:02:52Z"
+      }
+    }
+  ]
+}
+```
+
+## API Data: summaries
+
+```json
+{
+  "govinfoBulk": {
+    "introducedDate": "2025-04-02",
+    "originChamber": "Senate",
+    "payload": {
+      "dublinCore": {
+        "contributor": "Congressional Research Service, Library of Congress",
+        "description": "This file contains bill summaries for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is \"to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives\". For more information, refer to the User Guide that accompanies this file.",
+        "format": "text/xml",
+        "language": "EN",
+        "rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      },
+      "item": {
+        "@attributes": {
+          "congress": "119",
+          "measure-id": "id119s1264",
+          "measure-number": "1264",
+          "measure-type": "s",
+          "orig-publish-date": "2025-04-02",
+          "originChamber": "SENATE",
+          "update-date": "2025-05-06"
+        },
+        "summary": {
+          "@attributes": {
+            "currentChamber": "SENATE",
+            "summary-id": "id119s1264v00",
+            "update-date": "2025-05-06"
+          },
+          "action-date": "2025-04-02",
+          "action-desc": "Introduced in Senate",
+          "summary-text": "<p><strong>Mental and Physical Health Care Comorbidities Act of 2025</strong><strong></strong></p><p>This bill establishes a demonstration program to test hospital innovations that support low-income or uninsured individuals with serious mental and physical health comorbidities and to identify appropriate payment reforms under Medicare and Medicaid.</p><p>Participating hospitals must (1) have a proportionally high number of Medicare or Medicaid patients, and (2) develop a plan and related quality metrics for innovations to provide coordinated care and address social determinants of health for individuals with serious mental illness or emotional disturbance and physical comorbidities (e.g., chronic conditions).</p>"
+        },
+        "title": "Mental and Physical Health Care Comorbidities Act of 2025"
+      }
+    },
+    "sourceUrl": "https://www.govinfo.gov/bulkdata/BILLSUM/119/s/BILLSUM-119s1264.xml",
+    "summary": {
+      "actionDate": "2025-04-02",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Mental and Physical Health Care Comorbidities Act of 2025</strong><strong></strong></p><p>This bill establishes a demonstration program to test hospital innovations that support low-income or uninsured individuals with serious mental and physical health comorbidities and to identify appropriate payment reforms under Medicare and Medicaid.</p><p>Participating hospitals must (1) have a proportionally high number of Medicare or Medicaid patients, and (2) develop a plan and related quality metrics for innovations to provide coordinated care and address social determinants of health for individuals with serious mental illness or emotional disturbance and physical comorbidities (e.g., chronic conditions).</p>",
+      "updateDate": "2025-05-06",
+      "versionCode": "id119s1264"
+    },
+    "title": "Mental and Physical Health Care Comorbidities Act of 2025"
+  },
+  "summaries": [
+    {
+      "actionDate": "2025-04-02",
+      "actionDesc": "Introduced in Senate",
+      "text": "<p><strong>Mental and Physical Health Care Comorbidities Act of 2025</strong><strong></strong></p><p>This bill establishes a demonstration program to test hospital innovations that support low-income or uninsured individuals with serious mental and physical health comorbidities and to identify appropriate payment reforms under Medicare and Medicaid.</p><p>Participating hospitals must (1) have a proportionally high number of Medicare or Medicaid patients, and (2) develop a plan and related quality metrics for innovations to provide coordinated care and address social determinants of health for individuals with serious mental illness or emotional disturbance and physical comorbidities (e.g., chronic conditions).</p>",
+      "updateDate": "2025-05-06",
+      "versionCode": "id119s1264"
+    }
+  ]
+}
+```
+
+## API Data: text
+
+```json
+{
+  "textVersions": [
+    {
+      "date": "2025-04-02",
+      "formats": [
+        {
+          "type": "Formatted XML",
+          "url": "https://www.govinfo.gov/bulkdata/BILLS/119/1/s/BILLS-119s1264is.xml"
+        }
+      ],
+      "type": "Introduced in Senate"
+    }
+  ]
+}
+```
+
+## API Data: titles
+
+```json
+{
+  "titles": [
+    {
+      "title": "Mental and Physical Health Care Comorbidities Act of 2025",
+      "titleType": "Display Title",
+      "titleTypeCode": "45",
+      "updateDate": "2025-04-12T03:08:18Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "Mental and Physical Health Care Comorbidities Act of 2025",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": "101",
+      "updateDate": "2025-04-12T03:08:16Z"
+    },
+    {
+      "billTextVersionCode": "IS",
+      "billTextVersionName": "Introduced in Senate",
+      "title": "A bill to amend title XVIII of the Social Security Act to establish a demonstration program to promote collaborative treatment of mental and physical health comorbidities under the Medicare program.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": "6",
+      "updateDate": "2025-04-12T03:03:37Z"
+    }
+  ]
+}
+```

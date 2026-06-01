@@ -1,0 +1,227 @@
+# HR 4346: PEACE Act of 2025
+
+- Congress: 119
+- Origin chamber: House
+- Introduced: 2025-07-10
+- Latest action: 2025-07-10 - Introduced in House
+- Policy area: International Affairs
+- Sponsor: Rep. Nunn, Zachary [R-IA-3]
+- Congress.gov: https://www.congress.gov/bill/119th-congress/house-bill/4346
+- Date accessed: 2026-06-01T04:21:25.748028+00:00
+
+## Text Versions
+
+### Introduced in House
+- Date: 2025-07-10
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4346ih.xml
+
+### Reported in House
+- Date: 2025-10-03
+- Formatted XML: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4346rh.xml
+
+
+## Full Bill Text
+
+### Introduced in House
+- Date: 2025-07-10
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4346ih.xml
+
+I
+119th CONGRESS
+1st Session
+H. R. 4346
+IN THE HOUSE OF REPRESENTATIVES
+July 10, 2025 Mr. Nunn of Iowa (for himself and Mr. Gottheimer ) introduced the following bill; which was referred to the Committee on Financial Services
+A BILL
+To secure a peaceful resolution to the Russia-Ukraine conflict by requiring the Secretary of the Treasury to prohibit, or impose strict conditions on, the opening or maintaining in the United States of a correspondent account or a payable-through account by certain foreign financial institutions, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Preventing the Escalation of Armed Conflict in Europe Act of 2025 or the PEACE Act of 2025 .
+#### 2. Findings
+Congress finds the following:
+**(1)**
+During the night of March 6–7, 2025, only one week after the President called for peace between Russia and Ukraine, the Russian military bombarded Ukrainian energy infrastructure and civilian residences.
+**(2)**
+DTEK, a Ukrainian gas producer, noted that the assault represented the sixth Russian attack on its Odesa facilities in just the preceding two and a half weeks.
+**(3)**
+On March 7, 2025, the President published the following statement: Based on the fact that Russia is absolutely pounding Ukraine on the battlefield right now, I am strongly considering large scale Banking Sanctions, Sanctions, and Tariffs on Russia until a Cease Fire and FINAL SETTLEMENT AGREEMENT ON PEACE IS REACHED. To Russia and Ukraine, get to the table right now, before it is too late. .
+**(4)**
+Despite the President’s calls for a peace settlement, Russia has continued to assault Ukraine, including an April 4 missile attack on Kryvyi Rih that killed 20 people and an April 13 strike on Sumy resulting in 35 deaths.
+**(5)**
+On May 25, 2025, Russia launched its largest aerial attack of the war, deploying hundreds of drones and ballistic missiles throughout Ukrainian territory.
+**(6)**
+On May 27, 2025, the President posted on social media with reference to Russian leader Vladimir Putin: He’s playing with fire! .
+**(7)**
+Hours after a July 3, 2025, call between the President and Putin, Russia carried out its largest-yet aerial assault of the war against Kyiv. Less than one week later, following remarks by the President at a Cabinet meeting criticizing Putin, Russia launched an even more expansive drone strike against Ukrainian targets.
+#### 3. Sanctions with respect to the Russian Federation
+##### (a) In general
+Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury shall prescribe regulations to prohibit, or impose strict conditions on, the opening or maintaining in the United States of a correspondent account or a payable-through account by a foreign financial institution that knowingly provides significant financial services to—
+**(1)**
+any foreign person designated for the imposition of sanctions with respect to the Russian Federation under—
+**(A)**
+Executive Orders 13660, 13661, 13662, 13685, or 14024; or
+**(B)**
+title II of the Countering America’s Adversaries through Sanctions Act ( Public Law 114–44 ) or an amendment made by that title;
+**(2)**
+a foreign financial institution subject to the prohibitions of Directive 2 under Executive Order 14024;
+**(3)**
+an entity listed in Annex 1 of Directive 3 under Executive Order 14024; or
+**(4)**
+any foreign person that the Secretary finds operates in the energy sector of the Russian Federation.
+##### (b) Penalties
+**(1) Civil penalty**
+A person who violates, attempts to violate, conspires to violate, or causes a violation of regulations prescribed under this subsection shall be subject to a civil penalty in an amount not to exceed the greater of—
+**(A)**
+$377,700; or
+**(B)**
+an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+**(2) Criminal penalty**
+A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of, a violation of regulations prescribed under this subsection shall, upon conviction, be fined not more than $1,000,000, or if a natural person, may be imprisoned for not more than 20 years, or both.
+#### 4. Determination required
+Not later than 90 days after the date of enactment of this Act, the Secretary of the Treasury shall submit a report to Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate determining whether the following are foreign persons described under section 3(a)(4):
+**(1)**
+Gazprom.
+**(2)**
+Rosneft.
+**(3)**
+Lukoil.
+#### 5. Waiver
+With respect to a foreign financial institution, the President may waive the requirements of section 3(a) for not more than 180 days at a time upon reporting to Congress that—
+**(1)**
+the waiver advances the objective of resolving the national emergency described in any Executive Order listed under section 3(a)(1); or
+**(2)**
+the waiver is important to the national interest of the United States, provided that the President includes a detailed explanation of the reasons therefor.
+#### 6. Termination
+This Act shall have no force or effect on the earlier of—
+**(1)**
+30 days after the date that the President reports to Congress that the Russian Federation has ceased destabilizing activities with respect to the sovereignty and territorial integrity of Ukraine; or
+**(2)**
+the date that is 5 years after the date of the enactment of this Act.
+
+### Reported in House
+- Date: 2025-10-03
+- Source: https://www.govinfo.gov/bulkdata/BILLS/119/1/hr/BILLS-119hr4346rh.xml
+
+IB
+Union Calendar No. 277
+119th CONGRESS
+1st Session
+H. R. 4346
+[Report No. 119–324]
+IN THE HOUSE OF REPRESENTATIVES
+July 10, 2025 Mr. Nunn of Iowa (for himself and Mr. Gottheimer ) introduced the following bill; which was referred to the Committee on Financial Services
+October 3, 2025 Additional sponsors: Mr. Barrett , Mr. Conaway , and Mr. Suozzi
+October 3, 2025 Reported with an amendment, committed to the Committee of the Whole House on the State of the Union, and ordered to be printed Strike out all after the enacting clause and insert the part printed in italic For text of introduced bill, see copy of bill as introduced on July 10, 2025
+A BILL
+To secure a peaceful resolution to the Russia-Ukraine conflict by requiring the Secretary of the Treasury to prohibit, or impose strict conditions on, the opening or maintaining in the United States of a correspondent account or a payable-through account by certain foreign financial institutions, and for other purposes.
+#### 1. Short title
+This Act may be cited as the Preventing the Escalation of Armed Conflict in Europe Act of 2025 or the PEACE Act of 2025 .
+#### 2. Findings
+Congress finds the following:
+**(1)**
+During the night of March 6-7, 2025, only one week after the President called for peace between Russia and Ukraine, the Russian military bombarded Ukrainian energy infrastructure and civilian residences.
+**(2)**
+DTEK, a Ukrainian gas producer, noted that the assault represented the sixth Russian attack on its Odesa facilities in just the preceding two and a half weeks.
+**(3)**
+On March 7, 2025, the President published the following statement: Based on the fact that Russia is absolutely pounding Ukraine on the battlefield right now, I am strongly considering large scale Banking Sanctions, Sanctions, and Tariffs on Russia until a Cease Fire and FINAL SETTLEMENT AGREEMENT ON PEACE IS REACHED. To Russia and Ukraine, get to the table right now, before it is too late. .
+**(4)**
+Despite the President’s calls for a peace settlement, Russia has continued to assault Ukraine, including an April 4 missile attack on Kryvyi Rih that killed 20 people and an April 13 strike on Sumy resulting in 35 deaths.
+**(5)**
+On May 25, 2025, Russia launched its largest aerial attack of the war, deploying hundreds of drones and ballistic missiles throughout Ukrainian territory.
+**(6)**
+On May 27, 2025, the President posted on social media with reference to Russian leader Vladimir Putin: He’s playing with fire! .
+**(7)**
+Hours after a July 3, 2025 call between the President and Putin, Russia carried out its largest-yet aerial assault of the war against Kyiv. Less than one week later, following remarks by the President at a Cabinet meeting criticizing Putin, Russia launched an even more expansive drone strike against Ukrainian targets.
+**(8)**
+On July 14, 2025, the President reiterated his displeasure with Putin and Moscow’s obstruction of the peace process. I speak to [Putin] a lot about getting this thing done, said the President while announcing new weapons deliveries for Ukraine. And I always hang up and say, Well, that was a nice phone call . And then missiles are launched into Kyiv or some other city. The President continued, Ultimately talk doesn’t talk. It’s got to be action. It’s got to be results. .
+#### 3. Sanctions with respect to the Russian Federation
+##### (a) In general
+Not later than 180 days after the date of the enactment of this Act, the Secretary of the Treasury shall prescribe regulations to prohibit, or impose strict conditions on, the opening or maintaining in the United States of a correspondent account or a payable-through account by a foreign financial institution that knowingly provides significant financial services to—
+**(1)**
+any foreign person designated for the imposition of sanctions with respect to the Russian Federation under—
+**(A)**
+Executive Order 14024; or
+**(B)**
+title II of the Countering America’s Adversaries through Sanctions Act ( Public Law 115–44 ) or an amendment made by that title;
+**(2)**
+a foreign financial institution subject to the prohibitions of Directive 2 under Executive Order 14024;
+**(3)**
+an entity listed in Annex 1 of Directive 3 under Executive Order 14024; or
+**(4)**
+any foreign person that the Secretary finds operates in the energy sector of the Russian Federation.
+##### (b) Penalties
+**(1) Civil penalty**
+A person who violates, attempts to violate, conspires to violate, or causes a violation of regulations prescribed under this subsection shall be subject to a civil penalty in an amount not to exceed the greater of—
+**(A)**
+$377,700; or
+**(B)**
+an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+**(2) Criminal penalty**
+A person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of, a violation of regulations prescribed under this subsection shall, upon conviction, be fined not more than $1,000,000, or if a natural person, may be imprisoned for not more than 20 years, or both.
+#### 4. Determination required
+Not later than 90 days after the date of enactment of this Act, the Secretary of the Treasury shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate determining whether the following are foreign persons described under section 3(a)(4):
+**(1)**
+Gazprom.
+**(2)**
+Rosneft.
+**(3)**
+Lukoil.
+#### 5. Waiver
+With respect to a foreign financial institution, the President may waive the requirements of section 3(a) for not more than 180 days at a time upon reporting to Congress that—
+**(1)**
+the waiver advances the objective of resolving the national emergency described in the Executive Order listed under section 3(a)(1); or
+**(2)**
+the waiver is important to the national interest of the United States, provided that the President includes a detailed explanation of the reasons therefor.
+#### 6. Transfer of certain Russian assets held by United States financial institutions
+##### (a) Transfer from United States financial institutions
+**(1) In general**
+Not later than 90 days following the date of the enactment of this Act, the Secretary of the Treasury shall—
+**(A)**
+seize, confiscate, transfer, or vest any covered Russian resources, in whole or in part, and including any interest or interests in such assets, held by a United States financial institution; and
+**(B)**
+deposit the resulting funds into the Ukraine Support Fund established under subsection 104(d) of the REPO for Ukrainians Act ( 22 U.S.C. 9521 note), which may be used for the purposes specified in section 104(f) of such Act or for the purchase of defense articles for the Government of Ukraine.
+**(2) Authorities**
+The Secretary of the Treasury shall have the same authority under this subsection with respect to covered Russian resources as are provided to the President under section 104(b) of the REPO for Ukrainians Act ( 22 U.S.C. 9521 note) with respect to Russian aggressor state sovereign assets.
+##### (b) Waiver
+The President may waive the requirements of subsection (a) for up to 180 days at a time, for a cumulative period not to exceed 1 year, upon reporting to Congress in writing that—
+**(1)**
+the Government of the Russian Federation is taking meaningful steps to cease its destabilizing activities with respect to the sovereignty and territorial integrity of Ukraine; or
+**(2)**
+the waiver is important to the national interest of the United States.
+##### (c) Definitions
+In this section:
+**(1) Covered Russian resources**
+The term covered Russian resources means funds and other property of the Central Bank of the Russian Federation, the Russian National Wealth Fund, or the Ministry of Finance of the Russian Federation that—
+**(A)**
+are included in a report pursuant to—
+**(i)**
+directive 4 of Executive Order 14024; or
+**(ii)**
+section 104(a) of the REPO for Ukrainians Act ( 22 U.S.C. 9521 note); and
+**(B)**
+are located in the United States.
+**(2) United States financial institution**
+The term United States financial institution means—
+**(A)**
+a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (M), or (AA) section 5312(a)(2) of title 31, United States Code, as amended by the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021; and
+**(B)**
+such other persons or entities as the Secretary of the Treasury determines appropriate.
+#### 7. Termination
+This Act shall have no force or effect on the earlier of—
+**(1)**
+30 days after the date that the President reports to Congress that the Russian Federation has ceased destabilizing activities with respect to the sovereignty and territorial integrity of Ukraine; or
+**(2)**
+the date that is 5 years after the date of the enactment of this Act.
+
+
+## Timeline
+
+- 2025-07-10: Introduced in House
+- 2025-07-10 - IntroReferral: Introduced in House
+- 2025-07-10 - IntroReferral: Introduced in House
+- 2025-07-10 - IntroReferral: Referred to the House Committee on Financial Services.
+- 2025-07-22 - Committee: Committee Consideration and Mark-up Session Held
+- 2025-07-22 - Committee: Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 1.
+- 2025-10-03 - Calendars: Placed on the Union Calendar, Calendar No. 277.
+- 2025-10-03 - Committee: Reported (Amended) by the Committee on Financial Services. H. Rept. 119-324.
+- 2025-10-03 - Committee: Reported (Amended) by the Committee on Financial Services. H. Rept. 119-324.
+- Latest action: 2025-07-10: Introduced in House
