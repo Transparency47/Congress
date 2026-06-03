@@ -1,6 +1,6 @@
 # Congress Legislation - Mirror
 
-This repository is a read-only mirror of legislation data published by the official Congress.gov API. It is part of the Restoring American Sovereignty Project and exists to preserve public legislative records in a structured format.
+This repository is a read-only mirror of legislation data published by the official Congress.gov API. It is part of Citizens for Government Transparency and exists to preserve public legislative records in a structured format.
 
 The archive is organized by originating chamber and introduced year/month:
 
