@@ -1,6 +1,6 @@
 {
   "last_congress": 119,
-  "last_successful_run": "2026-06-04T14:58:51.930274+00:00",
+  "last_successful_run": "2026-07-18T11:01:25.142420+00:00",
   "seen_bills": {
     "119:hconres:1": {
       "congress": 119,
@@ -6644,13 +6644,13 @@
     },
     "119:hr:133": {
       "congress": 119,
-      "last_accessed": "2026-06-01T16:44:49.824243+00:00",
+      "last_accessed": "2026-07-18T11:01:25.142167+00:00",
       "number": "133",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_133_Protecting_American_Energy_Production_Act",
       "title": "Protecting American Energy Production Act",
       "type": "HR",
-      "update_marker": "2026-05-01"
+      "update_marker": "2026-07-17"
     },
     "119:hr:1330": {
       "congress": 119,
@@ -6754,13 +6754,13 @@
     },
     "119:hr:134": {
       "congress": 119,
-      "last_accessed": "2026-06-01T16:44:49.806877+00:00",
+      "last_accessed": "2026-07-18T11:01:25.140995+00:00",
       "number": "134",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_134_Protecting_our_Communities_from_Sexual_Predators_Act",
       "title": "Protecting our Communities from Sexual Predators Act",
       "type": "HR",
-      "update_marker": "2025-09-18"
+      "update_marker": "2026-07-18"
     },
     "119:hr:1340": {
       "congress": 119,
@@ -7194,13 +7194,13 @@
     },
     "119:hr:138": {
       "congress": 119,
-      "last_accessed": "2026-06-01T16:44:49.813136+00:00",
+      "last_accessed": "2026-07-18T11:01:25.141646+00:00",
       "number": "138",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_138_Lowering_Costs_for_Caregivers_Act_of_2025",
       "title": "Lowering Costs for Caregivers Act of 2025",
       "type": "HR",
-      "update_marker": "2026-05-12"
+      "update_marker": "2026-07-17"
     },
     "119:hr:1380": {
       "congress": 119,
@@ -7644,13 +7644,13 @@
     },
     "119:hr:142": {
       "congress": 119,
-      "last_accessed": "2026-06-01T16:44:49.823314+00:00",
+      "last_accessed": "2026-07-18T11:01:25.141828+00:00",
       "number": "142",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_142_Regulations_from_the_Executive_in_Need_of_Scrutiny_Act_of_2025",
       "title": "Regulations from the Executive in Need of Scrutiny Act of 2025",
       "type": "HR",
-      "update_marker": "2025-12-03"
+      "update_marker": "2026-07-18"
     },
     "119:hr:1420": {
       "congress": 119,
@@ -9414,13 +9414,13 @@
     },
     "119:hr:158": {
       "congress": 119,
-      "last_accessed": "2026-06-01T16:44:49.823954+00:00",
+      "last_accessed": "2026-07-18T11:01:25.141989+00:00",
       "number": "158",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_158_CLEAN_Elections_Act",
       "title": "CLEAN Elections Act",
       "type": "HR",
-      "update_marker": "2025-12-17"
+      "update_marker": "2026-07-18"
     },
     "119:hr:1580": {
       "congress": 119,
@@ -41854,13 +41854,13 @@
     },
     "119:hr:45": {
       "congress": 119,
-      "last_accessed": "2026-06-04T14:58:51.930032+00:00",
+      "last_accessed": "2026-07-18T11:01:25.142335+00:00",
       "number": "45",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_45_FIND_Act",
       "title": "FIND Act",
       "type": "HR",
-      "update_marker": "2026-05-12"
+      "update_marker": "2026-07-18"
     },
     "119:hr:450": {
       "congress": 119,
@@ -47414,13 +47414,13 @@
     },
     "119:hr:50": {
       "congress": 119,
-      "last_accessed": "2026-06-01T16:44:49.810116+00:00",
+      "last_accessed": "2026-07-18T11:01:25.141475+00:00",
       "number": "50",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_50_KAMALA_Act",
       "title": "KAMALA Act",
       "type": "HR",
-      "update_marker": "2026-01-22"
+      "update_marker": "2026-06-11"
     },
     "119:hr:500": {
       "congress": 119,
@@ -67404,13 +67404,13 @@
     },
     "119:hr:68": {
       "congress": 119,
-      "last_accessed": "2026-06-01T16:44:49.808115+00:00",
+      "last_accessed": "2026-07-18T11:01:25.141289+00:00",
       "number": "68",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_68_Housing_Fairness_Act_of_2025",
       "title": "Housing Fairness Act of 2025",
       "type": "HR",
-      "update_marker": "2025-02-11"
+      "update_marker": "2026-07-18"
     },
     "119:hr:680": {
       "congress": 119,
