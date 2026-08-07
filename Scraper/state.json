@@ -1,6 +1,6 @@
 {
   "last_congress": 119,
-  "last_successful_run": "2026-07-18T11:01:25.142420+00:00",
+  "last_successful_run": "2026-08-07T10:50:46.093323+00:00",
   "seen_bills": {
     "119:hconres:1": {
       "congress": 119,
@@ -3534,13 +3534,13 @@
     },
     "119:hr:105": {
       "congress": 119,
-      "last_accessed": "2026-06-01T16:44:49.809367+00:00",
+      "last_accessed": "2026-08-07T10:50:46.092485+00:00",
       "number": "105",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_105_Increasing_Public_Access_to_Recreation_Act",
       "title": "Increasing Public Access to Recreation Act",
       "type": "HR",
-      "update_marker": "2025-02-12"
+      "update_marker": "2026-07-30"
     },
     "119:hr:1050": {
       "congress": 119,
@@ -6644,13 +6644,13 @@
     },
     "119:hr:133": {
       "congress": 119,
-      "last_accessed": "2026-07-18T11:01:25.142167+00:00",
+      "last_accessed": "2026-08-07T10:50:46.092881+00:00",
       "number": "133",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_133_Protecting_American_Energy_Production_Act",
       "title": "Protecting American Energy Production Act",
       "type": "HR",
-      "update_marker": "2026-07-17"
+      "update_marker": "2026-07-23"
     },
     "119:hr:1330": {
       "congress": 119,
@@ -41854,13 +41854,13 @@
     },
     "119:hr:45": {
       "congress": 119,
-      "last_accessed": "2026-07-18T11:01:25.142335+00:00",
+      "last_accessed": "2026-08-07T10:50:46.093179+00:00",
       "number": "45",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_45_FIND_Act",
       "title": "FIND Act",
       "type": "HR",
-      "update_marker": "2026-07-18"
+      "update_marker": "2026-07-22"
     },
     "119:hr:450": {
       "congress": 119,
