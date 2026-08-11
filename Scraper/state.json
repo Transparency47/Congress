@@ -1,6 +1,6 @@
 {
   "last_congress": 119,
-  "last_successful_run": "2026-08-09T10:31:42.869406+00:00",
+  "last_successful_run": "2026-08-11T10:48:53.372874+00:00",
   "seen_bills": {
     "119:hconres:1": {
       "congress": 119,
@@ -7194,13 +7194,13 @@
     },
     "119:hr:138": {
       "congress": 119,
-      "last_accessed": "2026-07-18T11:01:25.141646+00:00",
+      "last_accessed": "2026-08-11T10:48:53.372612+00:00",
       "number": "138",
       "origin_chamber": "House",
       "path": "House/2025/01/HR_138_Lowering_Costs_for_Caregivers_Act_of_2025",
       "title": "Lowering Costs for Caregivers Act of 2025",
       "type": "HR",
-      "update_marker": "2026-07-17"
+      "update_marker": "2026-08-11"
     },
     "119:hr:1380": {
       "congress": 119,
